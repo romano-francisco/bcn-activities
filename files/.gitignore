@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+.venv/
+env/
+
+# Debug output from scrapers
+debug_*.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Data (el JSON se genera localmente, no se versiona el output)
+# Comenta esta línea si quieres versionar los datos también
+data/*.json

@@ -1,0 +1,65 @@
+name: Scraping nightly
+
+on:
+  schedule:
+    # Cada noche a las 3:00 AM (hora Barcelona = UTC+2, así que 01:00 UTC)
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    # Permite lanzarlo manualmente desde GitHub → Actions → "Run workflow"
+    inputs:
+      fast:
+        description: "Modo rápido (sin páginas de detalle)"
+        required: false
+        default: "false"
+        type: boolean
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar scrapers
+        run: |
+          cd scrapers
+          if [ "${{ github.event.inputs.fast }}" = "true" ]; then
+            python run_all.py --no-details --output ../data/bcn_agenda.json
+          else
+            python run_all.py --output ../data/bcn_agenda.json
+          fi
+
+      - name: Mostrar resumen
+        run: |
+          echo "── Eventos generados ──"
+          python3 -c "
+          import json
+          with open('data/bcn_agenda.json') as f:
+              d = json.load(f)
+          print(f\"Total: {d['total']} eventos\")
+          print(f\"Generado: {d['generated_at']}\")
+          from collections import Counter
+          tipos = Counter(e['type'] for e in d['events'])
+          for t, n in tipos.most_common():
+              print(f'  {t}: {n}')
+          "
+
+      - name: Commit y push del JSON actualizado
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/bcn_agenda.json
+          # Solo commit si hay cambios
+          git diff --cached --quiet || git commit -m "chore: scraping automático $(date +'%Y-%m-%d')"
+          git push
