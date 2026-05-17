@@ -33,6 +33,7 @@ jobs:
 
       - name: Ejecutar scrapers
         run: |
+          mkdir -p data
           cd scrapers
           if [ "${{ github.event.inputs.fast }}" = "true" ]; then
             python run_all.py --no-details --output ../data/bcn_agenda.json
