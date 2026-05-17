@@ -801,7 +801,7 @@ let EVENTS = [];
 
 async function loadEvents() {
   try {
-    const r = await fetch('../data/bcn_agenda.json');
+    const r = await fetch('data/bcn_agenda.json');
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     const data = await r.json();
     EVENTS = data.events || [];
