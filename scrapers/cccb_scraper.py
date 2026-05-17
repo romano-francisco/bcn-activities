@@ -33,7 +33,7 @@ HEADERS = {
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "ca-ES,ca;q=0.9,es;q=0.8,en;q=0.7",
-    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Encoding": "gzip, deflate",
     "DNT": "1",
     "Connection": "keep-alive",
     "Upgrade-Insecure-Requests": "1",
@@ -198,21 +198,24 @@ def parse_event_card(card, base_url: str) -> Optional[dict]:
         "scraped_at": datetime.now().isoformat(),
     }
 
-    # ── Títol ──────────────────────────────────────────────────────────────
+    # ── Títol i URL ────────────────────────────────────────────────────────
+    # Estructura actual: <li><a href="..."><p class="agenda-card-title">Títol</p></a></li>
+    link_el = card.select_one("a[href]")
     title_el = (
-        card.select_one("h2.activity-title a") or
-        card.select_one("h3.activity-title a") or
-        card.select_one(".title a") or
-        card.select_one("h2 a") or
-        card.select_one("h3 a") or
-        card.select_one(".card-title a") or
-        card.select_one("a.title")
+        card.select_one("p.agenda-card-title") or
+        card.select_one("h2.activity-title") or
+        card.select_one("h3.activity-title") or
+        card.select_one(".title") or
+        card.select_one("h2") or
+        card.select_one("h3")
     )
     if not title_el:
-        return None  # Card sense títol, skip
+        return None
 
     event["title"] = clean_text(title_el.get_text())
-    event["url"] = base_url + title_el.get("href", "") if title_el.get("href", "").startswith("/") else title_el.get("href", "")
+    if link_el:
+        href = link_el.get("href", "")
+        event["url"] = base_url + href if href.startswith("/") else href
 
     # ── Dates ──────────────────────────────────────────────────────────────
     date_el = (
@@ -250,7 +253,9 @@ def parse_event_card(card, base_url: str) -> Optional[dict]:
         event["time"] = parse_time(time_el.get_text()) or clean_text(time_el.get_text())
 
     # ── Tipus / categoria ──────────────────────────────────────────────────
+    # Estructura actual: <p class="agenda-card-pretitle"><span>Audiovisuals</span> DocsBarcelona</p>
     type_el = (
+        card.select_one("p.agenda-card-pretitle span") or
         card.select_one(".activity-type") or
         card.select_one(".type") or
         card.select_one(".category") or
@@ -307,6 +312,7 @@ def scrape_event_detail(session: requests.Session, event: dict) -> dict:
 
     # Descripció completa
     desc_el = (
+        soup.select_one(".mp-formated-content") or
         soup.select_one(".activity-body") or
         soup.select_one(".activity-description") or
         soup.select_one(".description") or
@@ -315,6 +321,26 @@ def scrape_event_detail(session: requests.Session, event: dict) -> dict:
     )
     if desc_el:
         event["description_full"] = clean_text(desc_el.get_text())
+
+    # Data del detall (estructura actual: <div class="subhero-card-text"><span>7 - 17 de maig 2026</span>)
+    if not event.get("date_start"):
+        date_span = soup.select_one("div.subhero-card-text span")
+        if date_span:
+            raw = clean_text(date_span.get_text())
+            event["date_raw"] = raw
+            # Format "7 - 17 de maig 2026" → agafem la data d'inici
+            parts = re.split(r"\s*[-–]\s*", raw)
+            if len(parts) >= 2:
+                # "17 de maig 2026" és la data final; construïm la inicial afegint el mes/any
+                end_str = parts[-1].strip()
+                month_year = re.search(r"(?:de\s+)?(\w+)(?:\s+de\s+|\s+)(\d{4})", end_str, re.IGNORECASE)
+                if month_year:
+                    start_day = re.search(r"^\d+", parts[0].strip())
+                    if start_day:
+                        event["date_start"] = parse_date_ca(f"{start_day.group()} de {month_year.group(1)} {month_year.group(2)}")
+                event["date_end"] = parse_date_ca(end_str)
+            else:
+                event["date_start"] = parse_date_ca(raw)
 
     # JSON-LD (molt útil si el CCCB el genera)
     for script in soup.find_all("script", type="application/ld+json"):
@@ -386,6 +412,7 @@ def scrape_listing_page(session: requests.Session, page: int = 1) -> tuple[list[
     # ── Cercar contenidor principal ─────────────────────────────────────────
     # Selectors probables per al CCCB — ajusta si veus que no funciona
     CARD_SELECTORS = [
+        "li.agenda-card-item",  # selector actual (2025-2026)
         "article.activity-item",
         "article.activity",
         ".activity-card",
@@ -393,7 +420,7 @@ def scrape_listing_page(session: requests.Session, page: int = 1) -> tuple[list[
         "li.activity",
         ".program-item",
         ".event-item",
-        "article",              # fallback genèric
+        "article",
     ]
 
     cards = []
