@@ -156,7 +156,10 @@ def merge_events(sources: list[list[dict]]) -> list[dict]:
                 seen.add(key)
                 all_events.append(event)
 
-    # Ordenar per data, events sense data al final
+    # Filtrar events sense data (articles editorials, guies permanents, etc.)
+    all_events = [e for e in all_events if e.get("date")]
+
+    # Ordenar per data
     def sort_key(e):
         d = e.get("date") or "9999"
         t = e.get("time") or "00:00"
