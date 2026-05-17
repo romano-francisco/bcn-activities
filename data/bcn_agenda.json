@@ -1,0 +1,432 @@
+{
+  "generated_at": "2026-05-17T07:56:40.941358",
+  "sources": [
+    "cccb",
+    "damm",
+    "timeout",
+    "mercadillos"
+  ],
+  "total": 20,
+  "events": [
+    {
+      "title": "Mercat de l'Avinguda Gaudí",
+      "venue": "Avinguda Gaudí",
+      "venue_address": "Avinguda de Gaudí, 08025 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Diumenges",
+      "description": "Mercat de puestos de proximitat, artesania i productes locals al passeig de l'Avinguda Gaudí, entre la Sagrada Família i el recinte modernista.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🌿",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-05-17",
+      "date_end": "2026-05-17",
+      "time": "",
+      "id": 1
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-05-20",
+      "date_end": "2026-05-20",
+      "time": "09:00",
+      "id": 2
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-05-22",
+      "date_end": "2026-05-22",
+      "time": "09:00",
+      "id": 3
+    },
+    {
+      "title": "Mercat de Glòries",
+      "venue": "Mercat de Glòries",
+      "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dissabtes 9h–15h",
+      "description": "Mercat tradicional al carrer a la Plaça de les Glòries. Productes de proximitat, roba vintage, artesania i menjar de mercat.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🛒",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-05-23",
+      "date_end": "2026-05-23",
+      "time": "09:00",
+      "id": 4
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-05-23",
+      "date_end": "2026-05-23",
+      "time": "09:00",
+      "id": 5
+    },
+    {
+      "title": "Mercat de l'Avinguda Gaudí",
+      "venue": "Avinguda Gaudí",
+      "venue_address": "Avinguda de Gaudí, 08025 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Diumenges",
+      "description": "Mercat de puestos de proximitat, artesania i productes locals al passeig de l'Avinguda Gaudí, entre la Sagrada Família i el recinte modernista.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🌿",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-05-24",
+      "date_end": "2026-05-24",
+      "time": "",
+      "id": 6
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-05-27",
+      "date_end": "2026-05-27",
+      "time": "09:00",
+      "id": 7
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-05-29",
+      "date_end": "2026-05-29",
+      "time": "09:00",
+      "id": 8
+    },
+    {
+      "title": "Mercat de Glòries",
+      "venue": "Mercat de Glòries",
+      "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dissabtes 9h–15h",
+      "description": "Mercat tradicional al carrer a la Plaça de les Glòries. Productes de proximitat, roba vintage, artesania i menjar de mercat.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🛒",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-05-30",
+      "date_end": "2026-05-30",
+      "time": "09:00",
+      "id": 9
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-05-30",
+      "date_end": "2026-05-30",
+      "time": "09:00",
+      "id": 10
+    },
+    {
+      "title": "Mercat de l'Avinguda Gaudí",
+      "venue": "Avinguda Gaudí",
+      "venue_address": "Avinguda de Gaudí, 08025 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Diumenges",
+      "description": "Mercat de puestos de proximitat, artesania i productes locals al passeig de l'Avinguda Gaudí, entre la Sagrada Família i el recinte modernista.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🌿",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-05-31",
+      "date_end": "2026-05-31",
+      "time": "",
+      "id": 11
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-06-03",
+      "date_end": "2026-06-03",
+      "time": "09:00",
+      "id": 12
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-06-05",
+      "date_end": "2026-06-05",
+      "time": "09:00",
+      "id": 13
+    },
+    {
+      "title": "Mercat de Glòries",
+      "venue": "Mercat de Glòries",
+      "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dissabtes 9h–15h",
+      "description": "Mercat tradicional al carrer a la Plaça de les Glòries. Productes de proximitat, roba vintage, artesania i menjar de mercat.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🛒",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-06-06",
+      "date_end": "2026-06-06",
+      "time": "09:00",
+      "id": 14
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-06-06",
+      "date_end": "2026-06-06",
+      "time": "09:00",
+      "id": 15
+    },
+    {
+      "title": "Mercat de l'Avinguda Gaudí",
+      "venue": "Avinguda Gaudí",
+      "venue_address": "Avinguda de Gaudí, 08025 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Diumenges",
+      "description": "Mercat de puestos de proximitat, artesania i productes locals al passeig de l'Avinguda Gaudí, entre la Sagrada Família i el recinte modernista.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🌿",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-06-07",
+      "date_end": "2026-06-07",
+      "time": "",
+      "id": 16
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-06-10",
+      "date_end": "2026-06-10",
+      "time": "09:00",
+      "id": 17
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-06-12",
+      "date_end": "2026-06-12",
+      "time": "09:00",
+      "id": 18
+    },
+    {
+      "title": "Mercat de Glòries",
+      "venue": "Mercat de Glòries",
+      "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dissabtes 9h–15h",
+      "description": "Mercat tradicional al carrer a la Plaça de les Glòries. Productes de proximitat, roba vintage, artesania i menjar de mercat.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🛒",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-06-13",
+      "date_end": "2026-06-13",
+      "time": "09:00",
+      "id": 19
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-06-13",
+      "date_end": "2026-06-13",
+      "time": "09:00",
+      "id": 20
+    }
+  ]
+}
