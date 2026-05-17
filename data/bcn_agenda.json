@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-05-17T07:56:40.941358",
+  "generated_at": "2026-05-17T08:11:17.871283",
   "sources": [
     "cccb",
     "damm",
     "timeout",
     "mercadillos"
   ],
-  "total": 20,
+  "total": 83,
   "events": [
+    {
+      "id": 1,
+      "date": "2026-05-07",
+      "time": "",
+      "title": "DocsBarcelona 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "7 - 17 de maig 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/docsbarcelona-2026",
+      "image": "https://www.cccb.org/documents/4284035/6555893/DocsBarcelona+2026.png/b2207abb-582b-db52-94ef-f3536d7f47f0?version=1.0&t=1776332099995",
+      "source": "CCCB"
+    },
+    {
+      "id": 2,
+      "date": "2026-05-09",
+      "time": "18:30",
+      "title": "El món dels 'Sonets a Orfeu' de Rilke",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "9 d’abril - 28 de maig 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/el-mon-dels-sonets-a-orfeu-de-rilke",
+      "image": "https://www.cccb.org/documents/4284035/6366026/Rilke+IHB-CCCB.jpg/bae1a83c-81cf-f7f7-b35d-af05074dd674?version=1.0&t=1773316187977",
+      "source": "CCCB"
+    },
     {
       "title": "Mercat de l'Avinguda Gaudí",
       "venue": "Avinguda Gaudí",
@@ -27,7 +65,64 @@
       "date": "2026-05-17",
       "date_end": "2026-05-17",
       "time": "",
-      "id": 1
+      "id": 3
+    },
+    {
+      "id": 4,
+      "date": "2026-05-17",
+      "time": "11:00",
+      "title": "El paradís perdut de Mercè Rodoreda",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "17 de maig 2026 Accessible",
+      "url": "https://www.cccb.org/ca/w/activitats/el-paradis-perdut-de-merce-rodoreda",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Itinerari+-+Maria+Nunes+-+2.jpg/3b774683-b658-f949-73d7-3a52f4cb375d?version=1.0&t=1774278829014",
+      "source": "CCCB"
+    },
+    {
+      "id": 5,
+      "date": "2026-05-18",
+      "time": "10:00",
+      "title": "Dia Internacional dels Museus 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "18 de maig 2026 Escena",
+      "url": "https://www.cccb.org/ca/w/activitats/dia-internacional-dels-museus",
+      "image": "https://www.cccb.org/documents/4284035/6365989/dia_internacional_museus_2026.jpg/ea4bb836-fe53-3af9-6fe4-da00d6579659?version=1.0&t=1777282634178",
+      "source": "CCCB"
+    },
+    {
+      "id": 6,
+      "date": "2026-05-18",
+      "time": "19:00",
+      "title": "Devoro flors d’una a una",
+      "venue": "CCCB",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "18 de maig 2026 Escena",
+      "url": "https://www.cccb.org/ca/w/activitats/devoro-flors-duna-a-una",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Devoro_flors_d_una_a_una_1920x1080.jpg/d8bed4d7-533b-6c1e-701b-470de6ba8220?version=1.2&t=1777451690125",
+      "source": "CCCB"
     },
     {
       "title": "Mercat dels Encants",
@@ -48,7 +143,85 @@
       "date": "2026-05-20",
       "date_end": "2026-05-20",
       "time": "09:00",
-      "id": 2
+      "id": 7
+    },
+    {
+      "id": 8,
+      "date": "2026-05-20",
+      "time": "19:00",
+      "title": "Inauguració d’«El culte a la bellesa»",
+      "venue": "CCCB",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "20 de maig 2026 Escena",
+      "url": "https://www.cccb.org/ca/w/activitats/inauguracio-del-culte-a-la-bellesa",
+      "image": "https://www.cccb.org/documents/4284035/5331807/cultebellesa_inauguracio.jpg/3f50087f-db6a-4d1a-efe6-49c34b1cd85f?version=1.0&t=1777889281295",
+      "source": "CCCB"
+    },
+    {
+      "id": 9,
+      "date": "2026-05-21",
+      "time": "",
+      "title": "El periodisme després de Gaza",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "21 de maig 2026 Educació",
+      "url": "https://www.cccb.org/ca/w/activitats/el-periodisme-despres-de-gaza",
+      "image": "https://www.cccb.org/documents/4284035/4646826/barghouti_ACTIVITAT_WEB.jpg/a3c1377c-9908-f888-ded8-e713b3f91903?version=1.0&t=1773316196461",
+      "source": "CCCB"
+    },
+    {
+      "id": 10,
+      "date": "2026-05-22",
+      "time": "",
+      "title": "Colm Tóibín, lector de Rodoreda",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "22 de maig 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/colm-toibin-lector-de-rodoreda",
+      "image": "https://www.cccb.org/documents/4284035/4646826/Activitat_1_imatge_Web_1000x560_-_1_Imatge_7_.jpg/6568dbeb-d3e1-a8c4-ca9b-116369ebe2eb?version=1.0&t=1773316196348",
+      "source": "CCCB"
+    },
+    {
+      "id": 11,
+      "date": "2026-05-22",
+      "date_end": "",
+      "time": "",
+      "title": "Bingo Musical",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Get your shoulder pads and hairspray ready, because on May 22nd, Time Out Market Barcelona is turning into a time machine to travel back to the most iconic decade of all: the '80s.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/nightlife/bingo-musical",
+      "image": "https://media.timeout.com/images/106305959/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat dels Encants",
@@ -69,7 +242,7 @@
       "date": "2026-05-22",
       "date_end": "2026-05-22",
       "time": "09:00",
-      "id": 3
+      "id": 12
     },
     {
       "title": "Mercat de Glòries",
@@ -90,7 +263,7 @@
       "date": "2026-05-23",
       "date_end": "2026-05-23",
       "time": "09:00",
-      "id": 4
+      "id": 13
     },
     {
       "title": "Mercat dels Encants",
@@ -111,7 +284,26 @@
       "date": "2026-05-23",
       "date_end": "2026-05-23",
       "time": "09:00",
-      "id": 5
+      "id": 14
+    },
+    {
+      "id": 15,
+      "date": "2026-05-23",
+      "time": "18:00",
+      "title": "Poetry Slam Barcelona",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "23 de maig 2026 Escena",
+      "url": "https://www.cccb.org/ca/w/activitats/poetry-slam-barcelona-2026-maig",
+      "image": "https://www.cccb.org/documents/4284035/4646826/activitat-psbsetembre_abril_-lilored927-cccb-2020.jpg/14453c3a-235e-0fb2-a53c-5e8df6a07349?version=1.0&t=1773316196288",
+      "source": "CCCB"
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -132,7 +324,47 @@
       "date": "2026-05-24",
       "date_end": "2026-05-24",
       "time": "",
-      "id": 6
+      "id": 16
+    },
+    {
+      "id": 17,
+      "date": "2026-05-26",
+      "time": "18:30",
+      "title": "Richard Ford",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "26 de maig 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/richard-ford-influencies-extraliteraries",
+      "image": "https://www.cccb.org/documents/4284035/6523845/richard-ford-2026.jpg/f4544c1a-fa22-a46d-ade0-6cd50e6f1841?version=1.0&t=1773662069056",
+      "source": "CCCB"
+    },
+    {
+      "id": 18,
+      "date": "2026-05-27",
+      "date_end": "",
+      "time": "",
+      "title": "Midnight Runners",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Midnight invites you all to unleash the animal within. Warm it up during the evening by running across the city at a good pace under the stars, and then let your inner werewolf out with a post-run DJ session at Time Out Market. When? May 13 and 27, from 7:40 PM to 10:30 PM.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/midnight-runners",
+      "image": "https://media.timeout.com/images/106395996/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat dels Encants",
@@ -153,7 +385,121 @@
       "date": "2026-05-27",
       "date_end": "2026-05-27",
       "time": "09:00",
-      "id": 7
+      "id": 19
+    },
+    {
+      "id": 20,
+      "date": "2026-05-27",
+      "time": "11:00",
+      "title": "Informar sobre Palestina",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "27 de maig 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/informar-sobre-palestina",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Informar+sobre+Palestina_trobada6_Albert+Uriach_2025.jpg/4a122d30-1ffc-1c32-8a59-780511f63450?version=1.0&t=1778143280225",
+      "source": "CCCB"
+    },
+    {
+      "id": 21,
+      "date": "2026-05-27",
+      "time": "18:30",
+      "title": "Natalia Castro Picón i Eudald Espluga",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "27 Maig 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/natalia-castro-picon-eudald-espluga",
+      "image": "https://www.cccb.org/documents/4284035/6523853/Natalia-Castro-Pic%C3%B3n-Eudald-Espluga.jpg/f428af30-d335-a6a2-bdb0-648a8136bcb4?version=1.0&t=1773316187964",
+      "source": "CCCB"
+    },
+    {
+      "id": 22,
+      "date": "2026-05-28",
+      "time": "",
+      "title": "La casa dels teus somnis",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "28 de febrer - 31 de maig 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/la-casa-dels-teus-somnis",
+      "image": "https://www.cccb.org/documents/4284035/4646826/Banner_1000x560_CasaSom_399_26.jpg/bef60d7f-8c8d-053e-911f-844d68c9eabb?version=1.0&t=1773316196450",
+      "source": "CCCB"
+    },
+    {
+      "id": 23,
+      "date": "2026-05-28",
+      "time": "17:00",
+      "title": "Visita guiada al Museu d'història de la immigració a Catalunya",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "28 de maig 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-guiada-al-museu-dhistoria-de-la-immigracio-a-catalunya-masia-de-can-serra",
+      "image": "https://www.cccb.org/documents/4284035/4287122/Museu+d%27historia+de+la+immigraci%C3%B3+de+Catalunya.jpg/569d0398-cb31-2740-9d14-46a93e3015a3?version=1.1&t=1776957472511",
+      "source": "CCCB"
+    },
+    {
+      "id": 24,
+      "date": "2026-05-28",
+      "time": "19:00",
+      "title": "Cançoner. Notes, diaris i esbossos",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "28 de maig 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/canconer-notes-diaris-y-esbossos",
+      "image": "https://www.cccb.org/documents/4284035/6631445/Minilla_cafe_can%C3%A7oner.png/4e580273-921d-626b-b7b7-56073b663273?version=1.0&t=1776939627966",
+      "source": "CCCB"
+    },
+    {
+      "id": 25,
+      "date": "2026-05-29",
+      "time": "",
+      "title": "Món Llibre 2026",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "29 - 31 de maig 2026 Família",
+      "url": "https://www.cccb.org/ca/w/activitats/mon-llibre",
+      "image": "https://www.cccb.org/documents/4284035/6540101/MonLLibre_BannerLanding_1920x1080_Grafica.jpg/de8f44bf-28ad-d0b6-0441-06a0b407e013?version=1.0&t=1777019993428",
+      "source": "CCCB"
     },
     {
       "title": "Mercat dels Encants",
@@ -174,7 +520,49 @@
       "date": "2026-05-29",
       "date_end": "2026-05-29",
       "time": "09:00",
-      "id": 8
+      "id": 26
+    },
+    {
+      "id": 27,
+      "date": "2026-05-30",
+      "date_end": "",
+      "time": "",
+      "title": "El Tardet",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "This May, we have two editions of El Tardet x Time Out Market –an evening \"tardeo\" with DJs, humor, and plenty of surprises! This party offers the perfect atmosphere to meet new people or have a blast with your crew, surrounded by drinks and music, all without having to sacrifice a whole night’s sleep!",
+      "url": "https://www.timeout.com/time-out-market-barcelona/music/el-tardet-aperol-la-festa-de-tarda-mes-petarda-arriba-al-time-out-market",
+      "image": "https://media.timeout.com/images/106389567/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
+    },
+    {
+      "id": 28,
+      "date": "2026-05-30",
+      "date_end": "",
+      "time": "",
+      "title": "Views and Show by Aperol Spritz",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Spring is in full bloom, and we all want to dive into it headfirst. Come and do just that at the best time of day at Time Out Market, with a perfectly crafted Aperol Spritz or Crodino and background music to make the experience truly sublime.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/dj-golden-hour-aperol-spritz",
+      "image": "https://media.timeout.com/images/106386759/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat de Glòries",
@@ -195,7 +583,7 @@
       "date": "2026-05-30",
       "date_end": "2026-05-30",
       "time": "09:00",
-      "id": 9
+      "id": 29
     },
     {
       "title": "Mercat dels Encants",
@@ -216,7 +604,28 @@
       "date": "2026-05-30",
       "date_end": "2026-05-30",
       "time": "09:00",
-      "id": 10
+      "id": 30
+    },
+    {
+      "id": 31,
+      "date": "2026-05-31",
+      "date_end": "",
+      "time": "",
+      "title": "Salsa Time",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Do you love dancing salsa? Come to Time Out Market! Every Saturday, from 7 PM to 10 PM, we host a massive dance floor for you to move with other Latin music fans. And take note: as a new spring special, we’re taking advantage of the good weather to hold the party on one of the coolest terraces in the Market (and in Barcelona): the Mestral.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/salsa-time-at-time-out-market",
+      "image": "https://media.timeout.com/images/106401133/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -237,7 +646,7 @@
       "date": "2026-05-31",
       "date_end": "2026-05-31",
       "time": "",
-      "id": 11
+      "id": 32
     },
     {
       "title": "Mercat dels Encants",
@@ -258,7 +667,7 @@
       "date": "2026-06-03",
       "date_end": "2026-06-03",
       "time": "09:00",
-      "id": 12
+      "id": 33
     },
     {
       "title": "Mercat dels Encants",
@@ -279,7 +688,7 @@
       "date": "2026-06-05",
       "date_end": "2026-06-05",
       "time": "09:00",
-      "id": 13
+      "id": 34
     },
     {
       "title": "Mercat de Glòries",
@@ -300,7 +709,7 @@
       "date": "2026-06-06",
       "date_end": "2026-06-06",
       "time": "09:00",
-      "id": 14
+      "id": 35
     },
     {
       "title": "Mercat dels Encants",
@@ -321,7 +730,7 @@
       "date": "2026-06-06",
       "date_end": "2026-06-06",
       "time": "09:00",
-      "id": 15
+      "id": 36
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -342,7 +751,45 @@
       "date": "2026-06-07",
       "date_end": "2026-06-07",
       "time": "",
-      "id": 16
+      "id": 37
+    },
+    {
+      "id": 38,
+      "date": "2026-06-08",
+      "time": "18:30",
+      "title": "Respiració",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "8 - 29 de juny 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/respiracio",
+      "image": "https://www.cccb.org/documents/4284035/6366026/Respiraci%C3%B3+IHB-CCCB.jpg/b988e20e-3171-ead4-74cf-4fa8213fe5d2?version=1.0&t=1773316187977",
+      "source": "CCCB"
+    },
+    {
+      "id": 39,
+      "date": "2026-06-10",
+      "time": "",
+      "title": "La novel·la autobiogràfica",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "10 de març - 9 de juny 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/la-novella-autobiografica",
+      "image": "https://www.cccb.org/documents/4284035/4646826/Novel_la_1.jpg/bb8cada9-5a4d-864f-5cbe-f46f97753e48?version=1.0&t=1773316196462",
+      "source": "CCCB"
     },
     {
       "title": "Mercat dels Encants",
@@ -363,7 +810,45 @@
       "date": "2026-06-10",
       "date_end": "2026-06-10",
       "time": "09:00",
-      "id": 17
+      "id": 40
+    },
+    {
+      "id": 41,
+      "date": "2026-06-10",
+      "time": "18:30",
+      "title": "Quan la guerra és una nota a peu de pàgina",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "10 de juny 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/quan-la-guerra-es-una-nota-a-peu-de-pagina",
+      "image": "https://www.cccb.org/documents/4284035/6523845/Dia+Orwell+2026_Cicle+Mariam+Barghouti+_Zeinab+Salih_2+%281%29.jpg/f28ce3fe-799d-e901-99c3-8c7ac1b175f1?version=1.0&t=1776721050148",
+      "source": "CCCB"
+    },
+    {
+      "id": 42,
+      "date": "2026-06-11",
+      "time": "19:00",
+      "title": "Anatxu Zabalbaescoa i Elías León Siminiani",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "11 de juny 2026",
+      "url": "https://www.cccb.org/ca/w/activitats/anatxu-zabalbaescoa-i-elias-leon-siminiani",
+      "image": "https://www.cccb.org/documents/4284035/6365989/Anatxu+i+Elias.png/b1409f18-54b6-5268-4827-7b06cd109bad?version=1.0&t=1778835056093",
+      "source": "CCCB"
     },
     {
       "title": "Mercat dels Encants",
@@ -384,7 +869,7 @@
       "date": "2026-06-12",
       "date_end": "2026-06-12",
       "time": "09:00",
-      "id": 18
+      "id": 43
     },
     {
       "title": "Mercat de Glòries",
@@ -405,7 +890,7 @@
       "date": "2026-06-13",
       "date_end": "2026-06-13",
       "time": "09:00",
-      "id": 19
+      "id": 44
     },
     {
       "title": "Mercat dels Encants",
@@ -426,7 +911,771 @@
       "date": "2026-06-13",
       "date_end": "2026-06-13",
       "time": "09:00",
-      "id": 20
+      "id": 45
+    },
+    {
+      "id": 46,
+      "date": "2026-06-13",
+      "time": "18:30",
+      "title": "Sobre la imaginació apocalíptica",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "13 de maig - 17 de juny 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/sobre-la-imaginacio-apocaliptica",
+      "image": "https://www.cccb.org/documents/4284035/6366026/Imaginaci%C3%B3+Apocal%C3%ADptica+IHB-CCCB.jpg/513b29cf-2cec-7579-091d-d9b16c409e0b?version=1.0&t=1773316187977",
+      "source": "CCCB"
+    },
+    {
+      "id": 47,
+      "date": "2026-06-15",
+      "time": "11:00",
+      "title": "Testimoni, periodisme i drets humans",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "15 de juny 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/testimoni-periodisme-i-drets-humans",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Testimoni%2C+periodisme+i+drets+humans.jpg/65594050-f2cf-1159-4613-13a5a2c6b2d0?version=1.0&t=1778143795111",
+      "source": "CCCB"
+    },
+    {
+      "id": 48,
+      "date": "2026-06-17",
+      "time": "17 de juny 2026",
+      "title": "«Els inicis», de Claire Marin",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "17 de juny 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/els-inicis-de-claire-marin",
+      "image": "https://www.cccb.org/documents/4284035/4287122/Klub_de_lectura_1003x560.jpg/ec0c5b3d-1ef5-db83-3557-88a8c4d08ed6?version=1.0&t=1777997512679",
+      "source": "CCCB"
+    },
+    {
+      "id": 49,
+      "date": "2026-06-17",
+      "time": "18:30",
+      "title": "El preu de continuar dient la veritat",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "17 de juny 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/el-preu-de-continuar-dient-la-veritat",
+      "image": "https://www.cccb.org/documents/4284035/6555884/Dia+Orwell+2026_Cicle+Mariam+Barghouti+_Laila+Al-Arian_2.jpg/61b15eb8-85b3-9831-73fa-c1fe95f13594?version=1.0&t=1776721183452",
+      "source": "CCCB"
+    },
+    {
+      "id": 50,
+      "date": "2026-06-22",
+      "time": "18:30",
+      "title": "Homenatge a Catalunya",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "22 de juny 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/homenatge-a-catalunya",
+      "image": "https://www.cccb.org/documents/4284035/6523845/hommage-a-la-catalogne.jpg/a1ff843b-c58f-d062-9498-f4b08b893f1c?version=1.0&t=1774538576800",
+      "source": "CCCB"
+    },
+    {
+      "id": 51,
+      "date": "2026-06-24",
+      "time": "",
+      "title": "Rutes i activitats a la Barcelona de George Orwell",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "24 de maig - 18 de juny 2026 Itineraris",
+      "url": "https://www.cccb.org/ca/w/activitats/rutes-i-activitats-a-la-barcelona-de-george-orwell",
+      "image": "https://www.cccb.org/documents/4284035/6523845/Ruta_Orwell_1001px560px.jpg/ca613a88-74b3-e736-5056-d343f2edcd66?version=1.0&t=1774615400476",
+      "source": "CCCB"
+    },
+    {
+      "id": 52,
+      "date": "2026-06-28",
+      "time": "18:30",
+      "title": "Visites comentades a l’Arxiu Xcèntric 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "28 d’abril - 9 de juny 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/visites-comentades-a-larxiu-xcentric-2026",
+      "image": "https://www.cccb.org/documents/4284035/6631445/visites+comentaedes+Jan+Baeta+1920x1080.jpg/3cb64b55-a3a3-55e5-713d-49e65acbe24a?version=1.0&t=1777886949290",
+      "source": "CCCB"
+    },
+    {
+      "id": 53,
+      "date": "2026-07-04",
+      "time": "",
+      "title": "Creure en les màscares",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "4 - 5 de juliol 2026 Escena",
+      "url": "https://www.cccb.org/ca/w/activitats/creure-en-les-mascares",
+      "image": "https://www.cccb.org/documents/4284035/6540101/castellucci_credere+maschere_lorenza+daverio_web.jpg/db21abff-6223-3efe-f95f-ce337349ca62?version=1.0&t=1776770773702",
+      "source": "CCCB"
+    },
+    {
+      "id": 54,
+      "date": "2026-07-06",
+      "time": "",
+      "title": "La mateixa diferència",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "6 - 7 de juliol 2026 Escena",
+      "url": "https://www.cccb.org/ca/w/activitats/la-mateixa-diferencia",
+      "image": "https://www.cccb.org/documents/4284035/6540101/la+mateixa+diferenca_Pau+Aran_pablo+lorente_1920x1080.jpg/1fad6fd7-462e-4c38-c8e2-34e057a34a1a?version=1.0&t=1776251842297",
+      "source": "CCCB"
+    },
+    {
+      "id": 55,
+      "date": "2026-07-09",
+      "time": "19:30",
+      "title": "No miris",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "9 - 10 de juliol 2026 Escena",
+      "url": "https://www.cccb.org/ca/w/activitats/no-miris",
+      "image": "https://www.cccb.org/documents/4284035/6540101/NO+MIRIS+WEB+_BO_Erol+Ileri.jpg/2b074850-186b-59a4-1f55-cdd9198e0352?version=1.0&t=1777477818572",
+      "source": "CCCB"
+    },
+    {
+      "id": 56,
+      "date": "2026-07-10",
+      "time": "29 de juny - 10 de juliol 2026",
+      "title": "Eh! Tallers d’estiu per a ments creatives",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "29 de juny - 10 de juliol 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/eh-tallers-destiu-per-a-ments-creatives",
+      "image": "https://www.cccb.org/documents/4284035/6540101/eh+2026_1920x1080.jpg/c73dd483-d772-1e61-006c-a42c64381494?version=1.0&t=1774343975649",
+      "source": "CCCB"
+    },
+    {
+      "id": 57,
+      "date": "2026-07-14",
+      "time": "18:30",
+      "title": "La condició humana, d’Hannah Arendt",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "14 de maig - 16 de juliol 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/la-condicio-humana-d-hannah-arendt",
+      "image": "https://www.cccb.org/documents/4284035/6366026/llegir+filosofia+IHB-CCCB.jpg/2f0ed1ba-f884-ceef-21a0-8421cf6ce38a?version=1.0&t=1773316187977",
+      "source": "CCCB"
+    },
+    {
+      "id": 58,
+      "date": "2026-07-18",
+      "time": "18:30",
+      "title": "Intel·ligències no humanes: una ecologia cognitiva planetària",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "18 de juny - 2 de juliol 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/intelligencies-no-humanes-una-ecologia-cognitiva-planetaria",
+      "image": "https://www.cccb.org/documents/4284035/6366026/Intel%C2%B7lig%C3%A8ncies+no+humanes+IHB-CCCB.jpg/351e39b4-7cca-77de-c7c4-b3576b93d072?version=1.0&t=1773316187977",
+      "source": "CCCB"
+    },
+    {
+      "id": 59,
+      "date": "2026-07-20",
+      "time": "18:30",
+      "title": "CinemaTeatre",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "12 i 20 de juliol 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/cinemateatre",
+      "image": "https://www.cccb.org/documents/4284035/6540101/grec+2026_cinemateatre_mammon_1920x1080.jpg/375807ba-6127-0c6f-be4e-4ce24b9f3f45?version=1.0&t=1776770344512",
+      "source": "CCCB"
+    },
+    {
+      "id": 60,
+      "date": "2026-07-24",
+      "time": "29 de juny - 24 de juliol 2026",
+      "title": "Culturnautes 2026",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "29 de juny - 24 de juliol 2026 Família",
+      "url": "https://www.cccb.org/ca/w/activitats/culturnautes-2026",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Culturnautes_2026.jpg/703cf351-3061-058b-82e3-1dd5905c5d56?version=1.0&t=1774260954773",
+      "source": "CCCB"
+    },
+    {
+      "id": 61,
+      "date": "2026-11-08",
+      "time": "21 de maig - 8 de novembre 2026",
+      "title": "El culte a la bellesa",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "21 de maig - 8 de novembre 2026 Exposició",
+      "url": "https://www.cccb.org/ca/w/exposicions/el-culte-a-la-bellesa",
+      "image": "https://www.cccb.org/documents/4284035/5331807/JJ00009-26-TOTS-BANNER-1920x1080-javier-jaen.jpg/51226b27-dbcd-7ac5-e2d5-f09fb62c078a?version=1.0&t=1777889323666",
+      "source": "CCCB"
+    },
+    {
+      "id": 62,
+      "date": "2026-11-26",
+      "time": "26 de novembre 2026 - 17 de maig 2027",
+      "title": "L’era atòmica",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "26 de novembre 2026 - 17 de maig 2027 Exposició",
+      "url": "https://www.cccb.org/ca/w/exposicions/lera-atomica",
+      "image": "https://www.cccb.org/documents/4284035/4604172/Jurgen_Nefzger_1000_x_560_web.jpg/b06725d7-00d8-e3a7-50d0-4fadd14799b8?version=1.0&t=1768892902591",
+      "source": "CCCB"
+    },
+    {
+      "id": 63,
+      "date": "2026-12-13",
+      "time": "18:30",
+      "title": "La Divina comèdia, III: 'Paradís'",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "13 d’abril - 14 de desembre 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/la-divina-comedia-iii-paradis",
+      "image": "https://www.cccb.org/documents/4284035/6366026/Divina+Com%C3%A8dia+IHB-CCCB.jpg/3bc23533-fb55-ed44-3430-272f3952c98f?version=1.0&t=1773316187977",
+      "source": "CCCB"
+    },
+    {
+      "id": 64,
+      "date": "2026-12-13",
+      "time": "6 de novembre - 13 de desembre 2026",
+      "title": "World Press Photo 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "6 de novembre - 13 de desembre 2026 Exposició",
+      "url": "https://www.cccb.org/ca/w/exposicions/world-press-photo-2026",
+      "image": "https://www.cccb.org/documents/4284035/5331807/wpp+of+the+year_carol+guzy_zuma+press_iwitness-for+miami+herald_1920x1080.jpg/3f609cba-9328-befd-77c9-415273751a1c?version=1.0&t=1777553925933",
+      "source": "CCCB"
+    },
+    {
+      "id": 65,
+      "date": "2026-12-25",
+      "time": "",
+      "title": "Visita el Mirador del CCCB 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "25 de gener - 27 de desembre 2026",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-el-mirador-del-cccb-2026",
+      "image": "https://www.cccb.org/documents/4284035/4646826/Visita_mirador_1001x560.jpg/b081e1f9-f6cb-00d2-f9d6-a73cc692861f?version=1.0&t=1773316196378",
+      "source": "CCCB"
+    },
+    {
+      "id": 66,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "Don't miss out the immersive experience of the Paradox Museum",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "art",
+      "free": false,
+      "price": "",
+      "emoji": "🎨",
+      "bg": "#EBF0FF",
+      "tags": [
+        "art"
+      ],
+      "desc": "",
+      "url": "https://www.timeout.com/barcelona/things-to-do/dont-miss-out-the-immersive-experience-of-the-paradox-museum",
+      "image": "https://media.timeout.com/images/106379952/750/422/image.jpg",
+      "source": "Time Out Barcelona"
+    },
+    {
+      "id": 67,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "The best things to do in Barcelona in 2026",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "",
+      "url": "https://www.timeout.com/barcelona/things-to-do/best-things-to-do-in-barcelona",
+      "image": "https://media.timeout.com/images/106377954/750/422/image.jpg",
+      "source": "Time Out Barcelona"
+    },
+    {
+      "id": 68,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "The best flea markets in Barcelona",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "food",
+      "free": false,
+      "price": "",
+      "emoji": "🍜",
+      "bg": "#EBF5E8",
+      "tags": [
+        "food"
+      ],
+      "desc": "",
+      "url": "https://www.timeout.com/barcelona/things-to-do/best-weekend-markets-in-barcelona",
+      "image": "https://media.timeout.com/images/106377983/750/422/image.jpg",
+      "source": "Time Out Barcelona"
+    },
+    {
+      "id": 69,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "The best things to do with kids in Barcelona",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "",
+      "url": "https://www.timeout.com/barcelona/things-to-do/activities/barcelona-for-kids",
+      "image": "https://media.timeout.com/images/106263486/750/422/image.jpg",
+      "source": "Time Out Barcelona"
+    },
+    {
+      "id": 70,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "The best free things to do in Barcelona",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "culture",
+      "free": true,
+      "price": "Free",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture",
+        "free"
+      ],
+      "desc": "",
+      "url": "https://www.timeout.com/barcelona/things-to-do/free-things-to-do-in-barcelona",
+      "image": "https://media.timeout.com/images/106316714/750/422/image.jpg",
+      "source": "Time Out Barcelona"
+    },
+    {
+      "id": 71,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "The best beaches in Barcelona",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "",
+      "url": "https://www.timeout.com/barcelona/things-to-do/best-barcelona-beaches",
+      "image": "https://media.timeout.com/images/105453581/750/422/image.jpg",
+      "source": "Time Out Barcelona"
+    },
+    {
+      "id": 72,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "Barcelona’s best attractions: an ultimate guide to its must-see sights",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "",
+      "url": "https://www.timeout.com/barcelona/things-to-do/50-best-sights-and-attractions-in-barcelona",
+      "image": "https://media.timeout.com/images/106264722/750/422/image.jpg",
+      "source": "Time Out Barcelona"
+    },
+    {
+      "id": 73,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "20 must-see places in Catalonia for 2025",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "",
+      "url": "https://www.timeout.com/barcelona/things-to-do/50-must-see-places-in-catalonia",
+      "image": "https://media.timeout.com/images/106239631/750/422/image.jpg",
+      "source": "Time Out Barcelona"
+    },
+    {
+      "id": 74,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "The 10 best outdoor swimming pools in Barcelona",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "",
+      "url": "https://www.timeout.com/barcelona/things-to-do/swimming-pools-in-barcelona",
+      "image": "https://media.timeout.com/images/105911011/750/422/image.jpg",
+      "source": "Time Out Barcelona"
+    },
+    {
+      "id": 75,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "The 5 best bus tours in Barcelona",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "",
+      "url": "https://www.timeout.com/barcelona/things-to-do/the-best-barcelona-bus-tours",
+      "image": "https://media.timeout.com/images/106112129/750/422/image.jpg",
+      "source": "Time Out Barcelona"
+    },
+    {
+      "id": 76,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "Barça Matches",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": true,
+      "price": "Free",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music",
+        "free"
+      ],
+      "desc": "Attention, Culés! If you’re looking for the ultimate spot to cheer on Barça, you’ve come to the right place. We screen each and every club match live and for free on our giant screen!",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/partits-del-barca-al-maig-al-time-out-market",
+      "image": "https://media.timeout.com/images/106305956/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
+    },
+    {
+      "id": 77,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "Time Out Market Barcelona",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "food",
+      "free": false,
+      "price": "",
+      "emoji": "🍜",
+      "bg": "#EBF5E8",
+      "tags": [
+        "food"
+      ],
+      "desc": "Time Out Market Barcelona is our restaurant list come to life. Everything you’ll eat (and drink) here is curated by our local editors, who’ve scoured the city for the very best chefs, bars, dishes and more to bring you a true taste of Catalan food, from Darvaza’s flame-grilled steak to Xuba’s five-star tacos.",
+      "url": "https://www.timeout.com/time-out-market-barcelona",
+      "image": "https://media.timeout.com/images/106154408/750/562/image.jpg",
+      "source": "Time Out Barcelona — Gratuïts"
+    },
+    {
+      "id": 78,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "1. Gaze in awe at the Magic Fountain",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Montjuïc’s Magic Fountain is both a beauty spot and a party venue, closely tied to some of the city’s biggest celebrations. For that reason alone, catching one of its water, light and music shows is pretty much essential if you’re in town – especially if you time it with the pyromusical that closes Barcelona’s main festival, La Mercè, or the New Year’s Eve celebrations. It runs Thursday-Saturday nights in winter, and Wednesday- Sunday nights in summer, typically around 8pm with another show around 9pm.",
+      "url": "https://www.timeout.com/barcelona/attractions/font-magica-de-montjuic-montjuic-magic-fountain",
+      "image": "https://media.timeout.com/images/106374492/750/422/image.jpg",
+      "source": "Time Out Barcelona — Gratuïts"
+    },
+    {
+      "id": 79,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "2. Visit one of Barcelona’s top museums for free on Sundays",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "art",
+      "free": true,
+      "price": "Free",
+      "emoji": "🎨",
+      "bg": "#EBF0FF",
+      "tags": [
+        "art",
+        "free"
+      ],
+      "desc": "In our opinion, Sundays are the best day to experience Barcelona’s fantastic museums. After all, a number of museums offer completely free entry on the first Sunday of every month – and a whole host more are free to visit every single Sunday afternoon. Click ‘read more’ for our full list, including the Catalan National Museum of Art (MNAC), the Picasso Museum and more.",
+      "url": "https://www.timeout.com/barcelona/museums/barcelona-museums-free-sundays",
+      "image": "https://media.timeout.com/images/106188672/750/422/image.jpg",
+      "source": "Time Out Barcelona — Gratuïts"
+    },
+    {
+      "id": 80,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "3. Have a beach day on Sant Sebastià",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "This is one of the oldest and most traditional beaches in Spain, and one of the largest near Barcelona. The best bit? It’s incredibly easy to reach from the city centre – just take the D20, 47, 59, V15, or V19 bus or metro L4 (Barceloneta) and L3 (La Rambla - Drassanes) from central Barcelona. The southwestern end, at the foot of the W Hotel, offers a perfect view of the entire Barcelona coastline, and there’s also an unofficial nudist beach and LGBTQ+ area.",
+      "url": "https://www.timeout.com/barcelona/things-to-do/best-barcelona-beaches",
+      "image": "https://media.timeout.com/images/106316714/750/422/image.jpg",
+      "source": "Time Out Barcelona — Gratuïts"
+    },
+    {
+      "id": 81,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "4. Get lost in the maze of Parque del Laberinto de Horta",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "culture",
+      "free": true,
+      "price": "Free",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture",
+        "free"
+      ],
+      "desc": "This is our top park in all of Barcelona, with enough sculptures, fountains, beautiful buildings and flowers to keep you occupied for an entire slow afternoon. It was first opened in 1794 by Joan Antoni Desvalls Marquès de Llupià i d’Alfarràs, and has since been given a romantic garden with flower beds, huge trees and a waterfall. It’s been open to the public since 1971, and is completely free to visit.",
+      "url": "https://www.timeout.com/barcelona/things-to-do/best-parks-in-barcelona",
+      "image": "https://media.timeout.com/images/106096050/750/422/image.jpg",
+      "source": "Time Out Barcelona — Gratuïts"
+    },
+    {
+      "id": 82,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "5. Admire free art at Galeria Senda",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "art",
+      "free": true,
+      "price": "Free",
+      "emoji": "🎨",
+      "bg": "#EBF0FF",
+      "tags": [
+        "art",
+        "free"
+      ],
+      "desc": "Senda opened back in 1991 and moved to its current home on Trafalgar Street in 2015. The space, run by Carlos Duran and Chus Roig, stands out for its eclecticism; they support emerging artists but also established national and international names. They say they steer clear of one-way thinking and instead champion all kinds of artistic languages – 2026 exhibitions include one by German contemporary artist Anselm Reyle.",
+      "url": "https://galeriasenda.com/en/",
+      "image": "https://media.timeout.com/images/103011614/750/422/image.jpg",
+      "source": "Time Out Barcelona — Gratuïts"
+    },
+    {
+      "id": 83,
+      "date": "",
+      "date_end": "",
+      "time": "",
+      "title": "6. See Wet Leg for free at Primavera’s opening night",
+      "venue": "Diversos espais de Barcelona",
+      "venue_address": "Barcelona",
+      "type": "music",
+      "free": true,
+      "price": "Free",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music",
+        "free"
+      ],
+      "desc": "You already know about Primavera Sound, but the festival has now also announced its line up for the big opening day at Parc del Fòrum – which is completely free and open to everyone – on Wednesday, June 3. Wet Leg will be headlining, as well as some Spniah singers and dancers too.",
+      "url": "https://www.timeout.com/news/how-to-get-tickets-to-primavera-sound-2026-and-full-line-up-092525",
+      "image": "https://media.timeout.com/images/106346271/750/422/image.jpg",
+      "source": "Time Out Barcelona — Gratuïts"
     }
   ]
 }
