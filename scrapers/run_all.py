@@ -192,6 +192,12 @@ def run_scraper(module_name: str, fetch_details: bool) -> list[dict]:
         elif module_name == "timeout_scraper":
             raw = mod.scrape_timeout(fetch_details=fetch_details)
             return mod.normalize(raw)
+        elif module_name == "palau_scraper":
+            raw = mod.scrape_palau()
+            return mod.normalize(raw)
+        elif module_name == "grec_scraper":
+            raw = mod.scrape_grec()
+            return mod.normalize(raw)
         else:
             log.warning(f"Scraper '{module_name}' no reconegut")
             return []
@@ -234,7 +240,7 @@ def print_stats(events: list[dict]):
 
 # ─── MAIN ────────────────────────────────────────────────────────────────────
 
-AVAILABLE_SOURCES = ["cccb", "damm", "timeout", "mercadillos"]
+AVAILABLE_SOURCES = ["cccb", "damm", "timeout", "mercadillos", "palau", "grec"]
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="BCN Agenda — Agregador Principal")
@@ -274,6 +280,18 @@ if __name__ == "__main__":
         mercat_events = build_mercadillos_events()
         log.info(f"Mercadillos: {len(mercat_events)} events")
         all_event_lists.append(mercat_events)
+
+    # ── Palau de la Música ───────────────────────────────────────────────
+    if "palau" in args.sources:
+        palau_events = run_scraper("palau_scraper", fetch_details)
+        log.info(f"Palau de la Música: {len(palau_events)} events")
+        all_event_lists.append(palau_events)
+
+    # ── Festival Grec ────────────────────────────────────────────────────
+    if "grec" in args.sources:
+        grec_events = run_scraper("grec_scraper", fetch_details)
+        log.info(f"Festival Grec: {len(grec_events)} events")
+        all_event_lists.append(grec_events)
 
     # ── Merge ────────────────────────────────────────────────────────────
     merged = merge_events(all_event_lists)
