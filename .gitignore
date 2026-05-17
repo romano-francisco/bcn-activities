@@ -19,6 +19,5 @@ Thumbs.db
 .idea/
 *.swp
 
-# Data (el JSON se genera localmente, no se versiona el output)
-# Comenta esta línea si quieres versionar los datos también
-data/*.json
+# Debug output from scrapers (los JSON de data sí se versionan para GitHub Pages)
+debug_*.json
