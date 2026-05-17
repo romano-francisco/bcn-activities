@@ -198,6 +198,9 @@ def run_scraper(module_name: str, fetch_details: bool) -> list[dict]:
         elif module_name == "grec_scraper":
             raw = mod.scrape_grec()
             return mod.normalize(raw)
+        elif module_name == "santpau_scraper":
+            raw = mod.scrape_santpau(fetch_details=fetch_details)
+            return mod.normalize(raw)
         else:
             log.warning(f"Scraper '{module_name}' no reconegut")
             return []
@@ -240,7 +243,7 @@ def print_stats(events: list[dict]):
 
 # ─── MAIN ────────────────────────────────────────────────────────────────────
 
-AVAILABLE_SOURCES = ["cccb", "damm", "timeout", "mercadillos", "palau", "grec"]
+AVAILABLE_SOURCES = ["cccb", "damm", "timeout", "mercadillos", "palau", "grec", "santpau"]
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="BCN Agenda — Agregador Principal")
@@ -292,6 +295,12 @@ if __name__ == "__main__":
         grec_events = run_scraper("grec_scraper", fetch_details)
         log.info(f"Festival Grec: {len(grec_events)} events")
         all_event_lists.append(grec_events)
+
+    # ── Recinte Modernista Sant Pau ──────────────────────────────────────
+    if "santpau" in args.sources:
+        santpau_events = run_scraper("santpau_scraper", fetch_details)
+        log.info(f"Recinte Modernista Sant Pau: {len(santpau_events)} events")
+        all_event_lists.append(santpau_events)
 
     # ── Merge ────────────────────────────────────────────────────────────
     merged = merge_events(all_event_lists)
