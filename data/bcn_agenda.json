@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-05-17T18:33:46.014265",
+  "generated_at": "2026-05-17T20:57:30.913746",
   "sources": [
     "cccb",
     "damm",
     "timeout",
     "mercadillos",
     "palau",
-    "grec"
+    "grec",
+    "santpau"
   ],
-  "total": 135,
+  "total": 134,
   "events": [
     {
       "id": 1,
@@ -90,27 +91,6 @@
     },
     {
       "id": 5,
-      "date": "2026-05-17",
-      "date_end": "",
-      "time": "21:30",
-      "title": "Gran Gala Flamenc",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
-      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 6,
       "date": "2026-05-18",
       "time": "10:00",
       "title": "Dia Internacional dels Museus 2026",
@@ -129,7 +109,7 @@
       "source": "CCCB"
     },
     {
-      "id": 7,
+      "id": 6,
       "date": "2026-05-18",
       "time": "19:00",
       "title": "Devoro flors d’una a una",
@@ -148,7 +128,7 @@
       "source": "CCCB"
     },
     {
-      "id": 8,
+      "id": 7,
       "date": "2026-05-18",
       "date_end": "",
       "time": "19:30",
@@ -169,7 +149,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 9,
+      "id": 8,
       "date": "2026-05-19",
       "date_end": "",
       "time": "20:00",
@@ -208,10 +188,10 @@
       "date": "2026-05-20",
       "date_end": "2026-05-20",
       "time": "09:00",
-      "id": 10
+      "id": 9
     },
     {
-      "id": 11,
+      "id": 10,
       "date": "2026-05-20",
       "time": "19:00",
       "title": "Inauguració d’«El culte a la bellesa»",
@@ -230,7 +210,7 @@
       "source": "CCCB"
     },
     {
-      "id": 12,
+      "id": 11,
       "date": "2026-05-21",
       "time": "",
       "title": "El periodisme després de Gaza",
@@ -249,7 +229,7 @@
       "source": "CCCB"
     },
     {
-      "id": 13,
+      "id": 12,
       "date": "2026-05-22",
       "time": "",
       "title": "Colm Tóibín, lector de Rodoreda",
@@ -268,7 +248,7 @@
       "source": "CCCB"
     },
     {
-      "id": 14,
+      "id": 13,
       "date": "2026-05-22",
       "date_end": "",
       "time": "",
@@ -307,10 +287,10 @@
       "date": "2026-05-22",
       "date_end": "2026-05-22",
       "time": "09:00",
-      "id": 15
+      "id": 14
     },
     {
-      "id": 16,
+      "id": 15,
       "date": "2026-05-22",
       "date_end": "",
       "time": "20:00",
@@ -349,7 +329,7 @@
       "date": "2026-05-23",
       "date_end": "2026-05-23",
       "time": "09:00",
-      "id": 17
+      "id": 16
     },
     {
       "title": "Mercat dels Encants",
@@ -370,10 +350,10 @@
       "date": "2026-05-23",
       "date_end": "2026-05-23",
       "time": "09:00",
-      "id": 18
+      "id": 17
     },
     {
-      "id": 19,
+      "id": 18,
       "date": "2026-05-23",
       "time": "18:00",
       "title": "Poetry Slam Barcelona",
@@ -410,10 +390,10 @@
       "date": "2026-05-24",
       "date_end": "2026-05-24",
       "time": "",
-      "id": 20
+      "id": 19
     },
     {
-      "id": 21,
+      "id": 20,
       "date": "2026-05-25",
       "date_end": "",
       "time": "20:00",
@@ -434,7 +414,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 22,
+      "id": 21,
       "date": "2026-05-26",
       "time": "18:30",
       "title": "Richard Ford",
@@ -453,7 +433,7 @@
       "source": "CCCB"
     },
     {
-      "id": 23,
+      "id": 22,
       "date": "2026-05-27",
       "date_end": "",
       "time": "",
@@ -492,10 +472,10 @@
       "date": "2026-05-27",
       "date_end": "2026-05-27",
       "time": "09:00",
-      "id": 24
+      "id": 23
     },
     {
-      "id": 25,
+      "id": 24,
       "date": "2026-05-27",
       "time": "11:00",
       "title": "Informar sobre Palestina",
@@ -514,7 +494,7 @@
       "source": "CCCB"
     },
     {
-      "id": 26,
+      "id": 25,
       "date": "2026-05-27",
       "time": "18:30",
       "title": "Natalia Castro Picón i Eudald Espluga",
@@ -533,7 +513,7 @@
       "source": "CCCB"
     },
     {
-      "id": 27,
+      "id": 26,
       "date": "2026-05-27",
       "date_end": "",
       "time": "20:00",
@@ -554,7 +534,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 28,
+      "id": 27,
       "date": "2026-05-28",
       "time": "",
       "title": "La casa dels teus somnis",
@@ -573,7 +553,7 @@
       "source": "CCCB"
     },
     {
-      "id": 29,
+      "id": 28,
       "date": "2026-05-28",
       "time": "17:00",
       "title": "Visita guiada al Museu d'història de la immigració a Catalunya",
@@ -592,7 +572,7 @@
       "source": "CCCB"
     },
     {
-      "id": 30,
+      "id": 29,
       "date": "2026-05-28",
       "time": "19:00",
       "title": "Cançoner. Notes, diaris i esbossos",
@@ -611,7 +591,7 @@
       "source": "CCCB"
     },
     {
-      "id": 31,
+      "id": 30,
       "date": "2026-05-28",
       "date_end": "",
       "time": "20:00",
@@ -632,7 +612,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 32,
+      "id": 31,
       "date": "2026-05-29",
       "time": "",
       "title": "Món Llibre 2026",
@@ -669,10 +649,10 @@
       "date": "2026-05-29",
       "date_end": "2026-05-29",
       "time": "09:00",
-      "id": 33
+      "id": 32
     },
     {
-      "id": 34,
+      "id": 33,
       "date": "2026-05-29",
       "date_end": "",
       "time": "20:00",
@@ -693,7 +673,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 35,
+      "id": 34,
       "date": "2026-05-30",
       "date_end": "",
       "time": "",
@@ -714,7 +694,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 36,
+      "id": 35,
       "date": "2026-05-30",
       "date_end": "",
       "time": "",
@@ -753,7 +733,7 @@
       "date": "2026-05-30",
       "date_end": "2026-05-30",
       "time": "09:00",
-      "id": 37
+      "id": 36
     },
     {
       "title": "Mercat dels Encants",
@@ -774,10 +754,10 @@
       "date": "2026-05-30",
       "date_end": "2026-05-30",
       "time": "09:00",
-      "id": 38
+      "id": 37
     },
     {
-      "id": 39,
+      "id": 38,
       "date": "2026-05-31",
       "date_end": "",
       "time": "",
@@ -816,10 +796,10 @@
       "date": "2026-05-31",
       "date_end": "2026-05-31",
       "time": "",
-      "id": 40
+      "id": 39
     },
     {
-      "id": 41,
+      "id": 40,
       "date": "2026-06-01",
       "date_end": "",
       "time": "20:00",
@@ -858,7 +838,7 @@
       "date": "2026-06-03",
       "date_end": "2026-06-03",
       "time": "09:00",
-      "id": 42
+      "id": 41
     },
     {
       "title": "Mercat dels Encants",
@@ -879,7 +859,7 @@
       "date": "2026-06-05",
       "date_end": "2026-06-05",
       "time": "09:00",
-      "id": 43
+      "id": 42
     },
     {
       "title": "Mercat de Glòries",
@@ -900,7 +880,7 @@
       "date": "2026-06-06",
       "date_end": "2026-06-06",
       "time": "09:00",
-      "id": 44
+      "id": 43
     },
     {
       "title": "Mercat dels Encants",
@@ -921,7 +901,7 @@
       "date": "2026-06-06",
       "date_end": "2026-06-06",
       "time": "09:00",
-      "id": 45
+      "id": 44
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -942,10 +922,10 @@
       "date": "2026-06-07",
       "date_end": "2026-06-07",
       "time": "",
-      "id": 46
+      "id": 45
     },
     {
-      "id": 47,
+      "id": 46,
       "date": "2026-06-08",
       "time": "18:30",
       "title": "Respiració",
@@ -964,7 +944,7 @@
       "source": "CCCB"
     },
     {
-      "id": 48,
+      "id": 47,
       "date": "2026-06-10",
       "time": "",
       "title": "La novel·la autobiogràfica",
@@ -1001,10 +981,10 @@
       "date": "2026-06-10",
       "date_end": "2026-06-10",
       "time": "09:00",
-      "id": 49
+      "id": 48
     },
     {
-      "id": 50,
+      "id": 49,
       "date": "2026-06-10",
       "time": "18:30",
       "title": "Quan la guerra és una nota a peu de pàgina",
@@ -1023,7 +1003,7 @@
       "source": "CCCB"
     },
     {
-      "id": 51,
+      "id": 50,
       "date": "2026-06-11",
       "time": "19:00",
       "title": "Anatxu Zabalbaescoa i Elías León Siminiani",
@@ -1060,7 +1040,7 @@
       "date": "2026-06-12",
       "date_end": "2026-06-12",
       "time": "09:00",
-      "id": 52
+      "id": 51
     },
     {
       "title": "Mercat de Glòries",
@@ -1081,7 +1061,7 @@
       "date": "2026-06-13",
       "date_end": "2026-06-13",
       "time": "09:00",
-      "id": 53
+      "id": 52
     },
     {
       "title": "Mercat dels Encants",
@@ -1102,10 +1082,10 @@
       "date": "2026-06-13",
       "date_end": "2026-06-13",
       "time": "09:00",
-      "id": 54
+      "id": 53
     },
     {
-      "id": 55,
+      "id": 54,
       "date": "2026-06-13",
       "time": "18:30",
       "title": "Sobre la imaginació apocalíptica",
@@ -1124,7 +1104,7 @@
       "source": "CCCB"
     },
     {
-      "id": 56,
+      "id": 55,
       "date": "2026-06-15",
       "time": "11:00",
       "title": "Testimoni, periodisme i drets humans",
@@ -1143,7 +1123,7 @@
       "source": "CCCB"
     },
     {
-      "id": 57,
+      "id": 56,
       "date": "2026-06-17",
       "date_end": "2026-07-05",
       "time": "",
@@ -1159,12 +1139,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/la-ruta",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-ruta",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 58,
+      "id": 57,
       "date": "2026-06-17",
       "time": "17 de juny 2026",
       "title": "«Els inicis», de Claire Marin",
@@ -1183,7 +1163,7 @@
       "source": "CCCB"
     },
     {
-      "id": 59,
+      "id": 58,
       "date": "2026-06-17",
       "time": "18:30",
       "title": "El preu de continuar dient la veritat",
@@ -1202,7 +1182,7 @@
       "source": "CCCB"
     },
     {
-      "id": 60,
+      "id": 59,
       "date": "2026-06-22",
       "time": "18:30",
       "title": "Homenatge a Catalunya",
@@ -1221,7 +1201,7 @@
       "source": "CCCB"
     },
     {
-      "id": 61,
+      "id": 60,
       "date": "2026-06-24",
       "time": "",
       "title": "Rutes i activitats a la Barcelona de George Orwell",
@@ -1240,7 +1220,7 @@
       "source": "CCCB"
     },
     {
-      "id": 62,
+      "id": 61,
       "date": "2026-06-25",
       "date_end": "2026-07-30",
       "time": "",
@@ -1257,12 +1237,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/lalbada",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/lalbada",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 63,
+      "id": 62,
       "date": "2026-06-25",
       "date_end": "2026-07-05",
       "time": "",
@@ -1278,12 +1258,12 @@
         "culture"
       ],
       "desc": "Dramatúrgia i direcció: Víctor Borràs GaschA partir del llibre de Joan Pinyol Colom",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/avi-et-traure-daqui",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/avi-et-traure-daqui",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 64,
+      "id": 63,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -1299,12 +1279,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/la-truita",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-truita",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 65,
+      "id": 64,
       "date": "2026-06-28",
       "time": "18:30",
       "title": "Visites comentades a l’Arxiu Xcèntric 2026",
@@ -1323,7 +1303,7 @@
       "source": "CCCB"
     },
     {
-      "id": 66,
+      "id": 65,
       "date": "2026-06-29",
       "date_end": "2026-07-01",
       "time": "",
@@ -1339,12 +1319,12 @@
         "music"
       ],
       "desc": "Autoria: Bertolt Brecht (text) i Kurt Weill (música)En col·laboració amb Elisabeth Hauptmann",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/lopera-de-tres-rals",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/lopera-de-tres-rals",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 67,
+      "id": 66,
       "date": "2026-06-30",
       "date_end": "",
       "time": "",
@@ -1360,12 +1340,12 @@
         "culture"
       ],
       "desc": "A partir de l’obra d’Oscar Wilde",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/el-retrat-de-dorian-gray",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/el-retrat-de-dorian-gray",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 68,
+      "id": 67,
       "date": "2026-06-30",
       "date_end": "2026-07-31",
       "time": "",
@@ -1381,12 +1361,12 @@
         "culture"
       ],
       "desc": "A partir de l’obra de William Shakespeare",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/factory-somni-duna-nit-destiu",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/factory-somni-duna-nit-destiu",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 69,
+      "id": 68,
       "date": "2026-06-30",
       "date_end": "2026-07-26",
       "time": "",
@@ -1402,12 +1382,12 @@
         "culture"
       ],
       "desc": "Ricard de 3r i Ricard 111Direcció: Montse Rodríguez i ClusellaAutoria: Gerard Guix",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/anatomia-de-ricard-diptic",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/anatomia-de-ricard-diptic",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 70,
+      "id": 69,
       "date": "2026-06-30",
       "date_end": "2026-07-09",
       "time": "",
@@ -1424,12 +1404,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/rasa",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/rasa",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 71,
+      "id": 70,
       "date": "2026-07-01",
       "date_end": "",
       "time": "",
@@ -1446,12 +1426,12 @@
         "free"
       ],
       "desc": "Univers Paral·lel x Grec 2026",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/carlos-de-jacoba-ciutat",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/carlos-de-jacoba-ciutat",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 72,
+      "id": 71,
       "date": "2026-07-03",
       "date_end": "",
       "time": "",
@@ -1467,12 +1447,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/ophelias-got-talent",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/ophelias-got-talent",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 73,
+      "id": 72,
       "date": "2026-07-03",
       "date_end": "",
       "time": "",
@@ -1488,12 +1468,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/grans-bardisses",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/grans-bardisses",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 74,
+      "id": 73,
       "date": "2026-07-04",
       "time": "",
       "title": "Creure en les màscares",
@@ -1512,7 +1492,7 @@
       "source": "CCCB"
     },
     {
-      "id": 75,
+      "id": 74,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -1528,12 +1508,12 @@
         "culture"
       ],
       "desc": "A partir de Madame Bovary de Gustave FlaubertMúsica original: Harold Noben",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/bovary",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/bovary",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 76,
+      "id": 75,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -1549,12 +1529,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/andrea-pena-artists-apa",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/andrea-pena-artists-apa",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 77,
+      "id": 76,
       "date": "2026-07-06",
       "time": "",
       "title": "La mateixa diferència",
@@ -1573,7 +1553,7 @@
       "source": "CCCB"
     },
     {
-      "id": 78,
+      "id": 77,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1589,12 +1569,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/mal-pelo",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/mal-pelo",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 79,
+      "id": 78,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1610,12 +1590,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/el-corazon-de-ester",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/el-corazon-de-ester",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 80,
+      "id": 79,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1632,12 +1612,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/pau-aran",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/pau-aran",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 81,
+      "id": 80,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1653,12 +1633,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/lasadcum",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/lasadcum",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 82,
+      "id": 81,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1674,12 +1654,12 @@
         "culture"
       ],
       "desc": "Dramatúrgia: Miguel Melgares",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/spafrica",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/spafrica",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 83,
+      "id": 82,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1695,12 +1675,12 @@
         "culture"
       ],
       "desc": "En col·laboració amb Josefina Orlaineta",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/mi-madre-y-el-dinero",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/mi-madre-y-el-dinero",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 84,
+      "id": 83,
       "date": "2026-07-09",
       "date_end": "2026-07-11",
       "time": "",
@@ -1717,12 +1697,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/nuria-guiu",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/nuria-guiu",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 85,
+      "id": 84,
       "date": "2026-07-09",
       "time": "19:30",
       "title": "No miris",
@@ -1741,7 +1721,7 @@
       "source": "CCCB"
     },
     {
-      "id": 86,
+      "id": 85,
       "date": "2026-07-10",
       "date_end": "",
       "time": "",
@@ -1757,12 +1737,12 @@
         "culture"
       ],
       "desc": "Diàleg contemporani a partir de ‘El castillo de Lindabridis’",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/la-fortaleza",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-fortaleza",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 87,
+      "id": 86,
       "date": "2026-07-10",
       "time": "29 de juny - 10 de juliol 2026",
       "title": "Eh! Tallers d’estiu per a ments creatives",
@@ -1781,7 +1761,7 @@
       "source": "CCCB"
     },
     {
-      "id": 88,
+      "id": 87,
       "date": "2026-07-11",
       "date_end": "",
       "time": "",
@@ -1798,12 +1778,12 @@
         "free"
       ],
       "desc": "A partir de Ricard III, de William Shakespeare",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/la-verdadera-historia-de-ricardo-iii",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-verdadera-historia-de-ricardo-iii",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 89,
+      "id": 88,
       "date": "2026-07-11",
       "date_end": "",
       "time": "",
@@ -1819,12 +1799,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/wasted-land",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/wasted-land",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 90,
+      "id": 89,
       "date": "2026-07-11",
       "date_end": "",
       "time": "",
@@ -1840,12 +1820,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/lorena-nogal",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/lorena-nogal",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 91,
+      "id": 90,
       "date": "2026-07-12",
       "date_end": "",
       "time": "",
@@ -1862,12 +1842,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/secrets",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/secrets",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 92,
+      "id": 91,
       "date": "2026-07-12",
       "date_end": "",
       "time": "",
@@ -1883,12 +1863,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/pepe-lolo",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/pepe-lolo",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 93,
+      "id": 92,
       "date": "2026-07-12",
       "date_end": "",
       "time": "",
@@ -1904,12 +1884,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/nosaltres-mortals-preventives-penades-reincidents-lladres-bruixes-i-altres-semblants",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/nosaltres-mortals-preventives-penades-reincidents-lladres-bruixes-i-altres-semblants",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 94,
+      "id": 93,
       "date": "2026-07-13",
       "date_end": "",
       "time": "",
@@ -1925,12 +1905,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/les-flors-prohibides",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/les-flors-prohibides",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 95,
+      "id": 94,
       "date": "2026-07-14",
       "time": "18:30",
       "title": "La condició humana, d’Hannah Arendt",
@@ -1949,7 +1929,7 @@
       "source": "CCCB"
     },
     {
-      "id": 96,
+      "id": 95,
       "date": "2026-07-15",
       "date_end": "",
       "time": "",
@@ -1966,12 +1946,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/ceramic-circus",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/ceramic-circus",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 97,
+      "id": 96,
       "date": "2026-07-15",
       "date_end": "",
       "time": "",
@@ -1987,12 +1967,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/sung-im-her",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/sung-im-her",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 98,
+      "id": 97,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -2008,12 +1988,12 @@
         "culture"
       ],
       "desc": "Text de Sergi Casero Nieto amb fragments i cites de Jorge Luís Borges, Federico García Lorca i Clara Valverde",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/el-pacte-de-loblit",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/el-pacte-de-loblit",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 99,
+      "id": 98,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -2029,12 +2009,12 @@
         "culture"
       ],
       "desc": "Univers Paral·lel x Grec 2026",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/baiuca-i-julia-colom",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/baiuca-i-julia-colom",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 100,
+      "id": 99,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -2050,12 +2030,12 @@
         "culture"
       ],
       "desc": "Direcció: Jinyeob LeeText: Jaeuk Shin",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/muljil",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/muljil",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 101,
+      "id": 100,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -2071,12 +2051,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/anne-teresa-de-keersmaeker-solal-mariotte-rosas",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/anne-teresa-de-keersmaeker-solal-mariotte-rosas",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 102,
+      "id": 101,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -2092,12 +2072,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/leandro-de-souza",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/leandro-de-souza",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 103,
+      "id": 102,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -2114,12 +2094,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/asia",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/asia",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 104,
+      "id": 103,
       "date": "2026-07-18",
       "time": "18:30",
       "title": "Intel·ligències no humanes: una ecologia cognitiva planetària",
@@ -2138,7 +2118,7 @@
       "source": "CCCB"
     },
     {
-      "id": 105,
+      "id": 104,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -2154,12 +2134,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/30e-circ-dhivern-la-gran-plantada",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/30e-circ-dhivern-la-gran-plantada",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 106,
+      "id": 105,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -2175,12 +2155,12 @@
         "culture"
       ],
       "desc": "Simon Halsey / Jochen Sandig",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/human-requiem",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/human-requiem",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 107,
+      "id": 106,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -2196,12 +2176,12 @@
         "culture"
       ],
       "desc": "Direcció i creació: Carles Fernández Giua",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/nascuts-lliures",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/nascuts-lliures",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 108,
+      "id": 107,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -2217,12 +2197,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/yerai-cortes",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/yerai-cortes",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 109,
+      "id": 108,
       "date": "2026-07-20",
       "date_end": "",
       "time": "",
@@ -2239,12 +2219,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/mosques",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/mosques",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 110,
+      "id": 109,
       "date": "2026-07-20",
       "time": "18:30",
       "title": "CinemaTeatre",
@@ -2263,7 +2243,7 @@
       "source": "CCCB"
     },
     {
-      "id": 111,
+      "id": 110,
       "date": "2026-07-21",
       "date_end": "",
       "time": "",
@@ -2279,12 +2259,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/walid-ben-selim-raul-refree-vincent-moon",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/walid-ben-selim-raul-refree-vincent-moon",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 112,
+      "id": 111,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -2300,12 +2280,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/roger-mas-i-la-cobla-sant-jordi-ciutat-de-barcelona",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/roger-mas-i-la-cobla-sant-jordi-ciutat-de-barcelona",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 113,
+      "id": 112,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -2322,12 +2302,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/democracia-total",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/democracia-total",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 114,
+      "id": 113,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -2343,12 +2323,12 @@
         "culture"
       ],
       "desc": "Direcció: Marc Cartanyà Pena i AMAGADramatúrgia: Eduard Olesti, AMAGA",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/qui-hi-ha",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/qui-hi-ha",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 115,
+      "id": 114,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -2365,12 +2345,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/yamato",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/yamato",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 116,
+      "id": 115,
       "date": "2026-07-24",
       "time": "29 de juny - 24 de juliol 2026",
       "title": "Culturnautes 2026",
@@ -2389,7 +2369,7 @@
       "source": "CCCB"
     },
     {
-      "id": 117,
+      "id": 116,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -2405,12 +2385,12 @@
         "culture"
       ],
       "desc": "A partir del conte de Franz Kafka",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/la-colonia-penitenciaria",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-colonia-penitenciaria",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 118,
+      "id": 117,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -2426,12 +2406,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/mucha-muchacha",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/mucha-muchacha",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 119,
+      "id": 118,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -2447,12 +2427,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/sebastien-tellier",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/sebastien-tellier",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 120,
+      "id": 119,
       "date": "2026-07-26",
       "date_end": "",
       "time": "",
@@ -2468,12 +2448,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/seppuku-el-funeral-de-mishima-o-el-plaer-de-morir",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/seppuku-el-funeral-de-mishima-o-el-plaer-de-morir",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 121,
+      "id": 120,
       "date": "2026-07-26",
       "date_end": "",
       "time": "",
@@ -2489,12 +2469,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/cia-agnes-balfego-brull",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/cia-agnes-balfego-brull",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 122,
+      "id": 121,
       "date": "2026-07-27",
       "date_end": "",
       "time": "",
@@ -2510,12 +2490,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/zora-snake",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/zora-snake",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 123,
+      "id": 122,
       "date": "2026-07-28",
       "date_end": "",
       "time": "",
@@ -2531,12 +2511,12 @@
         "culture"
       ],
       "desc": "Dramatúrgia: Carles Pedragosa Torres",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/la-nit-del-music-alt-un-tipus-de-genere-ambigu",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-nit-del-music-alt-un-tipus-de-genere-ambigu",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 124,
+      "id": 123,
       "date": "2026-07-29",
       "date_end": "",
       "time": "",
@@ -2553,12 +2533,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/aleix-colomer-campoy",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/aleix-colomer-campoy",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 125,
+      "id": 124,
       "date": "2026-07-30",
       "date_end": "",
       "time": "",
@@ -2574,12 +2554,12 @@
         "family"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/consulta-familiar",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/consulta-familiar",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 126,
+      "id": 125,
       "date": "2026-07-30",
       "date_end": "",
       "time": "",
@@ -2595,12 +2575,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/despres-de-nosaltres",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/despres-de-nosaltres",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 127,
+      "id": 126,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -2617,12 +2597,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/tao-dance-theater",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/tao-dance-theater",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 128,
+      "id": 127,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -2638,12 +2618,12 @@
         "culture"
       ],
       "desc": "A partir d’Un enemic del poble, d’Henrik Ibsen",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/um-julgamento",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/um-julgamento",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 129,
+      "id": 128,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -2659,12 +2639,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/lultima-entrevista-roigcapmany",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/lultima-entrevista-roigcapmany",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 130,
+      "id": 129,
       "date": "2026-08-29",
       "date_end": "",
       "time": "20:00",
@@ -2685,7 +2665,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 131,
+      "id": 130,
       "date": "2026-11-08",
       "time": "21 de maig - 8 de novembre 2026",
       "title": "El culte a la bellesa",
@@ -2704,7 +2684,7 @@
       "source": "CCCB"
     },
     {
-      "id": 132,
+      "id": 131,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -2723,7 +2703,7 @@
       "source": "CCCB"
     },
     {
-      "id": 133,
+      "id": 132,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: 'Paradís'",
@@ -2742,7 +2722,7 @@
       "source": "CCCB"
     },
     {
-      "id": 134,
+      "id": 133,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -2761,7 +2741,7 @@
       "source": "CCCB"
     },
     {
-      "id": 135,
+      "id": 134,
       "date": "2026-12-25",
       "time": "",
       "title": "Visita el Mirador del CCCB 2026",
