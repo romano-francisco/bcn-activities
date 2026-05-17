@@ -3,571 +3,237 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BCN Agenda — Tots els events de la ciutat</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<title>BCN Agenda — Events de Barcelona</title>
 <style>
-  :root {
-    --bg: #F5F0E8;
-    --ink: #1A1209;
-    --accent: #D4451A;
-    --accent2: #2B5F8E;
-    --accent3: #6B8C3A;
-    --muted: #8C8070;
-    --line: #C8BFA8;
-    --card: #FDFAF4;
-    --tag-music: #D4451A;
-    --tag-art: #2B5F8E;
-    --tag-food: #6B8C3A;
-    --tag-family: #8B5E3C;
-    --tag-culture: #7B3F8C;
-    --tag-free: #1A7A4A;
-  }
-
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
   body {
-    background: var(--bg);
-    color: var(--ink);
-    font-family: 'DM Sans', sans-serif;
-    font-weight: 300;
-    min-height: 100vh;
-    overflow-x: hidden;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: #fff;
+    color: #000;
+    font-size: 16px;
+    line-height: 1.4;
   }
 
-  /* HEADER */
+  /* ── HEADER ─────────────────────────────────────────────────────────── */
   header {
-    border-bottom: 2px solid var(--ink);
-    padding: 0 40px;
-    display: flex;
-    align-items: stretch;
     position: sticky;
     top: 0;
-    background: var(--bg);
+    background: #fff;
     z-index: 100;
-  }
-
-  .logo-block {
-    padding: 18px 0;
-    border-right: 2px solid var(--ink);
-    padding-right: 32px;
-    margin-right: 32px;
-  }
-
-  .logo-block h1 {
-    font-family: 'Playfair Display', serif;
-    font-weight: 900;
-    font-size: 28px;
-    letter-spacing: -1px;
-    line-height: 1;
-  }
-
-  .logo-block span {
-    font-family: 'DM Mono', monospace;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    color: var(--muted);
-    display: block;
-    margin-top: 4px;
-  }
-
-  .header-nav {
+    border-bottom: 1px solid #000;
+    padding: 14px 48px;
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 24px;
+  }
+
+  .site-title {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+    white-space: nowrap;
+    margin-right: 8px;
+  }
+
+  .filters {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
     flex: 1;
   }
 
   .filter-btn {
     background: none;
-    border: 1.5px solid var(--line);
-    border-radius: 100px;
-    padding: 6px 16px;
-    font-family: 'DM Sans', sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 4px 14px;
     font-size: 13px;
-    font-weight: 400;
+    font-family: inherit;
     cursor: pointer;
-    transition: all 0.2s;
-    color: var(--ink);
+    transition: all 0.15s;
+    color: #000;
+    white-space: nowrap;
   }
 
-  .filter-btn:hover, .filter-btn.active {
-    background: var(--ink);
-    color: var(--bg);
-    border-color: var(--ink);
-  }
-
-  .filter-btn.tag-music.active { background: var(--tag-music); border-color: var(--tag-music); color: white; }
-  .filter-btn.tag-art.active { background: var(--tag-art); border-color: var(--tag-art); color: white; }
-  .filter-btn.tag-food.active { background: var(--tag-food); border-color: var(--tag-food); color: white; }
-  .filter-btn.tag-culture.active { background: var(--tag-culture); border-color: var(--tag-culture); color: white; }
-  .filter-btn.tag-family.active { background: var(--tag-family); border-color: var(--tag-family); color: white; }
-  .filter-btn.tag-free.active { background: var(--tag-free); border-color: var(--tag-free); color: white; }
+  .filter-btn:hover { border-color: #000; }
+  .filter-btn.active { background: #000; color: #fff; border-color: #000; }
 
   .header-right {
-    margin-left: auto;
-    display: flex;
-    align-items: center;
-    gap: 12px;
+    font-size: 12px;
+    color: #999;
+    white-space: nowrap;
   }
 
-  .view-toggle {
-    display: flex;
-    border: 1.5px solid var(--line);
-    border-radius: 8px;
-    overflow: hidden;
+  /* ── MAIN ────────────────────────────────────────────────────────────── */
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 48px 80px;
   }
 
-  .view-toggle button {
-    background: none;
-    border: none;
-    padding: 8px 14px;
-    cursor: pointer;
-    font-size: 16px;
-    transition: background 0.2s;
-  }
-
-  .view-toggle button.active {
-    background: var(--ink);
-    color: var(--bg);
-  }
-
-  /* MAIN LAYOUT */
-  .main {
-    display: grid;
-    grid-template-columns: 280px 1fr;
-    min-height: calc(100vh - 72px);
-  }
-
-  /* SIDEBAR CALENDAR */
-  .sidebar {
-    border-right: 2px solid var(--ink);
-    padding: 32px 24px;
-    position: sticky;
-    top: 72px;
-    height: calc(100vh - 72px);
-    overflow-y: auto;
-  }
-
-  .month-nav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 24px;
-  }
-
-  .month-nav h2 {
-    font-family: 'Playfair Display', serif;
-    font-size: 20px;
+  /* ── MONTH HEADING ───────────────────────────────────────────────────── */
+  .month-heading {
+    font-size: 72px;
     font-weight: 700;
-  }
-
-  .month-nav button {
-    background: none;
-    border: none;
-    cursor: pointer;
-    font-size: 20px;
-    color: var(--ink);
-    width: 32px;
-    height: 32px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 50%;
-    transition: background 0.2s;
-  }
-
-  .month-nav button:hover { background: var(--line); }
-
-  .cal-grid {
-    display: grid;
-    grid-template-columns: repeat(7, 1fr);
-    gap: 2px;
-  }
-
-  .cal-day-header {
-    text-align: center;
-    font-family: 'DM Mono', monospace;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color: var(--muted);
-    padding: 4px 0 8px;
-  }
-
-  .cal-day {
-    aspect-ratio: 1;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    border-radius: 6px;
-    cursor: pointer;
-    position: relative;
-    transition: all 0.15s;
-    font-size: 13px;
-    gap: 2px;
-  }
-
-  .cal-day:hover { background: var(--line); }
-  .cal-day.today { background: var(--ink); color: var(--bg); }
-  .cal-day.selected { background: var(--accent); color: white; }
-  .cal-day.other-month { color: var(--line); }
-  .cal-day.has-events .dot-row { display: flex; gap: 2px; }
-
-  .dot-row { display: flex; gap: 2px; height: 4px; }
-  .dot { width: 4px; height: 4px; border-radius: 50%; flex-shrink: 0; }
-
-  /* VENUES in sidebar */
-  .sidebar-section {
-    margin-top: 32px;
-    padding-top: 24px;
-    border-top: 1.5px solid var(--line);
-  }
-
-  .sidebar-section h3 {
-    font-family: 'DM Mono', monospace;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: var(--muted);
-    margin-bottom: 12px;
-  }
-
-  .venue-item {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 8px 0;
-    cursor: pointer;
-    transition: opacity 0.2s;
-  }
-
-  .venue-item:hover { opacity: 0.7; }
-
-  .venue-dot {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    flex-shrink: 0;
-  }
-
-  .venue-name {
-    font-size: 13px;
-    font-weight: 400;
-    flex: 1;
-  }
-
-  .venue-count {
-    font-family: 'DM Mono', monospace;
-    font-size: 11px;
-    color: var(--muted);
-  }
-
-  /* CONTENT AREA */
-  .content {
-    padding: 32px 40px;
-  }
-
-  .content-header {
-    display: flex;
-    align-items: baseline;
-    gap: 16px;
-    margin-bottom: 32px;
-    border-bottom: 1.5px solid var(--line);
-    padding-bottom: 20px;
-  }
-
-  .content-header h2 {
-    font-family: 'Playfair Display', serif;
-    font-size: 36px;
-    font-weight: 900;
-    letter-spacing: -1px;
-  }
-
-  .event-count {
-    font-family: 'DM Mono', monospace;
-    font-size: 13px;
-    color: var(--muted);
-  }
-
-  /* LIST VIEW */
-  .day-group {
-    margin-bottom: 40px;
-  }
-
-  .day-label {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    margin-bottom: 16px;
-  }
-
-  .day-label .day-num {
-    font-family: 'Playfair Display', serif;
-    font-size: 48px;
-    font-weight: 900;
+    letter-spacing: -3px;
     line-height: 1;
-    color: var(--accent);
-    min-width: 60px;
+    padding: 48px 0 0;
+    margin-bottom: 0;
   }
 
-  .day-label .day-info {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .day-label .day-name {
-    font-family: 'DM Mono', monospace;
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: var(--muted);
-  }
-
-  .day-label .day-full {
-    font-size: 15px;
-    font-weight: 400;
-  }
-
-  .events-list {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    margin-left: 76px;
-  }
-
-  /* EVENT CARD */
-  .event-card {
-    background: var(--card);
-    border: 1.5px solid var(--line);
-    border-radius: 12px;
-    padding: 20px 24px;
+  /* ── EVENT ROW ───────────────────────────────────────────────────────── */
+  .event-row {
     display: grid;
-    grid-template-columns: 80px 1fr auto;
-    gap: 20px;
+    grid-template-columns: 90px 300px 1fr;
+    gap: 32px;
+    padding: 28px 0;
+    border-top: 1px solid #ddd;
     align-items: start;
     cursor: pointer;
-    transition: all 0.2s;
-    position: relative;
-    overflow: hidden;
+    transition: background 0.1s;
   }
 
-  .event-card::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    width: 3px;
-  }
+  .event-row:hover { background: #fafafa; }
 
-  .event-card[data-type="music"]::before { background: var(--tag-music); }
-  .event-card[data-type="art"]::before { background: var(--tag-art); }
-  .event-card[data-type="food"]::before { background: var(--tag-food); }
-  .event-card[data-type="culture"]::before { background: var(--tag-culture); }
-  .event-card[data-type="family"]::before { background: var(--tag-family); }
+  /* ── DAY COLUMN ──────────────────────────────────────────────────────── */
+  .day-col { padding-top: 2px; }
+  .day-col.empty { visibility: hidden; }
 
-  .event-card:hover {
-    border-color: var(--ink);
-    transform: translateY(-1px);
-    box-shadow: 0 4px 20px rgba(26,18,9,0.08);
-  }
-
-  .event-time {
-    font-family: 'DM Mono', monospace;
-    font-size: 13px;
-    color: var(--muted);
-    padding-top: 2px;
-  }
-
-  .event-time .time-main {
-    font-size: 16px;
-    color: var(--ink);
-    font-weight: 500;
+  .day-num {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: -3px;
     display: block;
   }
 
-  .event-body {}
-
-  .event-title {
-    font-family: 'Playfair Display', serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.2;
-    margin-bottom: 6px;
-  }
-
-  .event-venue {
+  .day-name {
     font-size: 13px;
-    color: var(--muted);
-    margin-bottom: 10px;
-    display: flex;
-    align-items: center;
-    gap: 6px;
+    color: #888;
+    margin-top: 2px;
+    display: block;
+    text-transform: lowercase;
   }
 
-  .event-venue::before {
-    content: '📍';
-    font-size: 11px;
-  }
-
-  .event-tags {
-    display: flex;
-    gap: 6px;
-    flex-wrap: wrap;
-  }
-
-  .tag {
-    font-family: 'DM Mono', monospace;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    padding: 3px 10px;
-    border-radius: 100px;
-    border: 1.5px solid;
-  }
-
-  .tag.music { color: var(--tag-music); border-color: var(--tag-music); }
-  .tag.art { color: var(--tag-art); border-color: var(--tag-art); }
-  .tag.food { color: var(--tag-food); border-color: var(--tag-food); }
-  .tag.culture { color: var(--tag-culture); border-color: var(--tag-culture); }
-  .tag.family { color: var(--tag-family); border-color: var(--tag-family); }
-  .tag.free { color: var(--tag-free); border-color: var(--tag-free); background: rgba(26,122,74,0.06); }
-
-  .event-right {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    gap: 8px;
-  }
-
-  .event-price {
-    font-family: 'DM Mono', monospace;
-    font-size: 14px;
-    font-weight: 500;
-  }
-
-  .event-price.free { color: var(--tag-free); }
-
-  .btn-tickets {
-    background: var(--ink);
-    color: var(--bg);
-    border: none;
-    border-radius: 8px;
-    padding: 8px 16px;
-    font-family: 'DM Sans', sans-serif;
-    font-size: 12px;
-    font-weight: 500;
-    cursor: pointer;
-    white-space: nowrap;
-    transition: background 0.2s;
-  }
-
-  .btn-tickets:hover { background: var(--accent); }
-
-  /* GRID VIEW */
-  .grid-view {
-    display: none;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 16px;
-  }
-
-  .grid-view.active { display: grid; }
-  .list-view.hidden { display: none; }
-
-  .grid-card {
-    background: var(--card);
-    border: 1.5px solid var(--line);
-    border-radius: 12px;
+  /* ── IMAGE COLUMN ────────────────────────────────────────────────────── */
+  .event-img-wrap {
+    width: 100%;
+    aspect-ratio: 3/2;
     overflow: hidden;
-    cursor: pointer;
-    transition: all 0.2s;
-  }
-
-  .grid-card:hover {
-    border-color: var(--ink);
-    transform: translateY(-2px);
-    box-shadow: 0 8px 30px rgba(26,18,9,0.1);
-  }
-
-  .grid-card-top {
-    height: 120px;
+    background: #f2f2f2;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 48px;
-    position: relative;
   }
 
-  .grid-card-top .grid-date {
-    position: absolute;
-    top: 12px;
-    right: 12px;
-    font-family: 'DM Mono', monospace;
-    font-size: 11px;
-    background: rgba(255,255,255,0.9);
-    padding: 4px 8px;
-    border-radius: 6px;
+  .event-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
   }
 
-  .grid-card-body { padding: 16px; }
-
-  .grid-card-title {
-    font-family: 'Playfair Display', serif;
-    font-size: 16px;
-    font-weight: 700;
-    margin-bottom: 6px;
-    line-height: 1.2;
+  .event-img-placeholder {
+    font-size: 52px;
   }
 
-  .grid-card-venue {
-    font-size: 12px;
-    color: var(--muted);
+  /* ── TEXT COLUMN ─────────────────────────────────────────────────────── */
+  .event-text { padding-top: 4px; }
+
+  .event-meta {
+    font-size: 13px;
+    margin-bottom: 8px;
+    line-height: 1.3;
+  }
+
+  .event-category { font-weight: 700; }
+  .event-source { color: #555; }
+
+  .event-title {
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: -0.5px;
+    line-height: 1.1;
     margin-bottom: 10px;
   }
 
-  .grid-card-footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  .event-desc {
+    font-size: 14px;
+    color: #444;
+    line-height: 1.55;
+    margin-bottom: 12px;
+    max-width: 520px;
   }
 
-  /* MODAL */
+  .event-details {
+    font-size: 14px;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+
+  .event-time { font-weight: 500; }
+
+  .event-venue { color: #888; }
+
+  .event-price {
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 6px;
+    font-weight: 600;
+    color: #2a7a4a;
+  }
+
+  .event-price.paid { color: #000; font-weight: 400; }
+
+  /* ── EMPTY STATE ─────────────────────────────────────────────────────── */
+  .empty-state {
+    padding: 80px 0;
+    text-align: center;
+    color: #999;
+  }
+
+  .empty-state h3 { font-size: 20px; margin-bottom: 8px; color: #000; }
+
+  /* ── MODAL ───────────────────────────────────────────────────────────── */
   .modal-overlay {
     position: fixed;
     inset: 0;
-    background: rgba(26,18,9,0.6);
+    background: rgba(0,0,0,0.5);
     z-index: 200;
     display: none;
     align-items: center;
     justify-content: center;
     padding: 40px;
-    backdrop-filter: blur(4px);
   }
 
   .modal-overlay.open { display: flex; }
 
   .modal {
-    background: var(--card);
-    border-radius: 16px;
-    max-width: 560px;
+    background: #fff;
+    max-width: 640px;
     width: 100%;
-    max-height: 80vh;
+    max-height: 85vh;
     overflow-y: auto;
     position: relative;
   }
 
-  .modal-top {
-    height: 200px;
+  .modal-img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    background: #f2f2f2;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 80px;
-    border-radius: 16px 16px 0 0;
-    position: relative;
   }
+
+  .modal-img img { width: 100%; height: 100%; object-fit: cover; }
+
+  .modal-body { padding: 32px; }
 
   .modal-close {
     position: absolute;
@@ -575,545 +241,258 @@
     right: 16px;
     background: rgba(255,255,255,0.9);
     border: none;
-    border-radius: 50%;
     width: 36px;
     height: 36px;
+    border-radius: 50%;
     cursor: pointer;
     font-size: 18px;
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: inherit;
   }
 
-  .modal-body { padding: 28px 32px 32px; }
-
-  .modal-meta {
-    display: flex;
-    gap: 8px;
-    margin-bottom: 16px;
-    flex-wrap: wrap;
-  }
-
-  .modal-title {
-    font-family: 'Playfair Display', serif;
-    font-size: 28px;
-    font-weight: 900;
-    line-height: 1.1;
-    margin-bottom: 12px;
-  }
+  .modal-meta { font-size: 13px; margin-bottom: 12px; }
+  .modal-title { font-size: 28px; font-weight: 700; letter-spacing: -0.5px; margin-bottom: 16px; line-height: 1.1; }
 
   .modal-info {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 16px;
-    margin: 20px 0;
     padding: 20px;
-    background: var(--bg);
-    border-radius: 10px;
+    background: #f8f8f8;
+    margin-bottom: 20px;
   }
 
   .modal-info-item label {
-    font-family: 'DM Mono', monospace;
-    font-size: 10px;
+    font-size: 11px;
     text-transform: uppercase;
-    letter-spacing: 2px;
-    color: var(--muted);
+    letter-spacing: 1px;
+    color: #999;
     display: block;
-    margin-bottom: 4px;
+    margin-bottom: 3px;
   }
 
-  .modal-info-item span {
-    font-size: 14px;
-    font-weight: 400;
-  }
+  .modal-info-item span { font-size: 14px; }
 
-  .modal-desc {
-    font-size: 14px;
-    line-height: 1.7;
-    color: #3D3020;
-    margin-bottom: 24px;
-  }
+  .modal-desc { font-size: 14px; line-height: 1.65; color: #333; margin-bottom: 24px; }
 
-  .modal-actions {
-    display: flex;
-    gap: 12px;
-  }
+  .modal-actions { display: flex; gap: 10px; }
 
   .btn-primary {
-    background: var(--accent);
-    color: white;
+    background: #000;
+    color: #fff;
     border: none;
-    border-radius: 10px;
-    padding: 14px 28px;
-    font-family: 'DM Sans', sans-serif;
-    font-size: 15px;
-    font-weight: 500;
+    padding: 12px 24px;
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: 600;
     cursor: pointer;
     flex: 1;
-    transition: opacity 0.2s;
   }
 
-  .btn-primary:hover { opacity: 0.85; }
+  .btn-primary:hover { background: #333; }
 
   .btn-secondary {
     background: none;
-    border: 1.5px solid var(--line);
-    border-radius: 10px;
-    padding: 14px 20px;
-    font-family: 'DM Sans', sans-serif;
-    font-size: 15px;
+    border: 1px solid #ccc;
+    padding: 12px 20px;
+    font-family: inherit;
+    font-size: 14px;
     cursor: pointer;
-    transition: border-color 0.2s;
   }
 
-  .btn-secondary:hover { border-color: var(--ink); }
+  .btn-secondary:hover { border-color: #000; }
 
-  /* SCROLLBAR */
-  ::-webkit-scrollbar { width: 6px; }
-  ::-webkit-scrollbar-track { background: transparent; }
-  ::-webkit-scrollbar-thumb { background: var(--line); border-radius: 3px; }
-
-  /* ANIMATIONS */
-  .event-card, .grid-card {
-    animation: fadeUp 0.3s ease both;
-  }
-
-  @keyframes fadeUp {
-    from { opacity: 0; transform: translateY(12px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-
-  .day-group:nth-child(1) .event-card { animation-delay: 0.05s; }
-  .day-group:nth-child(2) .event-card { animation-delay: 0.1s; }
-  .day-group:nth-child(3) .event-card { animation-delay: 0.15s; }
-
-  /* EMPTY STATE */
-  .empty-state {
-    text-align: center;
-    padding: 80px 40px;
-  }
-
-  .empty-state .emoji { font-size: 56px; margin-bottom: 20px; }
-  .empty-state h3 { font-family: 'Playfair Display', serif; font-size: 24px; margin-bottom: 8px; }
-  .empty-state p { color: var(--muted); font-size: 15px; }
-
-  /* SCRAPING BADGE */
-  .scrape-badge {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    font-family: 'DM Mono', monospace;
-    font-size: 10px;
-    color: var(--muted);
-    padding: 6px 12px;
-    border: 1.5px solid var(--line);
-    border-radius: 100px;
-  }
-
-  .scrape-dot {
-    width: 6px;
-    height: 6px;
-    background: var(--tag-free);
-    border-radius: 50%;
-    animation: pulse 2s infinite;
-  }
-
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.3; }
+  /* ── RESPONSIVE ──────────────────────────────────────────────────────── */
+  @media (max-width: 768px) {
+    header { padding: 12px 20px; }
+    main { padding: 0 20px 60px; }
+    .month-heading { font-size: 48px; }
+    .event-row { grid-template-columns: 60px 1fr; grid-template-rows: auto auto; gap: 16px; }
+    .event-img-wrap { grid-column: 2; }
+    .event-text { grid-column: 1 / -1; }
+    .day-num { font-size: 44px; }
+    .event-title { font-size: 22px; }
   }
 </style>
 </head>
 <body>
 
 <header>
-  <div class="logo-block">
-    <h1>BCN Agenda</h1>
-    <span>Tots els events · Cada dia</span>
-  </div>
-  <nav class="header-nav">
+  <div class="site-title">BCN Agenda</div>
+  <nav class="filters">
     <button class="filter-btn active" onclick="filterEvents('all', this)">Tot</button>
-    <button class="filter-btn tag-music" onclick="filterEvents('music', this)">🎵 Música</button>
-    <button class="filter-btn tag-art" onclick="filterEvents('art', this)">🎨 Art</button>
-    <button class="filter-btn tag-food" onclick="filterEvents('food', this)">🍜 Food</button>
-    <button class="filter-btn tag-culture" onclick="filterEvents('culture', this)">🏛 Cultura</button>
-    <button class="filter-btn tag-family" onclick="filterEvents('family', this)">👨‍👩‍👧 Família</button>
-    <button class="filter-btn tag-free" onclick="filterEvents('free', this)">✦ Gratuït</button>
+    <button class="filter-btn" onclick="filterEvents('music', this)">Música</button>
+    <button class="filter-btn" onclick="filterEvents('art', this)">Art</button>
+    <button class="filter-btn" onclick="filterEvents('culture', this)">Cultura</button>
+    <button class="filter-btn" onclick="filterEvents('food', this)">Food</button>
+    <button class="filter-btn" onclick="filterEvents('family', this)">Família</button>
+    <button class="filter-btn" onclick="filterEvents('free', this)">Gratuït</button>
   </nav>
-  <div class="header-right">
-    <div class="scrape-badge">
-      <div class="scrape-dot"></div>
-      Actualitzat fa 2h
-    </div>
-    <div class="view-toggle">
-      <button class="active" id="btn-list" onclick="setView('list')" title="Vista llista">☰</button>
-      <button id="btn-grid" onclick="setView('grid')" title="Vista graella">⊞</button>
-    </div>
-  </div>
+  <div class="header-right" id="update-badge"></div>
 </header>
 
-<div class="main">
-  <!-- SIDEBAR -->
-  <aside class="sidebar">
-    <div class="month-nav">
-      <button onclick="prevMonth()">‹</button>
-      <h2 id="month-title"></h2>
-      <button onclick="nextMonth()">›</button>
-    </div>
-    <div class="cal-grid" id="cal-grid"></div>
+<main id="main-content"></main>
 
-    <div class="sidebar-section">
-      <h3>Espais</h3>
-      <div id="venue-list"></div>
-    </div>
-  </aside>
-
-  <!-- CONTENT -->
-  <main class="content">
-    <div class="content-header">
-      <h2 id="content-title">Pròxims events</h2>
-      <span class="event-count" id="event-count"></span>
-    </div>
-    <div class="list-view" id="list-view"></div>
-    <div class="grid-view" id="grid-view"></div>
-  </main>
-</div>
-
-<!-- MODAL -->
 <div class="modal-overlay" id="modal" onclick="closeModal(event)">
   <div class="modal" id="modal-content"></div>
 </div>
 
 <script>
-// ─── DATA ───────────────────────────────────────────────────────────────────
-const VENUE_COLORS = {
-  'Antiga Fàbrica Estrella Damm': '#D4451A',
-  'CCCB': '#2B5F8E',
-  'Palau de la Música': '#8B5E3C',
-  'Centre Artesà Tradicionarius': '#6B8C3A',
-  'Time Out Market': '#7B3F8C',
-  'El Born': '#1A7A4A',
-  'Parc de la Ciutadella': '#5A8A2A',
+// ─── DATA ────────────────────────────────────────────────────────────────────
+let EVENTS = [];
+let activeFilter = 'all';
+
+const CATEGORY_LABELS = {
+  music: 'Música', art: 'Art', culture: 'Cultura',
+  food: 'Food', family: 'Família', free: 'Gratuït',
 };
 
-// ─── DATA LOADER ─────────────────────────────────────────────────────────────
-let EVENTS = [];
+const EVENT_EMOJI = {
+  music: '🎵', art: '🎨', culture: '🏛', food: '🍜', family: '👨‍👩‍👧',
+};
 
+const DAYS_CA = ['Diumenge','Dilluns','Dimarts','Dimecres','Dijous','Divendres','Dissabte'];
+const MONTHS_CA = ['Gener','Febrer','Març','Abril','Maig','Juny','Juliol','Agost','Setembre','Octubre','Novembre','Desembre'];
+
+// ─── LOAD ─────────────────────────────────────────────────────────────────────
 async function loadEvents() {
   try {
     const r = await fetch('data/bcn_agenda.json');
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     const data = await r.json();
-    EVENTS = data.events || [];
-    const scraped = new Date(data.generated_at);
-    const diffH = Math.round((Date.now() - scraped) / 3600000);
-    const badge = document.querySelector('.scrape-badge');
-    if (badge) badge.innerHTML = `<div class="scrape-dot"></div> Actualitzat fa ${diffH}h`;
-  } catch(e) {
-    console.warn('No hi ha data/bcn_agenda.json — dades de demo:', e.message);
-    EVENTS = DEMO_EVENTS;
-  }
-  renderCalendar();
-  renderVenues();
-  renderEvents();
-}
-
-// ─── DEMO DATA (fallback fins que hi hagi scraping real) ──────────────────────
-const DEMO_EVENTS = [
-  {
-    id: 1, date: new Date().toISOString().slice(0,10), time: '19:00',
-    title: 'Carrega els scrapers per veure events reals',
-    venue: 'BCN Agenda',
-    type: 'culture', free: true, price: 'Gratuït',
-    emoji: '🏙', bg: '#EBF0FF', tags: ['culture','free'],
-    desc: 'Executa python scrapers/run_all.py des de la carpeta del projecte per generar data/bcn_agenda.json amb events reals de Barcelona.'
-  }
-];
-
-// ─── STATE ──────────────────────────────────────────────────────────────────
-let currentDate = new Date();
-let currentView = 'list';
-let activeFilter = 'all';
-let selectedDate = null;
-
-// ─── CALENDAR ───────────────────────────────────────────────────────────────
-function renderCalendar() {
-  const year = currentDate.getFullYear();
-  const month = currentDate.getMonth();
-  const monthNames = ['Gener','Febrer','Març','Abril','Maig','Juny','Juliol','Agost','Setembre','Octubre','Novembre','Desembre'];
-  
-  document.getElementById('month-title').textContent = monthNames[month] + ' ' + year;
-  
-  const firstDay = new Date(year, month, 1).getDay();
-  const daysInMonth = new Date(year, month + 1, 0).getDate();
-  const startDay = (firstDay + 6) % 7; // Monday start
-  
-  const dayHeaders = ['Dl','Dm','Dc','Dj','Dv','Ds','Dg'];
-  let html = dayHeaders.map(d => `<div class="cal-day-header">${d}</div>`).join('');
-  
-  // Empty cells before month start
-  for (let i = 0; i < startDay; i++) {
-    const prevDays = new Date(year, month, 0).getDate();
-    html += `<div class="cal-day other-month"><span>${prevDays - startDay + i + 1}</span><div class="dot-row"></div></div>`;
-  }
-  
-  const today = new Date();
-  
-  for (let d = 1; d <= daysInMonth; d++) {
-    const dateStr = `${year}-${String(month+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
-    const dayEvents = EVENTS.filter(e => e.date === dateStr);
-    const isToday = today.getDate() === d && today.getMonth() === month && today.getFullYear() === year;
-    const isSelected = selectedDate === dateStr;
-    
-    let dots = '';
-    if (dayEvents.length > 0) {
-      const colors = [...new Set(dayEvents.map(e => {
-        const m = {music:'#D4451A',art:'#2B5F8E',food:'#6B8C3A',culture:'#7B3F8C',family:'#8B5E3C'};
-        return m[e.type];
-      }))].slice(0,3);
-      dots = `<div class="dot-row">${colors.map(c => `<div class="dot" style="background:${c}"></div>`).join('')}</div>`;
+    EVENTS = (data.events || []).filter(e => e.date);
+    if (data.generated_at) {
+      const diffH = Math.round((Date.now() - new Date(data.generated_at)) / 3600000);
+      document.getElementById('update-badge').textContent = `Actualitzat fa ${diffH}h`;
     }
-    
-    const cls = ['cal-day', isToday ? 'today' : '', isSelected ? 'selected' : '', dayEvents.length ? 'has-events' : ''].filter(Boolean).join(' ');
-    html += `<div class="${cls}" onclick="selectDate('${dateStr}')"><span>${d}</span>${dots}</div>`;
+  } catch(e) {
+    console.warn('No data found:', e.message);
+    EVENTS = [];
   }
-  
-  document.getElementById('cal-grid').innerHTML = html;
+  render();
 }
 
-function prevMonth() {
-  currentDate.setMonth(currentDate.getMonth() - 1);
-  renderCalendar();
-}
-
-function nextMonth() {
-  currentDate.setMonth(currentDate.getMonth() + 1);
-  renderCalendar();
-}
-
-function selectDate(dateStr) {
-  selectedDate = selectedDate === dateStr ? null : dateStr;
-  renderCalendar();
-  renderEvents();
-  if (selectedDate) {
-    const days = ['Diumenge','Dilluns','Dimarts','Dimecres','Dijous','Divendres','Dissabte'];
-    const months = ['Gener','Febrer','Març','Abril','Maig','Juny','Juliol','Agost','Setembre','Octubre','Novembre','Desembre'];
-    const d = new Date(dateStr + 'T00:00:00');
-    document.getElementById('content-title').textContent = `${days[d.getDay()]}, ${d.getDate()} ${months[d.getMonth()]}`;
-  } else {
-    document.getElementById('content-title').textContent = 'Pròxims events';
-  }
-}
-
-// ─── VENUES ─────────────────────────────────────────────────────────────────
-function renderVenues() {
-  const venueCounts = {};
-  EVENTS.forEach(e => {
-    venueCounts[e.venue] = (venueCounts[e.venue] || 0) + 1;
-  });
-  
-  const html = Object.entries(venueCounts).map(([v, c]) => `
-    <div class="venue-item">
-      <div class="venue-dot" style="background:${VENUE_COLORS[v] || '#8C8070'}"></div>
-      <span class="venue-name">${v}</span>
-      <span class="venue-count">${c}</span>
-    </div>
-  `).join('');
-  
-  document.getElementById('venue-list').innerHTML = html;
-}
-
-// ─── EVENTS ─────────────────────────────────────────────────────────────────
-function getFilteredEvents() {
-  let events = [...EVENTS];
-  if (selectedDate) events = events.filter(e => e.date === selectedDate);
-  if (activeFilter === 'free') events = events.filter(e => e.free);
-  else if (activeFilter !== 'all') events = events.filter(e => e.type === activeFilter || e.tags.includes(activeFilter));
-  return events.sort((a, b) => a.date.localeCompare(b.date) || a.time.localeCompare(b.time));
-}
-
-function renderEvents() {
-  const events = getFilteredEvents();
-  document.getElementById('event-count').textContent = `${events.length} event${events.length !== 1 ? 's' : ''}`;
-  
-  if (currentView === 'list') {
-    renderListView(events);
-  } else {
-    renderGridView(events);
-  }
-}
-
-function renderListView(events) {
-  if (!events.length) {
-    document.getElementById('list-view').innerHTML = `
-      <div class="empty-state">
-        <div class="emoji">🔍</div>
-        <h3>Cap event trobat</h3>
-        <p>Prova un altre filtre o data</p>
-      </div>`;
-    return;
-  }
-  
-  const days = ['Diumenge','Dilluns','Dimarts','Dimecres','Dijous','Divendres','Dissabte'];
-  const months = ['gen','feb','mar','abr','mai','jun','jul','ago','set','oct','nov','des'];
-  
-  const grouped = {};
-  events.forEach(e => {
-    if (!grouped[e.date]) grouped[e.date] = [];
-    grouped[e.date].push(e);
-  });
-  
-  const html = Object.entries(grouped).map(([date, dayEvents]) => {
-    const d = new Date(date + 'T00:00:00');
-    const cards = dayEvents.map(e => `
-      <div class="event-card" data-type="${e.type}" onclick="openModal(${e.id})">
-        <div class="event-time">
-          <span class="time-main">${e.time}</span>
-          ${e.endTime ? `fins ${e.endTime}` : ''}
-        </div>
-        <div class="event-body">
-          <div class="event-title">${e.title}</div>
-          <div class="event-venue">${e.venue}</div>
-          <div class="event-tags">
-            ${e.tags.map(t => `<span class="tag ${t}">${tagLabel(t)}</span>`).join('')}
-          </div>
-        </div>
-        <div class="event-right">
-          <span class="event-price ${e.free ? 'free' : ''}">${e.price}</span>
-          <button class="btn-tickets" onclick="event.stopPropagation()">Entrades</button>
-        </div>
-      </div>
-    `).join('');
-    
-    return `
-      <div class="day-group">
-        <div class="day-label">
-          <div class="day-num">${d.getDate()}</div>
-          <div class="day-info">
-            <span class="day-name">${days[d.getDay()]}</span>
-            <span class="day-full">${months[d.getMonth()]}. ${d.getFullYear()}</span>
-          </div>
-        </div>
-        <div class="events-list">${cards}</div>
-      </div>
-    `;
-  }).join('');
-  
-  document.getElementById('list-view').innerHTML = html;
-}
-
-function renderGridView(events) {
-  if (!events.length) {
-    document.getElementById('grid-view').innerHTML = `
-      <div class="empty-state" style="grid-column:1/-1">
-        <div class="emoji">🔍</div>
-        <h3>Cap event trobat</h3>
-        <p>Prova un altre filtre o data</p>
-      </div>`;
-    return;
-  }
-  
-  const html = events.map(e => `
-    <div class="grid-card" onclick="openModal(${e.id})">
-      <div class="grid-card-top" style="background:${e.bg}">
-        ${e.emoji}
-        <span class="grid-date">${e.date.slice(5)} · ${e.time}</span>
-      </div>
-      <div class="grid-card-body">
-        <div class="grid-card-title">${e.title}</div>
-        <div class="grid-card-venue">${e.venue}</div>
-        <div class="grid-card-footer">
-          <div class="event-tags">
-            ${e.tags.slice(0,1).map(t => `<span class="tag ${t}">${tagLabel(t)}</span>`).join('')}
-          </div>
-          <span class="event-price ${e.free ? 'free' : ''}" style="font-family:'DM Mono',monospace;font-size:13px">${e.price}</span>
-        </div>
-      </div>
-    </div>
-  `).join('');
-  
-  document.getElementById('grid-view').innerHTML = html;
-}
-
-function tagLabel(t) {
-  const labels = {music:'Música',art:'Art',food:'Food',culture:'Cultura',family:'Família',free:'Gratuït'};
-  return labels[t] || t;
-}
-
-// ─── FILTER ──────────────────────────────────────────────────────────────────
+// ─── FILTER ───────────────────────────────────────────────────────────────────
 function filterEvents(type, btn) {
   activeFilter = type;
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
-  renderEvents();
+  render();
 }
 
-// ─── VIEW TOGGLE ─────────────────────────────────────────────────────────────
-function setView(view) {
-  currentView = view;
-  const listView = document.getElementById('list-view');
-  const gridView = document.getElementById('grid-view');
-  
-  if (view === 'list') {
-    listView.classList.remove('hidden');
-    gridView.classList.remove('active');
-    document.getElementById('btn-list').classList.add('active');
-    document.getElementById('btn-grid').classList.remove('active');
-  } else {
-    listView.classList.add('hidden');
-    gridView.classList.add('active');
-    document.getElementById('btn-grid').classList.add('active');
-    document.getElementById('btn-list').classList.remove('active');
+function getFiltered() {
+  let events = [...EVENTS];
+  if (activeFilter === 'free') return events.filter(e => e.free);
+  if (activeFilter !== 'all') return events.filter(e => e.type === activeFilter || (e.tags || []).includes(activeFilter));
+  return events;
+}
+
+// ─── RENDER ───────────────────────────────────────────────────────────────────
+function render() {
+  const events = getFiltered();
+  const main = document.getElementById('main-content');
+
+  if (!events.length) {
+    main.innerHTML = `<div class="empty-state"><h3>Cap event trobat</h3><p>Prova un altre filtre</p></div>`;
+    return;
   }
-  renderEvents();
+
+  // Group by month, then by day
+  let html = '';
+  let lastMonth = null;
+  let lastDate = null;
+
+  for (const e of events) {
+    const d = new Date(e.date + 'T00:00:00');
+    const monthKey = `${d.getFullYear()}-${d.getMonth()}`;
+    const dateKey = e.date;
+
+    // Month heading
+    if (monthKey !== lastMonth) {
+      html += `<h2 class="month-heading">${MONTHS_CA[d.getMonth()]} ${d.getFullYear()}</h2>`;
+      lastMonth = monthKey;
+      lastDate = null; // reset day within new month
+    }
+
+    // Day column: only show number on first event of the day
+    const showDay = dateKey !== lastDate;
+    const dayCol = showDay
+      ? `<div class="day-col">
+           <span class="day-num">${d.getDate()}</span>
+           <span class="day-name">${DAYS_CA[d.getDay()].toLowerCase()}</span>
+         </div>`
+      : `<div class="day-col empty"><span class="day-num">${d.getDate()}</span></div>`;
+    lastDate = dateKey;
+
+    // Image
+    const imgCol = e.image
+      ? `<div class="event-img-wrap"><img class="event-img" src="${escHtml(e.image)}" alt="${escHtml(e.title)}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=event-img-placeholder>${EVENT_EMOJI[e.type]||'🗓'}</div>'"></div>`
+      : `<div class="event-img-wrap"><div class="event-img-placeholder">${EVENT_EMOJI[e.type] || '🗓'}</div></div>`;
+
+    // Category + source
+    const catLabel = CATEGORY_LABELS[e.type] || e.type || '';
+    const meta = `<div class="event-meta"><span class="event-category">${escHtml(catLabel)}</span>${e.source ? ` <span class="event-source">${escHtml(e.source)}</span>` : ''}</div>`;
+
+    // Time + venue + price
+    let details = '';
+    if (e.time) details += `<span class="event-time">${escHtml(e.time)}</span>`;
+    if (e.venue) details += `<span class="event-venue">${escHtml(e.venue)}</span>`;
+    if (e.price || e.free) {
+      const priceText = e.free ? 'Gratuït' : e.price;
+      const priceClass = e.free ? 'event-price' : 'event-price paid';
+      details += `<span class="${priceClass}">${escHtml(priceText)}</span>`;
+    }
+
+    html += `
+      <div class="event-row" onclick="openModal(${e.id})">
+        ${dayCol}
+        ${imgCol}
+        <div class="event-text">
+          ${meta}
+          <h3 class="event-title">${escHtml(e.title)}</h3>
+          ${e.desc ? `<p class="event-desc">${escHtml(e.desc.slice(0, 180))}${e.desc.length > 180 ? '…' : ''}</p>` : ''}
+          <div class="event-details">${details}</div>
+        </div>
+      </div>`;
+  }
+
+  main.innerHTML = html;
 }
 
-// ─── MODAL ───────────────────────────────────────────────────────────────────
+// ─── MODAL ────────────────────────────────────────────────────────────────────
 function openModal(id) {
   const e = EVENTS.find(ev => ev.id === id);
   if (!e) return;
-  
-  const days = ['Diumenge','Dilluns','Dimarts','Dimecres','Dijous','Divendres','Dissabte'];
-  const months = ['Gener','Febrer','Març','Abril','Maig','Juny','Juliol','Agost','Setembre','Octubre','Novembre','Desembre'];
+
   const d = new Date(e.date + 'T00:00:00');
-  
+  const dateStr = `${DAYS_CA[d.getDay()]}, ${d.getDate()} ${MONTHS_CA[d.getMonth()]}`;
+  const catLabel = CATEGORY_LABELS[e.type] || e.type || '';
+
+  const imgHtml = e.image
+    ? `<div class="modal-img"><img src="${escHtml(e.image)}" alt="${escHtml(e.title)}"></div>`
+    : `<div class="modal-img">${EVENT_EMOJI[e.type] || '🗓'}</div>`;
+
   document.getElementById('modal-content').innerHTML = `
-    <div class="modal-top" style="background:${e.bg}">
-      ${e.emoji}
-      <button class="modal-close" onclick="closeModal()">✕</button>
-    </div>
+    ${imgHtml}
+    <button class="modal-close" onclick="closeModal()">✕</button>
     <div class="modal-body">
-      <div class="modal-meta">
-        ${e.tags.map(t => `<span class="tag ${t}">${tagLabel(t)}</span>`).join('')}
-      </div>
-      <h2 class="modal-title">${e.title}</h2>
+      <div class="modal-meta"><strong>${escHtml(catLabel)}</strong>${e.source ? ` · ${escHtml(e.source)}` : ''}</div>
+      <h2 class="modal-title">${escHtml(e.title)}</h2>
       <div class="modal-info">
-        <div class="modal-info-item">
-          <label>Data</label>
-          <span>${days[d.getDay()]}, ${d.getDate()} ${months[d.getMonth()]}</span>
-        </div>
-        <div class="modal-info-item">
-          <label>Hora</label>
-          <span>${e.time}${e.endTime ? ' – ' + e.endTime : ''}</span>
-        </div>
-        <div class="modal-info-item">
-          <label>Espai</label>
-          <span>${e.venue}</span>
-        </div>
-        <div class="modal-info-item">
-          <label>Preu</label>
-          <span style="color:${e.free ? 'var(--tag-free)' : 'inherit'}">${e.price}</span>
-        </div>
+        <div class="modal-info-item"><label>Data</label><span>${dateStr}</span></div>
+        <div class="modal-info-item"><label>Hora</label><span>${e.time || '—'}</span></div>
+        <div class="modal-info-item"><label>Espai</label><span>${escHtml(e.venue || '—')}</span></div>
+        <div class="modal-info-item"><label>Preu</label><span>${e.free ? 'Gratuït' : escHtml(e.price || '—')}</span></div>
       </div>
-      <p class="modal-desc">${e.desc}</p>
+      ${e.desc ? `<p class="modal-desc">${escHtml(e.desc)}</p>` : ''}
       <div class="modal-actions">
-        <button class="btn-primary">🎟 Comprar entrades</button>
-        <button class="btn-secondary">♡ Guardar</button>
-        <button class="btn-secondary">↗ Compartir</button>
+        ${e.url ? `<button class="btn-primary" onclick="window.open('${escHtml(e.url)}','_blank')">Més informació →</button>` : ''}
+        <button class="btn-secondary" onclick="closeModal()">Tancar</button>
       </div>
-    </div>
-  `;
-  
+    </div>`;
+
   document.getElementById('modal').classList.add('open');
 }
 
@@ -1125,8 +504,14 @@ function closeModal(evt) {
 
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
 
-// ─── INIT ────────────────────────────────────────────────────────────────────
-loadEvents(); // carga desde data/bcn_agenda.json (o demo si no existe)
+// ─── UTILS ────────────────────────────────────────────────────────────────────
+function escHtml(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ─── INIT ─────────────────────────────────────────────────────────────────────
+loadEvents();
 </script>
 </body>
 </html>
