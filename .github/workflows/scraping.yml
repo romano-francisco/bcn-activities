@@ -13,6 +13,9 @@ on:
         default: "false"
         type: boolean
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
