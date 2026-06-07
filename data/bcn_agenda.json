@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T04:59:16.993440",
+  "generated_at": "2026-06-07T05:28:18.162402",
   "sources": [
     "cccb",
     "damm",
@@ -9,71 +9,8 @@
     "grec",
     "santpau"
   ],
-  "total": 98,
+  "total": 99,
   "events": [
-    {
-      "title": "Mercat de Glòries",
-      "venue": "Mercat de Glòries",
-      "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dissabtes 9h–15h",
-      "description": "Mercat tradicional al carrer a la Plaça de les Glòries. Productes de proximitat, roba vintage, artesania i menjar de mercat.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🛒",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-06-06",
-      "date_end": "2026-06-06",
-      "time": "09:00",
-      "id": 1
-    },
-    {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-06-06",
-      "date_end": "2026-06-06",
-      "time": "09:00",
-      "id": 2
-    },
-    {
-      "id": 3,
-      "date": "2026-06-06",
-      "date_end": "",
-      "time": "18:30",
-      "title": "Cor Petits i Cor Mitjans de l’Orfeó Català & Coral Xiquets de l’Orfeó Lleidatà",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—‘Les estacions!’",
-      "url": "https://www.palaumusica.cat/ca/cor-petits-i-cor-mitjans-de-l-orfeo-catala-coral-xiquets-de-l-orfeo-lleidata_1461022",
-      "image": "https://www.palaumusica.cat/images/1645533/image_column.jpg",
-      "source": "Palau de la Música"
-    },
     {
       "title": "Mercat de l'Avinguda Gaudí",
       "venue": "Avinguda Gaudí",
@@ -93,10 +30,52 @@
       "date": "2026-06-07",
       "date_end": "2026-06-07",
       "time": "",
-      "id": 4
+      "id": 1
     },
     {
-      "id": 5,
+      "id": 2,
+      "date": "2026-06-07",
+      "date_end": "",
+      "time": "21:30",
+      "title": "Gran Gala Flamenc",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
+      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 3,
+      "date": "2026-06-08",
+      "date_end": "",
+      "time": "19:00",
+      "title": "58è Premi d’Honor de les Lletres Catalanes 2026",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Biel Mesquida",
+      "url": "https://www.palaumusica.cat/ca/58e-premi-d-honor-de-les-lletres-catalanes-2026_1636408",
+      "image": "https://www.palaumusica.cat/images/1636463/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 4,
       "date": "2026-06-09",
       "date_end": "",
       "time": "20:00",
@@ -117,7 +96,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 6,
+      "id": 5,
       "date": "2026-06-10",
       "date_end": "",
       "time": "",
@@ -156,10 +135,10 @@
       "date": "2026-06-10",
       "date_end": "2026-06-10",
       "time": "09:00",
-      "id": 7
+      "id": 6
     },
     {
-      "id": 8,
+      "id": 7,
       "date": "2026-06-11",
       "date_end": "",
       "time": "",
@@ -181,7 +160,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 9,
+      "id": 8,
       "date": "2026-06-12",
       "date_end": "",
       "time": "",
@@ -220,10 +199,10 @@
       "date": "2026-06-12",
       "date_end": "2026-06-12",
       "time": "09:00",
-      "id": 10
+      "id": 9
     },
     {
-      "id": 11,
+      "id": 10,
       "date": "2026-06-13",
       "date_end": "",
       "time": "",
@@ -262,7 +241,7 @@
       "date": "2026-06-13",
       "date_end": "2026-06-13",
       "time": "09:00",
-      "id": 12
+      "id": 11
     },
     {
       "title": "Mercat dels Encants",
@@ -283,7 +262,7 @@
       "date": "2026-06-13",
       "date_end": "2026-06-13",
       "time": "09:00",
-      "id": 13
+      "id": 12
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -304,10 +283,10 @@
       "date": "2026-06-14",
       "date_end": "2026-06-14",
       "time": "",
-      "id": 14
+      "id": 13
     },
     {
-      "id": 15,
+      "id": 14,
       "date": "2026-06-15",
       "date_end": "",
       "time": "20:00",
@@ -328,7 +307,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 16,
+      "id": 15,
       "date": "2026-06-17",
       "date_end": "2026-07-05",
       "time": "",
@@ -367,10 +346,10 @@
       "date": "2026-06-17",
       "date_end": "2026-06-17",
       "time": "09:00",
-      "id": 17
+      "id": 16
     },
     {
-      "id": 18,
+      "id": 17,
       "date": "2026-06-17",
       "date_end": "",
       "time": "20:00",
@@ -409,10 +388,10 @@
       "date": "2026-06-19",
       "date_end": "2026-06-19",
       "time": "09:00",
-      "id": 19
+      "id": 18
     },
     {
-      "id": 20,
+      "id": 19,
       "date": "2026-06-20",
       "date_end": "",
       "time": "",
@@ -451,7 +430,7 @@
       "date": "2026-06-20",
       "date_end": "2026-06-20",
       "time": "09:00",
-      "id": 21
+      "id": 20
     },
     {
       "title": "Mercat dels Encants",
@@ -472,7 +451,7 @@
       "date": "2026-06-20",
       "date_end": "2026-06-20",
       "time": "09:00",
-      "id": 22
+      "id": 21
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -493,10 +472,10 @@
       "date": "2026-06-21",
       "date_end": "2026-06-21",
       "time": "",
-      "id": 23
+      "id": 22
     },
     {
-      "id": 24,
+      "id": 23,
       "date": "2026-06-23",
       "date_end": "",
       "time": "",
@@ -517,7 +496,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 25,
+      "id": 24,
       "date": "2026-06-24",
       "date_end": "",
       "time": "",
@@ -557,10 +536,10 @@
       "date": "2026-06-24",
       "date_end": "2026-06-24",
       "time": "09:00",
-      "id": 26
+      "id": 25
     },
     {
-      "id": 27,
+      "id": 26,
       "date": "2026-06-25",
       "date_end": "2026-07-30",
       "time": "",
@@ -582,7 +561,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 28,
+      "id": 27,
       "date": "2026-06-25",
       "date_end": "2026-07-05",
       "time": "",
@@ -621,10 +600,10 @@
       "date": "2026-06-26",
       "date_end": "2026-06-26",
       "time": "09:00",
-      "id": 29
+      "id": 28
     },
     {
-      "id": 30,
+      "id": 29,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -645,7 +624,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 31,
+      "id": 30,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -666,7 +645,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 32,
+      "id": 31,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -687,7 +666,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 33,
+      "id": 32,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -708,7 +687,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 34,
+      "id": 33,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -747,7 +726,7 @@
       "date": "2026-06-27",
       "date_end": "2026-06-27",
       "time": "09:00",
-      "id": 35
+      "id": 34
     },
     {
       "title": "Mercat dels Encants",
@@ -768,10 +747,10 @@
       "date": "2026-06-27",
       "date_end": "2026-06-27",
       "time": "09:00",
-      "id": 36
+      "id": 35
     },
     {
-      "id": 37,
+      "id": 36,
       "date": "2026-06-28",
       "date_end": "",
       "time": "",
@@ -810,10 +789,10 @@
       "date": "2026-06-28",
       "date_end": "2026-06-28",
       "time": "",
-      "id": 38
+      "id": 37
     },
     {
-      "id": 39,
+      "id": 38,
       "date": "2026-06-29",
       "date_end": "2026-07-01",
       "time": "",
@@ -834,7 +813,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 40,
+      "id": 39,
       "date": "2026-06-30",
       "date_end": "",
       "time": "",
@@ -855,7 +834,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 41,
+      "id": 40,
       "date": "2026-06-30",
       "date_end": "2026-07-31",
       "time": "",
@@ -876,7 +855,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 42,
+      "id": 41,
       "date": "2026-06-30",
       "date_end": "2026-07-26",
       "time": "",
@@ -897,7 +876,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 43,
+      "id": 42,
       "date": "2026-06-30",
       "date_end": "2026-07-09",
       "time": "",
@@ -919,7 +898,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 44,
+      "id": 43,
       "date": "2026-07-01",
       "date_end": "",
       "time": "",
@@ -959,10 +938,10 @@
       "date": "2026-07-01",
       "date_end": "2026-07-01",
       "time": "09:00",
-      "id": 45
+      "id": 44
     },
     {
-      "id": 46,
+      "id": 45,
       "date": "2026-07-03",
       "date_end": "",
       "time": "",
@@ -983,7 +962,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 47,
+      "id": 46,
       "date": "2026-07-03",
       "date_end": "",
       "time": "",
@@ -1022,10 +1001,52 @@
       "date": "2026-07-03",
       "date_end": "2026-07-03",
       "time": "09:00",
+      "id": 47
+    },
+    {
+      "title": "Mercat de Glòries",
+      "venue": "Mercat de Glòries",
+      "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dissabtes 9h–15h",
+      "description": "Mercat tradicional al carrer a la Plaça de les Glòries. Productes de proximitat, roba vintage, artesania i menjar de mercat.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🛒",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-07-04",
+      "date_end": "2026-07-04",
+      "time": "09:00",
       "id": 48
     },
     {
-      "id": 49,
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-07-04",
+      "date_end": "2026-07-04",
+      "time": "09:00",
+      "id": 49
+    },
+    {
+      "id": 50,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -1046,7 +1067,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 50,
+      "id": 51,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -1067,7 +1088,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 51,
+      "id": 52,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1088,7 +1109,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 52,
+      "id": 53,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1109,7 +1130,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 53,
+      "id": 54,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1131,7 +1152,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 54,
+      "id": 55,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1152,7 +1173,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 55,
+      "id": 56,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1173,7 +1194,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 56,
+      "id": 57,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1194,7 +1215,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 57,
+      "id": 58,
       "date": "2026-07-09",
       "date_end": "2026-07-11",
       "time": "",
@@ -1216,7 +1237,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 58,
+      "id": 59,
       "date": "2026-07-10",
       "date_end": "",
       "time": "",
@@ -1237,7 +1258,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 59,
+      "id": 60,
       "date": "2026-07-11",
       "date_end": "",
       "time": "",
@@ -1259,7 +1280,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 60,
+      "id": 61,
       "date": "2026-07-11",
       "date_end": "",
       "time": "",
@@ -1280,7 +1301,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 61,
+      "id": 62,
       "date": "2026-07-11",
       "date_end": "",
       "time": "",
@@ -1301,7 +1322,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 62,
+      "id": 63,
       "date": "2026-07-12",
       "date_end": "",
       "time": "",
@@ -1323,7 +1344,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 63,
+      "id": 64,
       "date": "2026-07-12",
       "date_end": "",
       "time": "",
@@ -1344,7 +1365,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 64,
+      "id": 65,
       "date": "2026-07-12",
       "date_end": "",
       "time": "",
@@ -1365,7 +1386,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 65,
+      "id": 66,
       "date": "2026-07-13",
       "date_end": "",
       "time": "",
@@ -1386,7 +1407,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 66,
+      "id": 67,
       "date": "2026-07-15",
       "date_end": "",
       "time": "",
@@ -1408,7 +1429,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 67,
+      "id": 68,
       "date": "2026-07-15",
       "date_end": "",
       "time": "",
@@ -1429,7 +1450,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 68,
+      "id": 69,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -1450,7 +1471,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 69,
+      "id": 70,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -1471,7 +1492,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 70,
+      "id": 71,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -1492,7 +1513,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 71,
+      "id": 72,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -1513,7 +1534,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 72,
+      "id": 73,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -1534,7 +1555,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 73,
+      "id": 74,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -1556,7 +1577,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 74,
+      "id": 75,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -1577,7 +1598,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 75,
+      "id": 76,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -1598,7 +1619,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 76,
+      "id": 77,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -1619,7 +1640,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 77,
+      "id": 78,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -1640,7 +1661,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 78,
+      "id": 79,
       "date": "2026-07-20",
       "date_end": "",
       "time": "",
@@ -1662,7 +1683,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 79,
+      "id": 80,
       "date": "2026-07-21",
       "date_end": "",
       "time": "",
@@ -1683,7 +1704,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 80,
+      "id": 81,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -1704,7 +1725,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 81,
+      "id": 82,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -1726,7 +1747,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 82,
+      "id": 83,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -1747,7 +1768,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 83,
+      "id": 84,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -1769,7 +1790,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 84,
+      "id": 85,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -1790,7 +1811,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 85,
+      "id": 86,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -1811,7 +1832,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 86,
+      "id": 87,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -1832,7 +1853,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 87,
+      "id": 88,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -1853,7 +1874,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 88,
+      "id": 89,
       "date": "2026-07-26",
       "date_end": "",
       "time": "",
@@ -1874,7 +1895,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 89,
+      "id": 90,
       "date": "2026-07-26",
       "date_end": "",
       "time": "",
@@ -1895,7 +1916,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 90,
+      "id": 91,
       "date": "2026-07-27",
       "date_end": "",
       "time": "",
@@ -1916,7 +1937,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 91,
+      "id": 92,
       "date": "2026-07-28",
       "date_end": "",
       "time": "",
@@ -1937,7 +1958,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 92,
+      "id": 93,
       "date": "2026-07-29",
       "date_end": "",
       "time": "",
@@ -1959,7 +1980,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 93,
+      "id": 94,
       "date": "2026-07-30",
       "date_end": "",
       "time": "",
@@ -1980,7 +2001,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 94,
+      "id": 95,
       "date": "2026-07-30",
       "date_end": "",
       "time": "",
@@ -2001,7 +2022,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 95,
+      "id": 96,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -2023,7 +2044,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 96,
+      "id": 97,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -2044,7 +2065,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 97,
+      "id": 98,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -2065,7 +2086,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 98,
+      "id": 99,
       "date": "2026-08-29",
       "date_end": "",
       "time": "20:00",
