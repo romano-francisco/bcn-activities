@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T05:58:17.506160",
+  "generated_at": "2026-06-09T05:15:04.908700",
   "sources": [
     "cccb",
     "damm",
@@ -9,28 +9,26 @@
     "grec",
     "santpau"
   ],
-  "total": 99,
+  "total": 146,
   "events": [
     {
       "id": 1,
       "date": "2026-06-08",
-      "date_end": "",
-      "time": "19:00",
-      "title": "58è Premi d’Honor de les Lletres Catalanes 2026",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
+      "time": "18:30",
+      "title": "Respiració",
+      "venue": "CCCB",
+      "type": "family",
       "free": false,
       "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
       "tags": [
-        "music"
+        "family"
       ],
-      "desc": "Biel Mesquida",
-      "url": "https://www.palaumusica.cat/ca/58e-premi-d-honor-de-les-lletres-catalanes-2026_1636408",
-      "image": "https://www.palaumusica.cat/images/1636463/image_column.jpg",
-      "source": "Palau de la Música"
+      "desc": "8 - 29 de juny 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/respiracio",
+      "image": "https://www.cccb.org/documents/4284035/6366026/Respiraci%C3%B3+IHB-CCCB.jpg/b988e20e-3171-ead4-74cf-4fa8213fe5d2?version=1.0&t=1773316187977",
+      "source": "CCCB"
     },
     {
       "id": 2,
@@ -56,6 +54,25 @@
     {
       "id": 3,
       "date": "2026-06-09",
+      "time": "18:00",
+      "title": "Presentació i visita a «El culte a la bellesa»",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "9 de juny 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/presentacio-i-visita-a-el-culte-a-la-bellesa",
+      "image": "https://www.cccb.org/documents/4284035/4287122/Copia+de+Web+1920x1080+%288%29.jpg/f7ae5464-060a-7916-d937-765ead11a4c3?version=1.1&t=1779200894985",
+      "source": "CCCB"
+    },
+    {
+      "id": 4,
+      "date": "2026-06-09",
       "date_end": "",
       "time": "20:00",
       "title": "Quartet Casals & Mélnikov",
@@ -75,7 +92,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 4,
+      "id": 5,
       "date": "2026-06-10",
       "date_end": "",
       "time": "",
@@ -114,10 +131,88 @@
       "date": "2026-06-10",
       "date_end": "2026-06-10",
       "time": "09:00",
-      "id": 5
+      "id": 6
     },
     {
-      "id": 6,
+      "id": 7,
+      "date": "2026-06-10",
+      "time": "18:30",
+      "title": "La novel·la autobiogràfica",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "10 de març - 9 de juny 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/la-novella-autobiografica",
+      "image": "https://www.cccb.org/documents/4284035/4646826/Novel_la_1.jpg/bb8cada9-5a4d-864f-5cbe-f46f97753e48?version=1.0&t=1773316196462",
+      "source": "CCCB"
+    },
+    {
+      "id": 8,
+      "date": "2026-06-10",
+      "time": "18:30",
+      "title": "Quan la guerra és una nota a peu de pàgina",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "10 de juny 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/quan-la-guerra-es-una-nota-a-peu-de-pagina",
+      "image": "https://www.cccb.org/documents/4284035/6523845/Dia+Orwell+2026_Cicle+Mariam+Barghouti+_Zeinab+Salih_2+%281%29.jpg/f28ce3fe-799d-e901-99c3-8c7ac1b175f1?version=1.0&t=1776721050148",
+      "source": "CCCB"
+    },
+    {
+      "id": 9,
+      "date": "2026-06-10",
+      "time": "19:00",
+      "title": "Grec 2026: trobada amb els seus protagonistes",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "10 de juny 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/grec-2026-trobada-amb-els-seus-protagonistes",
+      "image": "https://www.cccb.org/documents/4284035/6555880/grec_2026.jpg/503fd9df-3372-9870-fded-94ee38278dd3?version=1.0&t=1776329797666",
+      "source": "CCCB"
+    },
+    {
+      "id": 10,
+      "date": "2026-06-10",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Cor de Cambra del Palau, Cor Jove i Cor de Noies de l’Orfeó Català, Philharmonia Orchestra & Alsop",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—‘Els set somnis de Gaudí’",
+      "url": "https://www.palaumusica.cat/ca/cor-de-cambra-del-palau-cor-jove-i-cor-de-noies-de-l-orfeo-catala-philharmonia-orchestra-alsop_1461013",
+      "image": "https://www.palaumusica.cat/images/1465135/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 11,
       "date": "2026-06-11",
       "date_end": "",
       "time": "",
@@ -139,7 +234,45 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 7,
+      "id": 12,
+      "date": "2026-06-11",
+      "time": "18:30",
+      "title": "Visita a «El culte a la bellesa» amb Eloy Fernández Porta",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "11 de juny 2026 Visites",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-a-el-culte-a-la-bellesa-amb-eloy-fernandez-porta",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Eloy+Fernandez+Porta.jpg/bf3480ad-f6e9-5754-6835-2a1402d859d9?version=1.0&t=1778750001370",
+      "source": "CCCB"
+    },
+    {
+      "id": 13,
+      "date": "2026-06-11",
+      "time": "19:00",
+      "title": "Anatxu Zabalbeascoa i Elías León Siminiani",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "11 de juny 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/anatxu-zabalbeascoa-i-elias-leon-siminiani",
+      "image": "https://www.cccb.org/documents/4284035/6555893/Anatxu+Zabalbaescoa+i+El%C3%ADas+Le%C3%B3n+Siminiani_1920x1080.jpg/4a77bef9-a3bf-0be2-044a-457d3948b59f?version=1.0&t=1780913516633",
+      "source": "CCCB"
+    },
+    {
+      "id": 14,
       "date": "2026-06-12",
       "date_end": "",
       "time": "",
@@ -178,14 +311,35 @@
       "date": "2026-06-12",
       "date_end": "2026-06-12",
       "time": "09:00",
-      "id": 8
+      "id": 15
     },
     {
-      "id": 9,
+      "id": 16,
+      "date": "2026-06-12",
+      "date_end": "",
+      "time": "19:30",
+      "title": "Sabrina Gárdez & Bernardo Rambeaud",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—L'esperit cosmopolita de la música espanyola",
+      "url": "https://www.palaumusica.cat/ca/sabrina-gardez-bernardo-rambeaud_1460709",
+      "image": "https://www.palaumusica.cat/images/1462699/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 17,
       "date": "2026-06-13",
       "date_end": "",
       "time": "",
-      "title": "Primavera Sound: Maria Hein + DJ Nahoomie",
+      "title": "Maria Hein + DJ Nahoomie: una programació 'curated by' Primavera Sound",
       "venue": "Time Out Market Barcelona",
       "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
       "type": "music",
@@ -196,8 +350,8 @@
       "tags": [
         "music"
       ],
-      "desc": "“God help me, ah! Lady Maria, thief of my heart!” If The Lady of Mallorca has also stolen your heart, then know that this June she’ll be stepping onto the stage at Time Out Market. The song title fits the performer herself like a glove: besides being a Mallorcan singer, Maria Hein almost seems to be portraying herself through this traditional island song (it’s hard not to notice the resemblance to the girl described in the single as having “long golden hair reaching down to her heels”). A breakthrough hit and one of the defining moments of her career, opening the door to a fusion of electronic music and folk.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/music/primavera-sound-maria-hein-dj-nahoomie",
+      "desc": "\"Valga'm Déu, ai! na Maria, robadora del meu cor!\".Si a vosaltres La dama de Mallorca també us ha robat el cor, sapigueu que posarà els seus talons sobre el Time Out Market aquest juny. Un títol de cançó que va com anell al dit per utilitzar-lo com a sobrenom de la mateixa intèrpret, Maria Hein: a banda de ser una cantant mallorquina, sembla que faci gala d'ella mateixa en aquesta cançó popular de l'illa (impossible no trobar la similitud amb la noia que “té sa cabellera rossa i llarga fins es talons” que descriu el senzill). Un hit trencador, un dels més importants de la seva carrera, que va obrir la porta a la fusió entre l’electrònica i el folk.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/ca/musica/primavera-sound-maria-hein-dj-nahoomiemie",
       "image": "https://media.timeout.com/images/106410691/750/422/image.jpg",
       "source": "Time Out Market Barcelona"
     },
@@ -220,7 +374,7 @@
       "date": "2026-06-13",
       "date_end": "2026-06-13",
       "time": "09:00",
-      "id": 10
+      "id": 18
     },
     {
       "title": "Mercat dels Encants",
@@ -241,7 +395,26 @@
       "date": "2026-06-13",
       "date_end": "2026-06-13",
       "time": "09:00",
-      "id": 11
+      "id": 19
+    },
+    {
+      "id": 20,
+      "date": "2026-06-13",
+      "time": "18:30",
+      "title": "Sobre la imaginació apocalíptica",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "13 de maig - 17 de juny 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/sobre-la-imaginacio-apocaliptica",
+      "image": "https://www.cccb.org/documents/4284035/6366026/Imaginaci%C3%B3+Apocal%C3%ADptica+IHB-CCCB.jpg/513b29cf-2cec-7579-091d-d9b16c409e0b?version=1.0&t=1773316187977",
+      "source": "CCCB"
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -262,10 +435,67 @@
       "date": "2026-06-14",
       "date_end": "2026-06-14",
       "time": "",
-      "id": 12
+      "id": 21
     },
     {
-      "id": 13,
+      "id": 22,
+      "date": "2026-06-15",
+      "time": "11:00",
+      "title": "Testimoni, periodisme i drets humans",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "15 de juny 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/testimoni-periodisme-i-drets-humans",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Testimoni%2C+periodisme+i+drets+humans.jpg/65594050-f2cf-1159-4613-13a5a2c6b2d0?version=1.0&t=1778143795111",
+      "source": "CCCB"
+    },
+    {
+      "id": 23,
+      "date": "2026-06-15",
+      "time": "18:00",
+      "title": "+Rain Film Festival 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "15 de juny 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/rain-film-festival-2026",
+      "image": "https://www.cccb.org/documents/5316589/7104589/RAIN_PRINCIPAL_CARTELL+%281%29.jpeg/e13fed72-48a8-4715-4683-1f1315a72813?version=1.0&t=1779350034376",
+      "source": "CCCB"
+    },
+    {
+      "id": 24,
+      "date": "2026-06-15",
+      "time": "18:30",
+      "title": "Jorge Galindo i Carme Trilla",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "15 de juny 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/jorge-galindo-i-carme-trilla",
+      "image": "https://www.cccb.org/documents/4284035/6555884/Carme+Trilla+i+Jorge+Galindo+%281920x1080%29.jpg/2cfe56ad-5c45-8572-8fb8-41daa387c8ec?version=1.0&t=1779114157498",
+      "source": "CCCB"
+    },
+    {
+      "id": 25,
       "date": "2026-06-15",
       "date_end": "",
       "time": "20:00",
@@ -286,7 +516,26 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 14,
+      "id": 26,
+      "date": "2026-06-16",
+      "time": "18:30",
+      "title": "Marta Segarra",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "16 de juny 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/marta-segarra",
+      "image": "https://www.cccb.org/documents/4284035/6523845/Marta+Segarra+%281%29.jpg/1a3818a1-a7c8-6f87-4192-320d8b3d050d?version=1.0&t=1779437028726",
+      "source": "CCCB"
+    },
+    {
+      "id": 27,
       "date": "2026-06-17",
       "date_end": "2026-07-05",
       "time": "",
@@ -302,7 +551,7 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/la-ruta",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-ruta",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
@@ -325,10 +574,48 @@
       "date": "2026-06-17",
       "date_end": "2026-06-17",
       "time": "09:00",
-      "id": 15
+      "id": 28
     },
     {
-      "id": 16,
+      "id": 29,
+      "date": "2026-06-17",
+      "time": "18:30",
+      "title": "El preu de continuar dient la veritat",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "17 de juny 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/el-preu-de-continuar-dient-la-veritat",
+      "image": "https://www.cccb.org/documents/4284035/6365989/Dia+Orwell+2026_Cicle+Mariam+Barghouti+_Laila+Al-Arian_2.jpg/61b15eb8-85b3-9831-73fa-c1fe95f13594?version=1.0&t=1779356592917",
+      "source": "CCCB"
+    },
+    {
+      "id": 30,
+      "date": "2026-06-17",
+      "time": "18:30",
+      "title": "«Els inicis», de Claire Marin",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "17 de juny 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/els-inicis-de-claire-marin",
+      "image": "https://www.cccb.org/documents/4284035/4287122/Klub_de_lectura_1003x560.jpg/ec0c5b3d-1ef5-db83-3557-88a8c4d08ed6?version=1.0&t=1777997512679",
+      "source": "CCCB"
+    },
+    {
+      "id": 31,
       "date": "2026-06-17",
       "date_end": "",
       "time": "20:00",
@@ -349,6 +636,44 @@
       "source": "Palau de la Música"
     },
     {
+      "id": 32,
+      "date": "2026-06-18",
+      "time": "17:30",
+      "title": "Presentació i visita a la col·lecció del MACBA, «Com una dansa d’estornells»",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "18 de juny 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/presentacio-i-visita-a-la-colleccio-del-macba-com-una-dansa-destornells",
+      "image": "https://www.cccb.org/documents/4284035/4287122/Copia+de+Web+1920x1080+%284%29.jpg/29622740-8262-184c-6080-0be9ad6c343b?version=1.1&t=1779200979137",
+      "source": "CCCB"
+    },
+    {
+      "id": 33,
+      "date": "2026-06-18",
+      "time": "18:30",
+      "title": "Visita a «El culte a la bellesa» amb Meri Torras",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "18 de juny 2026 Visites",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-a-el-culte-a-la-bellesa-amb-meri-torras",
+      "image": "https://www.cccb.org/documents/5316589/7087097/Meri+Torras+%281%29+%281%29.jpg/ba741329-3174-54be-aad2-ffbd031037b6?version=1.0&t=1778754383551",
+      "source": "CCCB"
+    },
+    {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
       "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
@@ -367,10 +692,10 @@
       "date": "2026-06-19",
       "date_end": "2026-06-19",
       "time": "09:00",
-      "id": 17
+      "id": 34
     },
     {
-      "id": 18,
+      "id": 35,
       "date": "2026-06-20",
       "date_end": "",
       "time": "",
@@ -409,7 +734,7 @@
       "date": "2026-06-20",
       "date_end": "2026-06-20",
       "time": "09:00",
-      "id": 19
+      "id": 36
     },
     {
       "title": "Mercat dels Encants",
@@ -430,7 +755,28 @@
       "date": "2026-06-20",
       "date_end": "2026-06-20",
       "time": "09:00",
-      "id": 20
+      "id": 37
+    },
+    {
+      "id": 38,
+      "date": "2026-06-20",
+      "date_end": "",
+      "time": "19:00",
+      "title": "Madama Butterfly, de G. Puccini",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Òpera escenificada en dos actes",
+      "url": "https://www.palaumusica.cat/ca/madama-butterfly-de-g-puccini_1081847",
+      "image": "https://www.palaumusica.cat/images/1081839/image_column.webp",
+      "source": "Palau de la Música"
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -451,10 +797,48 @@
       "date": "2026-06-21",
       "date_end": "2026-06-21",
       "time": "",
-      "id": 21
+      "id": 39
     },
     {
-      "id": 22,
+      "id": 40,
+      "date": "2026-06-22",
+      "time": "18:30",
+      "title": "Hashim Sarkis",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "22 de juny 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/hashim-sarkis",
+      "image": "https://www.cccb.org/documents/4284035/6555884/HashimSarkis.jpg/2bd5cb8c-b64e-28b2-1ad9-327bcadeabeb?version=1.0&t=1780570635702",
+      "source": "CCCB"
+    },
+    {
+      "id": 41,
+      "date": "2026-06-22",
+      "time": "18:30",
+      "title": "Homenatge a Catalunya",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "22 de juny 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/homenatge-a-catalunya",
+      "image": "https://www.cccb.org/documents/4284035/6523845/hommage-a-la-catalogne.jpg/a1ff843b-c58f-d062-9498-f4b08b893f1c?version=1.0&t=1774538576800",
+      "source": "CCCB"
+    },
+    {
+      "id": 42,
       "date": "2026-06-23",
       "date_end": "",
       "time": "",
@@ -475,7 +859,26 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 23,
+      "id": 43,
+      "date": "2026-06-24",
+      "time": "",
+      "title": "Rutes i activitats a la Barcelona de George Orwell",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "24 de maig - 18 de juny 2026 Itineraris",
+      "url": "https://www.cccb.org/ca/w/activitats/rutes-i-activitats-a-la-barcelona-de-george-orwell",
+      "image": "https://www.cccb.org/documents/4284035/6523845/Ruta_Orwell_1001px560px.jpg/ca613a88-74b3-e736-5056-d343f2edcd66?version=1.0&t=1774615400476",
+      "source": "CCCB"
+    },
+    {
+      "id": 44,
       "date": "2026-06-24",
       "date_end": "",
       "time": "",
@@ -515,10 +918,10 @@
       "date": "2026-06-24",
       "date_end": "2026-06-24",
       "time": "09:00",
-      "id": 24
+      "id": 45
     },
     {
-      "id": 25,
+      "id": 46,
       "date": "2026-06-25",
       "date_end": "2026-07-30",
       "time": "",
@@ -535,12 +938,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/lalbada",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/lalbada",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 26,
+      "id": 47,
       "date": "2026-06-25",
       "date_end": "2026-07-05",
       "time": "",
@@ -556,7 +959,7 @@
         "culture"
       ],
       "desc": "Dramatúrgia i direcció: Víctor Borràs GaschA partir del llibre de Joan Pinyol Colom",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/avi-et-traure-daqui",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/avi-et-traure-daqui",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
@@ -579,10 +982,10 @@
       "date": "2026-06-26",
       "date_end": "2026-06-26",
       "time": "09:00",
-      "id": 27
+      "id": 48
     },
     {
-      "id": 28,
+      "id": 49,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -603,7 +1006,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 29,
+      "id": 50,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -624,7 +1027,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 30,
+      "id": 51,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -645,7 +1048,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 31,
+      "id": 52,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -666,7 +1069,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 32,
+      "id": 53,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -682,7 +1085,7 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/la-truita",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-truita",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
@@ -705,7 +1108,7 @@
       "date": "2026-06-27",
       "date_end": "2026-06-27",
       "time": "09:00",
-      "id": 33
+      "id": 54
     },
     {
       "title": "Mercat dels Encants",
@@ -726,10 +1129,10 @@
       "date": "2026-06-27",
       "date_end": "2026-06-27",
       "time": "09:00",
-      "id": 34
+      "id": 55
     },
     {
-      "id": 35,
+      "id": 56,
       "date": "2026-06-28",
       "date_end": "",
       "time": "",
@@ -768,10 +1171,10 @@
       "date": "2026-06-28",
       "date_end": "2026-06-28",
       "time": "",
-      "id": 36
+      "id": 57
     },
     {
-      "id": 37,
+      "id": 58,
       "date": "2026-06-29",
       "date_end": "2026-07-01",
       "time": "",
@@ -787,12 +1190,31 @@
         "music"
       ],
       "desc": "Autoria: Bertolt Brecht (text) i Kurt Weill (música)En col·laboració amb Elisabeth Hauptmann",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/lopera-de-tres-rals",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/lopera-de-tres-rals",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 38,
+      "id": 59,
+      "date": "2026-06-29",
+      "time": "18:30",
+      "title": "Yezid Sayigh, Natalia Sancha, Tinhinan El Kadi i Eduard Soler",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "29 de juny 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/yezid-sayigh-natalia-sancha-tinhinan-el-kadi-i-eduard-soler",
+      "image": "https://www.cccb.org/documents/4284035/6555884/gazadesplforcweb.jpg/b711b105-5b02-cc3e-abd3-11f361dba855?version=1.1&t=1779893831102",
+      "source": "CCCB"
+    },
+    {
+      "id": 60,
       "date": "2026-06-30",
       "date_end": "",
       "time": "",
@@ -808,12 +1230,12 @@
         "culture"
       ],
       "desc": "A partir de l’obra d’Oscar Wilde",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/el-retrat-de-dorian-gray",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/el-retrat-de-dorian-gray",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 39,
+      "id": 61,
       "date": "2026-06-30",
       "date_end": "2026-07-31",
       "time": "",
@@ -829,12 +1251,12 @@
         "culture"
       ],
       "desc": "A partir de l’obra de William Shakespeare",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/factory-somni-duna-nit-destiu",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/factory-somni-duna-nit-destiu",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 40,
+      "id": 62,
       "date": "2026-06-30",
       "date_end": "2026-07-26",
       "time": "",
@@ -850,12 +1272,12 @@
         "culture"
       ],
       "desc": "Ricard de 3r i Ricard 111Direcció: Montse Rodríguez i ClusellaAutoria: Gerard Guix",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/anatomia-de-ricard-diptic",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/anatomia-de-ricard-diptic",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 41,
+      "id": 63,
       "date": "2026-06-30",
       "date_end": "2026-07-09",
       "time": "",
@@ -872,12 +1294,31 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/rasa",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/rasa",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 42,
+      "id": 64,
+      "date": "2026-06-30",
+      "time": "18:00",
+      "title": "Presentació i visita a l'exposició «Picasso Xipre. Trobades amb la ceràmica del Mediterrani»",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "30 de juny 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/presentacio-i-visita-a-lexposicio-picasso-xipre-trobades-amb-la-ceramica-del-mediterrani",
+      "image": "https://www.cccb.org/documents/4284035/4287122/Copia+de+Web+1920x1080+%286%29.jpg/e05af049-31d5-ae45-6f3a-6ac864b08f55?version=1.1&t=1779200931669",
+      "source": "CCCB"
+    },
+    {
+      "id": 65,
       "date": "2026-07-01",
       "date_end": "",
       "time": "",
@@ -894,7 +1335,7 @@
         "free"
       ],
       "desc": "Univers Paral·lel x Grec 2026",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/carlos-de-jacoba-ciutat",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/carlos-de-jacoba-ciutat",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
@@ -917,10 +1358,10 @@
       "date": "2026-07-01",
       "date_end": "2026-07-01",
       "time": "09:00",
-      "id": 43
+      "id": 66
     },
     {
-      "id": 44,
+      "id": 67,
       "date": "2026-07-03",
       "date_end": "",
       "time": "",
@@ -936,12 +1377,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/ophelias-got-talent",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/ophelias-got-talent",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 45,
+      "id": 68,
       "date": "2026-07-03",
       "date_end": "",
       "time": "",
@@ -957,7 +1398,7 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/grans-bardisses",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/grans-bardisses",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
@@ -980,7 +1421,26 @@
       "date": "2026-07-03",
       "date_end": "2026-07-03",
       "time": "09:00",
-      "id": 46
+      "id": 69
+    },
+    {
+      "id": 70,
+      "date": "2026-07-04",
+      "time": "",
+      "title": "Creure en les màscares",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "4 - 5 de juliol 2026 Escena",
+      "url": "https://www.cccb.org/ca/w/activitats/creure-en-les-mascares",
+      "image": "https://www.cccb.org/documents/4284035/6540101/castellucci_credere+maschere_lorenza+daverio_web.jpg/db21abff-6223-3efe-f95f-ce337349ca62?version=1.0&t=1776770773702",
+      "source": "CCCB"
     },
     {
       "title": "Mercat de Glòries",
@@ -1001,7 +1461,7 @@
       "date": "2026-07-04",
       "date_end": "2026-07-04",
       "time": "09:00",
-      "id": 47
+      "id": 71
     },
     {
       "title": "Mercat dels Encants",
@@ -1022,7 +1482,7 @@
       "date": "2026-07-04",
       "date_end": "2026-07-04",
       "time": "09:00",
-      "id": 48
+      "id": 72
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -1043,10 +1503,10 @@
       "date": "2026-07-05",
       "date_end": "2026-07-05",
       "time": "",
-      "id": 49
+      "id": 73
     },
     {
-      "id": 50,
+      "id": 74,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -1062,12 +1522,12 @@
         "culture"
       ],
       "desc": "A partir de Madame Bovary de Gustave FlaubertMúsica original: Harold Noben",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/bovary",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/bovary",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 51,
+      "id": 75,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -1083,12 +1543,50 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/andrea-pena-artists-apa",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/andrea-pena-artists-apa",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 52,
+      "id": 76,
+      "date": "2026-07-06",
+      "time": "17:00",
+      "title": "Visita guiada al Museu Egipci de Barcelona",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "1 de juny i 6 de juliol 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-guiada-al-museu-egipci-de-barcelona",
+      "image": "https://www.cccb.org/documents/4284035/4287122/Copia+de+Web+1920x1080+%285%29.jpg/fe37070a-8eb9-5016-8eb6-50d69d5f8ad0?version=1.1&t=1779200955691",
+      "source": "CCCB"
+    },
+    {
+      "id": 77,
+      "date": "2026-07-06",
+      "time": "19:30",
+      "title": "La mateixa diferència",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "6 - 7 de juliol 2026 Escena",
+      "url": "https://www.cccb.org/ca/w/activitats/la-mateixa-diferencia",
+      "image": "https://www.cccb.org/documents/4284035/6540101/la+mateixa+diferenca_Pau+Aran_pablo+lorente_1920x1080.jpg/1fad6fd7-462e-4c38-c8e2-34e057a34a1a?version=1.0&t=1776251842297",
+      "source": "CCCB"
+    },
+    {
+      "id": 78,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1104,12 +1602,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/mal-pelo",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/mal-pelo",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 53,
+      "id": 79,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1125,12 +1623,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/el-corazon-de-ester",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/el-corazon-de-ester",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 54,
+      "id": 80,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1147,12 +1645,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/pau-aran",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/pau-aran",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 55,
+      "id": 81,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1168,12 +1666,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/lasadcum",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/lasadcum",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 56,
+      "id": 82,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1189,12 +1687,12 @@
         "culture"
       ],
       "desc": "Dramatúrgia: Miguel Melgares",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/spafrica",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/spafrica",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 57,
+      "id": 83,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1210,12 +1708,12 @@
         "culture"
       ],
       "desc": "En col·laboració amb Josefina Orlaineta",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/mi-madre-y-el-dinero",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/mi-madre-y-el-dinero",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 58,
+      "id": 84,
       "date": "2026-07-09",
       "date_end": "2026-07-11",
       "time": "",
@@ -1232,12 +1730,31 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/nuria-guiu",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/nuria-guiu",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 59,
+      "id": 85,
+      "date": "2026-07-09",
+      "time": "19:30",
+      "title": "No miris",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "9 - 10 de juliol 2026 Escena",
+      "url": "https://www.cccb.org/ca/w/activitats/no-miris",
+      "image": "https://www.cccb.org/documents/4284035/6540101/NO+MIRIS+WEB+_BO_Erol+Ileri.jpg/2b074850-186b-59a4-1f55-cdd9198e0352?version=1.0&t=1777477818572",
+      "source": "CCCB"
+    },
+    {
+      "id": 86,
       "date": "2026-07-10",
       "date_end": "",
       "time": "",
@@ -1253,12 +1770,50 @@
         "culture"
       ],
       "desc": "Diàleg contemporani a partir de ‘El castillo de Lindabridis’",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/la-fortaleza",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-fortaleza",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 60,
+      "id": 87,
+      "date": "2026-07-10",
+      "time": "20:30",
+      "title": "Museum Quiz Summer Tour 2026",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "10 de juliol 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/museum-quiz-summer-tour",
+      "image": "https://www.cccb.org/documents/4284035/6365989/quiz_1920x1080.jpg/c0c03e3e-46eb-1c5a-53be-3839887893dd?version=1.0&t=1780933844858",
+      "source": "CCCB"
+    },
+    {
+      "id": 88,
+      "date": "2026-07-10",
+      "time": "29 de juny - 10 de juliol 2026",
+      "title": "Eh! Tallers d’estiu per a ments creatives",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "29 de juny - 10 de juliol 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/eh-tallers-destiu-per-a-ments-creatives",
+      "image": "https://www.cccb.org/documents/4284035/6540101/eh+2026_1920x1080.jpg/c73dd483-d772-1e61-006c-a42c64381494?version=1.0&t=1774343975649",
+      "source": "CCCB"
+    },
+    {
+      "id": 89,
       "date": "2026-07-11",
       "date_end": "",
       "time": "",
@@ -1275,12 +1830,12 @@
         "free"
       ],
       "desc": "A partir de Ricard III, de William Shakespeare",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/la-verdadera-historia-de-ricardo-iii",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-verdadera-historia-de-ricardo-iii",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 61,
+      "id": 90,
       "date": "2026-07-11",
       "date_end": "",
       "time": "",
@@ -1296,12 +1851,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/wasted-land",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/wasted-land",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 62,
+      "id": 91,
       "date": "2026-07-11",
       "date_end": "",
       "time": "",
@@ -1317,12 +1872,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/lorena-nogal",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/lorena-nogal",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 63,
+      "id": 92,
       "date": "2026-07-12",
       "date_end": "",
       "time": "",
@@ -1339,12 +1894,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/secrets",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/secrets",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 64,
+      "id": 93,
       "date": "2026-07-12",
       "date_end": "",
       "time": "",
@@ -1360,12 +1915,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/pepe-lolo",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/pepe-lolo",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 65,
+      "id": 94,
       "date": "2026-07-12",
       "date_end": "",
       "time": "",
@@ -1381,12 +1936,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/nosaltres-mortals-preventives-penades-reincidents-lladres-bruixes-i-altres-semblants",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/nosaltres-mortals-preventives-penades-reincidents-lladres-bruixes-i-altres-semblants",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 66,
+      "id": 95,
       "date": "2026-07-13",
       "date_end": "",
       "time": "",
@@ -1402,12 +1957,31 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/les-flors-prohibides",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/les-flors-prohibides",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 67,
+      "id": 96,
+      "date": "2026-07-14",
+      "time": "18:30",
+      "title": "La condició humana, d’Hannah Arendt",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "14 de maig - 16 de juliol 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/la-condicio-humana-d-hannah-arendt",
+      "image": "https://www.cccb.org/documents/4284035/6366026/llegir+filosofia+IHB-CCCB.jpg/2f0ed1ba-f884-ceef-21a0-8421cf6ce38a?version=1.0&t=1773316187977",
+      "source": "CCCB"
+    },
+    {
+      "id": 97,
       "date": "2026-07-15",
       "date_end": "",
       "time": "",
@@ -1424,12 +1998,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/ceramic-circus",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/ceramic-circus",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 68,
+      "id": 98,
       "date": "2026-07-15",
       "date_end": "",
       "time": "",
@@ -1445,12 +2019,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/sung-im-her",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/sung-im-her",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 69,
+      "id": 99,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -1466,12 +2040,12 @@
         "culture"
       ],
       "desc": "Text de Sergi Casero Nieto amb fragments i cites de Jorge Luís Borges, Federico García Lorca i Clara Valverde",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/el-pacte-de-loblit",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/el-pacte-de-loblit",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 70,
+      "id": 100,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -1487,12 +2061,12 @@
         "culture"
       ],
       "desc": "Univers Paral·lel x Grec 2026",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/baiuca-i-julia-colom",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/baiuca-i-julia-colom",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 71,
+      "id": 101,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -1508,12 +2082,12 @@
         "culture"
       ],
       "desc": "Direcció: Jinyeob LeeText: Jaeuk Shin",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/muljil",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/muljil",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 72,
+      "id": 102,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -1529,12 +2103,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/anne-teresa-de-keersmaeker-solal-mariotte-rosas",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/anne-teresa-de-keersmaeker-solal-mariotte-rosas",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 73,
+      "id": 103,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -1550,12 +2124,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/leandro-de-souza",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/leandro-de-souza",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 74,
+      "id": 104,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -1572,12 +2146,31 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/asia",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/asia",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 75,
+      "id": 105,
+      "date": "2026-07-18",
+      "time": "18:30",
+      "title": "Intel·ligències no humanes: una ecologia cognitiva planetària",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "18 de juny - 2 de juliol 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/intelligencies-no-humanes-una-ecologia-cognitiva-planetaria",
+      "image": "https://www.cccb.org/documents/4284035/6366026/Intel%C2%B7lig%C3%A8ncies+no+humanes+IHB-CCCB.jpg/351e39b4-7cca-77de-c7c4-b3576b93d072?version=1.0&t=1773316187977",
+      "source": "CCCB"
+    },
+    {
+      "id": 106,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -1593,12 +2186,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/30e-circ-dhivern-la-gran-plantada",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/30e-circ-dhivern-la-gran-plantada",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 76,
+      "id": 107,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -1614,12 +2207,12 @@
         "culture"
       ],
       "desc": "Simon Halsey / Jochen Sandig",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/human-requiem",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/human-requiem",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 77,
+      "id": 108,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -1635,12 +2228,12 @@
         "culture"
       ],
       "desc": "Direcció i creació: Carles Fernández Giua",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/nascuts-lliures",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/nascuts-lliures",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 78,
+      "id": 109,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -1656,12 +2249,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/yerai-cortes",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/yerai-cortes",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 79,
+      "id": 110,
       "date": "2026-07-20",
       "date_end": "",
       "time": "",
@@ -1678,12 +2271,52 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/mosques",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/mosques",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 80,
+      "id": 111,
+      "date": "2026-07-20",
+      "time": "18:30",
+      "title": "CinemaTeatre",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "12 i 20 de juliol 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/cinemateatre",
+      "image": "https://www.cccb.org/documents/4284035/6540101/grec+2026_cinemateatre_mammon_1920x1080.jpg/375807ba-6127-0c6f-be4e-4ce24b9f3f45?version=1.0&t=1776770344512",
+      "source": "CCCB"
+    },
+    {
+      "id": 112,
+      "date": "2026-07-20",
+      "date_end": "",
+      "time": "19:30",
+      "title": "Festeig i giravolt",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Una opereta sobre Eduard Toldrà",
+      "url": "https://www.palaumusica.cat/ca/festeig-i-giravolt_1460782",
+      "image": "https://www.palaumusica.cat/images/1462837/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 113,
       "date": "2026-07-21",
       "date_end": "",
       "time": "",
@@ -1699,12 +2332,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/walid-ben-selim-raul-refree-vincent-moon",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/walid-ben-selim-raul-refree-vincent-moon",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 81,
+      "id": 114,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -1720,12 +2353,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/roger-mas-i-la-cobla-sant-jordi-ciutat-de-barcelona",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/roger-mas-i-la-cobla-sant-jordi-ciutat-de-barcelona",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 82,
+      "id": 115,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -1742,12 +2375,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/democracia-total",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/democracia-total",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 83,
+      "id": 116,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -1763,12 +2396,12 @@
         "culture"
       ],
       "desc": "Direcció: Marc Cartanyà Pena i AMAGADramatúrgia: Eduard Olesti, AMAGA",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/qui-hi-ha",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/qui-hi-ha",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 84,
+      "id": 117,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -1785,12 +2418,31 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/yamato",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/yamato",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 85,
+      "id": 118,
+      "date": "2026-07-24",
+      "time": "29 de juny - 24 de juliol 2026",
+      "title": "Culturnautes 2026",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "29 de juny - 24 de juliol 2026 Família",
+      "url": "https://www.cccb.org/ca/w/activitats/culturnautes-2026",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Culturnautes_2026.jpg/703cf351-3061-058b-82e3-1dd5905c5d56?version=1.0&t=1774260954773",
+      "source": "CCCB"
+    },
+    {
+      "id": 119,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -1811,7 +2463,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 86,
+      "id": 120,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -1827,12 +2479,12 @@
         "culture"
       ],
       "desc": "A partir del conte de Franz Kafka",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/la-colonia-penitenciaria",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-colonia-penitenciaria",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 87,
+      "id": 121,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -1848,12 +2500,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/mucha-muchacha",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/mucha-muchacha",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 88,
+      "id": 122,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -1869,12 +2521,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/sebastien-tellier",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/sebastien-tellier",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 89,
+      "id": 123,
       "date": "2026-07-26",
       "date_end": "",
       "time": "",
@@ -1890,12 +2542,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/seppuku-el-funeral-de-mishima-o-el-plaer-de-morir",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/seppuku-el-funeral-de-mishima-o-el-plaer-de-morir",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 90,
+      "id": 124,
       "date": "2026-07-26",
       "date_end": "",
       "time": "",
@@ -1911,12 +2563,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/cia-agnes-balfego-brull",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/cia-agnes-balfego-brull",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 91,
+      "id": 125,
       "date": "2026-07-27",
       "date_end": "",
       "time": "",
@@ -1932,12 +2584,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/zora-snake",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/zora-snake",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 92,
+      "id": 126,
       "date": "2026-07-28",
       "date_end": "",
       "time": "",
@@ -1953,12 +2605,31 @@
         "culture"
       ],
       "desc": "Dramatúrgia: Carles Pedragosa Torres",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/la-nit-del-music-alt-un-tipus-de-genere-ambigu",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-nit-del-music-alt-un-tipus-de-genere-ambigu",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 93,
+      "id": 127,
+      "date": "2026-07-28",
+      "time": "18:30",
+      "title": "Visites comentades a l’Arxiu Xcèntric 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "28 d’abril - 7 de juliol 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/visites-comentades-a-larxiu-xcentric-2026",
+      "image": "https://www.cccb.org/documents/4284035/6631445/visites+comentaedes+Jan+Baeta+1920x1080.jpg/3cb64b55-a3a3-55e5-713d-49e65acbe24a?version=1.0&t=1777886949290",
+      "source": "CCCB"
+    },
+    {
+      "id": 128,
       "date": "2026-07-29",
       "date_end": "",
       "time": "",
@@ -1975,12 +2646,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/aleix-colomer-campoy",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/aleix-colomer-campoy",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 94,
+      "id": 129,
       "date": "2026-07-30",
       "date_end": "",
       "time": "",
@@ -1996,12 +2667,12 @@
         "family"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/consulta-familiar",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/consulta-familiar",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 95,
+      "id": 130,
       "date": "2026-07-30",
       "date_end": "",
       "time": "",
@@ -2017,12 +2688,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/despres-de-nosaltres",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/despres-de-nosaltres",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 96,
+      "id": 131,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -2039,12 +2710,12 @@
         "free"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/tao-dance-theater",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/tao-dance-theater",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 97,
+      "id": 132,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -2060,12 +2731,12 @@
         "culture"
       ],
       "desc": "A partir d’Un enemic del poble, d’Henrik Ibsen",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/um-julgamento",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/um-julgamento",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 98,
+      "id": 133,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -2081,12 +2752,12 @@
         "culture"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/index.php/ca/espectacle/lultima-entrevista-roigcapmany",
+      "url": "https://www.barcelona.cat/grec/ca/espectacle/lultima-entrevista-roigcapmany",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
     },
     {
-      "id": 99,
+      "id": 134,
       "date": "2026-08-29",
       "date_end": "",
       "time": "20:00",
@@ -2105,6 +2776,234 @@
       "url": "https://www.palaumusica.cat/ca/orquestra-del-festival-de-bayreuth-heras-casado_1544836",
       "image": "https://www.palaumusica.cat/images/1545029/image_column.jpg",
       "source": "Palau de la Música"
+    },
+    {
+      "id": 135,
+      "date": "2026-08-30",
+      "time": "30 de juliol - 30 d’agost 2026",
+      "title": "«Simfonies de ciutat» Projeccions d’estiu 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "30 de juliol - 30 d’agost 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/simfonies-de-ciutat-projeccions-destiu",
+      "image": "https://www.cccb.org/documents/5316589/7145020/Banner_1920x1080-Simfo_Fotograma_2025.jpg/8854992e-031e-e9f9-764d-985d5a815bb0?version=1.0&t=1780484180274",
+      "source": "CCCB"
+    },
+    {
+      "id": 136,
+      "date": "2026-09-06",
+      "time": "16 de juny - 6 de setembre 2026",
+      "title": "Espai familiar «Petites, mitjanes i grans»",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "16 de juny - 6 de setembre 2026 Família",
+      "url": "https://www.cccb.org/ca/w/activitats/espai-familiar-petites-mitjanes-i-grans",
+      "image": "https://www.cccb.org/documents/5316589/7109695/estiu2026_img_web+%281%29.jpg/d179a727-f09f-b9e6-66dc-0b5044c6c2ae?version=1.0&t=1779442791684",
+      "source": "CCCB"
+    },
+    {
+      "id": 137,
+      "date": "2026-09-08",
+      "time": "18:00",
+      "title": "Cinema d'estiu per a tota la família",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "8 de juliol - 5 de setembre 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/cinema-destiu-per-a-tota-la-familia",
+      "image": "https://www.cccb.org/documents/4284035/6555893/cinema+estiu+2026+WEB.jpg/3567ad76-e534-86b8-e1e5-af65f2634e92?version=1.0&t=1779785318883",
+      "source": "CCCB"
+    },
+    {
+      "id": 138,
+      "date": "2026-09-09",
+      "time": "18:30",
+      "title": "Visita a «El culte a la bellesa» amb Irene Pujadas",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "9 de setembre 2026 Visites",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-a-el-culte-a-la-bellesa-amb-irene-pujadas",
+      "image": "https://www.cccb.org/documents/5316589/7086679/Irene+Pujadas+%281%29.jpg/89842968-00af-ea94-0298-7a4c4e645210?version=1.0&t=1778753141928",
+      "source": "CCCB"
+    },
+    {
+      "id": 139,
+      "date": "2026-09-16",
+      "time": "18:30",
+      "title": "Visita a «El culte a la bellesa» amb Sílvia Rosés Castellsaguer",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "16 de setembre 2026 Visites",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-a-el-culte-a-la-bellesa-amb-silvia-roses-castellsaguer",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Silvia+Ros%C3%A9s+-+activitat.jpg/eba92523-ee16-1f6c-203f-9467a4b41b87?version=1.0&t=1779263003257",
+      "source": "CCCB"
+    },
+    {
+      "id": 140,
+      "date": "2026-09-30",
+      "time": "18:30",
+      "title": "Visita a «El culte a la bellesa» amb Víctor Ramírez Tur",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "30 de setembre 2026 Visites",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-a-el-culte-a-la-bellesa-amb-victor-ramirez-tur",
+      "image": "https://www.cccb.org/documents/5316589/7087929/V%C3%ADctor+Ram%C3%ADrez+Tur+%281%29.jpg/bd1bea5e-fb71-eaf2-71c4-0e53c8f05af8?version=1.0&t=1778759180664",
+      "source": "CCCB"
+    },
+    {
+      "id": 141,
+      "date": "2026-10-09",
+      "time": "16:00",
+      "title": "«El culte a la bellesa» per a persones amb ceguesa o baixa visió",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "9 de juliol - 14 d’octubre 2026 Accessible",
+      "url": "https://www.cccb.org/ca/w/activitats/el-culte-a-la-bellesa-per-a-persones-amb-ceguesa-o-baixa-visio",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Visites+Ceguesa+CCCB%2C+2026+CC+SA-BY-NC+Miquel+Taverna.jpg/2756cbfd-8c6f-89ab-6aaf-10bbaeacf56d?version=1.0&t=1778752358748",
+      "source": "CCCB"
+    },
+    {
+      "id": 142,
+      "date": "2026-10-11",
+      "time": "11:00",
+      "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "11 de juliol - 17 d’octubre 2026 Accessible",
+      "url": "https://www.cccb.org/ca/w/activitats/el-culte-a-la-bellesa-en-llengua-de-signes-catalana-lsc",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Visites+LSC+CCCB%2C+2026+CC+SA-BY-NC+Miquel+Taverna.jpg/4132d2a0-d33f-7c4a-1b70-956aa2040194?version=1.0&t=1778749253683",
+      "source": "CCCB"
+    },
+    {
+      "id": 143,
+      "date": "2026-11-26",
+      "time": "26 de novembre 2026 - 17 de maig 2027",
+      "title": "L’era atòmica",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "26 de novembre 2026 - 17 de maig 2027 Exposició",
+      "url": "https://www.cccb.org/ca/w/exposicions/lera-atomica",
+      "image": "https://www.cccb.org/documents/4284035/4604172/Jurgen_Nefzger_1000_x_560_web.jpg/b06725d7-00d8-e3a7-50d0-4fadd14799b8?version=1.0&t=1768892902591",
+      "source": "CCCB"
+    },
+    {
+      "id": 144,
+      "date": "2026-12-13",
+      "time": "18:30",
+      "title": "La Divina comèdia, III: «Paradís»",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "13 d’abril - 14 de desembre 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/la-divina-comedia-iii-paradis",
+      "image": "https://www.cccb.org/documents/4284035/6366026/Divina+Com%C3%A8dia+IHB-CCCB.jpg/3bc23533-fb55-ed44-3430-272f3952c98f?version=1.0&t=1773316187977",
+      "source": "CCCB"
+    },
+    {
+      "id": 145,
+      "date": "2026-12-13",
+      "time": "6 de novembre - 13 de desembre 2026",
+      "title": "World Press Photo 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "6 de novembre - 13 de desembre 2026 Exposició",
+      "url": "https://www.cccb.org/ca/w/exposicions/world-press-photo-2026",
+      "image": "https://www.cccb.org/documents/4284035/5331807/wpp+of+the+year_carol+guzy_zuma+press_iwitness-for+miami+herald_1920x1080.jpg/3f609cba-9328-befd-77c9-415273751a1c?version=1.0&t=1777553925933",
+      "source": "CCCB"
+    },
+    {
+      "id": 146,
+      "date": "2026-12-25",
+      "time": "10:00",
+      "title": "Visita el Mirador del CCCB 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "25 de gener - 27 de desembre 2026",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-el-mirador-del-cccb-2026",
+      "image": "https://www.cccb.org/documents/4284035/4646826/Visita_mirador_1001x560.jpg/b081e1f9-f6cb-00d2-f9d6-a73cc692861f?version=1.0&t=1773316196378",
+      "source": "CCCB"
     }
   ]
 }
