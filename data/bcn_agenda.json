@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T05:15:04.908700",
+  "generated_at": "2026-06-10T05:27:42.758402",
   "sources": [
     "cccb",
     "damm",
@@ -9,7 +9,7 @@
     "grec",
     "santpau"
   ],
-  "total": 146,
+  "total": 144,
   "events": [
     {
       "id": 1,
@@ -32,67 +32,6 @@
     },
     {
       "id": 2,
-      "date": "2026-06-09",
-      "date_end": "",
-      "time": "12:00",
-      "title": "Parlem amb Abel Tomàs i Arnau Tomàs (Quartet Casals)",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Moderat per Santi Barguñó",
-      "url": "https://www.palaumusica.cat/ca/parlem-amb-abel-tomas-i-arnau-tomas-quartet-casals_1625527",
-      "image": "https://www.palaumusica.cat/images/1625633/image_column.png",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 3,
-      "date": "2026-06-09",
-      "time": "18:00",
-      "title": "Presentació i visita a «El culte a la bellesa»",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "9 de juny 2026 Amics CCCB",
-      "url": "https://www.cccb.org/ca/w/activitats/presentacio-i-visita-a-el-culte-a-la-bellesa",
-      "image": "https://www.cccb.org/documents/4284035/4287122/Copia+de+Web+1920x1080+%288%29.jpg/f7ae5464-060a-7916-d937-765ead11a4c3?version=1.1&t=1779200894985",
-      "source": "CCCB"
-    },
-    {
-      "id": 4,
-      "date": "2026-06-09",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Quartet Casals & Mélnikov",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Diada Pau Casals 2026",
-      "url": "https://www.palaumusica.cat/ca/quartet-casals-melnikov_1460618",
-      "image": "https://www.palaumusica.cat/images/1486598/image_column.png",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 5,
       "date": "2026-06-10",
       "date_end": "",
       "time": "",
@@ -131,29 +70,31 @@
       "date": "2026-06-10",
       "date_end": "2026-06-10",
       "time": "09:00",
-      "id": 6
+      "id": 3
     },
     {
-      "id": 7,
+      "id": 4,
       "date": "2026-06-10",
-      "time": "18:30",
-      "title": "La novel·la autobiogràfica",
-      "venue": "CCCB",
-      "type": "family",
+      "date_end": "",
+      "time": "18:00",
+      "title": "Cor Petits de l’Orfeó Català",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
       "free": false,
       "price": "",
-      "emoji": "👨‍👩‍👧",
-      "bg": "#FFF5EB",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
       "tags": [
-        "family"
+        "music"
       ],
-      "desc": "10 de març - 9 de juny 2026 Cursos i tallers",
-      "url": "https://www.cccb.org/ca/w/activitats/la-novella-autobiografica",
-      "image": "https://www.cccb.org/documents/4284035/4646826/Novel_la_1.jpg/bb8cada9-5a4d-864f-5cbe-f46f97753e48?version=1.0&t=1773316196462",
-      "source": "CCCB"
+      "desc": "Clàssica a la platja",
+      "url": "https://www.palaumusica.cat/ca/cor-petits-de-l-orfeo-catala_1633631",
+      "image": "https://www.palaumusica.cat/images/1325287/image_column.webp",
+      "source": "Palau de la Música"
     },
     {
-      "id": 8,
+      "id": 5,
       "date": "2026-06-10",
       "time": "18:30",
       "title": "Quan la guerra és una nota a peu de pàgina",
@@ -172,7 +113,7 @@
       "source": "CCCB"
     },
     {
-      "id": 9,
+      "id": 6,
       "date": "2026-06-10",
       "time": "19:00",
       "title": "Grec 2026: trobada amb els seus protagonistes",
@@ -191,7 +132,7 @@
       "source": "CCCB"
     },
     {
-      "id": 10,
+      "id": 7,
       "date": "2026-06-10",
       "date_end": "",
       "time": "20:00",
@@ -212,7 +153,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 11,
+      "id": 8,
       "date": "2026-06-11",
       "date_end": "",
       "time": "",
@@ -234,7 +175,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 12,
+      "id": 9,
       "date": "2026-06-11",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Eloy Fernández Porta",
@@ -253,7 +194,7 @@
       "source": "CCCB"
     },
     {
-      "id": 13,
+      "id": 10,
       "date": "2026-06-11",
       "time": "19:00",
       "title": "Anatxu Zabalbeascoa i Elías León Siminiani",
@@ -272,7 +213,28 @@
       "source": "CCCB"
     },
     {
-      "id": 14,
+      "id": 11,
+      "date": "2026-06-11",
+      "date_end": "",
+      "time": "19:00",
+      "title": "Banda Municipal de Barcelona & Pascual-Vilaplana",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Brotons i Guinovart",
+      "url": "https://www.palaumusica.cat/ca/banda-municipal-de-barcelona-pascual-vilaplana_1460920",
+      "image": "https://www.palaumusica.cat/images/1460919/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 12,
       "date": "2026-06-12",
       "date_end": "",
       "time": "",
@@ -311,10 +273,10 @@
       "date": "2026-06-12",
       "date_end": "2026-06-12",
       "time": "09:00",
-      "id": 15
+      "id": 13
     },
     {
-      "id": 16,
+      "id": 14,
       "date": "2026-06-12",
       "date_end": "",
       "time": "19:30",
@@ -335,7 +297,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 17,
+      "id": 15,
       "date": "2026-06-13",
       "date_end": "",
       "time": "",
@@ -374,7 +336,7 @@
       "date": "2026-06-13",
       "date_end": "2026-06-13",
       "time": "09:00",
-      "id": 18
+      "id": 16
     },
     {
       "title": "Mercat dels Encants",
@@ -395,10 +357,10 @@
       "date": "2026-06-13",
       "date_end": "2026-06-13",
       "time": "09:00",
-      "id": 19
+      "id": 17
     },
     {
-      "id": 20,
+      "id": 18,
       "date": "2026-06-13",
       "time": "18:30",
       "title": "Sobre la imaginació apocalíptica",
@@ -435,10 +397,10 @@
       "date": "2026-06-14",
       "date_end": "2026-06-14",
       "time": "",
-      "id": 21
+      "id": 19
     },
     {
-      "id": 22,
+      "id": 20,
       "date": "2026-06-15",
       "time": "11:00",
       "title": "Testimoni, periodisme i drets humans",
@@ -457,7 +419,7 @@
       "source": "CCCB"
     },
     {
-      "id": 23,
+      "id": 21,
       "date": "2026-06-15",
       "time": "18:00",
       "title": "+Rain Film Festival 2026",
@@ -476,7 +438,7 @@
       "source": "CCCB"
     },
     {
-      "id": 24,
+      "id": 22,
       "date": "2026-06-15",
       "time": "18:30",
       "title": "Jorge Galindo i Carme Trilla",
@@ -495,7 +457,7 @@
       "source": "CCCB"
     },
     {
-      "id": 25,
+      "id": 23,
       "date": "2026-06-15",
       "date_end": "",
       "time": "20:00",
@@ -516,7 +478,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 26,
+      "id": 24,
       "date": "2026-06-16",
       "time": "18:30",
       "title": "Marta Segarra",
@@ -535,7 +497,7 @@
       "source": "CCCB"
     },
     {
-      "id": 27,
+      "id": 25,
       "date": "2026-06-17",
       "date_end": "2026-07-05",
       "time": "",
@@ -574,10 +536,10 @@
       "date": "2026-06-17",
       "date_end": "2026-06-17",
       "time": "09:00",
-      "id": 28
+      "id": 26
     },
     {
-      "id": 29,
+      "id": 27,
       "date": "2026-06-17",
       "time": "18:30",
       "title": "El preu de continuar dient la veritat",
@@ -596,7 +558,7 @@
       "source": "CCCB"
     },
     {
-      "id": 30,
+      "id": 28,
       "date": "2026-06-17",
       "time": "18:30",
       "title": "«Els inicis», de Claire Marin",
@@ -615,7 +577,7 @@
       "source": "CCCB"
     },
     {
-      "id": 31,
+      "id": 29,
       "date": "2026-06-17",
       "date_end": "",
       "time": "20:00",
@@ -636,7 +598,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 32,
+      "id": 30,
       "date": "2026-06-18",
       "time": "17:30",
       "title": "Presentació i visita a la col·lecció del MACBA, «Com una dansa d’estornells»",
@@ -655,7 +617,7 @@
       "source": "CCCB"
     },
     {
-      "id": 33,
+      "id": 31,
       "date": "2026-06-18",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Meri Torras",
@@ -692,10 +654,10 @@
       "date": "2026-06-19",
       "date_end": "2026-06-19",
       "time": "09:00",
-      "id": 34
+      "id": 32
     },
     {
-      "id": 35,
+      "id": 33,
       "date": "2026-06-20",
       "date_end": "",
       "time": "",
@@ -734,7 +696,7 @@
       "date": "2026-06-20",
       "date_end": "2026-06-20",
       "time": "09:00",
-      "id": 36
+      "id": 34
     },
     {
       "title": "Mercat dels Encants",
@@ -755,10 +717,10 @@
       "date": "2026-06-20",
       "date_end": "2026-06-20",
       "time": "09:00",
-      "id": 37
+      "id": 35
     },
     {
-      "id": 38,
+      "id": 36,
       "date": "2026-06-20",
       "date_end": "",
       "time": "19:00",
@@ -797,29 +759,10 @@
       "date": "2026-06-21",
       "date_end": "2026-06-21",
       "time": "",
-      "id": 39
+      "id": 37
     },
     {
-      "id": 40,
-      "date": "2026-06-22",
-      "time": "18:30",
-      "title": "Hashim Sarkis",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "22 de juny 2026 Debats",
-      "url": "https://www.cccb.org/ca/w/activitats/hashim-sarkis",
-      "image": "https://www.cccb.org/documents/4284035/6555884/HashimSarkis.jpg/2bd5cb8c-b64e-28b2-1ad9-327bcadeabeb?version=1.0&t=1780570635702",
-      "source": "CCCB"
-    },
-    {
-      "id": 41,
+      "id": 38,
       "date": "2026-06-22",
       "time": "18:30",
       "title": "Homenatge a Catalunya",
@@ -838,7 +781,26 @@
       "source": "CCCB"
     },
     {
-      "id": 42,
+      "id": 39,
+      "date": "2026-06-22",
+      "time": "18:30",
+      "title": "Hashim Sarkis",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "22 de juny 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/hashim-sarkis",
+      "image": "https://www.cccb.org/documents/4284035/6555884/HashimSarkis.jpg/2bd5cb8c-b64e-28b2-1ad9-327bcadeabeb?version=1.0&t=1780570635702",
+      "source": "CCCB"
+    },
+    {
+      "id": 40,
       "date": "2026-06-23",
       "date_end": "",
       "time": "",
@@ -859,7 +821,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 43,
+      "id": 41,
       "date": "2026-06-24",
       "time": "",
       "title": "Rutes i activitats a la Barcelona de George Orwell",
@@ -878,7 +840,7 @@
       "source": "CCCB"
     },
     {
-      "id": 44,
+      "id": 42,
       "date": "2026-06-24",
       "date_end": "",
       "time": "",
@@ -918,10 +880,10 @@
       "date": "2026-06-24",
       "date_end": "2026-06-24",
       "time": "09:00",
-      "id": 45
+      "id": 43
     },
     {
-      "id": 46,
+      "id": 44,
       "date": "2026-06-25",
       "date_end": "2026-07-30",
       "time": "",
@@ -943,7 +905,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 47,
+      "id": 45,
       "date": "2026-06-25",
       "date_end": "2026-07-05",
       "time": "",
@@ -982,10 +944,10 @@
       "date": "2026-06-26",
       "date_end": "2026-06-26",
       "time": "09:00",
-      "id": 48
+      "id": 46
     },
     {
-      "id": 49,
+      "id": 47,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -1006,7 +968,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 50,
+      "id": 48,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -1027,7 +989,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 51,
+      "id": 49,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -1048,7 +1010,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 52,
+      "id": 50,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -1069,7 +1031,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 53,
+      "id": 51,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -1108,7 +1070,7 @@
       "date": "2026-06-27",
       "date_end": "2026-06-27",
       "time": "09:00",
-      "id": 54
+      "id": 52
     },
     {
       "title": "Mercat dels Encants",
@@ -1129,10 +1091,10 @@
       "date": "2026-06-27",
       "date_end": "2026-06-27",
       "time": "09:00",
-      "id": 55
+      "id": 53
     },
     {
-      "id": 56,
+      "id": 54,
       "date": "2026-06-28",
       "date_end": "",
       "time": "",
@@ -1171,10 +1133,10 @@
       "date": "2026-06-28",
       "date_end": "2026-06-28",
       "time": "",
-      "id": 57
+      "id": 55
     },
     {
-      "id": 58,
+      "id": 56,
       "date": "2026-06-29",
       "date_end": "2026-07-01",
       "time": "",
@@ -1195,7 +1157,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 59,
+      "id": 57,
       "date": "2026-06-29",
       "time": "18:30",
       "title": "Yezid Sayigh, Natalia Sancha, Tinhinan El Kadi i Eduard Soler",
@@ -1214,7 +1176,7 @@
       "source": "CCCB"
     },
     {
-      "id": 60,
+      "id": 58,
       "date": "2026-06-30",
       "date_end": "",
       "time": "",
@@ -1235,7 +1197,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 61,
+      "id": 59,
       "date": "2026-06-30",
       "date_end": "2026-07-31",
       "time": "",
@@ -1256,7 +1218,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 62,
+      "id": 60,
       "date": "2026-06-30",
       "date_end": "2026-07-26",
       "time": "",
@@ -1277,7 +1239,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 63,
+      "id": 61,
       "date": "2026-06-30",
       "date_end": "2026-07-09",
       "time": "",
@@ -1299,7 +1261,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 64,
+      "id": 62,
       "date": "2026-06-30",
       "time": "18:00",
       "title": "Presentació i visita a l'exposició «Picasso Xipre. Trobades amb la ceràmica del Mediterrani»",
@@ -1318,7 +1280,7 @@
       "source": "CCCB"
     },
     {
-      "id": 65,
+      "id": 63,
       "date": "2026-07-01",
       "date_end": "",
       "time": "",
@@ -1358,10 +1320,10 @@
       "date": "2026-07-01",
       "date_end": "2026-07-01",
       "time": "09:00",
-      "id": 66
+      "id": 64
     },
     {
-      "id": 67,
+      "id": 65,
       "date": "2026-07-03",
       "date_end": "",
       "time": "",
@@ -1382,7 +1344,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 68,
+      "id": 66,
       "date": "2026-07-03",
       "date_end": "",
       "time": "",
@@ -1421,10 +1383,10 @@
       "date": "2026-07-03",
       "date_end": "2026-07-03",
       "time": "09:00",
-      "id": 69
+      "id": 67
     },
     {
-      "id": 70,
+      "id": 68,
       "date": "2026-07-04",
       "time": "",
       "title": "Creure en les màscares",
@@ -1461,7 +1423,7 @@
       "date": "2026-07-04",
       "date_end": "2026-07-04",
       "time": "09:00",
-      "id": 71
+      "id": 69
     },
     {
       "title": "Mercat dels Encants",
@@ -1482,7 +1444,7 @@
       "date": "2026-07-04",
       "date_end": "2026-07-04",
       "time": "09:00",
-      "id": 72
+      "id": 70
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -1503,10 +1465,10 @@
       "date": "2026-07-05",
       "date_end": "2026-07-05",
       "time": "",
-      "id": 73
+      "id": 71
     },
     {
-      "id": 74,
+      "id": 72,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -1527,7 +1489,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 75,
+      "id": 73,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -1548,7 +1510,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 76,
+      "id": 74,
       "date": "2026-07-06",
       "time": "17:00",
       "title": "Visita guiada al Museu Egipci de Barcelona",
@@ -1567,7 +1529,7 @@
       "source": "CCCB"
     },
     {
-      "id": 77,
+      "id": 75,
       "date": "2026-07-06",
       "time": "19:30",
       "title": "La mateixa diferència",
@@ -1586,7 +1548,7 @@
       "source": "CCCB"
     },
     {
-      "id": 78,
+      "id": 76,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1607,7 +1569,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 79,
+      "id": 77,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1628,7 +1590,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 80,
+      "id": 78,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1650,7 +1612,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 81,
+      "id": 79,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1671,7 +1633,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 82,
+      "id": 80,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1692,7 +1654,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 83,
+      "id": 81,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1713,7 +1675,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 84,
+      "id": 82,
       "date": "2026-07-09",
       "date_end": "2026-07-11",
       "time": "",
@@ -1735,7 +1697,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 85,
+      "id": 83,
       "date": "2026-07-09",
       "time": "19:30",
       "title": "No miris",
@@ -1754,7 +1716,7 @@
       "source": "CCCB"
     },
     {
-      "id": 86,
+      "id": 84,
       "date": "2026-07-10",
       "date_end": "",
       "time": "",
@@ -1775,7 +1737,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 87,
+      "id": 85,
       "date": "2026-07-10",
       "time": "20:30",
       "title": "Museum Quiz Summer Tour 2026",
@@ -1790,11 +1752,11 @@
       ],
       "desc": "10 de juliol 2026 Cursos i tallers",
       "url": "https://www.cccb.org/ca/w/activitats/museum-quiz-summer-tour",
-      "image": "https://www.cccb.org/documents/4284035/6365989/quiz_1920x1080.jpg/c0c03e3e-46eb-1c5a-53be-3839887893dd?version=1.0&t=1780933844858",
+      "image": "https://www.cccb.org/documents/4284035/6365989/museum+quiz+2026_1920x1080px.jpg/de225307-6961-414e-64d4-9cc1cc3cecb0?version=1.0&t=1781007908204",
       "source": "CCCB"
     },
     {
-      "id": 88,
+      "id": 86,
       "date": "2026-07-10",
       "time": "29 de juny - 10 de juliol 2026",
       "title": "Eh! Tallers d’estiu per a ments creatives",
@@ -1813,7 +1775,7 @@
       "source": "CCCB"
     },
     {
-      "id": 89,
+      "id": 87,
       "date": "2026-07-11",
       "date_end": "",
       "time": "",
@@ -1835,7 +1797,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 90,
+      "id": 88,
       "date": "2026-07-11",
       "date_end": "",
       "time": "",
@@ -1856,7 +1818,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 91,
+      "id": 89,
       "date": "2026-07-11",
       "date_end": "",
       "time": "",
@@ -1877,7 +1839,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 92,
+      "id": 90,
       "date": "2026-07-12",
       "date_end": "",
       "time": "",
@@ -1899,7 +1861,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 93,
+      "id": 91,
       "date": "2026-07-12",
       "date_end": "",
       "time": "",
@@ -1920,7 +1882,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 94,
+      "id": 92,
       "date": "2026-07-12",
       "date_end": "",
       "time": "",
@@ -1941,7 +1903,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 95,
+      "id": 93,
       "date": "2026-07-13",
       "date_end": "",
       "time": "",
@@ -1962,7 +1924,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 96,
+      "id": 94,
       "date": "2026-07-14",
       "time": "18:30",
       "title": "La condició humana, d’Hannah Arendt",
@@ -1981,7 +1943,7 @@
       "source": "CCCB"
     },
     {
-      "id": 97,
+      "id": 95,
       "date": "2026-07-15",
       "date_end": "",
       "time": "",
@@ -2003,7 +1965,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 98,
+      "id": 96,
       "date": "2026-07-15",
       "date_end": "",
       "time": "",
@@ -2024,7 +1986,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 99,
+      "id": 97,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -2045,7 +2007,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 100,
+      "id": 98,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -2066,7 +2028,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 101,
+      "id": 99,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -2087,7 +2049,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 102,
+      "id": 100,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -2108,7 +2070,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 103,
+      "id": 101,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -2129,7 +2091,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 104,
+      "id": 102,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -2151,7 +2113,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 105,
+      "id": 103,
       "date": "2026-07-18",
       "time": "18:30",
       "title": "Intel·ligències no humanes: una ecologia cognitiva planetària",
@@ -2170,7 +2132,7 @@
       "source": "CCCB"
     },
     {
-      "id": 106,
+      "id": 104,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -2191,7 +2153,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 107,
+      "id": 105,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -2212,7 +2174,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 108,
+      "id": 106,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -2233,7 +2195,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 109,
+      "id": 107,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -2254,7 +2216,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 110,
+      "id": 108,
       "date": "2026-07-20",
       "date_end": "",
       "time": "",
@@ -2276,7 +2238,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 111,
+      "id": 109,
       "date": "2026-07-20",
       "time": "18:30",
       "title": "CinemaTeatre",
@@ -2295,28 +2257,7 @@
       "source": "CCCB"
     },
     {
-      "id": 112,
-      "date": "2026-07-20",
-      "date_end": "",
-      "time": "19:30",
-      "title": "Festeig i giravolt",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Una opereta sobre Eduard Toldrà",
-      "url": "https://www.palaumusica.cat/ca/festeig-i-giravolt_1460782",
-      "image": "https://www.palaumusica.cat/images/1462837/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 113,
+      "id": 110,
       "date": "2026-07-21",
       "date_end": "",
       "time": "",
@@ -2337,7 +2278,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 114,
+      "id": 111,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -2358,7 +2299,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 115,
+      "id": 112,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -2380,7 +2321,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 116,
+      "id": 113,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -2401,7 +2342,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 117,
+      "id": 114,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -2423,7 +2364,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 118,
+      "id": 115,
       "date": "2026-07-24",
       "time": "29 de juny - 24 de juliol 2026",
       "title": "Culturnautes 2026",
@@ -2442,7 +2383,7 @@
       "source": "CCCB"
     },
     {
-      "id": 119,
+      "id": 116,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -2463,7 +2404,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 120,
+      "id": 117,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -2484,7 +2425,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 121,
+      "id": 118,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -2505,7 +2446,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 122,
+      "id": 119,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -2526,7 +2467,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 123,
+      "id": 120,
       "date": "2026-07-26",
       "date_end": "",
       "time": "",
@@ -2547,7 +2488,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 124,
+      "id": 121,
       "date": "2026-07-26",
       "date_end": "",
       "time": "",
@@ -2568,7 +2509,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 125,
+      "id": 122,
       "date": "2026-07-27",
       "date_end": "",
       "time": "",
@@ -2589,7 +2530,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 126,
+      "id": 123,
       "date": "2026-07-28",
       "date_end": "",
       "time": "",
@@ -2610,7 +2551,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 127,
+      "id": 124,
       "date": "2026-07-28",
       "time": "18:30",
       "title": "Visites comentades a l’Arxiu Xcèntric 2026",
@@ -2629,7 +2570,7 @@
       "source": "CCCB"
     },
     {
-      "id": 128,
+      "id": 125,
       "date": "2026-07-29",
       "date_end": "",
       "time": "",
@@ -2651,7 +2592,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 129,
+      "id": 126,
       "date": "2026-07-30",
       "date_end": "",
       "time": "",
@@ -2672,7 +2613,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 130,
+      "id": 127,
       "date": "2026-07-30",
       "date_end": "",
       "time": "",
@@ -2693,7 +2634,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 131,
+      "id": 128,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -2715,7 +2656,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 132,
+      "id": 129,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -2736,7 +2677,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 133,
+      "id": 130,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -2757,7 +2698,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 134,
+      "id": 131,
       "date": "2026-08-29",
       "date_end": "",
       "time": "20:00",
@@ -2778,7 +2719,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 135,
+      "id": 132,
       "date": "2026-08-30",
       "time": "30 de juliol - 30 d’agost 2026",
       "title": "«Simfonies de ciutat» Projeccions d’estiu 2026",
@@ -2797,7 +2738,7 @@
       "source": "CCCB"
     },
     {
-      "id": 136,
+      "id": 133,
       "date": "2026-09-06",
       "time": "16 de juny - 6 de setembre 2026",
       "title": "Espai familiar «Petites, mitjanes i grans»",
@@ -2816,7 +2757,7 @@
       "source": "CCCB"
     },
     {
-      "id": 137,
+      "id": 134,
       "date": "2026-09-08",
       "time": "18:00",
       "title": "Cinema d'estiu per a tota la família",
@@ -2835,7 +2776,7 @@
       "source": "CCCB"
     },
     {
-      "id": 138,
+      "id": 135,
       "date": "2026-09-09",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Irene Pujadas",
@@ -2854,7 +2795,26 @@
       "source": "CCCB"
     },
     {
-      "id": 139,
+      "id": 136,
+      "date": "2026-09-13",
+      "time": "15 de juny - 13 de setembre 2026",
+      "title": "El CCCB, refugi climàtic",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "15 de juny - 13 de setembre 2026",
+      "url": "https://www.cccb.org/ca/w/activitats/el-cccb-refugi-climatic",
+      "image": "https://www.cccb.org/documents/4284035/6365989/refugi-climatic_1920x1080.jpg/104bae1f-f0f5-e9a2-24be-0e1896be00c9?version=1.0&t=1781009547529",
+      "source": "CCCB"
+    },
+    {
+      "id": 137,
       "date": "2026-09-16",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Sílvia Rosés Castellsaguer",
@@ -2873,7 +2833,7 @@
       "source": "CCCB"
     },
     {
-      "id": 140,
+      "id": 138,
       "date": "2026-09-30",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Víctor Ramírez Tur",
@@ -2892,7 +2852,7 @@
       "source": "CCCB"
     },
     {
-      "id": 141,
+      "id": 139,
       "date": "2026-10-09",
       "time": "16:00",
       "title": "«El culte a la bellesa» per a persones amb ceguesa o baixa visió",
@@ -2911,9 +2871,9 @@
       "source": "CCCB"
     },
     {
-      "id": 142,
+      "id": 140,
       "date": "2026-10-11",
-      "time": "11:00",
+      "time": "12:00",
       "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
       "venue": "CCCB",
       "type": "culture",
@@ -2930,7 +2890,7 @@
       "source": "CCCB"
     },
     {
-      "id": 143,
+      "id": 141,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -2949,7 +2909,7 @@
       "source": "CCCB"
     },
     {
-      "id": 144,
+      "id": 142,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -2968,7 +2928,7 @@
       "source": "CCCB"
     },
     {
-      "id": 145,
+      "id": 143,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -2987,7 +2947,7 @@
       "source": "CCCB"
     },
     {
-      "id": 146,
+      "id": 144,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
