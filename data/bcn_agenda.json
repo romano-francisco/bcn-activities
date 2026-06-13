@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T05:56:00.065105",
+  "generated_at": "2026-06-13T05:27:56.098433",
   "sources": [
     "cccb",
     "damm",
@@ -32,90 +32,6 @@
     },
     {
       "id": 2,
-      "date": "2026-06-12",
-      "date_end": "",
-      "time": "",
-      "title": "Radio Time: Two Musical Events",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎵",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Time Out Market is turning into a stage for music and entertainment with experiences brought by Flaixbac and Flaix FM. On June 3, Marc Frigola and Andrea Romera, hosts of Bacstage, will spend time with Iván Herzog in a new edition of Intimate Flaixbac, an exclusive format that blends conversation and live music. Then, on June 12, Flaix FM will bring the rhythm with a DJ set designed to extend the afterwork vibe and welcome the summer.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/music/un-programa-de-radio-musical-i-dj-en-directe",
-      "image": "https://media.timeout.com/images/106407788/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-06-12",
-      "date_end": "2026-06-12",
-      "time": "09:00",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "date": "2026-06-12",
-      "date_end": "",
-      "time": "19:30",
-      "title": "Sabrina Gárdez & Bernardo Rambeaud",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—L'esperit cosmopolita de la música espanyola",
-      "url": "https://www.palaumusica.cat/ca/sabrina-gardez-bernardo-rambeaud_1460709",
-      "image": "https://www.palaumusica.cat/images/1462699/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 5,
-      "date": "2026-06-12",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Arte Flamenco",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "12 artistes excepcionals sobre l’escenari",
-      "url": "https://www.palaumusica.cat/ca/arte-flamenco_1163807",
-      "image": "https://www.palaumusica.cat/images/1163902/image_column.webp",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 6,
       "date": "2026-06-13",
       "date_end": "",
       "time": "",
@@ -154,7 +70,7 @@
       "date": "2026-06-13",
       "date_end": "2026-06-13",
       "time": "09:00",
-      "id": 7
+      "id": 3
     },
     {
       "title": "Mercat dels Encants",
@@ -175,10 +91,10 @@
       "date": "2026-06-13",
       "date_end": "2026-06-13",
       "time": "09:00",
-      "id": 8
+      "id": 4
     },
     {
-      "id": 9,
+      "id": 5,
       "date": "2026-06-13",
       "time": "18:30",
       "title": "Sobre la imaginació apocalíptica",
@@ -197,7 +113,7 @@
       "source": "CCCB"
     },
     {
-      "id": 10,
+      "id": 6,
       "date": "2026-06-13",
       "date_end": "",
       "time": "19:00",
@@ -215,6 +131,27 @@
       "desc": "Josep Miquel Mindàn - Jaume Villanueva",
       "url": "https://www.palaumusica.cat/ca/l-elisir-d-amore-de-gaetano-donizetti_1352012",
       "image": "https://www.palaumusica.cat/images/1553004/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 7,
+      "date": "2026-06-13",
+      "date_end": "",
+      "time": "21:20",
+      "title": "Archbishop Spalding Chorus & Cor Juvenil Palau Vincles",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Concert a la cripta de la Sagrada Família",
+      "url": "https://www.palaumusica.cat/ca/archbishop-spalding-chorus-cor-juvenil-palau-vincles_1643406",
+      "image": "https://www.palaumusica.cat/images/1569701/image_column.jpg",
       "source": "Palau de la Música"
     },
     {
@@ -236,10 +173,52 @@
       "date": "2026-06-14",
       "date_end": "2026-06-14",
       "time": "",
-      "id": 11
+      "id": 8
     },
     {
-      "id": 12,
+      "id": 9,
+      "date": "2026-06-14",
+      "date_end": "",
+      "time": "19:00",
+      "title": "Candlelight: Tribut a Queen",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/candlelight-tribut-a-queen_1407154",
+      "image": "https://www.palaumusica.cat/images/1407127/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 10,
+      "date": "2026-06-14",
+      "date_end": "",
+      "time": "21:30",
+      "title": "Gran Gala Flamenc",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
+      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 11,
       "date": "2026-06-15",
       "time": "11:00",
       "title": "Testimoni, periodisme i drets humans",
@@ -258,7 +237,7 @@
       "source": "CCCB"
     },
     {
-      "id": 13,
+      "id": 12,
       "date": "2026-06-15",
       "time": "18:00",
       "title": "+Rain Film Festival 2026",
@@ -277,7 +256,7 @@
       "source": "CCCB"
     },
     {
-      "id": 14,
+      "id": 13,
       "date": "2026-06-15",
       "time": "18:30",
       "title": "Jorge Galindo i Carme Trilla",
@@ -296,7 +275,7 @@
       "source": "CCCB"
     },
     {
-      "id": 15,
+      "id": 14,
       "date": "2026-06-15",
       "date_end": "",
       "time": "20:00",
@@ -317,7 +296,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 16,
+      "id": 15,
       "date": "2026-06-16",
       "time": "18:30",
       "title": "Marta Segarra",
@@ -336,7 +315,7 @@
       "source": "CCCB"
     },
     {
-      "id": 17,
+      "id": 16,
       "date": "2026-06-17",
       "date_end": "2026-07-05",
       "time": "",
@@ -375,10 +354,10 @@
       "date": "2026-06-17",
       "date_end": "2026-06-17",
       "time": "09:00",
-      "id": 18
+      "id": 17
     },
     {
-      "id": 19,
+      "id": 18,
       "date": "2026-06-17",
       "time": "18:30",
       "title": "«Els inicis», de Claire Marin",
@@ -397,7 +376,7 @@
       "source": "CCCB"
     },
     {
-      "id": 20,
+      "id": 19,
       "date": "2026-06-17",
       "time": "18:30",
       "title": "El preu de continuar dient la veritat",
@@ -416,7 +395,7 @@
       "source": "CCCB"
     },
     {
-      "id": 21,
+      "id": 20,
       "date": "2026-06-17",
       "date_end": "",
       "time": "20:00",
@@ -437,7 +416,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 22,
+      "id": 21,
       "date": "2026-06-18",
       "time": "17:30",
       "title": "Presentació i visita a la col·lecció del MACBA, «Com una dansa d’estornells»",
@@ -456,7 +435,7 @@
       "source": "CCCB"
     },
     {
-      "id": 23,
+      "id": 22,
       "date": "2026-06-18",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Meri Torras",
@@ -493,10 +472,10 @@
       "date": "2026-06-19",
       "date_end": "2026-06-19",
       "time": "09:00",
-      "id": 24
+      "id": 23
     },
     {
-      "id": 25,
+      "id": 24,
       "date": "2026-06-20",
       "date_end": "",
       "time": "",
@@ -535,7 +514,7 @@
       "date": "2026-06-20",
       "date_end": "2026-06-20",
       "time": "09:00",
-      "id": 26
+      "id": 25
     },
     {
       "title": "Mercat dels Encants",
@@ -556,10 +535,10 @@
       "date": "2026-06-20",
       "date_end": "2026-06-20",
       "time": "09:00",
-      "id": 27
+      "id": 26
     },
     {
-      "id": 28,
+      "id": 27,
       "date": "2026-06-20",
       "date_end": "",
       "time": "19:00",
@@ -598,7 +577,26 @@
       "date": "2026-06-21",
       "date_end": "2026-06-21",
       "time": "",
-      "id": 29
+      "id": 28
+    },
+    {
+      "id": 29,
+      "date": "2026-06-22",
+      "time": "18:30",
+      "title": "Homenatge a Catalunya",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "22 de juny 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/homenatge-a-catalunya",
+      "image": "https://www.cccb.org/documents/4284035/6523845/hommage-a-la-catalogne.jpg/a1ff843b-c58f-d062-9498-f4b08b893f1c?version=1.0&t=1774538576800",
+      "source": "CCCB"
     },
     {
       "id": 30,
@@ -621,25 +619,6 @@
     },
     {
       "id": 31,
-      "date": "2026-06-22",
-      "time": "18:30",
-      "title": "Homenatge a Catalunya",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "22 de juny 2026 Audiovisuals",
-      "url": "https://www.cccb.org/ca/w/activitats/homenatge-a-catalunya",
-      "image": "https://www.cccb.org/documents/4284035/6523845/hommage-a-la-catalogne.jpg/a1ff843b-c58f-d062-9498-f4b08b893f1c?version=1.0&t=1774538576800",
-      "source": "CCCB"
-    },
-    {
-      "id": 32,
       "date": "2026-06-23",
       "date_end": "",
       "time": "",
@@ -660,7 +639,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 33,
+      "id": 32,
       "date": "2026-06-24",
       "date_end": "",
       "time": "",
@@ -700,10 +679,10 @@
       "date": "2026-06-24",
       "date_end": "2026-06-24",
       "time": "09:00",
-      "id": 34
+      "id": 33
     },
     {
-      "id": 35,
+      "id": 34,
       "date": "2026-06-25",
       "date_end": "2026-07-30",
       "time": "",
@@ -725,7 +704,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 36,
+      "id": 35,
       "date": "2026-06-25",
       "date_end": "2026-07-05",
       "time": "",
@@ -764,10 +743,10 @@
       "date": "2026-06-26",
       "date_end": "2026-06-26",
       "time": "09:00",
-      "id": 37
+      "id": 36
     },
     {
-      "id": 38,
+      "id": 37,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -788,7 +767,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 39,
+      "id": 38,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -809,7 +788,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 40,
+      "id": 39,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -830,7 +809,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 41,
+      "id": 40,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -851,7 +830,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 42,
+      "id": 41,
       "date": "2026-06-27",
       "date_end": "",
       "time": "",
@@ -890,7 +869,7 @@
       "date": "2026-06-27",
       "date_end": "2026-06-27",
       "time": "09:00",
-      "id": 43
+      "id": 42
     },
     {
       "title": "Mercat dels Encants",
@@ -911,10 +890,10 @@
       "date": "2026-06-27",
       "date_end": "2026-06-27",
       "time": "09:00",
-      "id": 44
+      "id": 43
     },
     {
-      "id": 45,
+      "id": 44,
       "date": "2026-06-28",
       "date_end": "",
       "time": "",
@@ -953,10 +932,10 @@
       "date": "2026-06-28",
       "date_end": "2026-06-28",
       "time": "",
-      "id": 46
+      "id": 45
     },
     {
-      "id": 47,
+      "id": 46,
       "date": "2026-06-29",
       "date_end": "2026-07-01",
       "time": "",
@@ -977,7 +956,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 48,
+      "id": 47,
       "date": "2026-06-29",
       "time": "18:30",
       "title": "Yezid Sayigh, Natalia Sancha, Tinhinan El Kadi i Eduard Soler",
@@ -996,7 +975,7 @@
       "source": "CCCB"
     },
     {
-      "id": 49,
+      "id": 48,
       "date": "2026-06-30",
       "date_end": "",
       "time": "",
@@ -1017,7 +996,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 50,
+      "id": 49,
       "date": "2026-06-30",
       "date_end": "2026-07-31",
       "time": "",
@@ -1038,7 +1017,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 51,
+      "id": 50,
       "date": "2026-06-30",
       "date_end": "2026-07-26",
       "time": "",
@@ -1059,7 +1038,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 52,
+      "id": 51,
       "date": "2026-06-30",
       "date_end": "2026-07-09",
       "time": "",
@@ -1081,7 +1060,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 53,
+      "id": 52,
       "date": "2026-06-30",
       "time": "18:00",
       "title": "Presentació i visita a l'exposició «Picasso Xipre. Trobades amb la ceràmica del Mediterrani»",
@@ -1100,7 +1079,7 @@
       "source": "CCCB"
     },
     {
-      "id": 54,
+      "id": 53,
       "date": "2026-07-01",
       "date_end": "",
       "time": "",
@@ -1140,10 +1119,10 @@
       "date": "2026-07-01",
       "date_end": "2026-07-01",
       "time": "09:00",
-      "id": 55
+      "id": 54
     },
     {
-      "id": 56,
+      "id": 55,
       "date": "2026-07-03",
       "date_end": "",
       "time": "",
@@ -1164,7 +1143,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 57,
+      "id": 56,
       "date": "2026-07-03",
       "date_end": "",
       "time": "",
@@ -1203,10 +1182,10 @@
       "date": "2026-07-03",
       "date_end": "2026-07-03",
       "time": "09:00",
-      "id": 58
+      "id": 57
     },
     {
-      "id": 59,
+      "id": 58,
       "date": "2026-07-04",
       "time": "",
       "title": "Creure en les màscares",
@@ -1243,7 +1222,7 @@
       "date": "2026-07-04",
       "date_end": "2026-07-04",
       "time": "09:00",
-      "id": 60
+      "id": 59
     },
     {
       "title": "Mercat dels Encants",
@@ -1264,7 +1243,7 @@
       "date": "2026-07-04",
       "date_end": "2026-07-04",
       "time": "09:00",
-      "id": 61
+      "id": 60
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -1285,10 +1264,10 @@
       "date": "2026-07-05",
       "date_end": "2026-07-05",
       "time": "",
-      "id": 62
+      "id": 61
     },
     {
-      "id": 63,
+      "id": 62,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -1309,7 +1288,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 64,
+      "id": 63,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -1330,7 +1309,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 65,
+      "id": 64,
       "date": "2026-07-06",
       "time": "17:00",
       "title": "Visita guiada al Museu Egipci de Barcelona",
@@ -1349,7 +1328,7 @@
       "source": "CCCB"
     },
     {
-      "id": 66,
+      "id": 65,
       "date": "2026-07-06",
       "time": "19:30",
       "title": "La mateixa diferència",
@@ -1368,7 +1347,7 @@
       "source": "CCCB"
     },
     {
-      "id": 67,
+      "id": 66,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1389,7 +1368,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 68,
+      "id": 67,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1410,7 +1389,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 69,
+      "id": 68,
       "date": "2026-07-07",
       "date_end": "",
       "time": "",
@@ -1432,7 +1411,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 70,
+      "id": 69,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1453,7 +1432,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 71,
+      "id": 70,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1474,7 +1453,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 72,
+      "id": 71,
       "date": "2026-07-08",
       "date_end": "",
       "time": "",
@@ -1513,10 +1492,10 @@
       "date": "2026-07-08",
       "date_end": "2026-07-08",
       "time": "09:00",
-      "id": 73
+      "id": 72
     },
     {
-      "id": 74,
+      "id": 73,
       "date": "2026-07-09",
       "date_end": "2026-07-11",
       "time": "",
@@ -1538,7 +1517,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 75,
+      "id": 74,
       "date": "2026-07-09",
       "time": "19:30",
       "title": "No miris",
@@ -1557,7 +1536,7 @@
       "source": "CCCB"
     },
     {
-      "id": 76,
+      "id": 75,
       "date": "2026-07-10",
       "date_end": "",
       "time": "",
@@ -1576,6 +1555,27 @@
       "url": "https://www.barcelona.cat/grec/ca/espectacle/la-fortaleza",
       "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
       "source": "Festival Grec"
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-07-10",
+      "date_end": "2026-07-10",
+      "time": "09:00",
+      "id": 76
     },
     {
       "id": 77,
