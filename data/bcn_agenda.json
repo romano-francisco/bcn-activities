@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T06:39:46.755750",
+  "generated_at": "2026-06-17T06:19:37.139676",
   "sources": [
     "cccb",
     "damm",
@@ -9,7 +9,7 @@
     "grec",
     "santpau"
   ],
-  "total": 130,
+  "total": 59,
   "events": [
     {
       "id": 1,
@@ -50,88 +50,6 @@
       "source": "CCCB"
     },
     {
-      "id": 3,
-      "date": "2026-06-16",
-      "time": "18:30",
-      "title": "Marta Segarra",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "16 de juny 2026 Debats",
-      "url": "https://www.cccb.org/ca/w/activitats/marta-segarra",
-      "image": "https://www.cccb.org/documents/4284035/6523845/Marta+Segarra+%281%29.jpg/1a3818a1-a7c8-6f87-4192-320d8b3d050d?version=1.0&t=1779437028726",
-      "source": "CCCB"
-    },
-    {
-      "id": 4,
-      "date": "2026-06-16",
-      "date_end": "",
-      "time": "19:30",
-      "title": "Cobla Sant Jordi-Ciutat de Barcelona & Antoni Ros Marbà",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/cobla-sant-jordi-ciutat-de-barcelona-antoni-ros-marba_1464020",
-      "image": "https://www.palaumusica.cat/images/1460712/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 5,
-      "date": "2026-06-16",
-      "date_end": "",
-      "time": "21:00",
-      "title": "Solo a solas conmigo de Víctor Manuel",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/solo-a-solas-conmigo-de-victor-manuel_1553578",
-      "image": "https://www.palaumusica.cat/images/1553583/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 6,
-      "date": "2026-06-17",
-      "date_end": "2026-07-05",
-      "time": "",
-      "title": "La Ruta",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "26 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-ruta",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
       "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
@@ -150,10 +68,10 @@
       "date": "2026-06-17",
       "date_end": "2026-06-17",
       "time": "09:00",
-      "id": 7
+      "id": 3
     },
     {
-      "id": 8,
+      "id": 4,
       "date": "2026-06-17",
       "time": "18:30",
       "title": "«Els inicis», de Claire Marin",
@@ -172,7 +90,7 @@
       "source": "CCCB"
     },
     {
-      "id": 9,
+      "id": 5,
       "date": "2026-06-17",
       "time": "18:30",
       "title": "El preu de continuar dient la veritat",
@@ -191,7 +109,7 @@
       "source": "CCCB"
     },
     {
-      "id": 10,
+      "id": 6,
       "date": "2026-06-17",
       "date_end": "",
       "time": "20:00",
@@ -212,7 +130,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 11,
+      "id": 7,
       "date": "2026-06-18",
       "time": "17:30",
       "title": "Presentació i visita a la col·lecció del MACBA, «Com una dansa d’estornells»",
@@ -231,7 +149,7 @@
       "source": "CCCB"
     },
     {
-      "id": 12,
+      "id": 8,
       "date": "2026-06-18",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Meri Torras",
@@ -268,28 +186,7 @@
       "date": "2026-06-19",
       "date_end": "2026-06-19",
       "time": "09:00",
-      "id": 13
-    },
-    {
-      "id": 14,
-      "date": "2026-06-20",
-      "date_end": "",
-      "time": "",
-      "title": "Flaix Fitness",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎵",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Ready to sweat to an amazing soundtrack? On Saturday, June 20 at 10 AM, Time Out Market Barcelona will turn into a gym with Flaix Fitness, a music-driven fitness activity open to everyone. This time, led by Pol Cejas and featuring the signature sound of Flaix FM.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/flaix-fitness",
-      "image": "https://media.timeout.com/images/106396698/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
+      "id": 9
     },
     {
       "title": "Mercat de Glòries",
@@ -310,7 +207,7 @@
       "date": "2026-06-20",
       "date_end": "2026-06-20",
       "time": "09:00",
-      "id": 15
+      "id": 10
     },
     {
       "title": "Mercat dels Encants",
@@ -331,10 +228,10 @@
       "date": "2026-06-20",
       "date_end": "2026-06-20",
       "time": "09:00",
-      "id": 16
+      "id": 11
     },
     {
-      "id": 17,
+      "id": 12,
       "date": "2026-06-20",
       "date_end": "",
       "time": "19:00",
@@ -373,10 +270,10 @@
       "date": "2026-06-21",
       "date_end": "2026-06-21",
       "time": "",
-      "id": 18
+      "id": 13
     },
     {
-      "id": 19,
+      "id": 14,
       "date": "2026-06-22",
       "time": "18:30",
       "title": "Homenatge a Catalunya",
@@ -395,7 +292,7 @@
       "source": "CCCB"
     },
     {
-      "id": 20,
+      "id": 15,
       "date": "2026-06-22",
       "time": "18:30",
       "title": "Hashim Sarkis",
@@ -412,49 +309,6 @@
       "url": "https://www.cccb.org/ca/w/activitats/hashim-sarkis",
       "image": "https://www.cccb.org/documents/4284035/6555884/HashimSarkis.jpg/2bd5cb8c-b64e-28b2-1ad9-327bcadeabeb?version=1.0&t=1780570635702",
       "source": "CCCB"
-    },
-    {
-      "id": 21,
-      "date": "2026-06-23",
-      "date_end": "",
-      "time": "",
-      "title": "Bingo Musical",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎵",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "This Sant Joan's Eve, Time Out Market Barcelona is swapping the traditional bonfires for bingo cards and smash hits. On June 23rd, we’re hosting a very special edition of our Musical Bingo—the event where it’s not about who knows the most about music, but who’s most ready to party!",
-      "url": "https://www.timeout.com/time-out-market-barcelona/nightlife/bingo-musical",
-      "image": "https://media.timeout.com/images/106305959/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
-      "id": 22,
-      "date": "2026-06-24",
-      "date_end": "",
-      "time": "",
-      "title": "TastOut: a tapas route",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Free",
-      "emoji": "🍜",
-      "bg": "#EBF5E8",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "desc": "Did you enjoy the tapas crawl on Wednesdays? Wednesdays still taste better than ever at Time Out Market Barcelona. From 7 PM to 10.30 PM, the market transforms into a culinary tasting tour with the TastOut, where every kitchen serves a special bite for just €3. Take note: if you collect at least 4 stamps on your \"tapa passport\", we’ll treat you to a free beer at the main bar.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/restaurants/tastout-al-time-out-market-barcelona",
-      "image": "https://media.timeout.com/images/106348391/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat dels Encants",
@@ -475,50 +329,7 @@
       "date": "2026-06-24",
       "date_end": "2026-06-24",
       "time": "09:00",
-      "id": 23
-    },
-    {
-      "id": 24,
-      "date": "2026-06-25",
-      "date_end": "2026-07-30",
-      "time": "",
-      "title": "L’Albada",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "Entrada general a 30 € + despeses de gestió",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/lalbada",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 25,
-      "date": "2026-06-25",
-      "date_end": "2026-07-05",
-      "time": "",
-      "title": "Avi, et trauré d’aquí",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "A partir de 12 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "Dramatúrgia i direcció: Víctor Borràs GaschA partir del llibre de Joan Pinyol Colom",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/avi-et-traure-daqui",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
+      "id": 16
     },
     {
       "title": "Mercat dels Encants",
@@ -539,112 +350,7 @@
       "date": "2026-06-26",
       "date_end": "2026-06-26",
       "time": "09:00",
-      "id": 26
-    },
-    {
-      "id": 27,
-      "date": "2026-06-27",
-      "date_end": "",
-      "time": "",
-      "title": "The Reggaeton Rooftop",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "food",
-      "free": false,
-      "price": "",
-      "emoji": "🍜",
-      "bg": "#EBF5E8",
-      "tags": [
-        "food"
-      ],
-      "desc": "On Sundays, Time Out Market Barcelona is the place to party. The good weather is here to stay, and everyone is diving straight into our new reggaeton \"tardeo.\" From 5 PM to 10 PM, the terrace transforms into the city's most vibrant dance floor with the best urban beats.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/the-reggaeton-rooftop",
-      "image": "https://media.timeout.com/images/106410755/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
-      "id": 28,
-      "date": "2026-06-27",
-      "date_end": "",
-      "time": "",
-      "title": "Views and Show by Aperol Spritz",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎵",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Good weather is here for good, and everyone is ready to jump right in. Come and do just that at the best time of day at Time Out Market, with a perfectly crafted Aperol Spritz or Crodino and background music to make the experience truly sublime.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/dj-golden-hour-aperol-spritz",
-      "image": "https://media.timeout.com/images/106386759/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
-      "id": 29,
-      "date": "2026-06-27",
-      "date_end": "",
-      "time": "",
-      "title": "Salsa Time",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎵",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Do you love dancing salsa? Come to Time Out Market! Every Saturday, from 7 PM to 10 PM, we host a massive dance floor for you to move with other Latin music fans. Tickets are 10 euros and include a drink (water, beer, soft drink, or a glass of wine). And take note: we’re taking advantage of the good weather to hold the party on one of the coolest terraces in the Market (and in Barcelona): the Mestral.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/salsa-time-at-time-out-market",
-      "image": "https://media.timeout.com/images/106401133/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
-      "id": 30,
-      "date": "2026-06-27",
-      "date_end": "",
-      "time": "",
-      "title": "Caffeine Rave",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "food",
-      "free": false,
-      "price": "",
-      "emoji": "🍜",
-      "bg": "#EBF5E8",
-      "tags": [
-        "food"
-      ],
-      "desc": "We’re swapping the night for daytime and cocktails for specialty coffee. Caffeine Social Club’s Caffeine Rave arrives at Time Out Market with a session on June 27 from 11 AM to 3 PM.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/music/caffeine-rave",
-      "image": "https://media.timeout.com/images/106411286/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
-      "id": 31,
-      "date": "2026-06-27",
-      "date_end": "",
-      "time": "",
-      "title": "La truita",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "14-34 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-truita",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
+      "id": 17
     },
     {
       "title": "Mercat de Glòries",
@@ -665,7 +371,7 @@
       "date": "2026-06-27",
       "date_end": "2026-06-27",
       "time": "09:00",
-      "id": 32
+      "id": 18
     },
     {
       "title": "Mercat dels Encants",
@@ -686,28 +392,7 @@
       "date": "2026-06-27",
       "date_end": "2026-06-27",
       "time": "09:00",
-      "id": 33
-    },
-    {
-      "id": 34,
-      "date": "2026-06-28",
-      "date_end": "",
-      "time": "",
-      "title": "BarreFit",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "food",
-      "free": false,
-      "price": "",
-      "emoji": "🍜",
-      "bg": "#EBF5E8",
-      "tags": [
-        "food"
-      ],
-      "desc": "On Sunday, June 28th, Time Out Market Barcelona gets moving again with a new edition of Time Out Fit. This time, we’ve teamed up with Barrefit® Studio to offer a special summer session that combines the best of yoga, Pilates, and classical dance, lasting approximately two hours.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/barrefit-sant-jordi",
-      "image": "https://media.timeout.com/images/106384834/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
+      "id": 19
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -728,31 +413,10 @@
       "date": "2026-06-28",
       "date_end": "2026-06-28",
       "time": "",
-      "id": 35
+      "id": 20
     },
     {
-      "id": 36,
-      "date": "2026-06-29",
-      "date_end": "2026-07-01",
-      "time": "",
-      "title": "L'òpera de tres rals",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "35 €",
-      "emoji": "🎵",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Autoria: Bertolt Brecht (text) i Kurt Weill (música)En col·laboració amb Elisabeth Hauptmann",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/lopera-de-tres-rals",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 37,
+      "id": 21,
       "date": "2026-06-29",
       "time": "18:30",
       "title": "Yezid Sayigh, Natalia Sancha, Tinhinan El Kadi i Eduard Soler",
@@ -771,92 +435,7 @@
       "source": "CCCB"
     },
     {
-      "id": 38,
-      "date": "2026-06-30",
-      "date_end": "",
-      "time": "",
-      "title": "El retrat de Dorian Gray",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "32-28 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "A partir de l’obra d’Oscar Wilde",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/el-retrat-de-dorian-gray",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 39,
-      "date": "2026-06-30",
-      "date_end": "2026-07-31",
-      "time": "",
-      "title": "FACTORY (Somni d’una nit d’estiu)",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "29 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "A partir de l’obra de William Shakespeare",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/factory-somni-duna-nit-destiu",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 40,
-      "date": "2026-06-30",
-      "date_end": "2026-07-26",
-      "time": "",
-      "title": "Anatomia de Ricard (díptic)",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "10-22 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "Ricard de 3r i Ricard 111Direcció: Montse Rodríguez i ClusellaAutoria: Gerard Guix",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/anatomia-de-ricard-diptic",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 41,
-      "date": "2026-06-30",
-      "date_end": "2026-07-09",
-      "time": "",
-      "title": "Rasa",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "20 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/rasa",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 42,
+      "id": 22,
       "date": "2026-06-30",
       "time": "18:00",
       "title": "Presentació i visita a l'exposició «Picasso Xipre. Trobades amb la ceràmica del Mediterrani»",
@@ -873,28 +452,6 @@
       "url": "https://www.cccb.org/ca/w/activitats/presentacio-i-visita-a-lexposicio-picasso-xipre-trobades-amb-la-ceramica-del-mediterrani",
       "image": "https://www.cccb.org/documents/4284035/4287122/Copia+de+Web+1920x1080+%286%29.jpg/e05af049-31d5-ae45-6f3a-6ac864b08f55?version=1.1&t=1779200931669",
       "source": "CCCB"
-    },
-    {
-      "id": 43,
-      "date": "2026-07-01",
-      "date_end": "",
-      "time": "",
-      "title": "Carlos de Jacoba & Ciutat",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "20 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "Univers Paral·lel x Grec 2026",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/carlos-de-jacoba-ciutat",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
     },
     {
       "title": "Mercat dels Encants",
@@ -915,49 +472,7 @@
       "date": "2026-07-01",
       "date_end": "2026-07-01",
       "time": "09:00",
-      "id": 44
-    },
-    {
-      "id": 45,
-      "date": "2026-07-03",
-      "date_end": "",
-      "time": "",
-      "title": "Ophelia’s Got Talent",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "29 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/ophelias-got-talent",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 46,
-      "date": "2026-07-03",
-      "date_end": "",
-      "time": "",
-      "title": "Grans bardisses",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "22 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/grans-bardisses",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
+      "id": 23
     },
     {
       "title": "Mercat dels Encants",
@@ -978,10 +493,10 @@
       "date": "2026-07-03",
       "date_end": "2026-07-03",
       "time": "09:00",
-      "id": 47
+      "id": 24
     },
     {
-      "id": 48,
+      "id": 25,
       "date": "2026-07-04",
       "time": "",
       "title": "Creure en les màscares",
@@ -1018,7 +533,7 @@
       "date": "2026-07-04",
       "date_end": "2026-07-04",
       "time": "09:00",
-      "id": 49
+      "id": 26
     },
     {
       "title": "Mercat dels Encants",
@@ -1039,7 +554,7 @@
       "date": "2026-07-04",
       "date_end": "2026-07-04",
       "time": "09:00",
-      "id": 50
+      "id": 27
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -1060,52 +575,10 @@
       "date": "2026-07-05",
       "date_end": "2026-07-05",
       "time": "",
-      "id": 51
+      "id": 28
     },
     {
-      "id": 52,
-      "date": "2026-07-05",
-      "date_end": "",
-      "time": "",
-      "title": "Bovary",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "34 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "A partir de Madame Bovary de Gustave FlaubertMúsica original: Harold Noben",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/bovary",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 53,
-      "date": "2026-07-05",
-      "date_end": "",
-      "time": "",
-      "title": "Andrea Peña & Artists (AP&A)",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "29 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/andrea-pena-artists-apa",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 54,
+      "id": 29,
       "date": "2026-07-06",
       "time": "17:00",
       "title": "Visita guiada al Museu Egipci de Barcelona",
@@ -1124,7 +597,7 @@
       "source": "CCCB"
     },
     {
-      "id": 55,
+      "id": 30,
       "date": "2026-07-06",
       "time": "19:30",
       "title": "La mateixa diferència",
@@ -1141,133 +614,6 @@
       "url": "https://www.cccb.org/ca/w/activitats/la-mateixa-diferencia",
       "image": "https://www.cccb.org/documents/4284035/6540101/la+mateixa+diferenca_Pau+Aran_pablo+lorente_1920x1080.jpg/1fad6fd7-462e-4c38-c8e2-34e057a34a1a?version=1.0&t=1776251842297",
       "source": "CCCB"
-    },
-    {
-      "id": 56,
-      "date": "2026-07-07",
-      "date_end": "",
-      "time": "",
-      "title": "Mal Pelo",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "28 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/mal-pelo",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 57,
-      "date": "2026-07-07",
-      "date_end": "",
-      "time": "",
-      "title": "El corazón de Ester",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "22 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/el-corazon-de-ester",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 58,
-      "date": "2026-07-07",
-      "date_end": "",
-      "time": "",
-      "title": "Pau Aran",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "20 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/pau-aran",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 59,
-      "date": "2026-07-08",
-      "date_end": "",
-      "time": "",
-      "title": "laSADCUM",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "22 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/lasadcum",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 60,
-      "date": "2026-07-08",
-      "date_end": "",
-      "time": "",
-      "title": "SPAFRICA",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "17 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "Dramatúrgia: Miguel Melgares",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/spafrica",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 61,
-      "date": "2026-07-08",
-      "date_end": "",
-      "time": "",
-      "title": "Mi madre y el dinero",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "22 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "En col·laboració amb Josefina Orlaineta",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/mi-madre-y-el-dinero",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
     },
     {
       "title": "Mercat dels Encants",
@@ -1288,32 +634,10 @@
       "date": "2026-07-08",
       "date_end": "2026-07-08",
       "time": "09:00",
-      "id": 62
+      "id": 31
     },
     {
-      "id": 63,
-      "date": "2026-07-09",
-      "date_end": "2026-07-11",
-      "time": "",
-      "title": "Núria Guiu",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "8 €, 10 €, 12 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/nuria-guiu",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 64,
+      "id": 32,
       "date": "2026-07-09",
       "time": "19:30",
       "title": "No miris",
@@ -1330,27 +654,6 @@
       "url": "https://www.cccb.org/ca/w/activitats/no-miris",
       "image": "https://www.cccb.org/documents/4284035/6540101/NO+MIRIS+WEB+_BO_Erol+Ileri.jpg/2b074850-186b-59a4-1f55-cdd9198e0352?version=1.0&t=1777477818572",
       "source": "CCCB"
-    },
-    {
-      "id": 65,
-      "date": "2026-07-10",
-      "date_end": "",
-      "time": "",
-      "title": "La fortaleza",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "22 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "Diàleg contemporani a partir de ‘El castillo de Lindabridis’",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-fortaleza",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
     },
     {
       "title": "Mercat dels Encants",
@@ -1371,10 +674,10 @@
       "date": "2026-07-10",
       "date_end": "2026-07-10",
       "time": "09:00",
-      "id": 66
+      "id": 33
     },
     {
-      "id": 67,
+      "id": 34,
       "date": "2026-07-10",
       "time": "20:30",
       "title": "Museum Quiz Summer Tour 2026",
@@ -1393,7 +696,7 @@
       "source": "CCCB"
     },
     {
-      "id": 68,
+      "id": 35,
       "date": "2026-07-10",
       "time": "29 de juny - 10 de juliol 2026",
       "title": "Eh! Tallers d’estiu per a ments creatives",
@@ -1410,70 +713,6 @@
       "url": "https://www.cccb.org/ca/w/activitats/eh-tallers-destiu-per-a-ments-creatives",
       "image": "https://www.cccb.org/documents/4284035/6540101/eh+2026_1920x1080.jpg/c73dd483-d772-1e61-006c-a42c64381494?version=1.0&t=1774343975649",
       "source": "CCCB"
-    },
-    {
-      "id": 69,
-      "date": "2026-07-11",
-      "date_end": "",
-      "time": "",
-      "title": "La verdadera historia de Ricardo III",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "30 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "A partir de Ricard III, de William Shakespeare",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-verdadera-historia-de-ricardo-iii",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 70,
-      "date": "2026-07-11",
-      "date_end": "",
-      "time": "",
-      "title": "Wasted Land",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "29 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/wasted-land",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 71,
-      "date": "2026-07-11",
-      "date_end": "",
-      "time": "",
-      "title": "Lorena Nogal",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "29 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/lorena-nogal",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
     },
     {
       "title": "Mercat de Glòries",
@@ -1494,7 +733,7 @@
       "date": "2026-07-11",
       "date_end": "2026-07-11",
       "time": "09:00",
-      "id": 72
+      "id": 36
     },
     {
       "title": "Mercat dels Encants",
@@ -1515,7 +754,7 @@
       "date": "2026-07-11",
       "date_end": "2026-07-11",
       "time": "09:00",
-      "id": 73
+      "id": 37
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -1536,95 +775,10 @@
       "date": "2026-07-12",
       "date_end": "2026-07-12",
       "time": "",
-      "id": 74
+      "id": 38
     },
     {
-      "id": 75,
-      "date": "2026-07-12",
-      "date_end": "",
-      "time": "",
-      "title": "Secrets",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "20 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/secrets",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 76,
-      "date": "2026-07-12",
-      "date_end": "",
-      "time": "",
-      "title": "Pepe Lolo",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "15 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/pepe-lolo",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 77,
-      "date": "2026-07-12",
-      "date_end": "",
-      "time": "",
-      "title": "NOSALTRES, MORTALS. Preventives, penades, reincidents, lladres, bruixes i altres semblants",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "18 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/nosaltres-mortals-preventives-penades-reincidents-lladres-bruixes-i-altres-semblants",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 78,
-      "date": "2026-07-13",
-      "date_end": "",
-      "time": "",
-      "title": "Les flors prohibides",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "28 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/les-flors-prohibides",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 79,
+      "id": 39,
       "date": "2026-07-14",
       "time": "18:30",
       "title": "La condició humana, d’Hannah Arendt",
@@ -1643,7 +797,7 @@
       "source": "CCCB"
     },
     {
-      "id": 80,
+      "id": 40,
       "date": "2026-07-14",
       "date_end": "",
       "time": "19:30",
@@ -1664,177 +818,28 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 81,
+      "id": 41,
       "date": "2026-07-15",
       "date_end": "",
-      "time": "",
-      "title": "Ceramic Circus",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "20 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
+      "time": "20:00",
+      "title": "Guinovart interpreta Guinovart",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
       "tags": [
-        "culture",
-        "free"
+        "music"
       ],
       "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/ceramic-circus",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
+      "url": "https://www.palaumusica.cat/ca/guinovart-interpreta-guinovart_1591531",
+      "image": "https://www.palaumusica.cat/images/1580327/image_column.jpg",
+      "source": "Palau de la Música"
     },
     {
-      "id": 82,
-      "date": "2026-07-15",
-      "date_end": "",
-      "time": "",
-      "title": "Sung Im Her",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "29 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/sung-im-her",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 83,
-      "date": "2026-07-16",
-      "date_end": "",
-      "time": "",
-      "title": "El pacte de l’oblit",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "22 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "Text de Sergi Casero Nieto amb fragments i cites de Jorge Luís Borges, Federico García Lorca i Clara Valverde",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/el-pacte-de-loblit",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 84,
-      "date": "2026-07-16",
-      "date_end": "",
-      "time": "",
-      "title": "Baiuca i Júlia Colom",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "22 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "Univers Paral·lel x Grec 2026",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/baiuca-i-julia-colom",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 85,
-      "date": "2026-07-16",
-      "date_end": "",
-      "time": "",
-      "title": "MULJIL",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "29 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "Direcció: Jinyeob LeeText: Jaeuk Shin",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/muljil",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 86,
-      "date": "2026-07-17",
-      "date_end": "",
-      "time": "",
-      "title": "Anne Teresa De Keersmaeker, Solal Mariotte / Rosas",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "28 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/anne-teresa-de-keersmaeker-solal-mariotte-rosas",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 87,
-      "date": "2026-07-17",
-      "date_end": "",
-      "time": "",
-      "title": "Leandro de Souza",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "12, 10 i 8 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/leandro-de-souza",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 88,
-      "date": "2026-07-17",
-      "date_end": "",
-      "time": "",
-      "title": "ASIA",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "10 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/asia",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 89,
+      "id": 42,
       "date": "2026-07-18",
       "time": "18:30",
       "title": "Intel·ligències no humanes: una ecologia cognitiva planetària",
@@ -1853,135 +858,7 @@
       "source": "CCCB"
     },
     {
-      "id": 90,
-      "date": "2026-07-19",
-      "date_end": "",
-      "time": "",
-      "title": "The World Cup at Time Out Market (for free!)",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "music",
-      "free": true,
-      "price": "Free",
-      "emoji": "🎵",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music",
-        "free"
-      ],
-      "desc": "Football is one of our passions — and it shows (with a regular line-up of live match screenings that’s impossible to ignore). And we couldn’t miss the chance to share all the excitement of the World Cup with you. Head over to Time Out Market to enjoy the matches for free on a giant screen, surrounded by fellow fans and with special food offers. Just show up for whichever match you want to watch. The tournament runs from June 11 to July 19.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/el-mundial-al-time-out-market-gratis",
-      "image": "https://media.timeout.com/images/106411277/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
-      "id": 91,
-      "date": "2026-07-19",
-      "date_end": "",
-      "time": "",
-      "title": "30è Circ d’Hivern: La gran plantada",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "15 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/30e-circ-dhivern-la-gran-plantada",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 92,
-      "date": "2026-07-19",
-      "date_end": "",
-      "time": "",
-      "title": "\"human requiem\"",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "25 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "Simon Halsey / Jochen Sandig",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/human-requiem",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 93,
-      "date": "2026-07-19",
-      "date_end": "",
-      "time": "",
-      "title": "Nascuts lliures",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "14-28 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "Direcció i creació: Carles Fernández Giua",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/nascuts-lliures",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 94,
-      "date": "2026-07-19",
-      "date_end": "",
-      "time": "",
-      "title": "Yerai Cortés",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "44 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/yerai-cortes",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 95,
-      "date": "2026-07-20",
-      "date_end": "",
-      "time": "",
-      "title": "Mosques",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "20 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/mosques",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 96,
+      "id": 43,
       "date": "2026-07-20",
       "time": "18:30",
       "title": "CinemaTeatre",
@@ -2000,7 +877,7 @@
       "source": "CCCB"
     },
     {
-      "id": 97,
+      "id": 44,
       "date": "2026-07-20",
       "date_end": "",
       "time": "19:30",
@@ -2021,114 +898,28 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 98,
-      "date": "2026-07-21",
+      "id": 45,
+      "date": "2026-07-23",
       "date_end": "",
-      "time": "",
-      "title": "Walid Ben Selim / Raül Refree / Vincent Moon",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
+      "time": "19:30",
+      "title": "Trio Concept",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
       "free": false,
-      "price": "28 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
       "tags": [
-        "culture"
+        "music"
       ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/walid-ben-selim-raul-refree-vincent-moon",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
+      "desc": "—Joves talents internacionals",
+      "url": "https://www.palaumusica.cat/ca/trio-concept_1460938",
+      "image": "https://www.palaumusica.cat/images/1460937/image_column.jpg",
+      "source": "Palau de la Música"
     },
     {
-      "id": 99,
-      "date": "2026-07-22",
-      "date_end": "",
-      "time": "",
-      "title": "Roger Mas i la Cobla Sant Jordi Ciutat de Barcelona",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "28 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/roger-mas-i-la-cobla-sant-jordi-ciutat-de-barcelona",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 100,
-      "date": "2026-07-22",
-      "date_end": "",
-      "time": "",
-      "title": "Democracia total",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "10 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/democracia-total",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 101,
-      "date": "2026-07-22",
-      "date_end": "",
-      "time": "",
-      "title": "Qui hi ha",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "15 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "Direcció: Marc Cartanyà Pena i AMAGADramatúrgia: Eduard Olesti, AMAGA",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/qui-hi-ha",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 102,
-      "date": "2026-07-22",
-      "date_end": "",
-      "time": "",
-      "title": "Yamato",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "30-42,50 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/yamato",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 103,
+      "id": 46,
       "date": "2026-07-24",
       "time": "29 de juny - 24 de juliol 2026",
       "title": "Culturnautes 2026",
@@ -2147,175 +938,7 @@
       "source": "CCCB"
     },
     {
-      "id": 104,
-      "date": "2026-07-25",
-      "date_end": "",
-      "time": "",
-      "title": "El Tardet",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎵",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "This summer, we have seven editions of El Tardet x Time Out Market –an evening \"tardeo\" with DJs, humor, and plenty of surprises! This party offers the perfect atmosphere to meet new people or have a blast with your crew, surrounded by drinks and music, all without having to sacrifice a whole night’s sleep!",
-      "url": "https://www.timeout.com/time-out-market-barcelona/music/el-tardet-aperol-la-festa-de-tarda-mes-petarda-arriba-al-time-out-market",
-      "image": "https://media.timeout.com/images/106389567/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
-      "id": 105,
-      "date": "2026-07-25",
-      "date_end": "",
-      "time": "",
-      "title": "A la colònia penitenciària",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "22 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "A partir del conte de Franz Kafka",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-colonia-penitenciaria",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 106,
-      "date": "2026-07-25",
-      "date_end": "",
-      "time": "",
-      "title": "Mucha Muchacha",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "22 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/mucha-muchacha",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 107,
-      "date": "2026-07-25",
-      "date_end": "",
-      "time": "",
-      "title": "Sébastien Tellier",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "35 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/sebastien-tellier",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 108,
-      "date": "2026-07-26",
-      "date_end": "",
-      "time": "",
-      "title": "Seppuku. El funeral de Mishima o el plaer de morir",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "29 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/seppuku-el-funeral-de-mishima-o-el-plaer-de-morir",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 109,
-      "date": "2026-07-26",
-      "date_end": "",
-      "time": "",
-      "title": "Cia. Agnès Balfegó Brull",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "15 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/cia-agnes-balfego-brull",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 110,
-      "date": "2026-07-27",
-      "date_end": "",
-      "time": "",
-      "title": "Zora Snake",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "29 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/zora-snake",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 111,
-      "date": "2026-07-28",
-      "date_end": "",
-      "time": "",
-      "title": "La Nit del Músic Alt. Un tipus de gènere ambigu",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "28 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "Dramatúrgia: Carles Pedragosa Torres",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/la-nit-del-music-alt-un-tipus-de-genere-ambigu",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 112,
+      "id": 47,
       "date": "2026-07-28",
       "time": "18:30",
       "title": "Visites comentades a l’Arxiu Xcèntric 2026",
@@ -2334,135 +957,7 @@
       "source": "CCCB"
     },
     {
-      "id": 113,
-      "date": "2026-07-29",
-      "date_end": "",
-      "time": "",
-      "title": "Aleix Colomer Campoy",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "20 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/aleix-colomer-campoy",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 114,
-      "date": "2026-07-30",
-      "date_end": "",
-      "time": "",
-      "title": "Consulta familiar",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "family",
-      "free": false,
-      "price": "22 €",
-      "emoji": "👨‍👩‍👧",
-      "bg": "#FFF5EB",
-      "tags": [
-        "family"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/consulta-familiar",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 115,
-      "date": "2026-07-30",
-      "date_end": "",
-      "time": "",
-      "title": "Després de nosaltres",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "24 € més despeses de gestió",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/despres-de-nosaltres",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 116,
-      "date": "2026-07-31",
-      "date_end": "",
-      "time": "",
-      "title": "TAO Dance Theater",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "30 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/tao-dance-theater",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 117,
-      "date": "2026-07-31",
-      "date_end": "",
-      "time": "",
-      "title": "Um julgamento",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "29 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "A partir d’Un enemic del poble, d’Henrik Ibsen",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/um-julgamento",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 118,
-      "date": "2026-07-31",
-      "date_end": "",
-      "time": "",
-      "title": "L’última entrevista (Roig/Capmany)",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "22 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/lultima-entrevista-roigcapmany",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 119,
+      "id": 48,
       "date": "2026-08-29",
       "date_end": "",
       "time": "20:00",
@@ -2483,7 +978,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 120,
+      "id": 49,
       "date": "2026-08-30",
       "time": "30 de juliol - 30 d’agost 2026",
       "title": "«Simfonies de ciutat» Projeccions d’estiu 2026",
@@ -2502,7 +997,7 @@
       "source": "CCCB"
     },
     {
-      "id": 121,
+      "id": 50,
       "date": "2026-09-08",
       "time": "18:00",
       "title": "Cinema d'estiu per a tota la família",
@@ -2521,7 +1016,7 @@
       "source": "CCCB"
     },
     {
-      "id": 122,
+      "id": 51,
       "date": "2026-09-09",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Irene Pujadas",
@@ -2540,7 +1035,7 @@
       "source": "CCCB"
     },
     {
-      "id": 123,
+      "id": 52,
       "date": "2026-09-16",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Sílvia Rosés Castellsaguer",
@@ -2559,7 +1054,7 @@
       "source": "CCCB"
     },
     {
-      "id": 124,
+      "id": 53,
       "date": "2026-09-30",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Víctor Ramírez Tur",
@@ -2578,7 +1073,7 @@
       "source": "CCCB"
     },
     {
-      "id": 125,
+      "id": 54,
       "date": "2026-10-09",
       "time": "16:00",
       "title": "«El culte a la bellesa» per a persones amb ceguesa o baixa visió",
@@ -2597,7 +1092,7 @@
       "source": "CCCB"
     },
     {
-      "id": 126,
+      "id": 55,
       "date": "2026-10-11",
       "time": "12:00",
       "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
@@ -2616,7 +1111,7 @@
       "source": "CCCB"
     },
     {
-      "id": 127,
+      "id": 56,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -2635,7 +1130,7 @@
       "source": "CCCB"
     },
     {
-      "id": 128,
+      "id": 57,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -2654,7 +1149,7 @@
       "source": "CCCB"
     },
     {
-      "id": 129,
+      "id": 58,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -2673,7 +1168,7 @@
       "source": "CCCB"
     },
     {
-      "id": 130,
+      "id": 59,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
