@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T04:42:37.803672",
+  "generated_at": "2026-07-05T05:04:27.488490",
   "sources": [
     "cccb",
     "damm",
@@ -9,7 +9,7 @@
     "grec",
     "santpau"
   ],
-  "total": 112,
+  "total": 114,
   "events": [
     {
       "id": 1,
@@ -31,89 +31,7 @@
       "source": "CCCB"
     },
     {
-      "title": "Mercat de Glòries",
-      "venue": "Mercat de Glòries",
-      "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dissabtes 9h–15h",
-      "description": "Mercat tradicional al carrer a la Plaça de les Glòries. Productes de proximitat, roba vintage, artesania i menjar de mercat.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🛒",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-07-04",
-      "date_end": "2026-07-04",
-      "time": "09:00",
-      "id": 2
-    },
-    {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-07-04",
-      "date_end": "2026-07-04",
-      "time": "09:00",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "date": "2026-07-04",
-      "date_end": "",
-      "time": "18:30",
-      "title": "‘La traviata’ de Verdi",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Orquestra Simfònica del Vallès & Salado",
-      "url": "https://www.palaumusica.cat/ca/-la-traviata-de-verdi_1460853",
-      "image": "https://www.palaumusica.cat/images/1478789/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 5,
-      "date": "2026-07-04",
-      "time": "19:00",
-      "title": "Preestrena dels documentals del curs 2025-2026",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "4 de juliol 2026 Audiovisuals",
-      "url": "https://www.cccb.org/ca/w/activitats/preestrena-dels-documentals-del-curs-2025-2026",
-      "image": "https://www.cccb.org/documents/4284035/6555884/Preestrena+dels+documentals+UAB+2025-2026.jpg/1afd69f1-9f70-31b0-6bd6-bb49d7b9f11c?version=1.0&t=1782111990000",
-      "source": "CCCB"
-    },
-    {
-      "id": 6,
+      "id": 2,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -152,10 +70,10 @@
       "date": "2026-07-05",
       "date_end": "2026-07-05",
       "time": "",
-      "id": 7
+      "id": 3
     },
     {
-      "id": 8,
+      "id": 4,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -176,7 +94,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 9,
+      "id": 5,
       "date": "2026-07-05",
       "date_end": "",
       "time": "",
@@ -197,7 +115,28 @@
       "source": "Festival Grec"
     },
     {
-      "id": 10,
+      "id": 6,
+      "date": "2026-07-05",
+      "date_end": "",
+      "time": "17:30",
+      "title": "‘La traviata’ de Verdi",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Orquestra Simfònica del Vallès & Salado",
+      "url": "https://www.palaumusica.cat/ca/-la-traviata-de-verdi_1460853",
+      "image": "https://www.palaumusica.cat/images/1478789/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 7,
       "date": "2026-07-05",
       "time": "18:30",
       "title": "Cinema experimental: estructures, sistemes i estratègies",
@@ -216,7 +155,28 @@
       "source": "CCCB"
     },
     {
-      "id": 11,
+      "id": 8,
+      "date": "2026-07-05",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Gran Gala Flamenc",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
+      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 9,
       "date": "2026-07-06",
       "time": "17:00",
       "title": "Visita guiada al Museu Egipci de Barcelona",
@@ -235,7 +195,28 @@
       "source": "CCCB"
     },
     {
-      "id": 12,
+      "id": 10,
+      "date": "2026-07-06",
+      "date_end": "",
+      "time": "18:30",
+      "title": "Catalunya i l’esperit wagnerià",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/catalunya-i-l-esperit-wagneria_1640436",
+      "image": "https://www.palaumusica.cat/images/1545029/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 11,
       "date": "2026-07-06",
       "time": "19:30",
       "title": "La mateixa diferència",
@@ -252,6 +233,27 @@
       "url": "https://www.cccb.org/ca/w/activitats/la-mateixa-diferencia",
       "image": "https://www.cccb.org/documents/4284035/6540101/la+mateixa+diferenca_Pau+Aran_pablo+lorente_1920x1080.jpg/1fad6fd7-462e-4c38-c8e2-34e057a34a1a?version=1.0&t=1776251842297",
       "source": "CCCB"
+    },
+    {
+      "id": 12,
+      "date": "2026-07-06",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Homenatge a Williams i Zimmer",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Orquestra Simfònica del Vallès & Salado",
+      "url": "https://www.palaumusica.cat/ca/homenatge-a-williams-i-zimmer_1460856",
+      "image": "https://www.palaumusica.cat/images/1460855/image_column.jpg",
+      "source": "Palau de la Música"
     },
     {
       "id": 13,
@@ -1901,7 +1903,49 @@
       "id": 91
     },
     {
-      "id": 92,
+      "title": "Mercat de Glòries",
+      "venue": "Mercat de Glòries",
+      "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dissabtes 9h–15h",
+      "description": "Mercat tradicional al carrer a la Plaça de les Glòries. Productes de proximitat, roba vintage, artesania i menjar de mercat.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🛒",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-08-01",
+      "date_end": "2026-08-01",
+      "time": "09:00",
+      "id": 92
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-08-01",
+      "date_end": "2026-08-01",
+      "time": "09:00",
+      "id": 93
+    },
+    {
+      "id": 94,
       "date": "2026-08-04",
       "time": "22:00",
       "title": "Paris is Burning",
@@ -1920,7 +1964,7 @@
       "source": "CCCB"
     },
     {
-      "id": 93,
+      "id": 95,
       "date": "2026-08-05",
       "time": "22:00",
       "title": "La substància (The Substance)",
@@ -1939,7 +1983,7 @@
       "source": "CCCB"
     },
     {
-      "id": 94,
+      "id": 96,
       "date": "2026-08-06",
       "time": "22:00",
       "title": "La mosca (The Fly)",
@@ -1958,7 +2002,7 @@
       "source": "CCCB"
     },
     {
-      "id": 95,
+      "id": 97,
       "date": "2026-08-11",
       "time": "22:00",
       "title": "Sis dones per a l'assassí (6 donne per l'assassino)",
@@ -1977,7 +2021,7 @@
       "source": "CCCB"
     },
     {
-      "id": 96,
+      "id": 98,
       "date": "2026-08-12",
       "time": "22:00",
       "title": "La mort us escau tan bé (Death Becomes Her)",
@@ -1996,7 +2040,7 @@
       "source": "CCCB"
     },
     {
-      "id": 97,
+      "id": 99,
       "date": "2026-08-13",
       "time": "22:00",
       "title": "La germanastra lletja (The Ugly Stepsister)",
@@ -2015,7 +2059,7 @@
       "source": "CCCB"
     },
     {
-      "id": 98,
+      "id": 100,
       "date": "2026-08-29",
       "date_end": "",
       "time": "20:00",
@@ -2036,7 +2080,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 99,
+      "id": 101,
       "date": "2026-08-30",
       "time": "30 de juliol - 30 d’agost 2026",
       "title": "«Simfonies de ciutat» Projeccions d’estiu 2026",
@@ -2055,7 +2099,7 @@
       "source": "CCCB"
     },
     {
-      "id": 100,
+      "id": 102,
       "date": "2026-09-03",
       "time": "18:00",
       "title": "Visita guiada a «Cossos que parlen» a càrrec de la Marika Vila",
@@ -2074,7 +2118,7 @@
       "source": "CCCB"
     },
     {
-      "id": 101,
+      "id": 103,
       "date": "2026-09-08",
       "time": "18:00",
       "title": "Cinema d'estiu per a tota la família",
@@ -2093,7 +2137,7 @@
       "source": "CCCB"
     },
     {
-      "id": 102,
+      "id": 104,
       "date": "2026-09-09",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Irene Pujadas",
@@ -2112,7 +2156,7 @@
       "source": "CCCB"
     },
     {
-      "id": 103,
+      "id": 105,
       "date": "2026-09-16",
       "time": "18:30",
       "title": "«Les aventures d’en Huckleberry Finn», de Mark Twain",
@@ -2131,7 +2175,7 @@
       "source": "CCCB"
     },
     {
-      "id": 104,
+      "id": 106,
       "date": "2026-09-16",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Sílvia Rosés Castellsaguer",
@@ -2150,7 +2194,7 @@
       "source": "CCCB"
     },
     {
-      "id": 105,
+      "id": 107,
       "date": "2026-09-30",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Víctor Ramírez Tur",
@@ -2169,7 +2213,7 @@
       "source": "CCCB"
     },
     {
-      "id": 106,
+      "id": 108,
       "date": "2026-10-09",
       "time": "16:00",
       "title": "«El culte a la bellesa» per a persones amb ceguesa o baixa visió",
@@ -2188,7 +2232,7 @@
       "source": "CCCB"
     },
     {
-      "id": 107,
+      "id": 109,
       "date": "2026-10-11",
       "time": "12:00",
       "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
@@ -2207,7 +2251,7 @@
       "source": "CCCB"
     },
     {
-      "id": 108,
+      "id": 110,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -2226,7 +2270,7 @@
       "source": "CCCB"
     },
     {
-      "id": 109,
+      "id": 111,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -2245,7 +2289,7 @@
       "source": "CCCB"
     },
     {
-      "id": 110,
+      "id": 112,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -2264,7 +2308,7 @@
       "source": "CCCB"
     },
     {
-      "id": 111,
+      "id": 113,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -2283,7 +2327,7 @@
       "source": "CCCB"
     },
     {
-      "id": 112,
+      "id": 114,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
