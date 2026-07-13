@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T04:30:35.495991",
+  "generated_at": "2026-07-13T04:35:44.289033",
   "sources": [
     "cccb",
     "damm",
@@ -9,137 +9,10 @@
     "grec",
     "santpau"
   ],
-  "total": 71,
+  "total": 66,
   "events": [
     {
-      "title": "Mercat de l'Avinguda Gaudí",
-      "venue": "Avinguda Gaudí",
-      "venue_address": "Avinguda de Gaudí, 08025 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Diumenges",
-      "description": "Mercat de puestos de proximitat, artesania i productes locals al passeig de l'Avinguda Gaudí, entre la Sagrada Família i el recinte modernista.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🌿",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-07-12",
-      "date_end": "2026-07-12",
-      "time": "",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "date": "2026-07-12",
-      "date_end": "",
-      "time": "",
-      "title": "Secrets",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": true,
-      "price": "20 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture",
-        "free"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/secrets",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 3,
-      "date": "2026-07-12",
-      "date_end": "",
-      "time": "",
-      "title": "Pepe Lolo",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "15 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/pepe-lolo",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 4,
-      "date": "2026-07-12",
-      "date_end": "",
-      "time": "",
-      "title": "NOSALTRES, MORTALS. Preventives, penades, reincidents, lladres, bruixes i altres semblants",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
-      "free": false,
-      "price": "18 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/nosaltres-mortals-preventives-penades-reincidents-lladres-bruixes-i-altres-semblants",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
-    },
-    {
-      "id": 5,
-      "date": "2026-07-12",
-      "date_end": "",
-      "time": "17:30",
-      "title": "Jove Orquestra Simfònica del Vallès",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Simfonia núm. 5 de Xostakòvitx",
-      "url": "https://www.palaumusica.cat/ca/jove-orquestra-simfonica-del-valles_1591275",
-      "image": "https://www.palaumusica.cat/images/1591230/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 6,
-      "date": "2026-07-12",
-      "date_end": "",
-      "time": "21:30",
-      "title": "Gran Gala Flamenc",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
-      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 7,
+      "id": 1,
       "date": "2026-07-13",
       "date_end": "",
       "time": "",
@@ -160,28 +33,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 8,
-      "date": "2026-07-13",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Jove Orquestra Nacional de Catalunya & Valdivieso",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Simfonia núm. 5 de Mahler",
-      "url": "https://www.palaumusica.cat/ca/jove-orquestra-nacional-de-catalunya-valdivieso_1591338",
-      "image": "https://www.palaumusica.cat/images/1333470/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 9,
+      "id": 2,
       "date": "2026-07-13",
       "date_end": "",
       "time": "20:00",
@@ -202,7 +54,28 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 10,
+      "id": 3,
+      "date": "2026-07-13",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Jove Orquestra Nacional de Catalunya & Valdivieso",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Simfonia núm. 5 de Mahler",
+      "url": "https://www.palaumusica.cat/ca/jove-orquestra-nacional-de-catalunya-valdivieso_1591338",
+      "image": "https://www.palaumusica.cat/images/1333470/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 4,
       "date": "2026-07-14",
       "date_end": "",
       "time": "19:30",
@@ -223,7 +96,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 11,
+      "id": 5,
       "date": "2026-07-15",
       "date_end": "",
       "time": "",
@@ -245,7 +118,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 12,
+      "id": 6,
       "date": "2026-07-15",
       "date_end": "",
       "time": "",
@@ -284,10 +157,10 @@
       "date": "2026-07-15",
       "date_end": "2026-07-15",
       "time": "09:00",
-      "id": 13
+      "id": 7
     },
     {
-      "id": 14,
+      "id": 8,
       "date": "2026-07-15",
       "date_end": "",
       "time": "20:00",
@@ -308,7 +181,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 15,
+      "id": 9,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -329,7 +202,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 16,
+      "id": 10,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -350,7 +223,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 17,
+      "id": 11,
       "date": "2026-07-16",
       "date_end": "",
       "time": "",
@@ -371,7 +244,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 18,
+      "id": 12,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -392,7 +265,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 19,
+      "id": 13,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -413,7 +286,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 20,
+      "id": 14,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -434,7 +307,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 21,
+      "id": 15,
       "date": "2026-07-17",
       "date_end": "",
       "time": "",
@@ -474,7 +347,7 @@
       "date": "2026-07-17",
       "date_end": "2026-07-17",
       "time": "09:00",
-      "id": 22
+      "id": 16
     },
     {
       "title": "Mercat de Glòries",
@@ -495,7 +368,7 @@
       "date": "2026-07-18",
       "date_end": "2026-07-18",
       "time": "09:00",
-      "id": 23
+      "id": 17
     },
     {
       "title": "Mercat dels Encants",
@@ -516,10 +389,10 @@
       "date": "2026-07-18",
       "date_end": "2026-07-18",
       "time": "09:00",
-      "id": 24
+      "id": 18
     },
     {
-      "id": 25,
+      "id": 19,
       "date": "2026-07-18",
       "date_end": "",
       "time": "19:00",
@@ -540,7 +413,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 26,
+      "id": 20,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -580,10 +453,10 @@
       "date": "2026-07-19",
       "date_end": "2026-07-19",
       "time": "",
-      "id": 27
+      "id": 21
     },
     {
-      "id": 28,
+      "id": 22,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -604,7 +477,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 29,
+      "id": 23,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -625,7 +498,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 30,
+      "id": 24,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -646,7 +519,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 31,
+      "id": 25,
       "date": "2026-07-19",
       "date_end": "",
       "time": "",
@@ -667,7 +540,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 32,
+      "id": 26,
       "date": "2026-07-20",
       "date_end": "",
       "time": "",
@@ -689,7 +562,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 33,
+      "id": 27,
       "date": "2026-07-21",
       "date_end": "",
       "time": "",
@@ -710,7 +583,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 34,
+      "id": 28,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -731,7 +604,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 35,
+      "id": 29,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -753,7 +626,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 36,
+      "id": 30,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -774,7 +647,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 37,
+      "id": 31,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -814,10 +687,10 @@
       "date": "2026-07-22",
       "date_end": "2026-07-22",
       "time": "09:00",
-      "id": 38
+      "id": 32
     },
     {
-      "id": 39,
+      "id": 33,
       "date": "2026-07-23",
       "date_end": "",
       "time": "19:30",
@@ -856,10 +729,10 @@
       "date": "2026-07-24",
       "date_end": "2026-07-24",
       "time": "09:00",
-      "id": 40
+      "id": 34
     },
     {
-      "id": 41,
+      "id": 35,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -880,7 +753,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 42,
+      "id": 36,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -901,7 +774,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 43,
+      "id": 37,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -922,7 +795,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 44,
+      "id": 38,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -961,7 +834,7 @@
       "date": "2026-07-25",
       "date_end": "2026-07-25",
       "time": "09:00",
-      "id": 45
+      "id": 39
     },
     {
       "title": "Mercat dels Encants",
@@ -982,7 +855,7 @@
       "date": "2026-07-25",
       "date_end": "2026-07-25",
       "time": "09:00",
-      "id": 46
+      "id": 40
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -1003,10 +876,10 @@
       "date": "2026-07-26",
       "date_end": "2026-07-26",
       "time": "",
-      "id": 47
+      "id": 41
     },
     {
-      "id": 48,
+      "id": 42,
       "date": "2026-07-26",
       "date_end": "",
       "time": "",
@@ -1027,7 +900,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 49,
+      "id": 43,
       "date": "2026-07-26",
       "date_end": "",
       "time": "",
@@ -1048,7 +921,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 50,
+      "id": 44,
       "date": "2026-07-27",
       "date_end": "",
       "time": "",
@@ -1069,7 +942,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 51,
+      "id": 45,
       "date": "2026-07-27",
       "date_end": "",
       "time": "20:00",
@@ -1090,7 +963,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 52,
+      "id": 46,
       "date": "2026-07-28",
       "date_end": "",
       "time": "",
@@ -1111,7 +984,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 53,
+      "id": 47,
       "date": "2026-07-29",
       "date_end": "",
       "time": "",
@@ -1151,10 +1024,10 @@
       "date": "2026-07-29",
       "date_end": "2026-07-29",
       "time": "09:00",
-      "id": 54
+      "id": 48
     },
     {
-      "id": 55,
+      "id": 49,
       "date": "2026-07-30",
       "date_end": "",
       "time": "",
@@ -1175,7 +1048,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 56,
+      "id": 50,
       "date": "2026-07-30",
       "date_end": "",
       "time": "",
@@ -1196,7 +1069,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 57,
+      "id": 51,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -1218,7 +1091,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 58,
+      "id": 52,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -1239,7 +1112,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 59,
+      "id": 53,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -1278,7 +1151,7 @@
       "date": "2026-07-31",
       "date_end": "2026-07-31",
       "time": "09:00",
-      "id": 60
+      "id": 54
     },
     {
       "title": "Mercat de Glòries",
@@ -1299,7 +1172,7 @@
       "date": "2026-08-01",
       "date_end": "2026-08-01",
       "time": "09:00",
-      "id": 61
+      "id": 55
     },
     {
       "title": "Mercat dels Encants",
@@ -1320,7 +1193,7 @@
       "date": "2026-08-01",
       "date_end": "2026-08-01",
       "time": "09:00",
-      "id": 62
+      "id": 56
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -1341,7 +1214,7 @@
       "date": "2026-08-02",
       "date_end": "2026-08-02",
       "time": "",
-      "id": 63
+      "id": 57
     },
     {
       "title": "Mercat dels Encants",
@@ -1362,7 +1235,7 @@
       "date": "2026-08-05",
       "date_end": "2026-08-05",
       "time": "09:00",
-      "id": 64
+      "id": 58
     },
     {
       "title": "Mercat dels Encants",
@@ -1383,7 +1256,7 @@
       "date": "2026-08-07",
       "date_end": "2026-08-07",
       "time": "09:00",
-      "id": 65
+      "id": 59
     },
     {
       "title": "Mercat de Glòries",
@@ -1404,7 +1277,7 @@
       "date": "2026-08-08",
       "date_end": "2026-08-08",
       "time": "09:00",
-      "id": 66
+      "id": 60
     },
     {
       "title": "Mercat dels Encants",
@@ -1425,10 +1298,31 @@
       "date": "2026-08-08",
       "date_end": "2026-08-08",
       "time": "09:00",
-      "id": 67
+      "id": 61
     },
     {
-      "id": 68,
+      "title": "Mercat de l'Avinguda Gaudí",
+      "venue": "Avinguda Gaudí",
+      "venue_address": "Avinguda de Gaudí, 08025 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Diumenges",
+      "description": "Mercat de puestos de proximitat, artesania i productes locals al passeig de l'Avinguda Gaudí, entre la Sagrada Família i el recinte modernista.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🌿",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-08-09",
+      "date_end": "2026-08-09",
+      "time": "",
+      "id": 62
+    },
+    {
+      "id": 63,
       "date": "2026-08-10",
       "date_end": "",
       "time": "20:00",
@@ -1449,7 +1343,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 69,
+      "id": 64,
       "date": "2026-08-24",
       "date_end": "",
       "time": "20:00",
@@ -1470,7 +1364,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 70,
+      "id": 65,
       "date": "2026-08-29",
       "date_end": "",
       "time": "20:00",
@@ -1491,7 +1385,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 71,
+      "id": 66,
       "date": "2027-07-01",
       "date_end": "",
       "time": "",
