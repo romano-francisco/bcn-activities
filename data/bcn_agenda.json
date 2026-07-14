@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T04:35:44.289033",
+  "generated_at": "2026-07-14T04:09:42.593122",
   "sources": [
     "cccb",
     "damm",
@@ -9,73 +9,29 @@
     "grec",
     "santpau"
   ],
-  "total": 66,
+  "total": 100,
   "events": [
     {
       "id": 1,
-      "date": "2026-07-13",
-      "date_end": "",
-      "time": "",
-      "title": "Les flors prohibides",
-      "venue": "Teatre Grec",
-      "venue_address": "Parc de Montjuïc, Barcelona",
-      "type": "culture",
+      "date": "2026-07-14",
+      "time": "18:30",
+      "title": "La condició humana, d’Hannah Arendt",
+      "venue": "CCCB",
+      "type": "family",
       "free": false,
-      "price": "28 €",
-      "emoji": "🎭",
-      "bg": "#F0EBFF",
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
       "tags": [
-        "culture"
+        "family"
       ],
-      "desc": "",
-      "url": "https://www.barcelona.cat/grec/ca/espectacle/les-flors-prohibides",
-      "image": "https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg",
-      "source": "Festival Grec"
+      "desc": "14 de maig - 16 de juliol 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/la-condicio-humana-d-hannah-arendt",
+      "image": "https://www.cccb.org/documents/4284035/6366026/llegir+filosofia+IHB-CCCB.jpg/2f0ed1ba-f884-ceef-21a0-8421cf6ce38a?version=1.0&t=1773316187977",
+      "source": "CCCB"
     },
     {
       "id": 2,
-      "date": "2026-07-13",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Norwegian Baroque Ensemble & Duncumb",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/norwegian-baroque-ensemble-duncumb_1591356",
-      "image": "https://www.palaumusica.cat/images/1593301/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 3,
-      "date": "2026-07-13",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Jove Orquestra Nacional de Catalunya & Valdivieso",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Simfonia núm. 5 de Mahler",
-      "url": "https://www.palaumusica.cat/ca/jove-orquestra-nacional-de-catalunya-valdivieso_1591338",
-      "image": "https://www.palaumusica.cat/images/1333470/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 4,
       "date": "2026-07-14",
       "date_end": "",
       "time": "19:30",
@@ -96,7 +52,28 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 5,
+      "id": 3,
+      "date": "2026-07-14",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Gran Gala Flamenc",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
+      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 4,
       "date": "2026-07-15",
       "date_end": "",
       "time": "",
@@ -118,7 +95,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 6,
+      "id": 5,
       "date": "2026-07-15",
       "date_end": "",
       "time": "",
@@ -157,7 +134,26 @@
       "date": "2026-07-15",
       "date_end": "2026-07-15",
       "time": "09:00",
-      "id": 7
+      "id": 6
+    },
+    {
+      "id": 7,
+      "date": "2026-07-15",
+      "time": "18:30",
+      "title": "Sota l’eclipsi: jazz i física de l’univers",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "15 de juliol 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/sota-leclipsi-jazz-i-fisica-de-lunivers",
+      "image": "https://www.cccb.org/documents/4284035/6523845/eclipsi+1920x1080.jpg/0979e2ae-3e7e-b3aa-193c-53c811060b3e?version=1.0&t=1781697806615",
+      "source": "CCCB"
     },
     {
       "id": 8,
@@ -541,6 +537,25 @@
     },
     {
       "id": 26,
+      "date": "2026-07-19",
+      "time": "19:00",
+      "title": "Poetry Slam Barcelona",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "19 de juliol 2026",
+      "url": "https://www.cccb.org/ca/w/activitats/poetry-slam-barcelona-131",
+      "image": "https://www.cccb.org/documents/4284035/6540101/imatge+juliol+2026+lilored927.jpg/799bc41b-6075-005c-c923-d5ff7ea946a0?version=1.0&t=1781696467628",
+      "source": "CCCB"
+    },
+    {
+      "id": 27,
       "date": "2026-07-20",
       "date_end": "",
       "time": "",
@@ -562,7 +577,26 @@
       "source": "Festival Grec"
     },
     {
-      "id": 27,
+      "id": 28,
+      "date": "2026-07-20",
+      "time": "18:30",
+      "title": "CinemaTeatre",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "12 i 20 de juliol 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/cinemateatre",
+      "image": "https://www.cccb.org/documents/4284035/6540101/grec+2026_cinemateatre_mammon_1920x1080.jpg/375807ba-6127-0c6f-be4e-4ce24b9f3f45?version=1.0&t=1776770344512",
+      "source": "CCCB"
+    },
+    {
+      "id": 29,
       "date": "2026-07-21",
       "date_end": "",
       "time": "",
@@ -583,7 +617,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 28,
+      "id": 30,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -604,7 +638,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 29,
+      "id": 31,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -626,7 +660,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 30,
+      "id": 32,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -647,7 +681,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 31,
+      "id": 33,
       "date": "2026-07-22",
       "date_end": "",
       "time": "",
@@ -687,10 +721,48 @@
       "date": "2026-07-22",
       "date_end": "2026-07-22",
       "time": "09:00",
-      "id": 32
+      "id": 34
     },
     {
-      "id": 33,
+      "id": 35,
+      "date": "2026-07-22",
+      "time": "11:00",
+      "title": "Visita guiada a «Nonell, Vallmitjana i els gitanos» a càrrec de Julià Guillamon",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "22 de juliol 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-guiada-a-nonell-vallmitjana-i-els-gitanos-a-carrec-de-julia-guillamon",
+      "image": "https://www.cccb.org/documents/4284035/4287122/260722_Nonell%2C+Vallmitjana+i+els+gitanos_1920x1080.jpg/dbf16cb6-a31f-9aee-f01c-a4f5160c9ef5?version=1.0&t=1781706855204",
+      "source": "CCCB"
+    },
+    {
+      "id": 36,
+      "date": "2026-07-23",
+      "time": "18:30",
+      "title": "Visita guiada a «El culte a la bellesa» amb blanca arias i Júlia Lull Sanz",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "8 i 23 de juliol 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-guiada-a-el-culte-a-la-bellesa-amb-blanca-arias-i-julia-lull-sanz",
+      "image": "https://www.cccb.org/documents/4284035/4287122/Copia+de+Web+1920x1080+%2815%29.jpg/8ca45de4-16f2-ee77-5786-f86824f3a5fd?version=1.1&t=1783076917153",
+      "source": "CCCB"
+    },
+    {
+      "id": 37,
       "date": "2026-07-23",
       "date_end": "",
       "time": "19:30",
@@ -729,10 +801,10 @@
       "date": "2026-07-24",
       "date_end": "2026-07-24",
       "time": "09:00",
-      "id": 34
+      "id": 38
     },
     {
-      "id": 35,
+      "id": 39,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -753,7 +825,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 36,
+      "id": 40,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -774,7 +846,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 37,
+      "id": 41,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -795,7 +867,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 38,
+      "id": 42,
       "date": "2026-07-25",
       "date_end": "",
       "time": "",
@@ -834,7 +906,7 @@
       "date": "2026-07-25",
       "date_end": "2026-07-25",
       "time": "09:00",
-      "id": 39
+      "id": 43
     },
     {
       "title": "Mercat dels Encants",
@@ -855,7 +927,7 @@
       "date": "2026-07-25",
       "date_end": "2026-07-25",
       "time": "09:00",
-      "id": 40
+      "id": 44
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -876,10 +948,10 @@
       "date": "2026-07-26",
       "date_end": "2026-07-26",
       "time": "",
-      "id": 41
+      "id": 45
     },
     {
-      "id": 42,
+      "id": 46,
       "date": "2026-07-26",
       "date_end": "",
       "time": "",
@@ -900,7 +972,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 43,
+      "id": 47,
       "date": "2026-07-26",
       "date_end": "",
       "time": "",
@@ -921,7 +993,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 44,
+      "id": 48,
       "date": "2026-07-27",
       "date_end": "",
       "time": "",
@@ -942,7 +1014,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 45,
+      "id": 49,
       "date": "2026-07-27",
       "date_end": "",
       "time": "20:00",
@@ -963,7 +1035,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 46,
+      "id": 50,
       "date": "2026-07-28",
       "date_end": "",
       "time": "",
@@ -984,7 +1056,26 @@
       "source": "Festival Grec"
     },
     {
-      "id": 47,
+      "id": 51,
+      "date": "2026-07-28",
+      "time": "22:00",
+      "title": "The Neon Demon",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "28 Juliol 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/gandules-2026-the-neon-demon",
+      "image": "https://www.cccb.org/documents/4284035/7174740/The+neon+demon_1920x1080.jpg/376c3ead-6d10-14ae-dee9-e7c34d707a1e?version=1.0&t=1781270135165",
+      "source": "CCCB"
+    },
+    {
+      "id": 52,
       "date": "2026-07-29",
       "date_end": "",
       "time": "",
@@ -1024,10 +1115,29 @@
       "date": "2026-07-29",
       "date_end": "2026-07-29",
       "time": "09:00",
-      "id": 48
+      "id": 53
     },
     {
-      "id": 49,
+      "id": 54,
+      "date": "2026-07-29",
+      "time": "22:00",
+      "title": "Helter Skelter",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "29 Juliol 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/helter-skelter",
+      "image": "https://www.cccb.org/documents/4284035/7174740/Helter+Skelter_1920x1080.jpg/1d1e8e1d-684d-34fa-ac8e-836dee275808?version=1.0&t=1781268651301",
+      "source": "CCCB"
+    },
+    {
+      "id": 55,
       "date": "2026-07-30",
       "date_end": "",
       "time": "",
@@ -1048,7 +1158,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 50,
+      "id": 56,
       "date": "2026-07-30",
       "date_end": "",
       "time": "",
@@ -1069,7 +1179,26 @@
       "source": "Festival Grec"
     },
     {
-      "id": 51,
+      "id": 57,
+      "date": "2026-07-30",
+      "time": "22:00",
+      "title": "Els ulls sense rostre (Les yeux sans visage)",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "30 Juliol 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/gandules-2026-els-ulls-sense-rostre",
+      "image": "https://www.cccb.org/documents/4284035/7174740/Les+yeux+sans+visage_1920x1080.jpg/78ea037e-ab7b-fef9-c7c6-2febdd476a06?version=1.0&t=1781271466365",
+      "source": "CCCB"
+    },
+    {
+      "id": 58,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -1091,7 +1220,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 52,
+      "id": 59,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -1112,7 +1241,7 @@
       "source": "Festival Grec"
     },
     {
-      "id": 53,
+      "id": 60,
       "date": "2026-07-31",
       "date_end": "",
       "time": "",
@@ -1151,7 +1280,7 @@
       "date": "2026-07-31",
       "date_end": "2026-07-31",
       "time": "09:00",
-      "id": 54
+      "id": 61
     },
     {
       "title": "Mercat de Glòries",
@@ -1172,7 +1301,7 @@
       "date": "2026-08-01",
       "date_end": "2026-08-01",
       "time": "09:00",
-      "id": 55
+      "id": 62
     },
     {
       "title": "Mercat dels Encants",
@@ -1193,7 +1322,7 @@
       "date": "2026-08-01",
       "date_end": "2026-08-01",
       "time": "09:00",
-      "id": 56
+      "id": 63
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -1214,7 +1343,26 @@
       "date": "2026-08-02",
       "date_end": "2026-08-02",
       "time": "",
-      "id": 57
+      "id": 64
+    },
+    {
+      "id": 65,
+      "date": "2026-08-04",
+      "time": "22:00",
+      "title": "Paris is Burning",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "4 Agost 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/gandules-2026-paris-is-burning",
+      "image": "https://www.cccb.org/documents/4284035/7174740/Paris+is+burning_1920x1080.jpg/9f31d2b8-f64a-e708-fe9c-57c91c267f28?version=1.0&t=1781273111612",
+      "source": "CCCB"
     },
     {
       "title": "Mercat dels Encants",
@@ -1235,7 +1383,45 @@
       "date": "2026-08-05",
       "date_end": "2026-08-05",
       "time": "09:00",
-      "id": 58
+      "id": 66
+    },
+    {
+      "id": 67,
+      "date": "2026-08-05",
+      "time": "22:00",
+      "title": "La substància (The Substance)",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "5 Agost 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/gandules-2026-la-substancia",
+      "image": "https://www.cccb.org/documents/4284035/7174740/La+substancia_1920x1080.jpg/b205a84e-8347-7407-6c77-0116b7a5b3c0?version=1.0&t=1781269714119",
+      "source": "CCCB"
+    },
+    {
+      "id": 68,
+      "date": "2026-08-06",
+      "time": "22:00",
+      "title": "La mosca (The Fly)",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "6 Agost 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/gandules-2026-la-mosca",
+      "image": "https://www.cccb.org/documents/4284035/7174740/The+fly_1920x1080.jpg/baac0d0c-20c3-2ad2-9b68-89ae481c2223?version=1.0&t=1781270765499",
+      "source": "CCCB"
     },
     {
       "title": "Mercat dels Encants",
@@ -1256,7 +1442,7 @@
       "date": "2026-08-07",
       "date_end": "2026-08-07",
       "time": "09:00",
-      "id": 59
+      "id": 69
     },
     {
       "title": "Mercat de Glòries",
@@ -1277,7 +1463,7 @@
       "date": "2026-08-08",
       "date_end": "2026-08-08",
       "time": "09:00",
-      "id": 60
+      "id": 70
     },
     {
       "title": "Mercat dels Encants",
@@ -1298,7 +1484,7 @@
       "date": "2026-08-08",
       "date_end": "2026-08-08",
       "time": "09:00",
-      "id": 61
+      "id": 71
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -1319,10 +1505,10 @@
       "date": "2026-08-09",
       "date_end": "2026-08-09",
       "time": "",
-      "id": 62
+      "id": 72
     },
     {
-      "id": 63,
+      "id": 73,
       "date": "2026-08-10",
       "date_end": "",
       "time": "20:00",
@@ -1343,28 +1529,64 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 64,
-      "date": "2026-08-24",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Duo StriAgo",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
+      "id": 74,
+      "date": "2026-08-11",
+      "time": "22:00",
+      "title": "Sis dones per a l'assassí (Sei donne per l'assassino)",
+      "venue": "CCCB",
+      "type": "culture",
       "free": false,
       "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
       "tags": [
-        "music"
+        "culture"
       ],
-      "desc": "—Sospiro",
-      "url": "https://www.palaumusica.cat/ca/duo-striago_1591831",
-      "image": "https://www.palaumusica.cat/images/1512417/image_column.jpg",
-      "source": "Palau de la Música"
+      "desc": "11 Agost 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/gandules-2026-sis-dones-per-a-l-assassi",
+      "image": "https://www.cccb.org/documents/4284035/7174740/6+donne+per+l_assassino_1920x1080.jpg/2ff1cff0-8026-54e2-c3b5-432fec2e4707?version=1.0&t=1781272742786",
+      "source": "CCCB"
     },
     {
-      "id": 65,
+      "id": 75,
+      "date": "2026-08-12",
+      "time": "22:00",
+      "title": "La mort us escau tan bé (Death Becomes Her)",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "12 Agost 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/gandules-2026-la-mort-us-escau-tan-be",
+      "image": "https://www.cccb.org/documents/4284035/7174740/Death+becomes+her_1920x1080.jpg/fa2d52a5-5d4a-68c6-1b98-e563c892e7c2?version=1.0&t=1781272434712",
+      "source": "CCCB"
+    },
+    {
+      "id": 76,
+      "date": "2026-08-13",
+      "time": "22:00",
+      "title": "La germanastra lletja (The Ugly Stepsister)",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "13 Agost 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/gandules-2026-la-germanastra-lletja",
+      "image": "https://www.cccb.org/documents/4284035/7174740/The+ugly+stepsister_1920x1080.jpg/a0cacac4-1413-2313-78dc-f51385ca854e?version=1.0&t=1781268659219",
+      "source": "CCCB"
+    },
+    {
+      "id": 77,
       "date": "2026-08-29",
       "date_end": "",
       "time": "20:00",
@@ -1385,7 +1607,425 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 66,
+      "id": 78,
+      "date": "2026-08-30",
+      "time": "30 de juliol - 30 d’agost 2026",
+      "title": "«Simfonies de ciutat» Projeccions d’estiu 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "30 de juliol - 30 d’agost 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/simfonies-de-ciutat-projeccions-destiu",
+      "image": "https://www.cccb.org/documents/5316589/7145020/Banner_1920x1080-Simfo_Fotograma_2025.jpg/8854992e-031e-e9f9-764d-985d5a815bb0?version=1.0&t=1780484180274",
+      "source": "CCCB"
+    },
+    {
+      "id": 79,
+      "date": "2026-09-03",
+      "time": "18:00",
+      "title": "Visita guiada a «Cossos que parlen» a càrrec de la Marika Vila",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "3 de setembre 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-guiada-a-cossos-que-parlen-a-carrec-de-la-marika-vila",
+      "image": "https://www.cccb.org/documents/4284035/4287122/260903_Cossos+que+parlen_1920x1080+%281%29.jpg/dfece00b-30a9-06d1-0ddb-940adc7bb814?version=1.0&t=1781801532347",
+      "source": "CCCB"
+    },
+    {
+      "id": 80,
+      "date": "2026-09-08",
+      "time": "18:00",
+      "title": "Cinema d'estiu per a tota la família",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "8 de juliol - 5 de setembre 2026 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/cinema-destiu-per-a-tota-la-familia",
+      "image": "https://www.cccb.org/documents/4284035/6555893/cinema+estiu+2026+WEB.jpg/3567ad76-e534-86b8-e1e5-af65f2634e92?version=1.0&t=1779785318883",
+      "source": "CCCB"
+    },
+    {
+      "id": 81,
+      "date": "2026-09-09",
+      "time": "18:30",
+      "title": "Visita a «El culte a la bellesa» amb Irene Pujadas",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "9 de setembre 2026 Visites",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-a-el-culte-a-la-bellesa-amb-irene-pujadas",
+      "image": "https://www.cccb.org/documents/5316589/7086679/Irene+Pujadas+%281%29.jpg/89842968-00af-ea94-0298-7a4c4e645210?version=1.0&t=1778753141928",
+      "source": "CCCB"
+    },
+    {
+      "id": 82,
+      "date": "2026-09-16",
+      "time": "18:30",
+      "title": "«Les aventures d’en Huckleberry Finn», de Mark Twain",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "16 de setembre 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/les-aventures-den-huckleberry-finn-de-mark-twain",
+      "image": "https://www.cccb.org/documents/4284035/4287122/Klub_de_lectura_1003x560.jpg/ec0c5b3d-1ef5-db83-3557-88a8c4d08ed6?version=1.0&t=1777997512679",
+      "source": "CCCB"
+    },
+    {
+      "id": 83,
+      "date": "2026-09-16",
+      "time": "18:30",
+      "title": "Visita a «El culte a la bellesa» amb Sílvia Rosés Castellsaguer",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "16 de setembre 2026 Visites",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-a-el-culte-a-la-bellesa-amb-silvia-roses-castellsaguer",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Silvia+Ros%C3%A9s+-+activitat.jpg/eba92523-ee16-1f6c-203f-9467a4b41b87?version=1.0&t=1779263003257",
+      "source": "CCCB"
+    },
+    {
+      "id": 84,
+      "date": "2026-09-30",
+      "time": "18:30",
+      "title": "Visita a «El culte a la bellesa» amb Víctor Ramírez Tur",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "30 de setembre 2026 Visites",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-a-el-culte-a-la-bellesa-amb-victor-ramirez-tur",
+      "image": "https://www.cccb.org/documents/5316589/7087929/V%C3%ADctor+Ram%C3%ADrez+Tur+%281%29.jpg/bd1bea5e-fb71-eaf2-71c4-0e53c8f05af8?version=1.0&t=1778759180664",
+      "source": "CCCB"
+    },
+    {
+      "id": 85,
+      "date": "2026-10-09",
+      "time": "16:00",
+      "title": "«El culte a la bellesa» per a persones amb ceguesa o baixa visió",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "9 de juliol - 14 d’octubre 2026 Accessible",
+      "url": "https://www.cccb.org/ca/w/activitats/el-culte-a-la-bellesa-per-a-persones-amb-ceguesa-o-baixa-visio",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Visites+Ceguesa+CCCB%2C+2026+CC+SA-BY-NC+Miquel+Taverna.jpg/2756cbfd-8c6f-89ab-6aaf-10bbaeacf56d?version=1.0&t=1778752358748",
+      "source": "CCCB"
+    },
+    {
+      "id": 86,
+      "date": "2026-10-11",
+      "time": "12:00",
+      "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "11 de juliol - 17 d’octubre 2026 Accessible",
+      "url": "https://www.cccb.org/ca/w/activitats/el-culte-a-la-bellesa-en-llengua-de-signes-catalana-lsc",
+      "image": "https://www.cccb.org/documents/4284035/6540101/Visites+LSC+CCCB%2C+2026+CC+SA-BY-NC+Miquel+Taverna.jpg/4132d2a0-d33f-7c4a-1b70-956aa2040194?version=1.0&t=1778749253683",
+      "source": "CCCB"
+    },
+    {
+      "id": 87,
+      "date": "2026-10-13",
+      "time": "",
+      "title": "Biennal de Pensament 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "13 - 18 d’octubre 2026",
+      "url": "https://www.cccb.org/ca/w/cicles/biennal-de-pensament-2026",
+      "image": "https://www.cccb.org/documents/4284035/6555880/biennal+2026_1920x1080.jpg/7ef24f55-d4a4-80da-00d6-af4f6090afc3?version=1.0&t=1783593768715",
+      "source": "CCCB"
+    },
+    {
+      "id": 88,
+      "date": "2026-11-01",
+      "time": "18:30",
+      "title": "Emily Dickinson, una carta al món",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "1 d’octubre - 26 de novembre 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/emily-dickinson-una-carta-al-mon",
+      "image": "https://www.cccb.org/documents/4284035/6555884/2026_Emily_Dickinson_IHB.jpg/b584b0a6-a2a2-9cbe-3369-677e950e6054?version=1.0&t=1782984768751",
+      "source": "CCCB"
+    },
+    {
+      "id": 89,
+      "date": "2026-11-04",
+      "time": "18:30",
+      "title": "El món com a manicomi",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "4 - 25 de novembre 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/el-mon-com-a-manicomi",
+      "image": "https://www.cccb.org/documents/4284035/6555884/2026_El_m%C3%B3n_com_a_manicomi_IHB.jpg/66314227-2b72-5a96-c601-641af63773c4?version=1.0&t=1782984573579",
+      "source": "CCCB"
+    },
+    {
+      "id": 90,
+      "date": "2026-11-09",
+      "time": "18:30",
+      "title": "Michel Foucault",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "9 - 30 de novembre 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/michel-foucault",
+      "image": "https://www.cccb.org/documents/4284035/6555884/2026_Michel_Foucault_Fars_DEBATS.jpg/27f623d1-e79d-65cc-22eb-0a9b0e643a9d?version=1.0&t=1782984278904",
+      "source": "CCCB"
+    },
+    {
+      "id": 91,
+      "date": "2026-11-20",
+      "time": "18:30",
+      "title": "Gravada, escrita, pronunciada",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "20 d’octubre - 24 de novembre 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/gravada-escrita-pronunciada",
+      "image": "https://www.cccb.org/documents/4284035/7219547/Gently-Down-the-Stream_-Su-Friedrich_webCCCB.jpg/a9eb8831-4e8e-d4b5-5d9a-3626d6674eb7?version=1.0&t=1783339356792",
+      "source": "CCCB"
+    },
+    {
+      "id": 92,
+      "date": "2026-11-26",
+      "time": "26 de novembre 2026 - 17 de maig 2027",
+      "title": "L’era atòmica",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "26 de novembre 2026 - 17 de maig 2027 Exposició",
+      "url": "https://www.cccb.org/ca/w/exposicions/lera-atomica",
+      "image": "https://www.cccb.org/documents/4284035/4604172/Jurgen_Nefzger_1000_x_560_web.jpg/b06725d7-00d8-e3a7-50d0-4fadd14799b8?version=1.0&t=1768892902591",
+      "source": "CCCB"
+    },
+    {
+      "id": 93,
+      "date": "2026-12-09",
+      "time": "18:30",
+      "title": "Salut",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "9 de setembre - 16 de desembre 2026",
+      "url": "https://www.cccb.org/ca/w/activitats/salut-lexic-quotidia-de-filosofia-6",
+      "image": "https://www.cccb.org/documents/4284035/7219547/2026_Salut_IHB.jpg/60c2090c-b263-c563-c69c-4778610157c1?version=1.0&t=1782986571133",
+      "source": "CCCB"
+    },
+    {
+      "id": 94,
+      "date": "2026-12-13",
+      "time": "18:30",
+      "title": "La Divina comèdia, III: «Paradís»",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "13 d’abril - 14 de desembre 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/la-divina-comedia-iii-paradis",
+      "image": "https://www.cccb.org/documents/4284035/6366026/Divina+Com%C3%A8dia+IHB-CCCB.jpg/3bc23533-fb55-ed44-3430-272f3952c98f?version=1.0&t=1773316187977",
+      "source": "CCCB"
+    },
+    {
+      "id": 95,
+      "date": "2026-12-13",
+      "time": "6 de novembre - 13 de desembre 2026",
+      "title": "World Press Photo 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "6 de novembre - 13 de desembre 2026 Exposició",
+      "url": "https://www.cccb.org/ca/w/exposicions/world-press-photo-2026",
+      "image": "https://www.cccb.org/documents/4284035/5331807/wpp+of+the+year_carol+guzy_zuma+press_iwitness-for+miami+herald_1920x1080.jpg/3f609cba-9328-befd-77c9-415273751a1c?version=1.0&t=1777553925933",
+      "source": "CCCB"
+    },
+    {
+      "id": 96,
+      "date": "2026-12-17",
+      "time": "18:30",
+      "title": "Leviatan, de Thomas Hobbes",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "17 de setembre - 17 de desembre 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/leviatan-de-thomas-hobbes",
+      "image": "https://www.cccb.org/documents/4284035/6555884/2026_Leviatan_IHB.jpg/bc90899e-3f33-7bbe-6312-be54b9758a84?version=1.0&t=1782985523340",
+      "source": "CCCB"
+    },
+    {
+      "id": 97,
+      "date": "2026-12-25",
+      "time": "10:00",
+      "title": "Visita el Mirador del CCCB 2026",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "25 de gener - 27 de desembre 2026",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-el-mirador-del-cccb-2026",
+      "image": "https://www.cccb.org/documents/4284035/4646826/Visita_mirador_1001x560.jpg/b081e1f9-f6cb-00d2-f9d6-a73cc692861f?version=1.0&t=1773316196378",
+      "source": "CCCB"
+    },
+    {
+      "id": 98,
+      "date": "2027-01-02",
+      "time": "18:30",
+      "title": "El segle XVIII",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "2 de febrer 2026 - 26 de gener 2027 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/el-segle-xviii",
+      "image": "https://www.cccb.org/documents/4284035/7219547/2026_Tradici%C3%B3_Cl%C3%A0ssica_IHB_2.jpg/9e28cafd-5dc3-a3a4-32af-b5347990fa84?version=1.0&t=1782986189279",
+      "source": "CCCB"
+    },
+    {
+      "id": 99,
+      "date": "2027-06-28",
+      "time": "18:00",
+      "title": "Cineclub Xcèntric",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "28 d’octubre 2026 - 30 de juny 2027 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/cineclub-xcentric",
+      "image": "https://www.cccb.org/documents/4284035/4646826/audience_captura_miniatura.jpg/9786fafd-9707-3222-f4d3-47e6dfb477e7?version=1.0&t=1773316196443",
+      "source": "CCCB"
+    },
+    {
+      "id": 100,
       "date": "2027-07-01",
       "date_end": "",
       "time": "",
