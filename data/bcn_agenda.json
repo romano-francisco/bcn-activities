@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T04:27:10.670191",
+  "generated_at": "2026-08-02T04:29:51.343158",
   "sources": [
     "cccb",
     "damm",
@@ -11,69 +11,6 @@
   ],
   "total": 65,
   "events": [
-    {
-      "title": "Mercat de Glòries",
-      "venue": "Mercat de Glòries",
-      "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dissabtes 9h–15h",
-      "description": "Mercat tradicional al carrer a la Plaça de les Glòries. Productes de proximitat, roba vintage, artesania i menjar de mercat.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🛒",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-08-01",
-      "date_end": "2026-08-01",
-      "time": "09:00",
-      "id": 1
-    },
-    {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-08-01",
-      "date_end": "2026-08-01",
-      "time": "09:00",
-      "id": 2
-    },
-    {
-      "id": 3,
-      "date": "2026-08-01",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Gran Gala Flamenc",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
-      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
-      "source": "Palau de la Música"
-    },
     {
       "title": "Mercat de l'Avinguda Gaudí",
       "venue": "Avinguda Gaudí",
@@ -93,10 +30,10 @@
       "date": "2026-08-02",
       "date_end": "2026-08-02",
       "time": "",
-      "id": 4
+      "id": 1
     },
     {
-      "id": 5,
+      "id": 2,
       "date": "2026-08-02",
       "date_end": "",
       "time": "18:00",
@@ -117,7 +54,28 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 6,
+      "id": 3,
+      "date": "2026-08-03",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Irene Mas & Marc Serra",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/irene-mas-marc-serra_1591743",
+      "image": "https://www.palaumusica.cat/images/1629291/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 4,
       "date": "2026-08-04",
       "date_end": "",
       "time": "",
@@ -156,7 +114,7 @@
       "date": "2026-08-05",
       "date_end": "2026-08-05",
       "time": "09:00",
-      "id": 7
+      "id": 5
     },
     {
       "title": "Mercat dels Encants",
@@ -177,7 +135,7 @@
       "date": "2026-08-07",
       "date_end": "2026-08-07",
       "time": "09:00",
-      "id": 8
+      "id": 6
     },
     {
       "title": "Mercat de Glòries",
@@ -198,7 +156,7 @@
       "date": "2026-08-08",
       "date_end": "2026-08-08",
       "time": "09:00",
-      "id": 9
+      "id": 7
     },
     {
       "title": "Mercat dels Encants",
@@ -219,10 +177,10 @@
       "date": "2026-08-08",
       "date_end": "2026-08-08",
       "time": "09:00",
-      "id": 10
+      "id": 8
     },
     {
-      "id": 11,
+      "id": 9,
       "date": "2026-08-08",
       "date_end": "",
       "time": "19:00",
@@ -261,10 +219,10 @@
       "date": "2026-08-09",
       "date_end": "2026-08-09",
       "time": "",
-      "id": 12
+      "id": 10
     },
     {
-      "id": 13,
+      "id": 11,
       "date": "2026-08-10",
       "date_end": "",
       "time": "20:00",
@@ -303,7 +261,7 @@
       "date": "2026-08-12",
       "date_end": "2026-08-12",
       "time": "09:00",
-      "id": 14
+      "id": 12
     },
     {
       "title": "Mercat dels Encants",
@@ -324,7 +282,7 @@
       "date": "2026-08-14",
       "date_end": "2026-08-14",
       "time": "09:00",
-      "id": 15
+      "id": 13
     },
     {
       "title": "Mercat de Glòries",
@@ -345,7 +303,7 @@
       "date": "2026-08-15",
       "date_end": "2026-08-15",
       "time": "09:00",
-      "id": 16
+      "id": 14
     },
     {
       "title": "Mercat dels Encants",
@@ -366,7 +324,7 @@
       "date": "2026-08-15",
       "date_end": "2026-08-15",
       "time": "09:00",
-      "id": 17
+      "id": 15
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -387,10 +345,10 @@
       "date": "2026-08-16",
       "date_end": "2026-08-16",
       "time": "",
-      "id": 18
+      "id": 16
     },
     {
-      "id": 19,
+      "id": 17,
       "date": "2026-08-17",
       "date_end": "",
       "time": "20:00",
@@ -429,10 +387,10 @@
       "date": "2026-08-19",
       "date_end": "2026-08-19",
       "time": "09:00",
-      "id": 20
+      "id": 18
     },
     {
-      "id": 21,
+      "id": 19,
       "date": "2026-08-20",
       "date_end": "",
       "time": "",
@@ -471,7 +429,7 @@
       "date": "2026-08-21",
       "date_end": "2026-08-21",
       "time": "09:00",
-      "id": 22
+      "id": 20
     },
     {
       "title": "Mercat de Glòries",
@@ -492,7 +450,7 @@
       "date": "2026-08-22",
       "date_end": "2026-08-22",
       "time": "09:00",
-      "id": 23
+      "id": 21
     },
     {
       "title": "Mercat dels Encants",
@@ -513,7 +471,7 @@
       "date": "2026-08-22",
       "date_end": "2026-08-22",
       "time": "09:00",
-      "id": 24
+      "id": 22
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -534,7 +492,7 @@
       "date": "2026-08-23",
       "date_end": "2026-08-23",
       "time": "",
-      "id": 25
+      "id": 23
     },
     {
       "title": "Mercat dels Encants",
@@ -555,7 +513,7 @@
       "date": "2026-08-26",
       "date_end": "2026-08-26",
       "time": "09:00",
-      "id": 26
+      "id": 24
     },
     {
       "title": "Mercat dels Encants",
@@ -575,6 +533,48 @@
       "source": "Mercats BCN",
       "date": "2026-08-28",
       "date_end": "2026-08-28",
+      "time": "09:00",
+      "id": 25
+    },
+    {
+      "title": "Mercat de Glòries",
+      "venue": "Mercat de Glòries",
+      "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dissabtes 9h–15h",
+      "description": "Mercat tradicional al carrer a la Plaça de les Glòries. Productes de proximitat, roba vintage, artesania i menjar de mercat.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🛒",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-08-29",
+      "date_end": "2026-08-29",
+      "time": "09:00",
+      "id": 26
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-08-29",
+      "date_end": "2026-08-29",
       "time": "09:00",
       "id": 27
     },
