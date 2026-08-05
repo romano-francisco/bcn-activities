@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T04:21:20.195208",
+  "generated_at": "2026-08-05T04:17:47.690444",
   "sources": [
     "cccb",
     "damm",
@@ -12,29 +12,50 @@
   "total": 65,
   "events": [
     {
-      "id": 1,
-      "date": "2026-08-04",
-      "date_end": "",
-      "time": "",
-      "title": "Ice Cream Tuesdays at Paral·lelo Gelato",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
       "type": "food",
-      "free": false,
-      "price": "",
-      "emoji": "🍜",
-      "bg": "#EBF5E8",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
       "tags": [
-        "food"
+        "food",
+        "free"
       ],
-      "desc": "The gelato shop that has melted the hearts of everyone in Gràcia, Paral·lelo Gelato — and, since docking at Time Out Market Barcelona, the Port too — is arriving this August with a host of delicious and refreshing surprises, giving you the chance to discover its artisan gelato at the best prices and in the most original ways.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/dimarts-de-gelat-a-parallelo-gelato",
-      "image": "https://media.timeout.com/images/106409346/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-08-05",
+      "date_end": "2026-08-05",
+      "time": "09:00",
+      "id": 1
     },
     {
       "id": 2,
-      "date": "2026-08-04",
+      "date": "2026-08-05",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Zimmer, Williams i 100 anys de cinema",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/zimmer-williams-i-100-anys-de-cinema_1498255",
+      "image": "https://www.palaumusica.cat/images/1498263/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 3,
+      "date": "2026-08-06",
       "date_end": "",
       "time": "20:00",
       "title": "Gran Gala Flamenc",
@@ -69,52 +90,10 @@
       "emoji": "🏺",
       "bg": "#EBF5E8",
       "source": "Mercats BCN",
-      "date": "2026-08-05",
-      "date_end": "2026-08-05",
-      "time": "09:00",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "date": "2026-08-05",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Zimmer, Williams i 100 anys de cinema",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/zimmer-williams-i-100-anys-de-cinema_1498255",
-      "image": "https://www.palaumusica.cat/images/1498263/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
       "date": "2026-08-07",
       "date_end": "2026-08-07",
       "time": "09:00",
-      "id": 5
+      "id": 4
     },
     {
       "title": "Mercat de Glòries",
@@ -135,7 +114,7 @@
       "date": "2026-08-08",
       "date_end": "2026-08-08",
       "time": "09:00",
-      "id": 6
+      "id": 5
     },
     {
       "title": "Mercat dels Encants",
@@ -156,10 +135,10 @@
       "date": "2026-08-08",
       "date_end": "2026-08-08",
       "time": "09:00",
-      "id": 7
+      "id": 6
     },
     {
-      "id": 8,
+      "id": 7,
       "date": "2026-08-08",
       "date_end": "",
       "time": "19:00",
@@ -198,10 +177,10 @@
       "date": "2026-08-09",
       "date_end": "2026-08-09",
       "time": "",
-      "id": 9
+      "id": 8
     },
     {
-      "id": 10,
+      "id": 9,
       "date": "2026-08-10",
       "date_end": "",
       "time": "20:00",
@@ -240,7 +219,7 @@
       "date": "2026-08-12",
       "date_end": "2026-08-12",
       "time": "09:00",
-      "id": 11
+      "id": 10
     },
     {
       "title": "Mercat dels Encants",
@@ -261,7 +240,7 @@
       "date": "2026-08-14",
       "date_end": "2026-08-14",
       "time": "09:00",
-      "id": 12
+      "id": 11
     },
     {
       "title": "Mercat de Glòries",
@@ -282,7 +261,7 @@
       "date": "2026-08-15",
       "date_end": "2026-08-15",
       "time": "09:00",
-      "id": 13
+      "id": 12
     },
     {
       "title": "Mercat dels Encants",
@@ -303,7 +282,7 @@
       "date": "2026-08-15",
       "date_end": "2026-08-15",
       "time": "09:00",
-      "id": 14
+      "id": 13
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -324,10 +303,10 @@
       "date": "2026-08-16",
       "date_end": "2026-08-16",
       "time": "",
-      "id": 15
+      "id": 14
     },
     {
-      "id": 16,
+      "id": 15,
       "date": "2026-08-17",
       "date_end": "",
       "time": "20:00",
@@ -366,10 +345,10 @@
       "date": "2026-08-19",
       "date_end": "2026-08-19",
       "time": "09:00",
-      "id": 17
+      "id": 16
     },
     {
-      "id": 18,
+      "id": 17,
       "date": "2026-08-20",
       "date_end": "",
       "time": "",
@@ -408,7 +387,7 @@
       "date": "2026-08-21",
       "date_end": "2026-08-21",
       "time": "09:00",
-      "id": 19
+      "id": 18
     },
     {
       "title": "Mercat de Glòries",
@@ -429,7 +408,7 @@
       "date": "2026-08-22",
       "date_end": "2026-08-22",
       "time": "09:00",
-      "id": 20
+      "id": 19
     },
     {
       "title": "Mercat dels Encants",
@@ -450,7 +429,7 @@
       "date": "2026-08-22",
       "date_end": "2026-08-22",
       "time": "09:00",
-      "id": 21
+      "id": 20
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -471,7 +450,28 @@
       "date": "2026-08-23",
       "date_end": "2026-08-23",
       "time": "",
-      "id": 22
+      "id": 21
+    },
+    {
+      "id": 22,
+      "date": "2026-08-25",
+      "date_end": "",
+      "time": "",
+      "title": "Ice Cream Tuesdays at Paral·lelo Gelato",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "food",
+      "free": false,
+      "price": "",
+      "emoji": "🍜",
+      "bg": "#EBF5E8",
+      "tags": [
+        "food"
+      ],
+      "desc": "The gelato shop that has melted the hearts of everyone in Gràcia, Paral·lelo Gelato — and, since docking at Time Out Market Barcelona, the Port too — is arriving this August with a host of delicious and refreshing surprises, giving you the chance to discover its artisan gelato at the best prices and in the most original ways.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/dimarts-de-gelat-a-parallelo-gelato",
+      "image": "https://media.timeout.com/images/106409346/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat dels Encants",
