@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T04:20:37.406412",
+  "generated_at": "2026-08-07T03:56:25.935925",
   "sources": [
     "cccb",
     "damm",
@@ -9,29 +9,8 @@
     "grec",
     "santpau"
   ],
-  "total": 67,
+  "total": 69,
   "events": [
-    {
-      "id": 1,
-      "date": "2026-08-06",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Gran Gala Flamenc",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
-      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
-      "source": "Palau de la Música"
-    },
     {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
@@ -51,10 +30,10 @@
       "date": "2026-08-07",
       "date_end": "2026-08-07",
       "time": "09:00",
-      "id": 2
+      "id": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "date": "2026-08-07",
       "date_end": "",
       "time": "20:00",
@@ -93,7 +72,7 @@
       "date": "2026-08-08",
       "date_end": "2026-08-08",
       "time": "09:00",
-      "id": 4
+      "id": 3
     },
     {
       "title": "Mercat dels Encants",
@@ -114,10 +93,10 @@
       "date": "2026-08-08",
       "date_end": "2026-08-08",
       "time": "09:00",
-      "id": 5
+      "id": 4
     },
     {
-      "id": 6,
+      "id": 5,
       "date": "2026-08-08",
       "date_end": "",
       "time": "19:00",
@@ -135,6 +114,27 @@
       "desc": "Òpera escenificada en dos actes",
       "url": "https://www.palaumusica.cat/ca/madama-butterfly-de-g-puccini_1081847",
       "image": "https://www.palaumusica.cat/images/1081839/image_column.webp",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 6,
+      "date": "2026-08-08",
+      "date_end": "",
+      "time": "21:00",
+      "title": "Candlelight: Tribut a Queen",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/candlelight-tribut-a-queen_1407154",
+      "image": "https://www.palaumusica.cat/images/1407127/image_column.jpg",
       "source": "Palau de la Música"
     },
     {
@@ -679,6 +679,25 @@
     },
     {
       "id": 33,
+      "date": "2026-09-08",
+      "time": "18:00",
+      "title": "Visita guiada a «El culte a la bellesa»",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "8 de setembre 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-guiada-a-el-culte-a-la-bellesa",
+      "image": "https://www.cccb.org/documents/4284035/4287122/Copia+de+Web+1920x1080+%2815%29.jpg/8ca45de4-16f2-ee77-5786-f86824f3a5fd?version=1.1&t=1783076917153",
+      "source": "CCCB"
+    },
+    {
+      "id": 34,
       "date": "2026-09-09",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Irene Pujadas",
@@ -697,7 +716,7 @@
       "source": "CCCB"
     },
     {
-      "id": 34,
+      "id": 35,
       "date": "2026-09-15",
       "time": "18:30",
       "title": "Benedetta Bolognesi i Begoña Román",
@@ -716,7 +735,7 @@
       "source": "CCCB"
     },
     {
-      "id": 35,
+      "id": 36,
       "date": "2026-09-16",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Sílvia Rosés Castellsaguer",
@@ -735,7 +754,7 @@
       "source": "CCCB"
     },
     {
-      "id": 36,
+      "id": 37,
       "date": "2026-09-16",
       "time": "18:30",
       "title": "«Les aventures d’en Huckleberry Finn», de Mark Twain",
@@ -754,7 +773,26 @@
       "source": "CCCB"
     },
     {
-      "id": 37,
+      "id": 38,
+      "date": "2026-09-17",
+      "time": "18:30",
+      "title": "Visita guiada: Una mirada LGTBI a la colecció del MAC",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "17 de setembre 2026 Amics CCCB",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-guiada-una-mirada-lgtbi-a-la-coleccio-del-mac",
+      "image": "https://www.cccb.org/documents/4284035/4287122/Les+tres+gracies_MAC+1920x1080.jpg/956b946a-e782-e5a7-23c0-16c7a1bbe3e9?version=1.0&t=1786004873291",
+      "source": "CCCB"
+    },
+    {
+      "id": 39,
       "date": "2026-09-18",
       "time": "18:30",
       "title": "Edurne Portela i Antonio Monegal",
@@ -773,7 +811,7 @@
       "source": "CCCB"
     },
     {
-      "id": 38,
+      "id": 40,
       "date": "2026-09-20",
       "time": "",
       "title": "Poetry Slam Barcelona",
@@ -792,7 +830,7 @@
       "source": "CCCB"
     },
     {
-      "id": 39,
+      "id": 41,
       "date": "2026-09-20",
       "date_end": "",
       "time": "17:30",
@@ -813,7 +851,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 40,
+      "id": 42,
       "date": "2026-09-21",
       "time": "10:30",
       "title": "La paradoxa democràtica",
@@ -832,7 +870,7 @@
       "source": "CCCB"
     },
     {
-      "id": 41,
+      "id": 43,
       "date": "2026-09-21",
       "time": "18:30",
       "title": "Édouard Louis i Zadie Smith",
@@ -851,7 +889,7 @@
       "source": "CCCB"
     },
     {
-      "id": 42,
+      "id": 44,
       "date": "2026-09-26",
       "time": "12:00",
       "title": "Adania Shibli",
@@ -870,7 +908,7 @@
       "source": "CCCB"
     },
     {
-      "id": 43,
+      "id": 45,
       "date": "2026-09-30",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Víctor Ramírez Tur",
@@ -889,7 +927,7 @@
       "source": "CCCB"
     },
     {
-      "id": 44,
+      "id": 46,
       "date": "2026-09-30",
       "time": "18:30",
       "title": "Khadija Amin i Andrea Aldana",
@@ -908,7 +946,7 @@
       "source": "CCCB"
     },
     {
-      "id": 45,
+      "id": 47,
       "date": "2026-10-01",
       "time": "10:00",
       "title": "Seminari Josep Lluís Sert",
@@ -927,7 +965,7 @@
       "source": "CCCB"
     },
     {
-      "id": 46,
+      "id": 48,
       "date": "2026-10-09",
       "time": "16:00",
       "title": "«El culte a la bellesa» per a persones amb ceguesa o baixa visió",
@@ -946,7 +984,7 @@
       "source": "CCCB"
     },
     {
-      "id": 47,
+      "id": 49,
       "date": "2026-10-11",
       "time": "12:00",
       "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
@@ -965,7 +1003,7 @@
       "source": "CCCB"
     },
     {
-      "id": 48,
+      "id": 50,
       "date": "2026-10-13",
       "time": "",
       "title": "Biennal de Pensament 2026",
@@ -984,7 +1022,7 @@
       "source": "CCCB"
     },
     {
-      "id": 49,
+      "id": 51,
       "date": "2026-10-20",
       "time": "",
       "title": "Serielizados Fest 2026",
@@ -1003,7 +1041,7 @@
       "source": "CCCB"
     },
     {
-      "id": 50,
+      "id": 52,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Emily Dickinson, una carta al món",
@@ -1022,7 +1060,7 @@
       "source": "CCCB"
     },
     {
-      "id": 51,
+      "id": 53,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Un punt de claror",
@@ -1041,7 +1079,7 @@
       "source": "CCCB"
     },
     {
-      "id": 52,
+      "id": 54,
       "date": "2026-11-04",
       "time": "18:30",
       "title": "El món com a manicomi",
@@ -1060,7 +1098,7 @@
       "source": "CCCB"
     },
     {
-      "id": 53,
+      "id": 55,
       "date": "2026-11-09",
       "time": "12:00",
       "title": "Pensar un món sense centres ni perifèries",
@@ -1079,7 +1117,7 @@
       "source": "CCCB"
     },
     {
-      "id": 54,
+      "id": 56,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Michel Foucault",
@@ -1098,7 +1136,7 @@
       "source": "CCCB"
     },
     {
-      "id": 55,
+      "id": 57,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -1117,7 +1155,7 @@
       "source": "CCCB"
     },
     {
-      "id": 56,
+      "id": 58,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -1136,7 +1174,7 @@
       "source": "CCCB"
     },
     {
-      "id": 57,
+      "id": 59,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -1155,7 +1193,7 @@
       "source": "CCCB"
     },
     {
-      "id": 58,
+      "id": 60,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -1174,7 +1212,7 @@
       "source": "CCCB"
     },
     {
-      "id": 59,
+      "id": 61,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -1193,7 +1231,7 @@
       "source": "CCCB"
     },
     {
-      "id": 60,
+      "id": 62,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -1212,7 +1250,7 @@
       "source": "CCCB"
     },
     {
-      "id": 61,
+      "id": 63,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1231,7 +1269,7 @@
       "source": "CCCB"
     },
     {
-      "id": 62,
+      "id": 64,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -1250,7 +1288,7 @@
       "source": "CCCB"
     },
     {
-      "id": 63,
+      "id": 65,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1269,7 +1307,7 @@
       "source": "CCCB"
     },
     {
-      "id": 64,
+      "id": 66,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1288,7 +1326,7 @@
       "source": "CCCB"
     },
     {
-      "id": 65,
+      "id": 67,
       "date": "2027-01-02",
       "time": "18:30",
       "title": "El segle XVIII",
@@ -1307,7 +1345,7 @@
       "source": "CCCB"
     },
     {
-      "id": 66,
+      "id": 68,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
@@ -1326,7 +1364,7 @@
       "source": "CCCB"
     },
     {
-      "id": 67,
+      "id": 69,
       "date": "2027-07-01",
       "date_end": "",
       "time": "",
