@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T03:32:47.842325",
+  "generated_at": "2026-08-14T03:30:51.248372",
   "sources": [
     "cccb",
     "damm",
@@ -11,27 +11,6 @@
   ],
   "total": 70,
   "events": [
-    {
-      "id": 1,
-      "date": "2026-08-13",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Gran Gala Flamenc",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
-      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
-      "source": "Palau de la Música"
-    },
     {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
@@ -51,10 +30,10 @@
       "date": "2026-08-14",
       "date_end": "2026-08-14",
       "time": "09:00",
-      "id": 2
+      "id": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "date": "2026-08-14",
       "date_end": "",
       "time": "20:00",
@@ -93,7 +72,7 @@
       "date": "2026-08-15",
       "date_end": "2026-08-15",
       "time": "09:00",
-      "id": 4
+      "id": 3
     },
     {
       "title": "Mercat dels Encants",
@@ -114,7 +93,28 @@
       "date": "2026-08-15",
       "date_end": "2026-08-15",
       "time": "09:00",
-      "id": 5
+      "id": 4
+    },
+    {
+      "id": 5,
+      "date": "2026-08-15",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Gran Gala Flamenc",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
+      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
+      "source": "Palau de la Música"
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
