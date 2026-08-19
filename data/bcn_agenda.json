@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T02:21:25.991510",
+  "generated_at": "2026-08-19T02:23:34.670837",
   "sources": [
     "cccb",
     "damm",
@@ -11,27 +11,6 @@
   ],
   "total": 70,
   "events": [
-    {
-      "id": 1,
-      "date": "2026-08-18",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Barcelona Guitar Trio & Dance",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Homenatge a Paco de Lucía",
-      "url": "https://www.palaumusica.cat/ca/barcelona-guitar-trio-dance_1018227",
-      "image": "https://www.palaumusica.cat/images/980625/image_column.webp",
-      "source": "Palau de la Música"
-    },
     {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
@@ -51,10 +30,10 @@
       "date": "2026-08-19",
       "date_end": "2026-08-19",
       "time": "09:00",
-      "id": 2
+      "id": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "date": "2026-08-19",
       "date_end": "",
       "time": "20:00",
@@ -75,7 +54,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 4,
+      "id": 3,
       "date": "2026-08-20",
       "date_end": "",
       "time": "",
@@ -94,6 +73,27 @@
       "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/taller-de-cocteleria-puerto-de-indias",
       "image": "https://media.timeout.com/images/106432654/750/422/image.jpg",
       "source": "Time Out Market Barcelona"
+    },
+    {
+      "id": 4,
+      "date": "2026-08-20",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Arte Flamenco",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "12 artistes excepcionals sobre l’escenari",
+      "url": "https://www.palaumusica.cat/ca/arte-flamenco_1163807",
+      "image": "https://www.palaumusica.cat/images/1163902/image_column.webp",
+      "source": "Palau de la Música"
     },
     {
       "title": "Mercat dels Encants",
