@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T02:23:34.670837",
+  "generated_at": "2026-08-20T02:23:00.111771",
   "sources": [
     "cccb",
     "damm",
@@ -12,49 +12,7 @@
   "total": 70,
   "events": [
     {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-08-19",
-      "date_end": "2026-08-19",
-      "time": "09:00",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "date": "2026-08-19",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Gran Gala Flamenc",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
-      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 3,
+      "id": 1,
       "date": "2026-08-20",
       "date_end": "",
       "time": "",
@@ -75,7 +33,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 4,
+      "id": 2,
       "date": "2026-08-20",
       "date_end": "",
       "time": "20:00",
@@ -114,7 +72,28 @@
       "date": "2026-08-21",
       "date_end": "2026-08-21",
       "time": "09:00",
-      "id": 5
+      "id": 3
+    },
+    {
+      "id": 4,
+      "date": "2026-08-21",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Barcelona Guitar Trio & Dance",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Homenatge a Paco de Lucía",
+      "url": "https://www.palaumusica.cat/ca/barcelona-guitar-trio-dance_1018227",
+      "image": "https://www.palaumusica.cat/images/980625/image_column.webp",
+      "source": "Palau de la Música"
     },
     {
       "title": "Mercat de Glòries",
@@ -135,7 +114,7 @@
       "date": "2026-08-22",
       "date_end": "2026-08-22",
       "time": "09:00",
-      "id": 6
+      "id": 5
     },
     {
       "title": "Mercat dels Encants",
@@ -156,7 +135,7 @@
       "date": "2026-08-22",
       "date_end": "2026-08-22",
       "time": "09:00",
-      "id": 7
+      "id": 6
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -177,10 +156,10 @@
       "date": "2026-08-23",
       "date_end": "2026-08-23",
       "time": "",
-      "id": 8
+      "id": 7
     },
     {
-      "id": 9,
+      "id": 8,
       "date": "2026-08-23",
       "date_end": "",
       "time": "18:00",
@@ -201,7 +180,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 10,
+      "id": 9,
       "date": "2026-08-24",
       "date_end": "",
       "time": "20:00",
@@ -222,7 +201,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 11,
+      "id": 10,
       "date": "2026-08-25",
       "date_end": "",
       "time": "",
@@ -261,7 +240,7 @@
       "date": "2026-08-26",
       "date_end": "2026-08-26",
       "time": "09:00",
-      "id": 12
+      "id": 11
     },
     {
       "title": "Mercat dels Encants",
@@ -282,7 +261,7 @@
       "date": "2026-08-28",
       "date_end": "2026-08-28",
       "time": "09:00",
-      "id": 13
+      "id": 12
     },
     {
       "title": "Mercat de Glòries",
@@ -303,7 +282,7 @@
       "date": "2026-08-29",
       "date_end": "2026-08-29",
       "time": "09:00",
-      "id": 14
+      "id": 13
     },
     {
       "title": "Mercat dels Encants",
@@ -324,10 +303,10 @@
       "date": "2026-08-29",
       "date_end": "2026-08-29",
       "time": "09:00",
-      "id": 15
+      "id": 14
     },
     {
-      "id": 16,
+      "id": 15,
       "date": "2026-08-29",
       "date_end": "",
       "time": "20:00",
@@ -366,10 +345,10 @@
       "date": "2026-08-30",
       "date_end": "2026-08-30",
       "time": "",
-      "id": 17
+      "id": 16
     },
     {
-      "id": 18,
+      "id": 17,
       "date": "2026-08-31",
       "date_end": "",
       "time": "",
@@ -390,7 +369,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 19,
+      "id": 18,
       "date": "2026-08-31",
       "date_end": "",
       "time": "20:00",
@@ -429,10 +408,10 @@
       "date": "2026-09-02",
       "date_end": "2026-09-02",
       "time": "09:00",
-      "id": 20
+      "id": 19
     },
     {
-      "id": 21,
+      "id": 20,
       "date": "2026-09-03",
       "time": "18:00",
       "title": "Visita guiada a «Cossos que parlen» a càrrec de la Marika Vila",
@@ -469,7 +448,7 @@
       "date": "2026-09-04",
       "date_end": "2026-09-04",
       "time": "09:00",
-      "id": 22
+      "id": 21
     },
     {
       "title": "Mercat de Glòries",
@@ -490,7 +469,7 @@
       "date": "2026-09-05",
       "date_end": "2026-09-05",
       "time": "09:00",
-      "id": 23
+      "id": 22
     },
     {
       "title": "Mercat dels Encants",
@@ -511,10 +490,10 @@
       "date": "2026-09-05",
       "date_end": "2026-09-05",
       "time": "09:00",
-      "id": 24
+      "id": 23
     },
     {
-      "id": 25,
+      "id": 24,
       "date": "2026-09-06",
       "date_end": "",
       "time": "",
@@ -553,10 +532,10 @@
       "date": "2026-09-06",
       "date_end": "2026-09-06",
       "time": "",
-      "id": 26
+      "id": 25
     },
     {
-      "id": 27,
+      "id": 26,
       "date": "2026-09-07",
       "time": "10:00",
       "title": "La ciutat com a espai públic: una mirada des de la filosofia",
@@ -575,7 +554,7 @@
       "source": "CCCB"
     },
     {
-      "id": 28,
+      "id": 27,
       "date": "2026-09-08",
       "time": "18:00",
       "title": "Cinema d'estiu per a tota la família",
@@ -594,7 +573,7 @@
       "source": "CCCB"
     },
     {
-      "id": 29,
+      "id": 28,
       "date": "2026-09-08",
       "time": "18:00",
       "title": "Visita guiada a «El culte a la bellesa»",
@@ -631,10 +610,10 @@
       "date": "2026-09-09",
       "date_end": "2026-09-09",
       "time": "09:00",
-      "id": 30
+      "id": 29
     },
     {
-      "id": 31,
+      "id": 30,
       "date": "2026-09-09",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Irene Pujadas",
@@ -653,7 +632,7 @@
       "source": "CCCB"
     },
     {
-      "id": 32,
+      "id": 31,
       "date": "2026-09-10",
       "time": "18:30",
       "title": "Visita guiada a l’Exposició de varietats antifeixistes",
@@ -690,7 +669,7 @@
       "date": "2026-09-11",
       "date_end": "2026-09-11",
       "time": "09:00",
-      "id": 33
+      "id": 32
     },
     {
       "title": "Mercat de Glòries",
@@ -711,7 +690,7 @@
       "date": "2026-09-12",
       "date_end": "2026-09-12",
       "time": "09:00",
-      "id": 34
+      "id": 33
     },
     {
       "title": "Mercat dels Encants",
@@ -732,7 +711,7 @@
       "date": "2026-09-12",
       "date_end": "2026-09-12",
       "time": "09:00",
-      "id": 35
+      "id": 34
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -753,10 +732,10 @@
       "date": "2026-09-13",
       "date_end": "2026-09-13",
       "time": "",
-      "id": 36
+      "id": 35
     },
     {
-      "id": 37,
+      "id": 36,
       "date": "2026-09-15",
       "time": "18:30",
       "title": "Benedetta Bolognesi i Begoña Román",
@@ -773,6 +752,27 @@
       "url": "https://www.cccb.org/ca/w/activitats/benedetta-bolognesi-i-begona-roman",
       "image": "https://www.cccb.org/documents/4284035/6523845/Benedetta+Bolognesi+i+Bego%C3%B1a+Rom%C3%A1n.jpg/e696c80e-51ac-7166-8a86-712acd7876c1?version=1.0&t=1785319031092",
       "source": "CCCB"
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-09-16",
+      "date_end": "2026-09-16",
+      "time": "09:00",
+      "id": 37
     },
     {
       "id": 38,
