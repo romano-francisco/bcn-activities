@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T02:23:00.111771",
+  "generated_at": "2026-08-21T02:28:53.588546",
   "sources": [
     "cccb",
     "damm",
@@ -11,48 +11,6 @@
   ],
   "total": 70,
   "events": [
-    {
-      "id": 1,
-      "date": "2026-08-20",
-      "date_end": "",
-      "time": "",
-      "title": "Puerto de Indias Cocktail Workshop",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "food",
-      "free": false,
-      "price": "",
-      "emoji": "🍜",
-      "bg": "#EBF5E8",
-      "tags": [
-        "food"
-      ],
-      "desc": "Want to become the life of every party? On 20 August, from 7 to 8. 30 PM, Puerto de Indias gin is stopping by to teach you how to become a bartender for a day. You'll learn how to craft its iconic Strawberry Spritz, discover the secrets behind two exclusive cocktails from Time Out Market Barcelona, and raise a glass with a refreshing Mango Spritz prepared by the brand's experts. Cheers!",
-      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/taller-de-cocteleria-puerto-de-indias",
-      "image": "https://media.timeout.com/images/106432654/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
-      "id": 2,
-      "date": "2026-08-20",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Arte Flamenco",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "12 artistes excepcionals sobre l’escenari",
-      "url": "https://www.palaumusica.cat/ca/arte-flamenco_1163807",
-      "image": "https://www.palaumusica.cat/images/1163902/image_column.webp",
-      "source": "Palau de la Música"
-    },
     {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
@@ -72,10 +30,10 @@
       "date": "2026-08-21",
       "date_end": "2026-08-21",
       "time": "09:00",
-      "id": 3
+      "id": 1
     },
     {
-      "id": 4,
+      "id": 2,
       "date": "2026-08-21",
       "date_end": "",
       "time": "20:00",
@@ -114,7 +72,7 @@
       "date": "2026-08-22",
       "date_end": "2026-08-22",
       "time": "09:00",
-      "id": 5
+      "id": 3
     },
     {
       "title": "Mercat dels Encants",
@@ -135,7 +93,49 @@
       "date": "2026-08-22",
       "date_end": "2026-08-22",
       "time": "09:00",
-      "id": 6
+      "id": 4
+    },
+    {
+      "id": 5,
+      "date": "2026-08-22",
+      "date_end": "",
+      "time": "19:00",
+      "title": "Candlelight: Tribut a Hans Zimmer",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/candlelight-tribut-a-hans-zimmer_1492972",
+      "image": "https://www.palaumusica.cat/images/1492909/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 6,
+      "date": "2026-08-22",
+      "date_end": "",
+      "time": "21:00",
+      "title": "Candlelight: Tribut a Queen vs The Beatles",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/candlelight-tribut-a-queen-vs-the-beatles_1657743",
+      "image": "https://www.palaumusica.cat/images/1657731/image_column.jpg",
+      "source": "Palau de la Música"
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
