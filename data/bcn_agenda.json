@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T06:54:02.142426",
+  "generated_at": "2026-09-01T06:12:14.496233",
   "sources": [
     "cccb",
     "damm",
@@ -9,14 +9,14 @@
     "grec",
     "santpau"
   ],
-  "total": 67,
+  "total": 72,
   "events": [
     {
       "id": 1,
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "date_end": "",
       "time": "20:00",
-      "title": "Mariam Batsashvili",
+      "title": "Barcelona Guitar Trio & Dance",
       "venue": "Palau de la Música Catalana",
       "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
       "type": "music",
@@ -27,9 +27,9 @@
       "tags": [
         "music"
       ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/mariam-batsashvili_1591817",
-      "image": "https://www.palaumusica.cat/images/1591832/image_column.jpg",
+      "desc": "Homenatge a Paco de Lucía",
+      "url": "https://www.palaumusica.cat/ca/barcelona-guitar-trio-dance_1018227",
+      "image": "https://www.palaumusica.cat/images/980625/image_column.webp",
       "source": "Palau de la Música"
     },
     {
@@ -55,6 +55,27 @@
     },
     {
       "id": 3,
+      "date": "2026-09-02",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Gran Gala Flamenc",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
+      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 4,
       "date": "2026-09-03",
       "time": "18:00",
       "title": "Visita guiada a «Cossos que parlen» a càrrec de la Marika Vila",
@@ -91,7 +112,7 @@
       "date": "2026-09-04",
       "date_end": "2026-09-04",
       "time": "09:00",
-      "id": 4
+      "id": 5
     },
     {
       "title": "Mercat de Glòries",
@@ -112,7 +133,7 @@
       "date": "2026-09-05",
       "date_end": "2026-09-05",
       "time": "09:00",
-      "id": 5
+      "id": 6
     },
     {
       "title": "Mercat dels Encants",
@@ -133,10 +154,10 @@
       "date": "2026-09-05",
       "date_end": "2026-09-05",
       "time": "09:00",
-      "id": 6
+      "id": 7
     },
     {
-      "id": 7,
+      "id": 8,
       "date": "2026-09-05",
       "date_end": "",
       "time": "19:00",
@@ -157,7 +178,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 8,
+      "id": 9,
       "date": "2026-09-06",
       "date_end": "",
       "time": "",
@@ -196,10 +217,10 @@
       "date": "2026-09-06",
       "date_end": "2026-09-06",
       "time": "",
-      "id": 9
+      "id": 10
     },
     {
-      "id": 10,
+      "id": 11,
       "date": "2026-09-07",
       "time": "10:00",
       "title": "La ciutat com a espai públic: una mirada des de la filosofia",
@@ -218,7 +239,7 @@
       "source": "CCCB"
     },
     {
-      "id": 11,
+      "id": 12,
       "date": "2026-09-08",
       "time": "18:00",
       "title": "Cinema d'estiu per a tota la família",
@@ -237,7 +258,7 @@
       "source": "CCCB"
     },
     {
-      "id": 12,
+      "id": 13,
       "date": "2026-09-08",
       "time": "18:00",
       "title": "Visita guiada a «El culte a la bellesa»",
@@ -274,10 +295,10 @@
       "date": "2026-09-09",
       "date_end": "2026-09-09",
       "time": "09:00",
-      "id": 13
+      "id": 14
     },
     {
-      "id": 14,
+      "id": 15,
       "date": "2026-09-09",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Irene Pujadas",
@@ -296,7 +317,7 @@
       "source": "CCCB"
     },
     {
-      "id": 15,
+      "id": 16,
       "date": "2026-09-10",
       "time": "18:30",
       "title": "Visita guiada a l’Exposició de varietats antifeixistes",
@@ -333,7 +354,7 @@
       "date": "2026-09-11",
       "date_end": "2026-09-11",
       "time": "09:00",
-      "id": 16
+      "id": 17
     },
     {
       "title": "Mercat de Glòries",
@@ -354,7 +375,7 @@
       "date": "2026-09-12",
       "date_end": "2026-09-12",
       "time": "09:00",
-      "id": 17
+      "id": 18
     },
     {
       "title": "Mercat dels Encants",
@@ -375,7 +396,7 @@
       "date": "2026-09-12",
       "date_end": "2026-09-12",
       "time": "09:00",
-      "id": 18
+      "id": 19
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -396,10 +417,10 @@
       "date": "2026-09-13",
       "date_end": "2026-09-13",
       "time": "",
-      "id": 19
+      "id": 20
     },
     {
-      "id": 20,
+      "id": 21,
       "date": "2026-09-15",
       "time": "18:30",
       "title": "Benedetta Bolognesi i Begoña Román",
@@ -436,10 +457,10 @@
       "date": "2026-09-16",
       "date_end": "2026-09-16",
       "time": "09:00",
-      "id": 21
+      "id": 22
     },
     {
-      "id": 22,
+      "id": 23,
       "date": "2026-09-16",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Sílvia Rosés Castellsaguer",
@@ -458,7 +479,7 @@
       "source": "CCCB"
     },
     {
-      "id": 23,
+      "id": 24,
       "date": "2026-09-16",
       "time": "18:30",
       "title": "«Les aventures d’en Huckleberry Finn», de Mark Twain",
@@ -477,7 +498,7 @@
       "source": "CCCB"
     },
     {
-      "id": 24,
+      "id": 25,
       "date": "2026-09-17",
       "time": "18:30",
       "title": "Visita guiada: Una mirada LGTBI a la col·lecció del MAC",
@@ -514,10 +535,10 @@
       "date": "2026-09-18",
       "date_end": "2026-09-18",
       "time": "09:00",
-      "id": 25
+      "id": 26
     },
     {
-      "id": 26,
+      "id": 27,
       "date": "2026-09-18",
       "time": "18:30",
       "title": "Edurne Portela i Antonio Monegal",
@@ -554,7 +575,7 @@
       "date": "2026-09-19",
       "date_end": "2026-09-19",
       "time": "09:00",
-      "id": 27
+      "id": 28
     },
     {
       "title": "Mercat dels Encants",
@@ -575,10 +596,10 @@
       "date": "2026-09-19",
       "date_end": "2026-09-19",
       "time": "09:00",
-      "id": 28
+      "id": 29
     },
     {
-      "id": 29,
+      "id": 30,
       "date": "2026-09-19",
       "date_end": "",
       "time": "18:30",
@@ -599,7 +620,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 30,
+      "id": 31,
       "date": "2026-09-20",
       "time": "",
       "title": "Poetry Slam Barcelona",
@@ -616,6 +637,27 @@
       "url": "https://www.cccb.org/ca/w/activitats/poetry-slam-barcelona-132",
       "image": "https://www.cccb.org/documents/4284035/4646826/joglars.jpg/3981e3cd-b377-3955-81ba-e2e50f0c9594?version=1.0&t=1773316196380",
       "source": "CCCB"
+    },
+    {
+      "id": 32,
+      "date": "2026-09-20",
+      "date_end": "",
+      "time": "",
+      "title": "BarreFit",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "food",
+      "free": false,
+      "price": "",
+      "emoji": "🍜",
+      "bg": "#EBF5E8",
+      "tags": [
+        "food"
+      ],
+      "desc": "We're swapping sunshades and towels for mats and weights to get back into the routine at Time Out Market! Join us for a Sunday with BarreFit Studio: a workout that fuses Pilates, yoga, and functional training, inspired by ballet barre exercises (though in this case, there won't actually be a barre). Hard work pays off: a triumphant breakfast awaits!",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/barrefit-back-to-school",
+      "image": "https://media.timeout.com/images/106384834/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -636,10 +678,10 @@
       "date": "2026-09-20",
       "date_end": "2026-09-20",
       "time": "",
-      "id": 31
+      "id": 33
     },
     {
-      "id": 32,
+      "id": 34,
       "date": "2026-09-20",
       "date_end": "",
       "time": "17:30",
@@ -660,7 +702,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 33,
+      "id": 35,
       "date": "2026-09-21",
       "time": "10:30",
       "title": "La paradoxa democràtica",
@@ -679,7 +721,7 @@
       "source": "CCCB"
     },
     {
-      "id": 34,
+      "id": 36,
       "date": "2026-09-21",
       "time": "18:30",
       "title": "Édouard Louis i Zadie Smith",
@@ -698,7 +740,7 @@
       "source": "CCCB"
     },
     {
-      "id": 35,
+      "id": 37,
       "date": "2026-09-21",
       "date_end": "",
       "time": "20:00",
@@ -737,7 +779,28 @@
       "date": "2026-09-23",
       "date_end": "2026-09-23",
       "time": "09:00",
-      "id": 36
+      "id": 38
+    },
+    {
+      "id": 39,
+      "date": "2026-09-25",
+      "date_end": "",
+      "time": "",
+      "title": "Ketel One Cocktail Workshop",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "art",
+      "free": false,
+      "price": "",
+      "emoji": "🎨",
+      "bg": "#EBF0FF",
+      "tags": [
+        "art"
+      ],
+      "desc": "Want to become the master of ceremonies at every party? On September 25th from 7 PM to 9 PM, Ketel One is stopping by our place to teach you how to be a bartender for a day. You'll learn how to craft an Espresso Martini and a Moscow Mule step by step alongside experts from the team. Cheers!",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/taller-de-cocteleria-ketel-one",
+      "image": "https://media.timeout.com/images/106441420/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat dels Encants",
@@ -758,7 +821,7 @@
       "date": "2026-09-25",
       "date_end": "2026-09-25",
       "time": "09:00",
-      "id": 37
+      "id": 40
     },
     {
       "title": "Mercat de Glòries",
@@ -779,7 +842,7 @@
       "date": "2026-09-26",
       "date_end": "2026-09-26",
       "time": "09:00",
-      "id": 38
+      "id": 41
     },
     {
       "title": "Mercat dels Encants",
@@ -800,10 +863,10 @@
       "date": "2026-09-26",
       "date_end": "2026-09-26",
       "time": "09:00",
-      "id": 39
+      "id": 42
     },
     {
-      "id": 40,
+      "id": 43,
       "date": "2026-09-26",
       "time": "12:00",
       "title": "Adania Shibli",
@@ -840,10 +903,10 @@
       "date": "2026-09-27",
       "date_end": "2026-09-27",
       "time": "",
-      "id": 41
+      "id": 44
     },
     {
-      "id": 42,
+      "id": 45,
       "date": "2026-09-28",
       "date_end": "",
       "time": "19:00",
@@ -864,7 +927,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 43,
+      "id": 46,
       "date": "2026-09-30",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Víctor Ramírez Tur",
@@ -883,7 +946,7 @@
       "source": "CCCB"
     },
     {
-      "id": 44,
+      "id": 47,
       "date": "2026-09-30",
       "time": "18:30",
       "title": "Khadija Amin i Andrea Aldana",
@@ -902,7 +965,7 @@
       "source": "CCCB"
     },
     {
-      "id": 45,
+      "id": 48,
       "date": "2026-09-30",
       "date_end": "",
       "time": "20:00",
@@ -923,7 +986,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 46,
+      "id": 49,
       "date": "2026-10-01",
       "time": "10:00",
       "title": "Seminari Josep Lluís Sert",
@@ -942,7 +1005,28 @@
       "source": "CCCB"
     },
     {
-      "id": 47,
+      "id": 50,
+      "date": "2026-10-07",
+      "date_end": "",
+      "time": "19:00",
+      "title": "Jean-Guihen Queyras",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Integral de les Suites per a violoncel de Bach",
+      "url": "https://www.palaumusica.cat/ca/jean-guihen-queyras_1624032",
+      "image": "https://www.palaumusica.cat/images/1641007/image_column.jpeg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 51,
       "date": "2026-10-09",
       "time": "16:00",
       "title": "«El culte a la bellesa» per a persones amb ceguesa o baixa visió",
@@ -961,7 +1045,7 @@
       "source": "CCCB"
     },
     {
-      "id": 48,
+      "id": 52,
       "date": "2026-10-11",
       "time": "12:00",
       "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
@@ -980,7 +1064,7 @@
       "source": "CCCB"
     },
     {
-      "id": 49,
+      "id": 53,
       "date": "2026-10-13",
       "time": "",
       "title": "Biennal de Pensament 2026",
@@ -999,7 +1083,7 @@
       "source": "CCCB"
     },
     {
-      "id": 50,
+      "id": 54,
       "date": "2026-10-20",
       "time": "",
       "title": "Serielizados Fest 2026",
@@ -1018,7 +1102,28 @@
       "source": "CCCB"
     },
     {
-      "id": 51,
+      "id": 55,
+      "date": "2026-10-23",
+      "date_end": "",
+      "time": "19:00",
+      "title": "Riccardo Primo de Händel",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Les Arts Florissants & Agnew",
+      "url": "https://www.palaumusica.cat/ca/riccardo-primo-de-handel_1586482",
+      "image": "https://www.palaumusica.cat/images/1625974/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 56,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Emily Dickinson, una carta al món",
@@ -1037,7 +1142,7 @@
       "source": "CCCB"
     },
     {
-      "id": 52,
+      "id": 57,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Un punt de claror",
@@ -1056,7 +1161,7 @@
       "source": "CCCB"
     },
     {
-      "id": 53,
+      "id": 58,
       "date": "2026-11-04",
       "time": "18:30",
       "title": "El món com a manicomi",
@@ -1075,7 +1180,7 @@
       "source": "CCCB"
     },
     {
-      "id": 54,
+      "id": 59,
       "date": "2026-11-09",
       "time": "12:00",
       "title": "Pensar un món sense centres ni perifèries",
@@ -1094,7 +1199,7 @@
       "source": "CCCB"
     },
     {
-      "id": 55,
+      "id": 60,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Michel Foucault",
@@ -1113,7 +1218,7 @@
       "source": "CCCB"
     },
     {
-      "id": 56,
+      "id": 61,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -1132,7 +1237,7 @@
       "source": "CCCB"
     },
     {
-      "id": 57,
+      "id": 62,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -1151,7 +1256,7 @@
       "source": "CCCB"
     },
     {
-      "id": 58,
+      "id": 63,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -1170,7 +1275,7 @@
       "source": "CCCB"
     },
     {
-      "id": 59,
+      "id": 64,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -1189,7 +1294,7 @@
       "source": "CCCB"
     },
     {
-      "id": 60,
+      "id": 65,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -1208,7 +1313,7 @@
       "source": "CCCB"
     },
     {
-      "id": 61,
+      "id": 66,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -1227,7 +1332,7 @@
       "source": "CCCB"
     },
     {
-      "id": 62,
+      "id": 67,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1246,7 +1351,7 @@
       "source": "CCCB"
     },
     {
-      "id": 63,
+      "id": 68,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -1265,7 +1370,7 @@
       "source": "CCCB"
     },
     {
-      "id": 64,
+      "id": 69,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1284,7 +1389,7 @@
       "source": "CCCB"
     },
     {
-      "id": 65,
+      "id": 70,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1303,7 +1408,7 @@
       "source": "CCCB"
     },
     {
-      "id": 66,
+      "id": 71,
       "date": "2027-01-02",
       "time": "18:30",
       "title": "El segle XVIII",
@@ -1322,7 +1427,7 @@
       "source": "CCCB"
     },
     {
-      "id": 67,
+      "id": 72,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
