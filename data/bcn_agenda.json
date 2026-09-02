@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T06:12:14.496233",
+  "generated_at": "2026-09-02T05:37:25.757368",
   "sources": [
     "cccb",
     "damm",
@@ -9,28 +9,28 @@
     "grec",
     "santpau"
   ],
-  "total": 72,
+  "total": 76,
   "events": [
     {
       "id": 1,
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "date_end": "",
-      "time": "20:00",
-      "title": "Barcelona Guitar Trio & Dance",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "time": "",
+      "title": "Run & Food at Time Out Market",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
       "type": "music",
       "free": false,
       "price": "",
-      "emoji": "🎶",
+      "emoji": "🎵",
       "bg": "#FFF0EB",
       "tags": [
         "music"
       ],
-      "desc": "Homenatge a Paco de Lucía",
-      "url": "https://www.palaumusica.cat/ca/barcelona-guitar-trio-dance_1018227",
-      "image": "https://www.palaumusica.cat/images/980625/image_column.webp",
-      "source": "Palau de la Música"
+      "desc": "Are you a running enthusiast? Run on over to Time Out Market to end your day in the best possible way! Time Out Market Barcelona is becoming the ideal meetup spot for anyone looking to stay fit in good company and keep the energy going with top-notch food and music at Run & Food.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/run-food-at-time-out-market",
+      "image": "https://media.timeout.com/images/105854363/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat dels Encants",
@@ -115,6 +115,48 @@
       "id": 5
     },
     {
+      "id": 6,
+      "date": "2026-09-05",
+      "date_end": "",
+      "time": "",
+      "title": "El Tardet x Time Out Market",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "El Tardet is moving into Time Out Market! This party has the perfect vibe for meeting new people or having a blast with your squad over drinks and music—all without having to sacrifice a full night’s sleep. When? Saturday, September 5th, 12th, and 19th.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/music/el-tardet-la-festa-de-tarda-mes-petarda-arriba-al-time-out-market",
+      "image": "https://media.timeout.com/images/106420961/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
+    },
+    {
+      "id": 7,
+      "date": "2026-09-05",
+      "date_end": "",
+      "time": "",
+      "title": "Salsa Time",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Do you like dancing salsa? Come and do it at Time Out Market! On Saturdays starting at 7 PM, we’re hosting a big dance hall with the music turned up so you can dance and let yourself go. Entry is €10, payable at the market itself, and capacity is limited to 400 people. Arrive early!",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/salsa-time-at-time-out-market",
+      "image": "https://media.timeout.com/images/106421202/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
+    },
+    {
       "title": "Mercat de Glòries",
       "venue": "Mercat de Glòries",
       "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
@@ -133,7 +175,7 @@
       "date": "2026-09-05",
       "date_end": "2026-09-05",
       "time": "09:00",
-      "id": 6
+      "id": 8
     },
     {
       "title": "Mercat dels Encants",
@@ -154,10 +196,10 @@
       "date": "2026-09-05",
       "date_end": "2026-09-05",
       "time": "09:00",
-      "id": 7
+      "id": 9
     },
     {
-      "id": 8,
+      "id": 10,
       "date": "2026-09-05",
       "date_end": "",
       "time": "19:00",
@@ -178,7 +220,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 9,
+      "id": 11,
       "date": "2026-09-06",
       "date_end": "",
       "time": "",
@@ -196,6 +238,27 @@
       "desc": "Do you share the same philosophy as circus performers: that life is all about putting yourself to the test? Don’t miss the latest fitness activity to keep you in shape this summer: Corehaus, a session designed to make you sweat twice as much as you already are while multiplying the benefits of your workout.",
       "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/fit-market-x-corehaus",
       "image": "https://media.timeout.com/images/106434893/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
+    },
+    {
+      "id": 12,
+      "date": "2026-09-06",
+      "date_end": "",
+      "time": "",
+      "title": "Views and Show by Aperol Spritz",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Keep the summer vibes and sea views going from the Market! Come join us with an Aperol Spritz or Crodino and background tunes spun by top DJs to make the experience truly sublime.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/dj-golden-hour-aperol-spritz",
+      "image": "https://media.timeout.com/images/106386759/750/422/image.jpg",
       "source": "Time Out Market Barcelona"
     },
     {
@@ -217,10 +280,10 @@
       "date": "2026-09-06",
       "date_end": "2026-09-06",
       "time": "",
-      "id": 10
+      "id": 13
     },
     {
-      "id": 11,
+      "id": 14,
       "date": "2026-09-07",
       "time": "10:00",
       "title": "La ciutat com a espai públic: una mirada des de la filosofia",
@@ -239,7 +302,7 @@
       "source": "CCCB"
     },
     {
-      "id": 12,
+      "id": 15,
       "date": "2026-09-08",
       "time": "18:00",
       "title": "Cinema d'estiu per a tota la família",
@@ -258,7 +321,7 @@
       "source": "CCCB"
     },
     {
-      "id": 13,
+      "id": 16,
       "date": "2026-09-08",
       "time": "18:00",
       "title": "Visita guiada a «El culte a la bellesa»",
@@ -295,10 +358,10 @@
       "date": "2026-09-09",
       "date_end": "2026-09-09",
       "time": "09:00",
-      "id": 14
+      "id": 17
     },
     {
-      "id": 15,
+      "id": 18,
       "date": "2026-09-09",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Irene Pujadas",
@@ -317,7 +380,7 @@
       "source": "CCCB"
     },
     {
-      "id": 16,
+      "id": 19,
       "date": "2026-09-10",
       "time": "18:30",
       "title": "Visita guiada a l’Exposició de varietats antifeixistes",
@@ -354,7 +417,7 @@
       "date": "2026-09-11",
       "date_end": "2026-09-11",
       "time": "09:00",
-      "id": 17
+      "id": 20
     },
     {
       "title": "Mercat de Glòries",
@@ -375,7 +438,7 @@
       "date": "2026-09-12",
       "date_end": "2026-09-12",
       "time": "09:00",
-      "id": 18
+      "id": 21
     },
     {
       "title": "Mercat dels Encants",
@@ -396,7 +459,7 @@
       "date": "2026-09-12",
       "date_end": "2026-09-12",
       "time": "09:00",
-      "id": 19
+      "id": 22
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -417,10 +480,10 @@
       "date": "2026-09-13",
       "date_end": "2026-09-13",
       "time": "",
-      "id": 20
+      "id": 23
     },
     {
-      "id": 21,
+      "id": 24,
       "date": "2026-09-15",
       "time": "18:30",
       "title": "Benedetta Bolognesi i Begoña Román",
@@ -457,10 +520,10 @@
       "date": "2026-09-16",
       "date_end": "2026-09-16",
       "time": "09:00",
-      "id": 22
+      "id": 25
     },
     {
-      "id": 23,
+      "id": 26,
       "date": "2026-09-16",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Sílvia Rosés Castellsaguer",
@@ -479,7 +542,7 @@
       "source": "CCCB"
     },
     {
-      "id": 24,
+      "id": 27,
       "date": "2026-09-16",
       "time": "18:30",
       "title": "«Les aventures d’en Huckleberry Finn», de Mark Twain",
@@ -498,7 +561,7 @@
       "source": "CCCB"
     },
     {
-      "id": 25,
+      "id": 28,
       "date": "2026-09-17",
       "time": "18:30",
       "title": "Visita guiada: Una mirada LGTBI a la col·lecció del MAC",
@@ -535,10 +598,10 @@
       "date": "2026-09-18",
       "date_end": "2026-09-18",
       "time": "09:00",
-      "id": 26
+      "id": 29
     },
     {
-      "id": 27,
+      "id": 30,
       "date": "2026-09-18",
       "time": "18:30",
       "title": "Edurne Portela i Antonio Monegal",
@@ -575,7 +638,7 @@
       "date": "2026-09-19",
       "date_end": "2026-09-19",
       "time": "09:00",
-      "id": 28
+      "id": 31
     },
     {
       "title": "Mercat dels Encants",
@@ -596,10 +659,10 @@
       "date": "2026-09-19",
       "date_end": "2026-09-19",
       "time": "09:00",
-      "id": 29
+      "id": 32
     },
     {
-      "id": 30,
+      "id": 33,
       "date": "2026-09-19",
       "date_end": "",
       "time": "18:30",
@@ -620,26 +683,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 31,
-      "date": "2026-09-20",
-      "time": "",
-      "title": "Poetry Slam Barcelona",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "20 de setembre 2026 Accessible",
-      "url": "https://www.cccb.org/ca/w/activitats/poetry-slam-barcelona-132",
-      "image": "https://www.cccb.org/documents/4284035/4646826/joglars.jpg/3981e3cd-b377-3955-81ba-e2e50f0c9594?version=1.0&t=1773316196380",
-      "source": "CCCB"
-    },
-    {
-      "id": 32,
+      "id": 34,
       "date": "2026-09-20",
       "date_end": "",
       "time": "",
@@ -678,10 +722,10 @@
       "date": "2026-09-20",
       "date_end": "2026-09-20",
       "time": "",
-      "id": 33
+      "id": 35
     },
     {
-      "id": 34,
+      "id": 36,
       "date": "2026-09-20",
       "date_end": "",
       "time": "17:30",
@@ -702,7 +746,26 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 35,
+      "id": 37,
+      "date": "2026-09-20",
+      "time": "18:00",
+      "title": "Poetry Slam Barcelona",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "20 de setembre 2026 Accessible",
+      "url": "https://www.cccb.org/ca/w/activitats/poetry-slam-barcelona-132",
+      "image": "https://www.cccb.org/documents/4284035/4646826/joglars.jpg/3981e3cd-b377-3955-81ba-e2e50f0c9594?version=1.0&t=1773316196380",
+      "source": "CCCB"
+    },
+    {
+      "id": 38,
       "date": "2026-09-21",
       "time": "10:30",
       "title": "La paradoxa democràtica",
@@ -721,7 +784,7 @@
       "source": "CCCB"
     },
     {
-      "id": 36,
+      "id": 39,
       "date": "2026-09-21",
       "time": "18:30",
       "title": "Édouard Louis i Zadie Smith",
@@ -740,7 +803,7 @@
       "source": "CCCB"
     },
     {
-      "id": 37,
+      "id": 40,
       "date": "2026-09-21",
       "date_end": "",
       "time": "20:00",
@@ -758,6 +821,27 @@
       "desc": "—Debussy, Lysenko, Brahms i Rakhmàninov",
       "url": "https://www.palaumusica.cat/ca/dmytro-choni_1624062",
       "image": "https://www.palaumusica.cat/images/1624061/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 41,
+      "date": "2026-09-22",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Les Quatre Estacions de Vivaldi Recomposed per Max Richter",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Maria Florea & Franz Schubert Filharmonia",
+      "url": "https://www.palaumusica.cat/ca/les-quatre-estacions-de-vivaldi-recomposed-per-max-richter_1658300",
+      "image": "https://www.palaumusica.cat/images/1658342/image_column.jpg",
       "source": "Palau de la Música"
     },
     {
@@ -779,10 +863,10 @@
       "date": "2026-09-23",
       "date_end": "2026-09-23",
       "time": "09:00",
-      "id": 38
+      "id": 42
     },
     {
-      "id": 39,
+      "id": 43,
       "date": "2026-09-25",
       "date_end": "",
       "time": "",
@@ -800,6 +884,27 @@
       "desc": "Want to become the master of ceremonies at every party? On September 25th from 7 PM to 9 PM, Ketel One is stopping by our place to teach you how to be a bartender for a day. You'll learn how to craft an Espresso Martini and a Moscow Mule step by step alongside experts from the team. Cheers!",
       "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/taller-de-cocteleria-ketel-one",
       "image": "https://media.timeout.com/images/106441420/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
+    },
+    {
+      "id": 44,
+      "date": "2026-09-25",
+      "date_end": "",
+      "time": "",
+      "title": "Jazz Concert",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "azz is fantastic wherever you are, and we didn't want to miss out on bringing that soulful soundscape to the Market. That’s why on September 25th at 8 PM, two extraordinary musicians are joining forces on strings and brass: Lídia Facerías on piano, alongside Memi Sillah on vocals and trumpet.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/music/concert-de-jazz",
+      "image": "https://media.timeout.com/images/106352886/750/422/image.jpg",
       "source": "Time Out Market Barcelona"
     },
     {
@@ -821,7 +926,7 @@
       "date": "2026-09-25",
       "date_end": "2026-09-25",
       "time": "09:00",
-      "id": 40
+      "id": 45
     },
     {
       "title": "Mercat de Glòries",
@@ -842,7 +947,7 @@
       "date": "2026-09-26",
       "date_end": "2026-09-26",
       "time": "09:00",
-      "id": 41
+      "id": 46
     },
     {
       "title": "Mercat dels Encants",
@@ -863,10 +968,10 @@
       "date": "2026-09-26",
       "date_end": "2026-09-26",
       "time": "09:00",
-      "id": 42
+      "id": 47
     },
     {
-      "id": 43,
+      "id": 48,
       "date": "2026-09-26",
       "time": "12:00",
       "title": "Adania Shibli",
@@ -903,10 +1008,10 @@
       "date": "2026-09-27",
       "date_end": "2026-09-27",
       "time": "",
-      "id": 44
+      "id": 49
     },
     {
-      "id": 45,
+      "id": 50,
       "date": "2026-09-28",
       "date_end": "",
       "time": "19:00",
@@ -927,7 +1032,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 46,
+      "id": 51,
       "date": "2026-09-30",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Víctor Ramírez Tur",
@@ -946,7 +1051,7 @@
       "source": "CCCB"
     },
     {
-      "id": 47,
+      "id": 52,
       "date": "2026-09-30",
       "time": "18:30",
       "title": "Khadija Amin i Andrea Aldana",
@@ -965,7 +1070,7 @@
       "source": "CCCB"
     },
     {
-      "id": 48,
+      "id": 53,
       "date": "2026-09-30",
       "date_end": "",
       "time": "20:00",
@@ -986,7 +1091,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 49,
+      "id": 54,
       "date": "2026-10-01",
       "time": "10:00",
       "title": "Seminari Josep Lluís Sert",
@@ -1005,7 +1110,7 @@
       "source": "CCCB"
     },
     {
-      "id": 50,
+      "id": 55,
       "date": "2026-10-07",
       "date_end": "",
       "time": "19:00",
@@ -1026,7 +1131,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 51,
+      "id": 56,
       "date": "2026-10-09",
       "time": "16:00",
       "title": "«El culte a la bellesa» per a persones amb ceguesa o baixa visió",
@@ -1045,7 +1150,7 @@
       "source": "CCCB"
     },
     {
-      "id": 52,
+      "id": 57,
       "date": "2026-10-11",
       "time": "12:00",
       "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
@@ -1064,7 +1169,7 @@
       "source": "CCCB"
     },
     {
-      "id": 53,
+      "id": 58,
       "date": "2026-10-13",
       "time": "",
       "title": "Biennal de Pensament 2026",
@@ -1083,7 +1188,7 @@
       "source": "CCCB"
     },
     {
-      "id": 54,
+      "id": 59,
       "date": "2026-10-20",
       "time": "",
       "title": "Serielizados Fest 2026",
@@ -1102,28 +1207,7 @@
       "source": "CCCB"
     },
     {
-      "id": 55,
-      "date": "2026-10-23",
-      "date_end": "",
-      "time": "19:00",
-      "title": "Riccardo Primo de Händel",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Les Arts Florissants & Agnew",
-      "url": "https://www.palaumusica.cat/ca/riccardo-primo-de-handel_1586482",
-      "image": "https://www.palaumusica.cat/images/1625974/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 56,
+      "id": 60,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Emily Dickinson, una carta al món",
@@ -1142,7 +1226,7 @@
       "source": "CCCB"
     },
     {
-      "id": 57,
+      "id": 61,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Un punt de claror",
@@ -1161,7 +1245,7 @@
       "source": "CCCB"
     },
     {
-      "id": 58,
+      "id": 62,
       "date": "2026-11-04",
       "time": "18:30",
       "title": "El món com a manicomi",
@@ -1180,7 +1264,7 @@
       "source": "CCCB"
     },
     {
-      "id": 59,
+      "id": 63,
       "date": "2026-11-09",
       "time": "12:00",
       "title": "Pensar un món sense centres ni perifèries",
@@ -1199,7 +1283,7 @@
       "source": "CCCB"
     },
     {
-      "id": 60,
+      "id": 64,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Michel Foucault",
@@ -1218,7 +1302,7 @@
       "source": "CCCB"
     },
     {
-      "id": 61,
+      "id": 65,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -1237,7 +1321,7 @@
       "source": "CCCB"
     },
     {
-      "id": 62,
+      "id": 66,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -1256,7 +1340,7 @@
       "source": "CCCB"
     },
     {
-      "id": 63,
+      "id": 67,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -1275,7 +1359,7 @@
       "source": "CCCB"
     },
     {
-      "id": 64,
+      "id": 68,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -1294,7 +1378,7 @@
       "source": "CCCB"
     },
     {
-      "id": 65,
+      "id": 69,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -1313,7 +1397,7 @@
       "source": "CCCB"
     },
     {
-      "id": 66,
+      "id": 70,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -1332,7 +1416,7 @@
       "source": "CCCB"
     },
     {
-      "id": 67,
+      "id": 71,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1351,7 +1435,7 @@
       "source": "CCCB"
     },
     {
-      "id": 68,
+      "id": 72,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -1370,7 +1454,7 @@
       "source": "CCCB"
     },
     {
-      "id": 69,
+      "id": 73,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1389,7 +1473,7 @@
       "source": "CCCB"
     },
     {
-      "id": 70,
+      "id": 74,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1408,7 +1492,7 @@
       "source": "CCCB"
     },
     {
-      "id": 71,
+      "id": 75,
       "date": "2027-01-02",
       "time": "18:30",
       "title": "El segle XVIII",
@@ -1427,7 +1511,7 @@
       "source": "CCCB"
     },
     {
-      "id": 72,
+      "id": 76,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
