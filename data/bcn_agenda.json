@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T05:37:25.757368",
+  "generated_at": "2026-09-03T05:38:25.791969",
   "sources": [
     "cccb",
     "damm",
@@ -13,69 +13,6 @@
   "events": [
     {
       "id": 1,
-      "date": "2026-09-02",
-      "date_end": "",
-      "time": "",
-      "title": "Run & Food at Time Out Market",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎵",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Are you a running enthusiast? Run on over to Time Out Market to end your day in the best possible way! Time Out Market Barcelona is becoming the ideal meetup spot for anyone looking to stay fit in good company and keep the energy going with top-notch food and music at Run & Food.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/run-food-at-time-out-market",
-      "image": "https://media.timeout.com/images/105854363/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-09-02",
-      "date_end": "2026-09-02",
-      "time": "09:00",
-      "id": 2
-    },
-    {
-      "id": 3,
-      "date": "2026-09-02",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Gran Gala Flamenc",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
-      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 4,
       "date": "2026-09-03",
       "time": "18:00",
       "title": "Visita guiada a «Cossos que parlen» a càrrec de la Marika Vila",
@@ -92,6 +29,27 @@
       "url": "https://www.cccb.org/ca/w/activitats/visita-guiada-a-cossos-que-parlen-a-carrec-de-la-marika-vila",
       "image": "https://www.cccb.org/documents/4284035/4287122/260903_Cossos+que+parlen_1920x1080+%281%29.jpg/dfece00b-30a9-06d1-0ddb-940adc7bb814?version=1.0&t=1781801532347",
       "source": "CCCB"
+    },
+    {
+      "id": 2,
+      "date": "2026-09-03",
+      "date_end": "",
+      "time": "21:00",
+      "title": "Fito Páez",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Solo Piano",
+      "url": "https://www.palaumusica.cat/ca/fito-paez_1650530",
+      "image": "https://www.palaumusica.cat/images/1650561/image_column.jpg",
+      "source": "Palau de la Música"
     },
     {
       "title": "Mercat dels Encants",
@@ -112,10 +70,10 @@
       "date": "2026-09-04",
       "date_end": "2026-09-04",
       "time": "09:00",
-      "id": 5
+      "id": 3
     },
     {
-      "id": 6,
+      "id": 4,
       "date": "2026-09-05",
       "date_end": "",
       "time": "",
@@ -136,7 +94,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 7,
+      "id": 5,
       "date": "2026-09-05",
       "date_end": "",
       "time": "",
@@ -175,7 +133,7 @@
       "date": "2026-09-05",
       "date_end": "2026-09-05",
       "time": "09:00",
-      "id": 8
+      "id": 6
     },
     {
       "title": "Mercat dels Encants",
@@ -196,10 +154,10 @@
       "date": "2026-09-05",
       "date_end": "2026-09-05",
       "time": "09:00",
-      "id": 9
+      "id": 7
     },
     {
-      "id": 10,
+      "id": 8,
       "date": "2026-09-05",
       "date_end": "",
       "time": "19:00",
@@ -220,7 +178,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 11,
+      "id": 9,
       "date": "2026-09-06",
       "date_end": "",
       "time": "",
@@ -241,7 +199,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 12,
+      "id": 10,
       "date": "2026-09-06",
       "date_end": "",
       "time": "",
@@ -280,10 +238,10 @@
       "date": "2026-09-06",
       "date_end": "2026-09-06",
       "time": "",
-      "id": 13
+      "id": 11
     },
     {
-      "id": 14,
+      "id": 12,
       "date": "2026-09-07",
       "time": "10:00",
       "title": "La ciutat com a espai públic: una mirada des de la filosofia",
@@ -302,7 +260,7 @@
       "source": "CCCB"
     },
     {
-      "id": 15,
+      "id": 13,
       "date": "2026-09-08",
       "time": "18:00",
       "title": "Cinema d'estiu per a tota la família",
@@ -321,7 +279,7 @@
       "source": "CCCB"
     },
     {
-      "id": 16,
+      "id": 14,
       "date": "2026-09-08",
       "time": "18:00",
       "title": "Visita guiada a «El culte a la bellesa»",
@@ -358,10 +316,10 @@
       "date": "2026-09-09",
       "date_end": "2026-09-09",
       "time": "09:00",
-      "id": 17
+      "id": 15
     },
     {
-      "id": 18,
+      "id": 16,
       "date": "2026-09-09",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Irene Pujadas",
@@ -380,10 +338,10 @@
       "source": "CCCB"
     },
     {
-      "id": 19,
+      "id": 17,
       "date": "2026-09-10",
       "time": "18:30",
-      "title": "Visita guiada a l’Exposició de varietats antifeixistes",
+      "title": "Visita guiada a l’«Exposició de varietats antifeixistes»",
       "venue": "CCCB",
       "type": "culture",
       "free": false,
@@ -417,7 +375,7 @@
       "date": "2026-09-11",
       "date_end": "2026-09-11",
       "time": "09:00",
-      "id": 20
+      "id": 18
     },
     {
       "title": "Mercat de Glòries",
@@ -438,7 +396,7 @@
       "date": "2026-09-12",
       "date_end": "2026-09-12",
       "time": "09:00",
-      "id": 21
+      "id": 19
     },
     {
       "title": "Mercat dels Encants",
@@ -459,7 +417,7 @@
       "date": "2026-09-12",
       "date_end": "2026-09-12",
       "time": "09:00",
-      "id": 22
+      "id": 20
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -480,10 +438,10 @@
       "date": "2026-09-13",
       "date_end": "2026-09-13",
       "time": "",
-      "id": 23
+      "id": 21
     },
     {
-      "id": 24,
+      "id": 22,
       "date": "2026-09-15",
       "time": "18:30",
       "title": "Benedetta Bolognesi i Begoña Román",
@@ -520,10 +478,10 @@
       "date": "2026-09-16",
       "date_end": "2026-09-16",
       "time": "09:00",
-      "id": 25
+      "id": 23
     },
     {
-      "id": 26,
+      "id": 24,
       "date": "2026-09-16",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Sílvia Rosés Castellsaguer",
@@ -542,7 +500,7 @@
       "source": "CCCB"
     },
     {
-      "id": 27,
+      "id": 25,
       "date": "2026-09-16",
       "time": "18:30",
       "title": "«Les aventures d’en Huckleberry Finn», de Mark Twain",
@@ -561,7 +519,7 @@
       "source": "CCCB"
     },
     {
-      "id": 28,
+      "id": 26,
       "date": "2026-09-17",
       "time": "18:30",
       "title": "Visita guiada: Una mirada LGTBI a la col·lecció del MAC",
@@ -598,10 +556,10 @@
       "date": "2026-09-18",
       "date_end": "2026-09-18",
       "time": "09:00",
-      "id": 29
+      "id": 27
     },
     {
-      "id": 30,
+      "id": 28,
       "date": "2026-09-18",
       "time": "18:30",
       "title": "Edurne Portela i Antonio Monegal",
@@ -638,7 +596,7 @@
       "date": "2026-09-19",
       "date_end": "2026-09-19",
       "time": "09:00",
-      "id": 31
+      "id": 29
     },
     {
       "title": "Mercat dels Encants",
@@ -659,10 +617,10 @@
       "date": "2026-09-19",
       "date_end": "2026-09-19",
       "time": "09:00",
-      "id": 32
+      "id": 30
     },
     {
-      "id": 33,
+      "id": 31,
       "date": "2026-09-19",
       "date_end": "",
       "time": "18:30",
@@ -683,7 +641,26 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 34,
+      "id": 32,
+      "date": "2026-09-20",
+      "time": "",
+      "title": "Poetry Slam Barcelona",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "20 de setembre 2026 Accessible",
+      "url": "https://www.cccb.org/ca/w/activitats/poetry-slam-barcelona-132",
+      "image": "https://www.cccb.org/documents/4284035/4646826/joglars.jpg/3981e3cd-b377-3955-81ba-e2e50f0c9594?version=1.0&t=1773316196380",
+      "source": "CCCB"
+    },
+    {
+      "id": 33,
       "date": "2026-09-20",
       "date_end": "",
       "time": "",
@@ -722,10 +699,10 @@
       "date": "2026-09-20",
       "date_end": "2026-09-20",
       "time": "",
-      "id": 35
+      "id": 34
     },
     {
-      "id": 36,
+      "id": 35,
       "date": "2026-09-20",
       "date_end": "",
       "time": "17:30",
@@ -746,26 +723,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 37,
-      "date": "2026-09-20",
-      "time": "18:00",
-      "title": "Poetry Slam Barcelona",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "20 de setembre 2026 Accessible",
-      "url": "https://www.cccb.org/ca/w/activitats/poetry-slam-barcelona-132",
-      "image": "https://www.cccb.org/documents/4284035/4646826/joglars.jpg/3981e3cd-b377-3955-81ba-e2e50f0c9594?version=1.0&t=1773316196380",
-      "source": "CCCB"
-    },
-    {
-      "id": 38,
+      "id": 36,
       "date": "2026-09-21",
       "time": "10:30",
       "title": "La paradoxa democràtica",
@@ -784,7 +742,7 @@
       "source": "CCCB"
     },
     {
-      "id": 39,
+      "id": 37,
       "date": "2026-09-21",
       "time": "18:30",
       "title": "Édouard Louis i Zadie Smith",
@@ -803,7 +761,7 @@
       "source": "CCCB"
     },
     {
-      "id": 40,
+      "id": 38,
       "date": "2026-09-21",
       "date_end": "",
       "time": "20:00",
@@ -824,7 +782,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 41,
+      "id": 39,
       "date": "2026-09-22",
       "date_end": "",
       "time": "20:00",
@@ -863,10 +821,10 @@
       "date": "2026-09-23",
       "date_end": "2026-09-23",
       "time": "09:00",
-      "id": 42
+      "id": 40
     },
     {
-      "id": 43,
+      "id": 41,
       "date": "2026-09-25",
       "date_end": "",
       "time": "",
@@ -887,7 +845,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 44,
+      "id": 42,
       "date": "2026-09-25",
       "date_end": "",
       "time": "",
@@ -926,7 +884,7 @@
       "date": "2026-09-25",
       "date_end": "2026-09-25",
       "time": "09:00",
-      "id": 45
+      "id": 43
     },
     {
       "title": "Mercat de Glòries",
@@ -947,7 +905,7 @@
       "date": "2026-09-26",
       "date_end": "2026-09-26",
       "time": "09:00",
-      "id": 46
+      "id": 44
     },
     {
       "title": "Mercat dels Encants",
@@ -968,10 +926,10 @@
       "date": "2026-09-26",
       "date_end": "2026-09-26",
       "time": "09:00",
-      "id": 47
+      "id": 45
     },
     {
-      "id": 48,
+      "id": 46,
       "date": "2026-09-26",
       "time": "12:00",
       "title": "Adania Shibli",
@@ -1008,10 +966,10 @@
       "date": "2026-09-27",
       "date_end": "2026-09-27",
       "time": "",
-      "id": 49
+      "id": 47
     },
     {
-      "id": 50,
+      "id": 48,
       "date": "2026-09-28",
       "date_end": "",
       "time": "19:00",
@@ -1030,6 +988,48 @@
       "url": "https://www.palaumusica.cat/ca/homenatge-a-pau-casals_1586435",
       "image": "https://www.palaumusica.cat/images/1586434/image_column.jpg",
       "source": "Palau de la Música"
+    },
+    {
+      "id": 49,
+      "date": "2026-09-30",
+      "date_end": "",
+      "time": "",
+      "title": "Run & Food at Time Out Market",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Are you a running enthusiast? Run on over to Time Out Market to end your day in the best possible way! Time Out Market Barcelona is becoming the ideal meetup spot for anyone looking to stay fit in good company and keep the energy going with top-notch food and music at Run & Food.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/run-food-at-time-out-market",
+      "image": "https://media.timeout.com/images/105854363/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-09-30",
+      "date_end": "2026-09-30",
+      "time": "09:00",
+      "id": 50
     },
     {
       "id": 51,
