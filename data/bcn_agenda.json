@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T05:46:27.091831",
+  "generated_at": "2026-09-12T05:33:33.148951",
   "sources": [
     "cccb",
     "damm",
@@ -9,50 +9,8 @@
     "grec",
     "santpau"
   ],
-  "total": 68,
+  "total": 69,
   "events": [
-    {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-09-11",
-      "date_end": "2026-09-11",
-      "time": "09:00",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "date": "2026-09-11",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Barcelona Guitar Trio & Dance",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Homenatge a Paco de Lucía",
-      "url": "https://www.palaumusica.cat/ca/barcelona-guitar-trio-dance_1018227",
-      "image": "https://www.palaumusica.cat/images/980625/image_column.webp",
-      "source": "Palau de la Música"
-    },
     {
       "title": "Mercat de Glòries",
       "venue": "Mercat de Glòries",
@@ -72,7 +30,7 @@
       "date": "2026-09-12",
       "date_end": "2026-09-12",
       "time": "09:00",
-      "id": 3
+      "id": 1
     },
     {
       "title": "Mercat dels Encants",
@@ -93,7 +51,49 @@
       "date": "2026-09-12",
       "date_end": "2026-09-12",
       "time": "09:00",
-      "id": 4
+      "id": 2
+    },
+    {
+      "id": 3,
+      "date": "2026-09-12",
+      "date_end": "",
+      "time": "18:00",
+      "title": "Candlelight: Disney cançons d’amor",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/candlelight-disney-can%C3%A7ons-d-amor_1667379",
+      "image": "https://www.palaumusica.cat/images/1657731/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 4,
+      "date": "2026-09-12",
+      "date_end": "",
+      "time": "19:00",
+      "title": "Carmen de Georges Bizet",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Josep Miquel Mindàn - Jaume Villanueva",
+      "url": "https://www.palaumusica.cat/ca/carmen-de-georges-bizet_1076077",
+      "image": "https://www.palaumusica.cat/images/1413531/image_column.png",
+      "source": "Palau de la Música"
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -975,7 +975,28 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 48,
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-10-09",
+      "date_end": "2026-10-09",
+      "time": "09:00",
+      "id": 48
+    },
+    {
+      "id": 49,
       "date": "2026-10-09",
       "time": "16:00",
       "title": "«El culte a la bellesa» per a persones amb ceguesa o baixa visió",
@@ -994,7 +1015,7 @@
       "source": "CCCB"
     },
     {
-      "id": 49,
+      "id": 50,
       "date": "2026-10-11",
       "time": "12:00",
       "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
@@ -1013,7 +1034,7 @@
       "source": "CCCB"
     },
     {
-      "id": 50,
+      "id": 51,
       "date": "2026-10-13",
       "time": "",
       "title": "Biennal de Pensament 2026",
@@ -1032,7 +1053,7 @@
       "source": "CCCB"
     },
     {
-      "id": 51,
+      "id": 52,
       "date": "2026-10-20",
       "time": "",
       "title": "Serielizados Fest 2026",
@@ -1051,7 +1072,7 @@
       "source": "CCCB"
     },
     {
-      "id": 52,
+      "id": 53,
       "date": "2026-10-31",
       "date_end": "",
       "time": "",
@@ -1072,7 +1093,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 53,
+      "id": 54,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Emily Dickinson, una carta al món",
@@ -1091,7 +1112,7 @@
       "source": "CCCB"
     },
     {
-      "id": 54,
+      "id": 55,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Un punt de claror",
@@ -1110,7 +1131,7 @@
       "source": "CCCB"
     },
     {
-      "id": 55,
+      "id": 56,
       "date": "2026-11-04",
       "time": "18:30",
       "title": "El món com a manicomi",
@@ -1129,7 +1150,7 @@
       "source": "CCCB"
     },
     {
-      "id": 56,
+      "id": 57,
       "date": "2026-11-09",
       "time": "12:00",
       "title": "Pensar un món sense centres ni perifèries",
@@ -1148,7 +1169,7 @@
       "source": "CCCB"
     },
     {
-      "id": 57,
+      "id": 58,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Michel Foucault",
@@ -1167,7 +1188,7 @@
       "source": "CCCB"
     },
     {
-      "id": 58,
+      "id": 59,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -1186,7 +1207,7 @@
       "source": "CCCB"
     },
     {
-      "id": 59,
+      "id": 60,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -1205,7 +1226,7 @@
       "source": "CCCB"
     },
     {
-      "id": 60,
+      "id": 61,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -1224,7 +1245,7 @@
       "source": "CCCB"
     },
     {
-      "id": 61,
+      "id": 62,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -1243,7 +1264,7 @@
       "source": "CCCB"
     },
     {
-      "id": 62,
+      "id": 63,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -1262,7 +1283,7 @@
       "source": "CCCB"
     },
     {
-      "id": 63,
+      "id": 64,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -1281,7 +1302,7 @@
       "source": "CCCB"
     },
     {
-      "id": 64,
+      "id": 65,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1300,7 +1321,7 @@
       "source": "CCCB"
     },
     {
-      "id": 65,
+      "id": 66,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -1319,7 +1340,7 @@
       "source": "CCCB"
     },
     {
-      "id": 66,
+      "id": 67,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1338,7 +1359,7 @@
       "source": "CCCB"
     },
     {
-      "id": 67,
+      "id": 68,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1357,7 +1378,7 @@
       "source": "CCCB"
     },
     {
-      "id": 68,
+      "id": 69,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
