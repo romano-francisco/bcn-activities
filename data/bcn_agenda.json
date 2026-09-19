@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:42:53.801623",
+  "generated_at": "2026-09-19T05:38:08.237746",
   "sources": [
     "cccb",
     "damm",
@@ -9,69 +9,8 @@
     "grec",
     "santpau"
   ],
-  "total": 64,
+  "total": 54,
   "events": [
-    {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-09-18",
-      "date_end": "2026-09-18",
-      "time": "09:00",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "date": "2026-09-18",
-      "time": "18:30",
-      "title": "Edurne Portela i Antonio Monegal",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "18 Setembre 2026 Debats",
-      "url": "https://www.cccb.org/ca/w/activitats/edurne-portela-i-antonio-monegal",
-      "image": "https://www.cccb.org/documents/4284035/6523845/portela-monegal.jpg/6056e9a2-fc90-b181-603f-0aef6c0df9af?version=1.0&t=1782214331017",
-      "source": "CCCB"
-    },
-    {
-      "id": 3,
-      "date": "2026-09-18",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Arte Flamenco",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "12 artistes excepcionals sobre l’escenari",
-      "url": "https://www.palaumusica.cat/ca/arte-flamenco_1163807",
-      "image": "https://www.palaumusica.cat/images/1163902/image_column.webp",
-      "source": "Palau de la Música"
-    },
     {
       "title": "Mercat de Glòries",
       "venue": "Mercat de Glòries",
@@ -91,7 +30,7 @@
       "date": "2026-09-19",
       "date_end": "2026-09-19",
       "time": "09:00",
-      "id": 4
+      "id": 1
     },
     {
       "title": "Mercat dels Encants",
@@ -112,31 +51,10 @@
       "date": "2026-09-19",
       "date_end": "2026-09-19",
       "time": "09:00",
-      "id": 5
+      "id": 2
     },
     {
-      "id": 6,
-      "date": "2026-09-19",
-      "date_end": "",
-      "time": "18:30",
-      "title": "L’Emperador de Beethoven",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Orquestra Simfònica del Vallès, Ventura & Salado",
-      "url": "https://www.palaumusica.cat/ca/l-emperador-de-beethoven_1623762",
-      "image": "https://www.palaumusica.cat/images/1634020/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 7,
+      "id": 3,
       "date": "2026-09-20",
       "date_end": "",
       "time": "",
@@ -157,7 +75,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 8,
+      "id": 4,
       "date": "2026-09-20",
       "date_end": "",
       "time": "",
@@ -196,31 +114,10 @@
       "date": "2026-09-20",
       "date_end": "2026-09-20",
       "time": "",
-      "id": 9
+      "id": 5
     },
     {
-      "id": 10,
-      "date": "2026-09-20",
-      "date_end": "",
-      "time": "17:30",
-      "title": "Rèquiem de Brahms",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Orfeó Català & Xavier Puig",
-      "url": "https://www.palaumusica.cat/ca/requiem-de-brahms_1661557",
-      "image": "https://www.palaumusica.cat/images/1661583/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 11,
+      "id": 6,
       "date": "2026-09-20",
       "time": "18:00",
       "title": "Poetry Slam Barcelona",
@@ -239,7 +136,7 @@
       "source": "CCCB"
     },
     {
-      "id": 12,
+      "id": 7,
       "date": "2026-09-21",
       "time": "",
       "title": "Édouard Louis i Zadie Smith",
@@ -258,7 +155,7 @@
       "source": "CCCB"
     },
     {
-      "id": 13,
+      "id": 8,
       "date": "2026-09-21",
       "time": "10:30",
       "title": "La paradoxa democràtica",
@@ -275,48 +172,6 @@
       "url": "https://www.cccb.org/ca/w/activitats/la-paradoxa-democratica",
       "image": "https://www.cccb.org/documents/4284035/6523845/SusanStokes.jpg/55d36e68-9c82-d01a-47e5-f7f9d6d5bc48?version=1.0&t=1784292947892",
       "source": "CCCB"
-    },
-    {
-      "id": 14,
-      "date": "2026-09-21",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Dmytro Choni",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Debussy, Lysenko, Brahms i Rakhmàninov",
-      "url": "https://www.palaumusica.cat/ca/dmytro-choni_1624062",
-      "image": "https://www.palaumusica.cat/images/1624061/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 15,
-      "date": "2026-09-22",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Les Quatre Estacions de Vivaldi Recomposed per Max Richter",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Maria Florea & Franz Schubert Filharmonia",
-      "url": "https://www.palaumusica.cat/ca/les-quatre-estacions-de-vivaldi-recomposed-per-max-richter_1658300",
-      "image": "https://www.palaumusica.cat/images/1658342/image_column.jpg",
-      "source": "Palau de la Música"
     },
     {
       "title": "Mercat dels Encants",
@@ -337,10 +192,10 @@
       "date": "2026-09-23",
       "date_end": "2026-09-23",
       "time": "09:00",
-      "id": 16
+      "id": 9
     },
     {
-      "id": 17,
+      "id": 10,
       "date": "2026-09-25",
       "date_end": "",
       "time": "",
@@ -361,7 +216,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 18,
+      "id": 11,
       "date": "2026-09-25",
       "date_end": "",
       "time": "",
@@ -400,10 +255,10 @@
       "date": "2026-09-25",
       "date_end": "2026-09-25",
       "time": "09:00",
-      "id": 19
+      "id": 12
     },
     {
-      "id": 20,
+      "id": 13,
       "date": "2026-09-26",
       "date_end": "",
       "time": "",
@@ -442,7 +297,7 @@
       "date": "2026-09-26",
       "date_end": "2026-09-26",
       "time": "09:00",
-      "id": 21
+      "id": 14
     },
     {
       "title": "Mercat dels Encants",
@@ -463,10 +318,10 @@
       "date": "2026-09-26",
       "date_end": "2026-09-26",
       "time": "09:00",
-      "id": 22
+      "id": 15
     },
     {
-      "id": 23,
+      "id": 16,
       "date": "2026-09-26",
       "time": "12:00",
       "title": "Adania Shibli",
@@ -483,27 +338,6 @@
       "url": "https://www.cccb.org/ca/w/activitats/adania-shibli-nuria-juanico-2026",
       "image": "https://www.cccb.org/documents/4284035/6523845/adania-shibli-Liudas+Masys+2026.jpg/6cf35f55-0c1f-158f-417e-5e6a601eb950?version=1.0&t=1787813029952",
       "source": "CCCB"
-    },
-    {
-      "id": 24,
-      "date": "2026-09-26",
-      "date_end": "",
-      "time": "18:30",
-      "title": "Danses hongareses de Brahms",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Orquestra Simfònica del Vallès, Sara Ferrández & Salado",
-      "url": "https://www.palaumusica.cat/ca/danses-hongareses-de-brahms_1623765",
-      "image": "https://www.palaumusica.cat/images/1633975/image_column.jpg",
-      "source": "Palau de la Música"
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -524,31 +358,29 @@
       "date": "2026-09-27",
       "date_end": "2026-09-27",
       "time": "",
-      "id": 25
+      "id": 17
     },
     {
-      "id": 26,
-      "date": "2026-09-28",
-      "date_end": "",
-      "time": "19:00",
-      "title": "Homenatge a Pau Casals",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
+      "id": 18,
+      "date": "2026-09-29",
+      "time": "09:30",
+      "title": "Curs: Ciència, política i ciutadania",
+      "venue": "CCCB",
+      "type": "culture",
       "free": false,
       "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
       "tags": [
-        "music"
+        "culture"
       ],
-      "desc": "—Concert inaugural de la temporada. Orfeó Català, Orquestra Simfònica del Vallès & Puig",
-      "url": "https://www.palaumusica.cat/ca/homenatge-a-pau-casals_1586435",
-      "image": "https://www.palaumusica.cat/images/1586434/image_column.jpg",
-      "source": "Palau de la Música"
+      "desc": "29 - 30 de setembre 2026",
+      "url": "https://www.cccb.org/ca/w/activitats/curs-ciencia-politica-i-ciutadania",
+      "image": "https://www.cccb.org/documents/5316589/7613715/CUIMPB.jpg/0de8e40e-c9ba-8c17-2740-dc36b5d6ec5d?version=1.0&t=1789725353755",
+      "source": "CCCB"
     },
     {
-      "id": 27,
+      "id": 19,
       "date": "2026-09-30",
       "date_end": "",
       "time": "",
@@ -587,10 +419,10 @@
       "date": "2026-09-30",
       "date_end": "2026-09-30",
       "time": "09:00",
-      "id": 28
+      "id": 20
     },
     {
-      "id": 29,
+      "id": 21,
       "date": "2026-09-30",
       "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Víctor Ramírez Tur",
@@ -609,7 +441,7 @@
       "source": "CCCB"
     },
     {
-      "id": 30,
+      "id": 22,
       "date": "2026-09-30",
       "time": "18:30",
       "title": "Khadija Amin i Andrea Aldana",
@@ -628,28 +460,7 @@
       "source": "CCCB"
     },
     {
-      "id": 31,
-      "date": "2026-09-30",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Arielle Beck",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/arielle-beck_1624065",
-      "image": "https://www.palaumusica.cat/images/1624064/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 32,
+      "id": 23,
       "date": "2026-10-01",
       "time": "10:00",
       "title": "Seminari Josep Lluís Sert",
@@ -686,28 +497,7 @@
       "date": "2026-10-02",
       "date_end": "2026-10-02",
       "time": "09:00",
-      "id": 33
-    },
-    {
-      "id": 34,
-      "date": "2026-10-02",
-      "date_end": "",
-      "time": "20:00",
-      "title": "La traviata de Giuseppe Verdi",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Josep Miquel Mindàn - Jaume Villanueva",
-      "url": "https://www.palaumusica.cat/ca/la-traviata-de-giuseppe-verdi_1076067",
-      "image": "https://www.palaumusica.cat/images/1675551/image_column.jpg",
-      "source": "Palau de la Música"
+      "id": 24
     },
     {
       "title": "Mercat de Glòries",
@@ -728,7 +518,7 @@
       "date": "2026-10-03",
       "date_end": "2026-10-03",
       "time": "09:00",
-      "id": 35
+      "id": 25
     },
     {
       "title": "Mercat dels Encants",
@@ -749,7 +539,7 @@
       "date": "2026-10-03",
       "date_end": "2026-10-03",
       "time": "09:00",
-      "id": 36
+      "id": 26
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -770,7 +560,7 @@
       "date": "2026-10-04",
       "date_end": "2026-10-04",
       "time": "",
-      "id": 37
+      "id": 27
     },
     {
       "title": "Mercat dels Encants",
@@ -791,28 +581,7 @@
       "date": "2026-10-07",
       "date_end": "2026-10-07",
       "time": "09:00",
-      "id": 38
-    },
-    {
-      "id": 39,
-      "date": "2026-10-07",
-      "date_end": "",
-      "time": "19:00",
-      "title": "Jean-Guihen Queyras",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Integral de les Suites per a violoncel de Bach",
-      "url": "https://www.palaumusica.cat/ca/jean-guihen-queyras_1624032",
-      "image": "https://www.palaumusica.cat/images/1641007/image_column.jpeg",
-      "source": "Palau de la Música"
+      "id": 28
     },
     {
       "title": "Mercat dels Encants",
@@ -833,10 +602,10 @@
       "date": "2026-10-09",
       "date_end": "2026-10-09",
       "time": "09:00",
-      "id": 40
+      "id": 29
     },
     {
-      "id": 41,
+      "id": 30,
       "date": "2026-10-09",
       "time": "16:00",
       "title": "«El culte a la bellesa» per a persones amb ceguesa o baixa visió",
@@ -873,7 +642,7 @@
       "date": "2026-10-10",
       "date_end": "2026-10-10",
       "time": "09:00",
-      "id": 42
+      "id": 31
     },
     {
       "title": "Mercat dels Encants",
@@ -894,7 +663,7 @@
       "date": "2026-10-10",
       "date_end": "2026-10-10",
       "time": "09:00",
-      "id": 43
+      "id": 32
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -915,10 +684,10 @@
       "date": "2026-10-11",
       "date_end": "2026-10-11",
       "time": "",
-      "id": 44
+      "id": 33
     },
     {
-      "id": 45,
+      "id": 34,
       "date": "2026-10-11",
       "time": "12:00",
       "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
@@ -937,7 +706,7 @@
       "source": "CCCB"
     },
     {
-      "id": 46,
+      "id": 35,
       "date": "2026-10-13",
       "time": "",
       "title": "Biennal de Pensament 2026",
@@ -974,11 +743,32 @@
       "date": "2026-10-14",
       "date_end": "2026-10-14",
       "time": "09:00",
-      "id": 47
+      "id": 36
     },
     {
-      "id": 48,
-      "date": "2026-10-20",
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-10-16",
+      "date_end": "2026-10-16",
+      "time": "09:00",
+      "id": 37
+    },
+    {
+      "id": 38,
+      "date": "2026-10-21",
       "time": "",
       "title": "Serielizados Fest 2026",
       "venue": "CCCB",
@@ -990,13 +780,13 @@
       "tags": [
         "culture"
       ],
-      "desc": "20 - 24 d’octubre 2026 Audiovisuals",
+      "desc": "21 - 25 d’octubre 2026 Audiovisuals",
       "url": "https://www.cccb.org/ca/w/activitats/serielizados-fest-2026",
       "image": "https://www.cccb.org/documents/5316589/7349190/SZS26+Web+CCCB+%281%29.png/d1bf7ce2-2fa3-c6a9-e846-ba081ad26328?version=1.0&t=1785319270252",
       "source": "CCCB"
     },
     {
-      "id": 49,
+      "id": 39,
       "date": "2026-10-31",
       "date_end": "",
       "time": "",
@@ -1017,7 +807,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 50,
+      "id": 40,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Emily Dickinson, una carta al món",
@@ -1036,7 +826,7 @@
       "source": "CCCB"
     },
     {
-      "id": 51,
+      "id": 41,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Un punt de claror",
@@ -1055,7 +845,7 @@
       "source": "CCCB"
     },
     {
-      "id": 52,
+      "id": 42,
       "date": "2026-11-04",
       "time": "18:30",
       "title": "El món com a manicomi",
@@ -1074,7 +864,7 @@
       "source": "CCCB"
     },
     {
-      "id": 53,
+      "id": 43,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Michel Foucault",
@@ -1093,7 +883,7 @@
       "source": "CCCB"
     },
     {
-      "id": 54,
+      "id": 44,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -1112,7 +902,7 @@
       "source": "CCCB"
     },
     {
-      "id": 55,
+      "id": 45,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -1131,7 +921,7 @@
       "source": "CCCB"
     },
     {
-      "id": 56,
+      "id": 46,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -1150,7 +940,7 @@
       "source": "CCCB"
     },
     {
-      "id": 57,
+      "id": 47,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -1169,7 +959,7 @@
       "source": "CCCB"
     },
     {
-      "id": 58,
+      "id": 48,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -1188,7 +978,7 @@
       "source": "CCCB"
     },
     {
-      "id": 59,
+      "id": 49,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -1207,7 +997,7 @@
       "source": "CCCB"
     },
     {
-      "id": 60,
+      "id": 50,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1226,7 +1016,7 @@
       "source": "CCCB"
     },
     {
-      "id": 61,
+      "id": 51,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -1245,7 +1035,7 @@
       "source": "CCCB"
     },
     {
-      "id": 62,
+      "id": 52,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1264,7 +1054,7 @@
       "source": "CCCB"
     },
     {
-      "id": 63,
+      "id": 53,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1283,7 +1073,7 @@
       "source": "CCCB"
     },
     {
-      "id": 64,
+      "id": 54,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
