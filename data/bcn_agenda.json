@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:01:39.012455",
+  "generated_at": "2026-09-23T05:44:33.954788",
   "sources": [
     "cccb",
     "damm",
@@ -9,50 +9,8 @@
     "grec",
     "santpau"
   ],
-  "total": 57,
+  "total": 60,
   "events": [
-    {
-      "id": 1,
-      "date": "2026-09-22",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Les Quatre Estacions de Vivaldi Recomposed per Max Richter",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Maria Florea & Franz Schubert Filharmonia",
-      "url": "https://www.palaumusica.cat/ca/les-quatre-estacions-de-vivaldi-recomposed-per-max-richter_1658300",
-      "image": "https://www.palaumusica.cat/images/1658342/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 2,
-      "date": "2026-09-22",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Arte Flamenco",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "12 artistes excepcionals sobre l’escenari",
-      "url": "https://www.palaumusica.cat/ca/arte-flamenco_1163807",
-      "image": "https://www.palaumusica.cat/images/1163902/image_column.webp",
-      "source": "Palau de la Música"
-    },
     {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
@@ -72,7 +30,49 @@
       "date": "2026-09-23",
       "date_end": "2026-09-23",
       "time": "09:00",
-      "id": 3
+      "id": 1
+    },
+    {
+      "id": 2,
+      "date": "2026-09-23",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Les Quatre Estacions de Vivaldi Recomposed per Max Richter",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Maria Florea & Franz Schubert Filharmonia",
+      "url": "https://www.palaumusica.cat/ca/les-quatre-estacions-de-vivaldi-recomposed-per-max-richter_1658300",
+      "image": "https://www.palaumusica.cat/images/1658342/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 3,
+      "date": "2026-09-23",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Dj Symphonic Latino",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/dj-symphonic-latino_1652023",
+      "image": "https://www.palaumusica.cat/images/1651978/image_column.jpg",
+      "source": "Palau de la Música"
     },
     {
       "id": 4,
@@ -712,25 +712,6 @@
       "id": 34
     },
     {
-      "id": 35,
-      "date": "2026-10-14",
-      "time": "10:00",
-      "title": "Lliurament del Premi Europeu de l’Espai Públic Urbà 2026",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "14 - 15 d’octubre 2026 Debats",
-      "url": "https://www.cccb.org/ca/w/activitats/lliurament-del-premi-europeu-de-lespai-public-urba-2026",
-      "image": "https://www.cccb.org/documents/5316589/7482293/Premi+espai+p%C3%BAblic+urb%C3%A0.jpg/a70a5abf-1acb-1345-1086-164b997a954f?version=1.0&t=1789987895538",
-      "source": "CCCB"
-    },
-    {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
       "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
@@ -749,7 +730,7 @@
       "date": "2026-10-16",
       "date_end": "2026-10-16",
       "time": "09:00",
-      "id": 36
+      "id": 35
     },
     {
       "title": "Mercat de Glòries",
@@ -770,7 +751,7 @@
       "date": "2026-10-17",
       "date_end": "2026-10-17",
       "time": "09:00",
-      "id": 37
+      "id": 36
     },
     {
       "title": "Mercat dels Encants",
@@ -791,7 +772,7 @@
       "date": "2026-10-17",
       "date_end": "2026-10-17",
       "time": "09:00",
-      "id": 38
+      "id": 37
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -812,10 +793,10 @@
       "date": "2026-10-18",
       "date_end": "2026-10-18",
       "time": "",
-      "id": 39
+      "id": 38
     },
     {
-      "id": 40,
+      "id": 39,
       "date": "2026-10-21",
       "time": "",
       "title": "Serielizados Fest 2026",
@@ -834,7 +815,49 @@
       "source": "CCCB"
     },
     {
+      "id": 40,
+      "date": "2026-10-23",
+      "date_end": "",
+      "time": "19:00",
+      "title": "Riccardo Primo de Händel",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Les Arts Florissants & Agnew",
+      "url": "https://www.palaumusica.cat/ca/riccardo-primo-de-handel_1586482",
+      "image": "https://www.palaumusica.cat/images/1625974/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
       "id": 41,
+      "date": "2026-10-26",
+      "date_end": "",
+      "time": "20:00",
+      "title": "London Philharmonic & Gardner",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Brahms i Sibelius",
+      "url": "https://www.palaumusica.cat/ca/london-philharmonic-gardner_1586381",
+      "image": "https://www.palaumusica.cat/images/1586976/image_column.webp",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 42,
       "date": "2026-10-31",
       "date_end": "",
       "time": "",
@@ -855,7 +878,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 42,
+      "id": 43,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Emily Dickinson, una carta al món",
@@ -874,7 +897,7 @@
       "source": "CCCB"
     },
     {
-      "id": 43,
+      "id": 44,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Un punt de claror",
@@ -893,7 +916,7 @@
       "source": "CCCB"
     },
     {
-      "id": 44,
+      "id": 45,
       "date": "2026-11-04",
       "time": "18:30",
       "title": "El món com a manicomi",
@@ -912,7 +935,7 @@
       "source": "CCCB"
     },
     {
-      "id": 45,
+      "id": 46,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Michel Foucault",
@@ -931,7 +954,7 @@
       "source": "CCCB"
     },
     {
-      "id": 46,
+      "id": 47,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -950,7 +973,7 @@
       "source": "CCCB"
     },
     {
-      "id": 47,
+      "id": 48,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -969,7 +992,7 @@
       "source": "CCCB"
     },
     {
-      "id": 48,
+      "id": 49,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -988,7 +1011,7 @@
       "source": "CCCB"
     },
     {
-      "id": 49,
+      "id": 50,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -1007,7 +1030,7 @@
       "source": "CCCB"
     },
     {
-      "id": 50,
+      "id": 51,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -1026,7 +1049,26 @@
       "source": "CCCB"
     },
     {
-      "id": 51,
+      "id": 52,
+      "date": "2026-12-04",
+      "time": "20:00",
+      "title": "Descasada de Magalí Sare",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "4 de desembre 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/descasada",
+      "image": "https://www.cccb.org/documents/5316589/7630301/Magal%C3%AD+Sare+Festival+Cl%C3%A0ssics.jpg/5f115f37-07cd-4b6a-c1c8-4524cadfc2fd?version=1.0&t=1790072577369",
+      "source": "CCCB"
+    },
+    {
+      "id": 53,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -1045,7 +1087,7 @@
       "source": "CCCB"
     },
     {
-      "id": 52,
+      "id": 54,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1064,7 +1106,7 @@
       "source": "CCCB"
     },
     {
-      "id": 53,
+      "id": 55,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -1083,7 +1125,26 @@
       "source": "CCCB"
     },
     {
-      "id": 54,
+      "id": 56,
+      "date": "2026-12-15",
+      "time": "",
+      "title": "Digues que m'estimes, Montserrat Roig",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "15 de desembre 2026 Escena",
+      "url": "https://www.cccb.org/ca/w/activitats/digues-que-mestimes-montserrat-roig",
+      "image": "https://www.cccb.org/documents/5316589/7630337/Anna+Alarc%C3%B3n+Festival+Cl%C3%A0ssics.jpg/220429b6-fb90-1872-06f2-f8cccd934418?version=1.0&t=1790072790457",
+      "source": "CCCB"
+    },
+    {
+      "id": 57,
       "date": "2026-12-16",
       "time": "18:30",
       "title": "«Imaginar la fi», d'Eudald Espluga",
@@ -1102,7 +1163,7 @@
       "source": "CCCB"
     },
     {
-      "id": 55,
+      "id": 58,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1121,7 +1182,7 @@
       "source": "CCCB"
     },
     {
-      "id": 56,
+      "id": 59,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1140,7 +1201,7 @@
       "source": "CCCB"
     },
     {
-      "id": 57,
+      "id": 60,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
