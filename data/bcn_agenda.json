@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:33:56.576606",
+  "generated_at": "2026-09-29T06:46:40.539980",
   "sources": [
     "cccb",
     "damm",
@@ -9,31 +9,10 @@
     "grec",
     "santpau"
   ],
-  "total": 53,
+  "total": 56,
   "events": [
     {
       "id": 1,
-      "date": "2026-09-28",
-      "date_end": "",
-      "time": "19:00",
-      "title": "Homenatge a Pau Casals",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Concert inaugural de la temporada. Orfeó Català, Orquestra Simfònica del Vallès & Puig",
-      "url": "https://www.palaumusica.cat/ca/homenatge-a-pau-casals_1586435",
-      "image": "https://www.palaumusica.cat/images/1587867/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 2,
       "date": "2026-09-29",
       "time": "09:30",
       "title": "Curs: Ciència, política i ciutadania",
@@ -50,6 +29,27 @@
       "url": "https://www.cccb.org/ca/w/activitats/curs-ciencia-politica-i-ciutadania",
       "image": "https://www.cccb.org/documents/5316589/7613715/CUIMPB+%282%29.jpg/4904696a-08eb-d077-cb85-874e8be92ec4?version=1.0&t=1790153506160",
       "source": "CCCB"
+    },
+    {
+      "id": 2,
+      "date": "2026-09-29",
+      "date_end": "",
+      "time": "21:00",
+      "title": "Zucchero",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/zucchero_1623141",
+      "image": "https://www.palaumusica.cat/images/1623093/image_column.jpg",
+      "source": "Palau de la Música"
     },
     {
       "id": 3,
@@ -97,25 +97,6 @@
       "id": 5,
       "date": "2026-09-30",
       "time": "18:30",
-      "title": "Khadija Amin i Andrea Aldana",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "30 Setembre 2026 Debats",
-      "url": "https://www.cccb.org/ca/w/activitats/khadija-amin-i-andrea-aldana",
-      "image": "https://www.cccb.org/documents/4284035/6523845/portada-5W-tardor-2026.png/35003e22-0123-8709-2df7-43cceac64987?version=1.0&t=1782126092698",
-      "source": "CCCB"
-    },
-    {
-      "id": 6,
-      "date": "2026-09-30",
-      "time": "18:30",
       "title": "Visita a «El culte a la bellesa» amb Víctor Ramírez Tur",
       "venue": "CCCB",
       "type": "culture",
@@ -129,6 +110,25 @@
       "desc": "30 de setembre 2026 Visites",
       "url": "https://www.cccb.org/ca/w/activitats/visita-a-el-culte-a-la-bellesa-amb-victor-ramirez-tur",
       "image": "https://www.cccb.org/documents/5316589/7087929/V%C3%ADctor+Ram%C3%ADrez+Tur+%281%29.jpg/bd1bea5e-fb71-eaf2-71c4-0e53c8f05af8?version=1.0&t=1778759180664",
+      "source": "CCCB"
+    },
+    {
+      "id": 6,
+      "date": "2026-09-30",
+      "time": "18:30",
+      "title": "Khadija Amin i Andrea Aldana",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "30 Setembre 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/khadija-amin-i-andrea-aldana",
+      "image": "https://www.cccb.org/documents/4284035/6523845/portada-5W-tardor-2026.png/35003e22-0123-8709-2df7-43cceac64987?version=1.0&t=1782126092698",
       "source": "CCCB"
     },
     {
@@ -547,6 +547,27 @@
     },
     {
       "id": 27,
+      "date": "2026-10-19",
+      "date_end": "",
+      "time": "19:30",
+      "title": "Lea Desandre & Thomas Dunford",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Idylle",
+      "url": "https://www.palaumusica.cat/ca/lea-desandre-thomas-dunford_1586532",
+      "image": "https://www.palaumusica.cat/images/1586531/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 28,
       "date": "2026-10-21",
       "time": "",
       "title": "Serielizados Fest 2026",
@@ -583,7 +604,7 @@
       "date": "2026-10-21",
       "date_end": "2026-10-21",
       "time": "09:00",
-      "id": 28
+      "id": 29
     },
     {
       "title": "Mercat dels Encants",
@@ -604,10 +625,10 @@
       "date": "2026-10-23",
       "date_end": "2026-10-23",
       "time": "09:00",
-      "id": 29
+      "id": 30
     },
     {
-      "id": 30,
+      "id": 31,
       "date": "2026-10-23",
       "date_end": "",
       "time": "19:00",
@@ -646,7 +667,7 @@
       "date": "2026-10-24",
       "date_end": "2026-10-24",
       "time": "09:00",
-      "id": 31
+      "id": 32
     },
     {
       "title": "Mercat dels Encants",
@@ -667,7 +688,7 @@
       "date": "2026-10-24",
       "date_end": "2026-10-24",
       "time": "09:00",
-      "id": 32
+      "id": 33
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -688,10 +709,10 @@
       "date": "2026-10-25",
       "date_end": "2026-10-25",
       "time": "",
-      "id": 33
+      "id": 34
     },
     {
-      "id": 34,
+      "id": 35,
       "date": "2026-10-26",
       "date_end": "",
       "time": "20:00",
@@ -712,7 +733,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 35,
+      "id": 36,
       "date": "2026-10-31",
       "date_end": "",
       "time": "",
@@ -733,7 +754,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 36,
+      "id": 37,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Emily Dickinson, una carta al món",
@@ -752,7 +773,7 @@
       "source": "CCCB"
     },
     {
-      "id": 37,
+      "id": 38,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Un punt de claror",
@@ -771,7 +792,7 @@
       "source": "CCCB"
     },
     {
-      "id": 38,
+      "id": 39,
       "date": "2026-11-04",
       "time": "18:30",
       "title": "El món com a manicomi",
@@ -790,7 +811,28 @@
       "source": "CCCB"
     },
     {
-      "id": 39,
+      "id": 40,
+      "date": "2026-11-04",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Ensemble Pygmalion & Pichon",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Missa en Do menor de Mozart",
+      "url": "https://www.palaumusica.cat/ca/ensemble-pygmalion-pichon_1586384",
+      "image": "https://www.palaumusica.cat/images/1586988/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 41,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Michel Foucault",
@@ -809,7 +851,28 @@
       "source": "CCCB"
     },
     {
-      "id": 40,
+      "id": 42,
+      "date": "2026-11-09",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Christian Blackshaw",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Integral de Sonates per a Piano de Mozart (I)",
+      "url": "https://www.palaumusica.cat/ca/christian-blackshaw_1624071",
+      "image": "https://www.palaumusica.cat/images/1624070/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 43,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -828,7 +891,7 @@
       "source": "CCCB"
     },
     {
-      "id": 41,
+      "id": 44,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -847,7 +910,7 @@
       "source": "CCCB"
     },
     {
-      "id": 42,
+      "id": 45,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -866,7 +929,7 @@
       "source": "CCCB"
     },
     {
-      "id": 43,
+      "id": 46,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -885,7 +948,7 @@
       "source": "CCCB"
     },
     {
-      "id": 44,
+      "id": 47,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -904,7 +967,7 @@
       "source": "CCCB"
     },
     {
-      "id": 45,
+      "id": 48,
       "date": "2026-12-04",
       "time": "20:00",
       "title": "Descasada de Magalí Sare",
@@ -923,7 +986,7 @@
       "source": "CCCB"
     },
     {
-      "id": 46,
+      "id": 49,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -942,7 +1005,7 @@
       "source": "CCCB"
     },
     {
-      "id": 47,
+      "id": 50,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -961,7 +1024,7 @@
       "source": "CCCB"
     },
     {
-      "id": 48,
+      "id": 51,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -980,7 +1043,7 @@
       "source": "CCCB"
     },
     {
-      "id": 49,
+      "id": 52,
       "date": "2026-12-15",
       "time": "",
       "title": "Digues que m'estimes, Montserrat Roig",
@@ -999,7 +1062,7 @@
       "source": "CCCB"
     },
     {
-      "id": 50,
+      "id": 53,
       "date": "2026-12-16",
       "time": "18:30",
       "title": "«Imaginar la fi», d'Eudald Espluga",
@@ -1018,7 +1081,7 @@
       "source": "CCCB"
     },
     {
-      "id": 51,
+      "id": 54,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1037,7 +1100,7 @@
       "source": "CCCB"
     },
     {
-      "id": 52,
+      "id": 55,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1056,7 +1119,7 @@
       "source": "CCCB"
     },
     {
-      "id": 53,
+      "id": 56,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
