@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:46:40.539980",
+  "generated_at": "2026-09-30T06:31:39.071445",
   "sources": [
     "cccb",
     "damm",
@@ -31,48 +31,6 @@
       "source": "CCCB"
     },
     {
-      "id": 2,
-      "date": "2026-09-29",
-      "date_end": "",
-      "time": "21:00",
-      "title": "Zucchero",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/zucchero_1623141",
-      "image": "https://www.palaumusica.cat/images/1623093/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 3,
-      "date": "2026-09-30",
-      "date_end": "",
-      "time": "",
-      "title": "Run & Food at Time Out Market",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎵",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Are you a running enthusiast? Run on over to Time Out Market to end your day in the best possible way! Time Out Market Barcelona is becoming the ideal meetup spot for anyone looking to stay fit in good company and keep the energy going with top-notch food and music at Run & Food.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/run-food-at-time-out-market",
-      "image": "https://media.timeout.com/images/105854363/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
       "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
@@ -91,29 +49,10 @@
       "date": "2026-09-30",
       "date_end": "2026-09-30",
       "time": "09:00",
-      "id": 4
+      "id": 2
     },
     {
-      "id": 5,
-      "date": "2026-09-30",
-      "time": "18:30",
-      "title": "Visita a «El culte a la bellesa» amb Víctor Ramírez Tur",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "30 de setembre 2026 Visites",
-      "url": "https://www.cccb.org/ca/w/activitats/visita-a-el-culte-a-la-bellesa-amb-victor-ramirez-tur",
-      "image": "https://www.cccb.org/documents/5316589/7087929/V%C3%ADctor+Ram%C3%ADrez+Tur+%281%29.jpg/bd1bea5e-fb71-eaf2-71c4-0e53c8f05af8?version=1.0&t=1778759180664",
-      "source": "CCCB"
-    },
-    {
-      "id": 6,
+      "id": 3,
       "date": "2026-09-30",
       "time": "18:30",
       "title": "Khadija Amin i Andrea Aldana",
@@ -132,7 +71,26 @@
       "source": "CCCB"
     },
     {
-      "id": 7,
+      "id": 4,
+      "date": "2026-09-30",
+      "time": "18:30",
+      "title": "Visita a «El culte a la bellesa» amb Víctor Ramírez Tur",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "30 de setembre 2026 Visites",
+      "url": "https://www.cccb.org/ca/w/activitats/visita-a-el-culte-a-la-bellesa-amb-victor-ramirez-tur",
+      "image": "https://www.cccb.org/documents/5316589/7087929/V%C3%ADctor+Ram%C3%ADrez+Tur+%281%29.jpg/bd1bea5e-fb71-eaf2-71c4-0e53c8f05af8?version=1.0&t=1778759180664",
+      "source": "CCCB"
+    },
+    {
+      "id": 5,
       "date": "2026-09-30",
       "date_end": "",
       "time": "20:00",
@@ -153,7 +111,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 8,
+      "id": 6,
       "date": "2026-10-01",
       "time": "10:00",
       "title": "Seminari Josep Lluís Sert",
@@ -170,6 +128,28 @@
       "url": "https://www.cccb.org/ca/w/activitats/seminari-josep-lluis-sert",
       "image": "https://www.cccb.org/documents/4284035/6555884/J.L.Sert+Activitat.jpg/06f20ea7-04d1-b842-117c-c7a235cae157?version=1.0&t=1784806775830",
       "source": "CCCB"
+    },
+    {
+      "id": 7,
+      "date": "2026-10-02",
+      "date_end": "",
+      "time": "",
+      "title": "Karaoke by Puerto Spritz",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Free",
+      "emoji": "🍜",
+      "bg": "#EBF5E8",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "desc": "Love singing into a microphone? At Time Out Market Barcelona, you'll have free rein to do just that (metaphorically, of course) at Karaoke by Puerto Spritz, taking place on October 23, from 7pm to 11pm.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/karaoke-by-puerto-spritz",
+      "image": "https://media.timeout.com/images/106430146/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat dels Encants",
@@ -190,10 +170,10 @@
       "date": "2026-10-02",
       "date_end": "2026-10-02",
       "time": "09:00",
-      "id": 9
+      "id": 8
     },
     {
-      "id": 10,
+      "id": 9,
       "date": "2026-10-02",
       "date_end": "",
       "time": "20:00",
@@ -232,7 +212,7 @@
       "date": "2026-10-03",
       "date_end": "2026-10-03",
       "time": "09:00",
-      "id": 11
+      "id": 10
     },
     {
       "title": "Mercat dels Encants",
@@ -253,7 +233,7 @@
       "date": "2026-10-03",
       "date_end": "2026-10-03",
       "time": "09:00",
-      "id": 12
+      "id": 11
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -274,7 +254,7 @@
       "date": "2026-10-04",
       "date_end": "2026-10-04",
       "time": "",
-      "id": 13
+      "id": 12
     },
     {
       "title": "Mercat dels Encants",
@@ -295,10 +275,10 @@
       "date": "2026-10-07",
       "date_end": "2026-10-07",
       "time": "09:00",
-      "id": 14
+      "id": 13
     },
     {
-      "id": 15,
+      "id": 14,
       "date": "2026-10-07",
       "date_end": "",
       "time": "19:00",
@@ -337,10 +317,10 @@
       "date": "2026-10-09",
       "date_end": "2026-10-09",
       "time": "09:00",
-      "id": 16
+      "id": 15
     },
     {
-      "id": 17,
+      "id": 16,
       "date": "2026-10-09",
       "time": "16:00",
       "title": "«El culte a la bellesa» per a persones amb ceguesa o baixa visió",
@@ -377,7 +357,7 @@
       "date": "2026-10-10",
       "date_end": "2026-10-10",
       "time": "09:00",
-      "id": 18
+      "id": 17
     },
     {
       "title": "Mercat dels Encants",
@@ -398,7 +378,7 @@
       "date": "2026-10-10",
       "date_end": "2026-10-10",
       "time": "09:00",
-      "id": 19
+      "id": 18
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -419,10 +399,10 @@
       "date": "2026-10-11",
       "date_end": "2026-10-11",
       "time": "",
-      "id": 20
+      "id": 19
     },
     {
-      "id": 21,
+      "id": 20,
       "date": "2026-10-11",
       "time": "12:00",
       "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
@@ -459,7 +439,7 @@
       "date": "2026-10-14",
       "date_end": "2026-10-14",
       "time": "09:00",
-      "id": 22
+      "id": 21
     },
     {
       "title": "Mercat dels Encants",
@@ -480,7 +460,7 @@
       "date": "2026-10-16",
       "date_end": "2026-10-16",
       "time": "09:00",
-      "id": 23
+      "id": 22
     },
     {
       "title": "Mercat de Glòries",
@@ -501,7 +481,7 @@
       "date": "2026-10-17",
       "date_end": "2026-10-17",
       "time": "09:00",
-      "id": 24
+      "id": 23
     },
     {
       "title": "Mercat dels Encants",
@@ -522,7 +502,7 @@
       "date": "2026-10-17",
       "date_end": "2026-10-17",
       "time": "09:00",
-      "id": 25
+      "id": 24
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -543,10 +523,10 @@
       "date": "2026-10-18",
       "date_end": "2026-10-18",
       "time": "",
-      "id": 26
+      "id": 25
     },
     {
-      "id": 27,
+      "id": 26,
       "date": "2026-10-19",
       "date_end": "",
       "time": "19:30",
@@ -567,7 +547,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 28,
+      "id": 27,
       "date": "2026-10-21",
       "time": "",
       "title": "Serielizados Fest 2026",
@@ -604,7 +584,7 @@
       "date": "2026-10-21",
       "date_end": "2026-10-21",
       "time": "09:00",
-      "id": 29
+      "id": 28
     },
     {
       "title": "Mercat dels Encants",
@@ -625,10 +605,10 @@
       "date": "2026-10-23",
       "date_end": "2026-10-23",
       "time": "09:00",
-      "id": 30
+      "id": 29
     },
     {
-      "id": 31,
+      "id": 30,
       "date": "2026-10-23",
       "date_end": "",
       "time": "19:00",
@@ -667,7 +647,7 @@
       "date": "2026-10-24",
       "date_end": "2026-10-24",
       "time": "09:00",
-      "id": 32
+      "id": 31
     },
     {
       "title": "Mercat dels Encants",
@@ -688,7 +668,7 @@
       "date": "2026-10-24",
       "date_end": "2026-10-24",
       "time": "09:00",
-      "id": 33
+      "id": 32
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -709,10 +689,10 @@
       "date": "2026-10-25",
       "date_end": "2026-10-25",
       "time": "",
-      "id": 34
+      "id": 33
     },
     {
-      "id": 35,
+      "id": 34,
       "date": "2026-10-26",
       "date_end": "",
       "time": "20:00",
@@ -731,6 +711,27 @@
       "url": "https://www.palaumusica.cat/ca/london-philharmonic-gardner_1586381",
       "image": "https://www.palaumusica.cat/images/1586976/image_column.webp",
       "source": "Palau de la Música"
+    },
+    {
+      "id": 35,
+      "date": "2026-10-28",
+      "date_end": "",
+      "time": "",
+      "title": "Run & Food at Time Out Market",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Are you a running enthusiast? Run on over to Time Out Market to end your day in the best possible way! Time Out Market Barcelona is becoming the ideal meetup spot for anyone looking to stay fit in good company and keep the energy going with top-notch food and music at Run & Food.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/run-food-at-time-out-market",
+      "image": "https://media.timeout.com/images/105854363/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "id": 36,
