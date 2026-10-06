@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:45:07.734869",
+  "generated_at": "2026-10-06T07:26:55.308219",
   "sources": [
     "cccb",
     "damm",
@@ -9,52 +9,10 @@
     "grec",
     "santpau"
   ],
-  "total": 57,
+  "total": 64,
   "events": [
     {
       "id": 1,
-      "date": "2026-10-05",
-      "date_end": "",
-      "time": "19:30",
-      "title": "Helena Ressurreiçao & Mar Compte",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Lied",
-      "url": "https://www.palaumusica.cat/ca/helena-ressurrei%C3%A7ao-mar-compte_1623932",
-      "image": "https://www.palaumusica.cat/images/1623931/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 2,
-      "date": "2026-10-05",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Barcelona Guitar Trio & Dance",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Homenatge a Paco de Lucía",
-      "url": "https://www.palaumusica.cat/ca/barcelona-guitar-trio-dance_1018227",
-      "image": "https://www.palaumusica.cat/images/980625/image_column.webp",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 3,
       "date": "2026-10-06",
       "date_end": "",
       "time": "19:30",
@@ -72,6 +30,27 @@
       "desc": "—Schubert, Brahms, Rossini i Guastavino",
       "url": "https://www.palaumusica.cat/ca/5-elements-matheu-pinto-padulles-olive-bronevetzky_1623041",
       "image": "https://www.palaumusica.cat/images/1632289/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 2,
+      "date": "2026-10-06",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Gran Gala Flamenc",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
+      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
       "source": "Palau de la Música"
     },
     {
@@ -93,10 +72,10 @@
       "date": "2026-10-07",
       "date_end": "2026-10-07",
       "time": "09:00",
-      "id": 4
+      "id": 3
     },
     {
-      "id": 5,
+      "id": 4,
       "date": "2026-10-07",
       "date_end": "",
       "time": "19:00",
@@ -115,6 +94,27 @@
       "url": "https://www.palaumusica.cat/ca/jean-guihen-queyras_1624032",
       "image": "https://www.palaumusica.cat/images/1641007/image_column.jpeg",
       "source": "Palau de la Música"
+    },
+    {
+      "id": 5,
+      "date": "2026-10-09",
+      "date_end": "",
+      "time": "",
+      "title": "Bingo Musical at the Time Out Market",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "On 9 October, we're hosting a very specail edition of our Bingo Musical, the event where it's not about who knows the most music, but who comes ready to have the most fun.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/nightlife/bingo-musical",
+      "image": "https://media.timeout.com/images/106271653/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat dels Encants",
@@ -157,6 +157,27 @@
       "source": "CCCB"
     },
     {
+      "id": 8,
+      "date": "2026-10-10",
+      "date_end": "",
+      "time": "",
+      "title": "Caffeine Rave",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "food",
+      "free": false,
+      "price": "",
+      "emoji": "🍜",
+      "bg": "#EBF5E8",
+      "tags": [
+        "food"
+      ],
+      "desc": "Swap the night for the daytime and cocktails for specialty coffee. Caffeine Social Club's Caffeine Rave is coming to Time Out Market Barcelona on 10 October, from 11am to 3pm.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/music/caffeine-rave",
+      "image": "https://media.timeout.com/images/106412778/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
+    },
+    {
       "title": "Mercat de Glòries",
       "venue": "Mercat de Glòries",
       "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
@@ -175,7 +196,7 @@
       "date": "2026-10-10",
       "date_end": "2026-10-10",
       "time": "09:00",
-      "id": 8
+      "id": 9
     },
     {
       "title": "Mercat dels Encants",
@@ -196,7 +217,7 @@
       "date": "2026-10-10",
       "date_end": "2026-10-10",
       "time": "09:00",
-      "id": 9
+      "id": 10
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -217,10 +238,10 @@
       "date": "2026-10-11",
       "date_end": "2026-10-11",
       "time": "",
-      "id": 10
+      "id": 11
     },
     {
-      "id": 11,
+      "id": 12,
       "date": "2026-10-11",
       "time": "12:00",
       "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
@@ -257,7 +278,28 @@
       "date": "2026-10-14",
       "date_end": "2026-10-14",
       "time": "09:00",
-      "id": 12
+      "id": 13
+    },
+    {
+      "id": 14,
+      "date": "2026-10-16",
+      "date_end": "",
+      "time": "",
+      "title": "Jazz Concert",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Jazz is fantastic wherever you are, and we didn't want to miss out on bringing that soulful soundscape to the Market. That’s why on October 16 th at 8 PM, two extraordinary musicians are joining forces on strings and brass: Lídia Facerías on piano, alongside Memi Sillah on vocals and trumpet. All you need to do is reserve your spot here, includes a cocktail for €7 (with alcohol or non-alcohol).",
+      "url": "https://www.timeout.com/time-out-market-barcelona/music/concert-de-jazz",
+      "image": "https://media.timeout.com/images/106352886/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat dels Encants",
@@ -278,7 +320,7 @@
       "date": "2026-10-16",
       "date_end": "2026-10-16",
       "time": "09:00",
-      "id": 13
+      "id": 15
     },
     {
       "title": "Mercat de Glòries",
@@ -299,7 +341,7 @@
       "date": "2026-10-17",
       "date_end": "2026-10-17",
       "time": "09:00",
-      "id": 14
+      "id": 16
     },
     {
       "title": "Mercat dels Encants",
@@ -320,7 +362,7 @@
       "date": "2026-10-17",
       "date_end": "2026-10-17",
       "time": "09:00",
-      "id": 15
+      "id": 17
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -341,10 +383,10 @@
       "date": "2026-10-18",
       "date_end": "2026-10-18",
       "time": "",
-      "id": 16
+      "id": 18
     },
     {
-      "id": 17,
+      "id": 19,
       "date": "2026-10-19",
       "date_end": "",
       "time": "19:30",
@@ -365,7 +407,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 18,
+      "id": 20,
       "date": "2026-10-21",
       "time": "",
       "title": "Serielizados Fest 2026",
@@ -402,10 +444,10 @@
       "date": "2026-10-21",
       "date_end": "2026-10-21",
       "time": "09:00",
-      "id": 19
+      "id": 21
     },
     {
-      "id": 20,
+      "id": 22,
       "date": "2026-10-23",
       "date_end": "",
       "time": "",
@@ -445,10 +487,10 @@
       "date": "2026-10-23",
       "date_end": "2026-10-23",
       "time": "09:00",
-      "id": 21
+      "id": 23
     },
     {
-      "id": 22,
+      "id": 24,
       "date": "2026-10-23",
       "date_end": "",
       "time": "19:00",
@@ -487,7 +529,7 @@
       "date": "2026-10-24",
       "date_end": "2026-10-24",
       "time": "09:00",
-      "id": 23
+      "id": 25
     },
     {
       "title": "Mercat dels Encants",
@@ -508,7 +550,28 @@
       "date": "2026-10-24",
       "date_end": "2026-10-24",
       "time": "09:00",
-      "id": 24
+      "id": 26
+    },
+    {
+      "id": 27,
+      "date": "2026-10-25",
+      "date_end": "",
+      "time": "",
+      "title": "The Reggaeton Rooftop",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "food",
+      "free": false,
+      "price": "",
+      "emoji": "🍜",
+      "bg": "#EBF5E8",
+      "tags": [
+        "food"
+      ],
+      "desc": "On Sundays, Time Out Market Barcelona is the place to party. The good weather is here to stay, and everyone is diving straight into our new reggaeton \"tardeo.\" From 6 PM to 10 PM, the terrace transforms into the city's most vibrant dance floor with the best urban beats.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/the-reggaeton-rooftop",
+      "image": "https://media.timeout.com/images/106410762/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -529,10 +592,10 @@
       "date": "2026-10-25",
       "date_end": "2026-10-25",
       "time": "",
-      "id": 25
+      "id": 28
     },
     {
-      "id": 26,
+      "id": 29,
       "date": "2026-10-26",
       "date_end": "",
       "time": "20:00",
@@ -553,7 +616,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 27,
+      "id": 30,
       "date": "2026-10-28",
       "date_end": "",
       "time": "",
@@ -592,7 +655,7 @@
       "date": "2026-10-28",
       "date_end": "2026-10-28",
       "time": "09:00",
-      "id": 28
+      "id": 31
     },
     {
       "title": "Mercat dels Encants",
@@ -613,10 +676,10 @@
       "date": "2026-10-30",
       "date_end": "2026-10-30",
       "time": "09:00",
-      "id": 29
+      "id": 32
     },
     {
-      "id": 30,
+      "id": 33,
       "date": "2026-10-30",
       "time": "18:30",
       "title": "Una història cromàtica",
@@ -635,7 +698,7 @@
       "source": "CCCB"
     },
     {
-      "id": 31,
+      "id": 34,
       "date": "2026-10-31",
       "date_end": "",
       "time": "",
@@ -653,6 +716,27 @@
       "desc": "Keep the summer vibes and sea views going from the Market! Come join us with an Aperol Spritz or Crodino and background tunes spun by top DJs to make the experience truly sublime.",
       "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/dj-golden-hour-aperol-spritz",
       "image": "https://media.timeout.com/images/106386759/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
+    },
+    {
+      "id": 35,
+      "date": "2026-10-31",
+      "date_end": "",
+      "time": "",
+      "title": "Salsa Time",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Do you like dancing salsa? Come and do it at Time Out Market! On Saturdays starting at 7 PM, we’re hosting a big dance hall with the music turned up so you can dance and let yourself go. Entry is €10, payable at the market itself, and capacity is limited to 400 people. Arrive early!",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/salsa-time-at-time-out-market",
+      "image": "https://media.timeout.com/images/106421202/750/422/image.jpg",
       "source": "Time Out Market Barcelona"
     },
     {
@@ -674,7 +758,7 @@
       "date": "2026-10-31",
       "date_end": "2026-10-31",
       "time": "09:00",
-      "id": 32
+      "id": 36
     },
     {
       "title": "Mercat dels Encants",
@@ -695,10 +779,10 @@
       "date": "2026-10-31",
       "date_end": "2026-10-31",
       "time": "09:00",
-      "id": 33
+      "id": 37
     },
     {
-      "id": 34,
+      "id": 38,
       "date": "2026-10-31",
       "date_end": "",
       "time": "18:30",
@@ -737,10 +821,10 @@
       "date": "2026-11-01",
       "date_end": "2026-11-01",
       "time": "",
-      "id": 35
+      "id": 39
     },
     {
-      "id": 36,
+      "id": 40,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Emily Dickinson, una carta al món",
@@ -759,7 +843,7 @@
       "source": "CCCB"
     },
     {
-      "id": 37,
+      "id": 41,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Un punt de claror",
@@ -778,7 +862,26 @@
       "source": "CCCB"
     },
     {
-      "id": 38,
+      "id": 42,
+      "date": "2026-11-03",
+      "time": "18:30",
+      "title": "Beirut, el mite de la resiliència",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "3 de novembre 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/beirut-el-mite-de-la-resiliencia",
+      "image": "https://www.cccb.org/documents/4284035/6523845/Beirut_Camille+Ammoun_1920x1080.jpg/16ba4b79-25d0-292a-6161-dd5166c74980?version=1.0&t=1791214743990",
+      "source": "CCCB"
+    },
+    {
+      "id": 43,
       "date": "2026-11-04",
       "time": "18:30",
       "title": "El món com a manicomi",
@@ -797,7 +900,7 @@
       "source": "CCCB"
     },
     {
-      "id": 39,
+      "id": 44,
       "date": "2026-11-04",
       "date_end": "",
       "time": "20:00",
@@ -818,7 +921,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 40,
+      "id": 45,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Foucault, avui",
@@ -837,7 +940,26 @@
       "source": "CCCB"
     },
     {
-      "id": 41,
+      "id": 46,
+      "date": "2026-11-11",
+      "time": "18:30",
+      "title": "Dubai, el somni del segle XXI",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "11 de novembre 2026",
+      "url": "https://www.cccb.org/ca/w/activitats/dubai-el-somni-del-segle-xxi",
+      "image": "https://www.cccb.org/documents/4284035/6365989/Dubai_Stadnicki+i+Ammoun_1920x1080.jpg/d5eef076-2130-1310-decd-7b5738954a47?version=1.0&t=1791216635107",
+      "source": "CCCB"
+    },
+    {
+      "id": 47,
       "date": "2026-11-16",
       "time": "18:30",
       "title": "Michel Foucault",
@@ -856,7 +978,7 @@
       "source": "CCCB"
     },
     {
-      "id": 42,
+      "id": 48,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -875,7 +997,26 @@
       "source": "CCCB"
     },
     {
-      "id": 43,
+      "id": 49,
+      "date": "2026-11-18",
+      "time": "18:30",
+      "title": "Beirut, la ciutat i el col·lapse",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "18 de novembre 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/beirut-la-ciutat-i-el-collapse",
+      "image": "https://www.cccb.org/documents/4284035/6523845/Beirut_Eid+i+Ammoun_1920x1080.jpg/ffee2e57-6de1-bc7c-ba34-e6e2ad66ed87?version=1.0&t=1791217072476",
+      "source": "CCCB"
+    },
+    {
+      "id": 50,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -894,7 +1035,7 @@
       "source": "CCCB"
     },
     {
-      "id": 44,
+      "id": 51,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -913,7 +1054,7 @@
       "source": "CCCB"
     },
     {
-      "id": 45,
+      "id": 52,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -932,7 +1073,7 @@
       "source": "CCCB"
     },
     {
-      "id": 46,
+      "id": 53,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -951,7 +1092,7 @@
       "source": "CCCB"
     },
     {
-      "id": 47,
+      "id": 54,
       "date": "2026-12-04",
       "time": "20:00",
       "title": "Descasada de Magalí Sare",
@@ -970,7 +1111,7 @@
       "source": "CCCB"
     },
     {
-      "id": 48,
+      "id": 55,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -989,7 +1130,7 @@
       "source": "CCCB"
     },
     {
-      "id": 49,
+      "id": 56,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1008,7 +1149,7 @@
       "source": "CCCB"
     },
     {
-      "id": 50,
+      "id": 57,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -1027,7 +1168,7 @@
       "source": "CCCB"
     },
     {
-      "id": 51,
+      "id": 58,
       "date": "2026-12-15",
       "time": "",
       "title": "Digues que m'estimes, Montserrat Roig",
@@ -1046,7 +1187,7 @@
       "source": "CCCB"
     },
     {
-      "id": 52,
+      "id": 59,
       "date": "2026-12-16",
       "time": "18:30",
       "title": "«Imaginar la fi», d'Eudald Espluga",
@@ -1065,7 +1206,7 @@
       "source": "CCCB"
     },
     {
-      "id": 53,
+      "id": 60,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1084,7 +1225,7 @@
       "source": "CCCB"
     },
     {
-      "id": 54,
+      "id": 61,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1103,7 +1244,7 @@
       "source": "CCCB"
     },
     {
-      "id": 55,
+      "id": 62,
       "date": "2027-03-31",
       "date_end": "",
       "time": "",
@@ -1125,7 +1266,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 56,
+      "id": 63,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
@@ -1144,7 +1285,7 @@
       "source": "CCCB"
     },
     {
-      "id": 57,
+      "id": 64,
       "date": "2027-07-01",
       "date_end": "",
       "time": "",
