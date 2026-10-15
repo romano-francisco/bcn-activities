@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:01:44.257945",
+  "generated_at": "2026-10-15T05:46:37.505240",
   "sources": [
     "cccb",
     "damm",
@@ -9,29 +9,10 @@
     "grec",
     "santpau"
   ],
-  "total": 70,
+  "total": 75,
   "events": [
     {
       "id": 1,
-      "date": "2026-10-09",
-      "time": "16:00",
-      "title": "«El culte a la bellesa» per a persones amb ceguesa o baixa visió",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "9 de juliol - 14 d’octubre 2026 Accessible",
-      "url": "https://www.cccb.org/ca/w/activitats/el-culte-a-la-bellesa-per-a-persones-amb-ceguesa-o-baixa-visio",
-      "image": "https://www.cccb.org/documents/4284035/6540101/Visites+Ceguesa+CCCB%2C+2026+CC+SA-BY-NC+Miquel+Taverna.jpg/2756cbfd-8c6f-89ab-6aaf-10bbaeacf56d?version=1.0&t=1778752358748",
-      "source": "CCCB"
-    },
-    {
-      "id": 2,
       "date": "2026-10-11",
       "time": "17:00",
       "title": "«El culte a la bellesa» en llengua de signes catalana (LSC)",
@@ -50,32 +31,11 @@
       "source": "CCCB"
     },
     {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-10-14",
-      "date_end": "2026-10-14",
-      "time": "09:00",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "date": "2026-10-14",
+      "id": 2,
+      "date": "2026-10-15",
       "date_end": "",
-      "time": "20:00",
-      "title": "Arte Flamenco",
+      "time": "19:00",
+      "title": "Òpera i sarsuela",
       "venue": "Palau de la Música Catalana",
       "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
       "type": "music",
@@ -86,13 +46,13 @@
       "tags": [
         "music"
       ],
-      "desc": "12 artistes excepcionals sobre l’escenari",
-      "url": "https://www.palaumusica.cat/ca/arte-flamenco_1163807",
-      "image": "https://www.palaumusica.cat/images/1163902/image_column.webp",
+      "desc": "—Josep Bros, Laura Brasó & Miquel Ortega",
+      "url": "https://www.palaumusica.cat/ca/opera-i-sarsuela_1623662",
+      "image": "https://www.palaumusica.cat/images/1629185/image_column.jpg",
       "source": "Palau de la Música"
     },
     {
-      "id": 5,
+      "id": 3,
       "date": "2026-10-16",
       "date_end": "",
       "time": "",
@@ -131,7 +91,7 @@
       "date": "2026-10-16",
       "date_end": "2026-10-16",
       "time": "09:00",
-      "id": 6
+      "id": 4
     },
     {
       "title": "Mercat de Glòries",
@@ -152,7 +112,7 @@
       "date": "2026-10-17",
       "date_end": "2026-10-17",
       "time": "09:00",
-      "id": 7
+      "id": 5
     },
     {
       "title": "Mercat dels Encants",
@@ -173,10 +133,10 @@
       "date": "2026-10-17",
       "date_end": "2026-10-17",
       "time": "09:00",
-      "id": 8
+      "id": 6
     },
     {
-      "id": 9,
+      "id": 7,
       "date": "2026-10-17",
       "date_end": "",
       "time": "19:00",
@@ -215,10 +175,10 @@
       "date": "2026-10-18",
       "date_end": "2026-10-18",
       "time": "",
-      "id": 10
+      "id": 8
     },
     {
-      "id": 11,
+      "id": 9,
       "date": "2026-10-19",
       "date_end": "",
       "time": "19:30",
@@ -239,7 +199,28 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 12,
+      "id": 10,
+      "date": "2026-10-20",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Thomas Quasthoff & Amatis Trio",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Humanity in war",
+      "url": "https://www.palaumusica.cat/ca/thomas-quasthoff-amatis-trio_1624002",
+      "image": "https://www.palaumusica.cat/images/1624001/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 11,
       "date": "2026-10-21",
       "time": "",
       "title": "Serielizados Fest 2026",
@@ -276,10 +257,10 @@
       "date": "2026-10-21",
       "date_end": "2026-10-21",
       "time": "09:00",
-      "id": 13
+      "id": 12
     },
     {
-      "id": 14,
+      "id": 13,
       "date": "2026-10-23",
       "date_end": "",
       "time": "",
@@ -319,10 +300,10 @@
       "date": "2026-10-23",
       "date_end": "2026-10-23",
       "time": "09:00",
-      "id": 15
+      "id": 14
     },
     {
-      "id": 16,
+      "id": 15,
       "date": "2026-10-23",
       "date_end": "",
       "time": "19:00",
@@ -361,7 +342,7 @@
       "date": "2026-10-24",
       "date_end": "2026-10-24",
       "time": "09:00",
-      "id": 17
+      "id": 16
     },
     {
       "title": "Mercat dels Encants",
@@ -382,10 +363,10 @@
       "date": "2026-10-24",
       "date_end": "2026-10-24",
       "time": "09:00",
-      "id": 18
+      "id": 17
     },
     {
-      "id": 19,
+      "id": 18,
       "date": "2026-10-25",
       "date_end": "",
       "time": "",
@@ -424,10 +405,10 @@
       "date": "2026-10-25",
       "date_end": "2026-10-25",
       "time": "",
-      "id": 20
+      "id": 19
     },
     {
-      "id": 21,
+      "id": 20,
       "date": "2026-10-26",
       "date_end": "",
       "time": "20:00",
@@ -448,7 +429,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 22,
+      "id": 21,
       "date": "2026-10-28",
       "date_end": "",
       "time": "",
@@ -487,7 +468,7 @@
       "date": "2026-10-28",
       "date_end": "2026-10-28",
       "time": "09:00",
-      "id": 23
+      "id": 22
     },
     {
       "title": "Mercat dels Encants",
@@ -508,10 +489,10 @@
       "date": "2026-10-30",
       "date_end": "2026-10-30",
       "time": "09:00",
-      "id": 24
+      "id": 23
     },
     {
-      "id": 25,
+      "id": 24,
       "date": "2026-10-30",
       "time": "18:30",
       "title": "Una història cromàtica",
@@ -530,7 +511,7 @@
       "source": "CCCB"
     },
     {
-      "id": 26,
+      "id": 25,
       "date": "2026-10-31",
       "date_end": "",
       "time": "",
@@ -551,7 +532,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 27,
+      "id": 26,
       "date": "2026-10-31",
       "date_end": "",
       "time": "",
@@ -590,7 +571,7 @@
       "date": "2026-10-31",
       "date_end": "2026-10-31",
       "time": "09:00",
-      "id": 28
+      "id": 27
     },
     {
       "title": "Mercat dels Encants",
@@ -611,10 +592,10 @@
       "date": "2026-10-31",
       "date_end": "2026-10-31",
       "time": "09:00",
-      "id": 29
+      "id": 28
     },
     {
-      "id": 30,
+      "id": 29,
       "date": "2026-10-31",
       "date_end": "",
       "time": "18:30",
@@ -653,10 +634,10 @@
       "date": "2026-11-01",
       "date_end": "2026-11-01",
       "time": "",
-      "id": 31
+      "id": 30
     },
     {
-      "id": 32,
+      "id": 31,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Emily Dickinson, una carta al món",
@@ -675,7 +656,7 @@
       "source": "CCCB"
     },
     {
-      "id": 33,
+      "id": 32,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Un punt de claror",
@@ -694,7 +675,7 @@
       "source": "CCCB"
     },
     {
-      "id": 34,
+      "id": 33,
       "date": "2026-11-02",
       "time": "10:00",
       "title": "Seminari amb Bonnie Honig",
@@ -713,7 +694,7 @@
       "source": "CCCB"
     },
     {
-      "id": 35,
+      "id": 34,
       "date": "2026-11-02",
       "time": "18:30",
       "title": "Bonnie Honig",
@@ -732,7 +713,7 @@
       "source": "CCCB"
     },
     {
-      "id": 36,
+      "id": 35,
       "date": "2026-11-03",
       "time": "18:30",
       "title": "Beirut, el mite de la resiliència",
@@ -769,10 +750,10 @@
       "date": "2026-11-04",
       "date_end": "2026-11-04",
       "time": "09:00",
-      "id": 37
+      "id": 36
     },
     {
-      "id": 38,
+      "id": 37,
       "date": "2026-11-04",
       "time": "18:30",
       "title": "El món com a manicomi",
@@ -791,7 +772,7 @@
       "source": "CCCB"
     },
     {
-      "id": 39,
+      "id": 38,
       "date": "2026-11-04",
       "date_end": "",
       "time": "20:00",
@@ -830,7 +811,26 @@
       "date": "2026-11-06",
       "date_end": "2026-11-06",
       "time": "09:00",
-      "id": 40
+      "id": 39
+    },
+    {
+      "id": 40,
+      "date": "2026-11-06",
+      "time": "18:30",
+      "title": "Una cara feta de píxels",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "6 de novembre 2026 Accessible",
+      "url": "https://www.cccb.org/ca/w/activitats/manifestos-filmics-feministes-xii",
+      "image": "https://www.cccb.org/documents/5316589/7719696/Public+Solitude+Charmaine+Poh.png/1fe1b7d7-b3ef-a87f-5d03-06fb6630454b?version=1.0&t=1791962284925",
+      "source": "CCCB"
     },
     {
       "id": 41,
@@ -896,6 +896,25 @@
     {
       "id": 44,
       "date": "2026-11-07",
+      "time": "11:00",
+      "title": "Cos, algoritme, imatge",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "7 de novembre 2026 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/cos-algoritme-imatge",
+      "image": "https://www.cccb.org/documents/5316589/7703032/banner+web.png/0685f875-cfb2-aa6a-aa3b-f17aa2b75221?version=1.0&t=1791366239615",
+      "source": "CCCB"
+    },
+    {
+      "id": 45,
+      "date": "2026-11-07",
       "time": "18:30",
       "title": "Desig, somni, èxit, despesa",
       "venue": "CCCB",
@@ -909,7 +928,7 @@
       ],
       "desc": "7 de novembre 2026 Accessible",
       "url": "https://www.cccb.org/ca/w/activitats/manifestos-filmics-feministes-xii-2",
-      "image": "https://www.cccb.org/documents/5316589/7719720/Ayoka+Chenzira+Hair+Piece.png/686bfee0-75e5-8ee0-12a9-092b97775cf3?version=1.0&t=1791535945944",
+      "image": "https://www.cccb.org/documents/5316589/7719720/HairPiece+Ayoka+Chenzira+%281%29.png/0cb15095-d73a-e5be-dfd0-5505456bca9d?version=1.0&t=1791966711273",
       "source": "CCCB"
     },
     {
@@ -931,13 +950,34 @@
       "date": "2026-11-08",
       "date_end": "2026-11-08",
       "time": "",
-      "id": 45
+      "id": 46
     },
     {
-      "id": 46,
-      "date": "2026-11-09",
+      "id": 47,
+      "date": "2026-11-08",
+      "date_end": "",
+      "time": "12:00",
+      "title": "Eternity in an hour de Whitacre",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Cor de Cambra del Palau & Eric Whitacre",
+      "url": "https://www.palaumusica.cat/ca/eternity-in-an-hour-de-whitacre_1623837",
+      "image": "https://www.palaumusica.cat/images/1623836/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 48,
+      "date": "2026-11-08",
       "time": "18:30",
-      "title": "Foucault, avui",
+      "title": "És aquest el meu cos?",
       "venue": "CCCB",
       "type": "culture",
       "free": false,
@@ -947,13 +987,13 @@
       "tags": [
         "culture"
       ],
-      "desc": "9 Novembre 2026 Debats",
-      "url": "https://www.cccb.org/ca/w/activitats/foucault-avui",
-      "image": "https://www.cccb.org/documents/4284035/6555884/2026_Foucault%2C_avui_Mathieu_Potte-Bonneville.jpg/6444ae8e-0981-02ac-5f35-d6176ae1f023?version=1.0&t=1791898992568",
+      "desc": "8 de novembre 2026 Accessible",
+      "url": "https://www.cccb.org/ca/w/activitats/manifestos-filmics-feministes-xii-1",
+      "image": "https://www.cccb.org/documents/5316589/7719742/Corbes+Gracioses+Kiti+L.png/ff28a214-4fae-5905-4fae-c36f482a0fd2?version=1.0&t=1791967138892",
       "source": "CCCB"
     },
     {
-      "id": 47,
+      "id": 49,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Michel Foucault",
@@ -972,7 +1012,68 @@
       "source": "CCCB"
     },
     {
-      "id": 48,
+      "id": 50,
+      "date": "2026-11-09",
+      "time": "18:30",
+      "title": "Foucault, avui",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "9 Novembre 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/foucault-avui",
+      "image": "https://www.cccb.org/documents/4284035/6555884/2026_Foucault%2C_avui_Mathieu_Potte-Bonneville.jpg/6444ae8e-0981-02ac-5f35-d6176ae1f023?version=1.0&t=1791898992568",
+      "source": "CCCB"
+    },
+    {
+      "id": 51,
+      "date": "2026-11-09",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Christian Blackshaw",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Integral de Sonates per a Piano de Mozart (I)",
+      "url": "https://www.palaumusica.cat/ca/christian-blackshaw_1624071",
+      "image": "https://www.palaumusica.cat/images/1624070/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-11-11",
+      "date_end": "2026-11-11",
+      "time": "09:00",
+      "id": 52
+    },
+    {
+      "id": 53,
       "date": "2026-11-14",
       "time": "10:00",
       "title": "Caminar, escriure",
@@ -991,7 +1092,7 @@
       "source": "CCCB"
     },
     {
-      "id": 49,
+      "id": 54,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "Beirut, la ciutat i el col·lapse",
@@ -1010,7 +1111,7 @@
       "source": "CCCB"
     },
     {
-      "id": 50,
+      "id": 55,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -1029,7 +1130,7 @@
       "source": "CCCB"
     },
     {
-      "id": 51,
+      "id": 56,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -1048,7 +1149,7 @@
       "source": "CCCB"
     },
     {
-      "id": 52,
+      "id": 57,
       "date": "2026-11-19",
       "time": "18:30",
       "title": "Scholastique Mukasonga",
@@ -1067,7 +1168,7 @@
       "source": "CCCB"
     },
     {
-      "id": 53,
+      "id": 58,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -1086,7 +1187,7 @@
       "source": "CCCB"
     },
     {
-      "id": 54,
+      "id": 59,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -1105,7 +1206,7 @@
       "source": "CCCB"
     },
     {
-      "id": 55,
+      "id": 60,
       "date": "2026-11-28",
       "time": "",
       "title": "Radial 4: underthepulse, Jana Jacuka, Carles Castaño i Sau-Ching Wong",
@@ -1124,7 +1225,7 @@
       "source": "CCCB"
     },
     {
-      "id": 56,
+      "id": 61,
       "date": "2026-12-01",
       "time": "23 d’octubre - 1 de desembre 2026",
       "title": "Una ombra improbable",
@@ -1143,7 +1244,7 @@
       "source": "CCCB"
     },
     {
-      "id": 57,
+      "id": 62,
       "date": "2026-12-02",
       "time": "18:30",
       "title": "Dubai, el somni del segle XXI",
@@ -1162,7 +1263,7 @@
       "source": "CCCB"
     },
     {
-      "id": 58,
+      "id": 63,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -1181,7 +1282,7 @@
       "source": "CCCB"
     },
     {
-      "id": 59,
+      "id": 64,
       "date": "2026-12-03",
       "time": "18:30",
       "title": "Colum McCann",
@@ -1200,7 +1301,7 @@
       "source": "CCCB"
     },
     {
-      "id": 60,
+      "id": 65,
       "date": "2026-12-04",
       "time": "20:00",
       "title": "Descasada de Magalí Sare",
@@ -1219,7 +1320,7 @@
       "source": "CCCB"
     },
     {
-      "id": 61,
+      "id": 66,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -1238,7 +1339,7 @@
       "source": "CCCB"
     },
     {
-      "id": 62,
+      "id": 67,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1257,7 +1358,7 @@
       "source": "CCCB"
     },
     {
-      "id": 63,
+      "id": 68,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -1276,7 +1377,7 @@
       "source": "CCCB"
     },
     {
-      "id": 64,
+      "id": 69,
       "date": "2026-12-15",
       "time": "",
       "title": "Digues que m'estimes, Montserrat Roig",
@@ -1295,7 +1396,7 @@
       "source": "CCCB"
     },
     {
-      "id": 65,
+      "id": 70,
       "date": "2026-12-16",
       "time": "18:30",
       "title": "«Imaginar la fi», d'Eudald Espluga",
@@ -1314,7 +1415,7 @@
       "source": "CCCB"
     },
     {
-      "id": 66,
+      "id": 71,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1333,7 +1434,7 @@
       "source": "CCCB"
     },
     {
-      "id": 67,
+      "id": 72,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1352,7 +1453,7 @@
       "source": "CCCB"
     },
     {
-      "id": 68,
+      "id": 73,
       "date": "2027-03-31",
       "date_end": "",
       "time": "",
@@ -1374,7 +1475,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 69,
+      "id": 74,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
@@ -1393,7 +1494,7 @@
       "source": "CCCB"
     },
     {
-      "id": 70,
+      "id": 75,
       "date": "2027-07-01",
       "date_end": "",
       "time": "",
