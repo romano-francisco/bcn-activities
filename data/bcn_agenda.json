@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:56:57.211937",
+  "generated_at": "2026-10-27T06:09:46.437777",
   "sources": [
     "cccb",
     "damm",
@@ -9,14 +9,14 @@
     "grec",
     "santpau"
   ],
-  "total": 82,
+  "total": 81,
   "events": [
     {
       "id": 1,
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "date_end": "",
       "time": "20:00",
-      "title": "London Philharmonic & Gardner",
+      "title": "Claire Huangci",
       "venue": "Palau de la Música Catalana",
       "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
       "type": "music",
@@ -27,9 +27,9 @@
       "tags": [
         "music"
       ],
-      "desc": "—Brahms i Sibelius",
-      "url": "https://www.palaumusica.cat/ca/london-philharmonic-gardner_1586381",
-      "image": "https://www.palaumusica.cat/images/1586976/image_column.webp",
+      "desc": "—Chopin, Hensel, Price i Gershwin",
+      "url": "https://www.palaumusica.cat/ca/claire-huangci_1624068",
+      "image": "https://www.palaumusica.cat/images/1624067/image_column.jpg",
       "source": "Palau de la Música"
     },
     {
@@ -437,25 +437,6 @@
       "source": "CCCB"
     },
     {
-      "id": 22,
-      "date": "2026-11-06",
-      "time": "19:30",
-      "title": "Radial 3: Andrea El Ameri, Panzetti/Ticconi i Camilo Mejía",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "6 de novembre 2026 Escena",
-      "url": "https://www.cccb.org/ca/w/activitats/radial-3-andrea-el-ameri-panzettiticconi-i-camilo-mejia",
-      "image": "https://www.cccb.org/documents/5316589/7679117/radial+3.jpg/860cee46-e2d7-0b48-910c-83203c2b33e2?version=1.0&t=1790937612306",
-      "source": "CCCB"
-    },
-    {
       "title": "Mercat de Glòries",
       "venue": "Mercat de Glòries",
       "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
@@ -474,7 +455,7 @@
       "date": "2026-11-07",
       "date_end": "2026-11-07",
       "time": "09:00",
-      "id": 23
+      "id": 22
     },
     {
       "title": "Mercat dels Encants",
@@ -495,10 +476,10 @@
       "date": "2026-11-07",
       "date_end": "2026-11-07",
       "time": "09:00",
-      "id": 24
+      "id": 23
     },
     {
-      "id": 25,
+      "id": 24,
       "date": "2026-11-07",
       "time": "11:00",
       "title": "Cos, algoritme, imatge",
@@ -517,7 +498,7 @@
       "source": "CCCB"
     },
     {
-      "id": 26,
+      "id": 25,
       "date": "2026-11-07",
       "time": "18:30",
       "title": "Desig, somni, èxit, despesa",
@@ -554,10 +535,10 @@
       "date": "2026-11-08",
       "date_end": "2026-11-08",
       "time": "",
-      "id": 27
+      "id": 26
     },
     {
-      "id": 28,
+      "id": 27,
       "date": "2026-11-08",
       "date_end": "",
       "time": "12:00",
@@ -578,7 +559,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 29,
+      "id": 28,
       "date": "2026-11-08",
       "time": "18:30",
       "title": "És aquest el meu cos?",
@@ -597,7 +578,7 @@
       "source": "CCCB"
     },
     {
-      "id": 30,
+      "id": 29,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Michel Foucault",
@@ -616,7 +597,7 @@
       "source": "CCCB"
     },
     {
-      "id": 31,
+      "id": 30,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Foucault, avui",
@@ -635,7 +616,7 @@
       "source": "CCCB"
     },
     {
-      "id": 32,
+      "id": 31,
       "date": "2026-11-09",
       "date_end": "",
       "time": "20:00",
@@ -656,7 +637,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 33,
+      "id": 32,
       "date": "2026-11-10",
       "time": "12:00",
       "title": "Literatura i solidaritat",
@@ -675,7 +656,7 @@
       "source": "CCCB"
     },
     {
-      "id": 34,
+      "id": 33,
       "date": "2026-11-10",
       "time": "18:30",
       "title": "El món que vindrà",
@@ -712,10 +693,10 @@
       "date": "2026-11-11",
       "date_end": "2026-11-11",
       "time": "09:00",
-      "id": 35
+      "id": 34
     },
     {
-      "id": 36,
+      "id": 35,
       "date": "2026-11-12",
       "time": "18:00",
       "title": "In Which Annie Gives It Those Ones",
@@ -752,7 +733,7 @@
       "date": "2026-11-13",
       "date_end": "2026-11-13",
       "time": "09:00",
-      "id": 37
+      "id": 36
     },
     {
       "title": "Mercat de Glòries",
@@ -773,7 +754,7 @@
       "date": "2026-11-14",
       "date_end": "2026-11-14",
       "time": "09:00",
-      "id": 38
+      "id": 37
     },
     {
       "title": "Mercat dels Encants",
@@ -794,10 +775,10 @@
       "date": "2026-11-14",
       "date_end": "2026-11-14",
       "time": "09:00",
-      "id": 39
+      "id": 38
     },
     {
-      "id": 40,
+      "id": 39,
       "date": "2026-11-14",
       "time": "10:00",
       "title": "Caminar, escriure",
@@ -816,7 +797,7 @@
       "source": "CCCB"
     },
     {
-      "id": 41,
+      "id": 40,
       "date": "2026-11-14",
       "time": "18:30",
       "title": "Mohammed el-Kurd i Mariam Barghouti",
@@ -835,7 +816,7 @@
       "source": "CCCB"
     },
     {
-      "id": 42,
+      "id": 41,
       "date": "2026-11-14",
       "time": "20:15",
       "title": "Cine-concert: Palestina, una narrativa revisada",
@@ -872,10 +853,10 @@
       "date": "2026-11-15",
       "date_end": "2026-11-15",
       "time": "",
-      "id": 43
+      "id": 42
     },
     {
-      "id": 44,
+      "id": 43,
       "date": "2026-11-16",
       "time": "18:30",
       "title": "El Rif, diàspora i reconstrucció",
@@ -894,7 +875,7 @@
       "source": "CCCB"
     },
     {
-      "id": 45,
+      "id": 44,
       "date": "2026-11-17",
       "time": "18:30",
       "title": "Pot la cultura reescriure el Rif?",
@@ -931,10 +912,10 @@
       "date": "2026-11-18",
       "date_end": "2026-11-18",
       "time": "09:00",
-      "id": 46
+      "id": 45
     },
     {
-      "id": 47,
+      "id": 46,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -953,7 +934,7 @@
       "source": "CCCB"
     },
     {
-      "id": 48,
+      "id": 47,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "Beirut, la ciutat i el col·lapse",
@@ -972,7 +953,7 @@
       "source": "CCCB"
     },
     {
-      "id": 49,
+      "id": 48,
       "date": "2026-11-18",
       "date_end": "",
       "time": "19:00",
@@ -993,7 +974,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 50,
+      "id": 49,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -1012,7 +993,7 @@
       "source": "CCCB"
     },
     {
-      "id": 51,
+      "id": 50,
       "date": "2026-11-19",
       "time": "18:30",
       "title": "Scholastique Mukasonga",
@@ -1049,10 +1030,10 @@
       "date": "2026-11-20",
       "date_end": "2026-11-20",
       "time": "09:00",
-      "id": 52
+      "id": 51
     },
     {
-      "id": 53,
+      "id": 52,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -1089,7 +1070,7 @@
       "date": "2026-11-21",
       "date_end": "2026-11-21",
       "time": "09:00",
-      "id": 54
+      "id": 53
     },
     {
       "title": "Mercat dels Encants",
@@ -1110,7 +1091,7 @@
       "date": "2026-11-21",
       "date_end": "2026-11-21",
       "time": "09:00",
-      "id": 55
+      "id": 54
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -1131,10 +1112,10 @@
       "date": "2026-11-22",
       "date_end": "2026-11-22",
       "time": "",
-      "id": 56
+      "id": 55
     },
     {
-      "id": 57,
+      "id": 56,
       "date": "2026-11-22",
       "date_end": "",
       "time": "17:30",
@@ -1155,7 +1136,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 58,
+      "id": 57,
       "date": "2026-11-23",
       "time": "11:00",
       "title": "Les ciutats i la calor extrema: el cas del golf Pèrsic i els límits de l’adaptació",
@@ -1174,7 +1155,7 @@
       "source": "CCCB"
     },
     {
-      "id": 59,
+      "id": 58,
       "date": "2026-11-23",
       "date_end": "",
       "time": "20:00",
@@ -1195,7 +1176,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 60,
+      "id": 59,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -1214,7 +1195,7 @@
       "source": "CCCB"
     },
     {
-      "id": 61,
+      "id": 60,
       "date": "2026-11-27",
       "time": "18:30",
       "title": "Instal·lació «Send Me Colors: Mechanical Gestures to Preserve Flowers»",
@@ -1233,7 +1214,7 @@
       "source": "CCCB"
     },
     {
-      "id": 62,
+      "id": 61,
       "date": "2026-11-27",
       "time": "19:00",
       "title": "La mà",
@@ -1252,7 +1233,7 @@
       "source": "CCCB"
     },
     {
-      "id": 63,
+      "id": 62,
       "date": "2026-11-28",
       "time": "",
       "title": "Radial 4: underthepulse, Jana Jacuka, Carles Castaño i Sau-Ching Wong",
@@ -1271,7 +1252,7 @@
       "source": "CCCB"
     },
     {
-      "id": 64,
+      "id": 63,
       "date": "2026-11-28",
       "time": "19:00",
       "title": "L'ull",
@@ -1290,7 +1271,7 @@
       "source": "CCCB"
     },
     {
-      "id": 65,
+      "id": 64,
       "date": "2026-11-29",
       "time": "17:30",
       "title": "Masterclass «Més enllà de l’obsolescència: des d’una reconstrucció del color»",
@@ -1309,7 +1290,7 @@
       "source": "CCCB"
     },
     {
-      "id": 66,
+      "id": 65,
       "date": "2026-11-29",
       "time": "19:00",
       "title": "La llum",
@@ -1328,7 +1309,7 @@
       "source": "CCCB"
     },
     {
-      "id": 67,
+      "id": 66,
       "date": "2026-12-02",
       "time": "18:30",
       "title": "Dubai, el somni del segle XXI",
@@ -1347,7 +1328,7 @@
       "source": "CCCB"
     },
     {
-      "id": 68,
+      "id": 67,
       "date": "2026-12-03",
       "time": "12:00",
       "title": "Sobreviure a la calor. La ciutat i la crisi climàtica",
@@ -1366,7 +1347,7 @@
       "source": "CCCB"
     },
     {
-      "id": 69,
+      "id": 68,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -1385,7 +1366,7 @@
       "source": "CCCB"
     },
     {
-      "id": 70,
+      "id": 69,
       "date": "2026-12-03",
       "time": "18:30",
       "title": "Colum McCann",
@@ -1404,7 +1385,7 @@
       "source": "CCCB"
     },
     {
-      "id": 71,
+      "id": 70,
       "date": "2026-12-04",
       "time": "12:00",
       "title": "El poder de compartir les nostres històries",
@@ -1423,7 +1404,7 @@
       "source": "CCCB"
     },
     {
-      "id": 72,
+      "id": 71,
       "date": "2026-12-04",
       "time": "20:00",
       "title": "Descasada de Magalí Sare",
@@ -1442,7 +1423,7 @@
       "source": "CCCB"
     },
     {
-      "id": 73,
+      "id": 72,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -1461,7 +1442,7 @@
       "source": "CCCB"
     },
     {
-      "id": 74,
+      "id": 73,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1480,7 +1461,7 @@
       "source": "CCCB"
     },
     {
-      "id": 75,
+      "id": 74,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -1499,9 +1480,9 @@
       "source": "CCCB"
     },
     {
-      "id": 76,
+      "id": 75,
       "date": "2026-12-15",
-      "time": "",
+      "time": "19:00",
       "title": "Digues que m'estimes, Montserrat Roig",
       "venue": "CCCB",
       "type": "culture",
@@ -1518,7 +1499,7 @@
       "source": "CCCB"
     },
     {
-      "id": 77,
+      "id": 76,
       "date": "2026-12-16",
       "time": "18:30",
       "title": "«Imaginar la fi», d'Eudald Espluga",
@@ -1537,7 +1518,7 @@
       "source": "CCCB"
     },
     {
-      "id": 78,
+      "id": 77,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1556,7 +1537,7 @@
       "source": "CCCB"
     },
     {
-      "id": 79,
+      "id": 78,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1575,7 +1556,7 @@
       "source": "CCCB"
     },
     {
-      "id": 80,
+      "id": 79,
       "date": "2027-03-31",
       "date_end": "",
       "time": "",
@@ -1597,7 +1578,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 81,
+      "id": 80,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
@@ -1616,7 +1597,7 @@
       "source": "CCCB"
     },
     {
-      "id": 82,
+      "id": 81,
       "date": "2027-07-01",
       "date_end": "",
       "time": "",
