@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T06:55:33.293980",
+  "generated_at": "2026-10-30T06:59:43.812672",
   "sources": [
     "cccb",
     "damm",
@@ -11,27 +11,6 @@
   ],
   "total": 88,
   "events": [
-    {
-      "id": 1,
-      "date": "2026-10-29",
-      "date_end": "",
-      "time": "19:00",
-      "title": "El cant dels ocells",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Orquestra Julià Carbonell de les Terres de Lleida, Espina & Pagès-Corella",
-      "url": "https://www.palaumusica.cat/ca/el-cant-dels-ocells_1623665",
-      "image": "https://www.palaumusica.cat/images/1623664/image_column.jpg",
-      "source": "Palau de la Música"
-    },
     {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
@@ -51,7 +30,28 @@
       "date": "2026-10-30",
       "date_end": "2026-10-30",
       "time": "09:00",
-      "id": 2
+      "id": 1
+    },
+    {
+      "id": 2,
+      "date": "2026-10-30",
+      "date_end": "",
+      "time": "21:30",
+      "title": "Omega, 30è aniversari",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/omega-30e-aniversari_1583576",
+      "image": "https://www.palaumusica.cat/images/1583655/image_column.jpg",
+      "source": "Palau de la Música"
     },
     {
       "id": 3,
