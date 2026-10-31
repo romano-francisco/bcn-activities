@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T06:59:43.812672",
+  "generated_at": "2026-10-31T06:52:25.586683",
   "sources": [
     "cccb",
     "damm",
@@ -9,52 +9,10 @@
     "grec",
     "santpau"
   ],
-  "total": 88,
+  "total": 89,
   "events": [
     {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-10-30",
-      "date_end": "2026-10-30",
-      "time": "09:00",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "date": "2026-10-30",
-      "date_end": "",
-      "time": "21:30",
-      "title": "Omega, 30è aniversari",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/omega-30e-aniversari_1583576",
-      "image": "https://www.palaumusica.cat/images/1583655/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 3,
+      "id": 1,
       "date": "2026-10-31",
       "date_end": "",
       "time": "",
@@ -93,7 +51,7 @@
       "date": "2026-10-31",
       "date_end": "2026-10-31",
       "time": "09:00",
-      "id": 4
+      "id": 2
     },
     {
       "title": "Mercat dels Encants",
@@ -114,10 +72,31 @@
       "date": "2026-10-31",
       "date_end": "2026-10-31",
       "time": "09:00",
-      "id": 5
+      "id": 3
     },
     {
-      "id": 6,
+      "id": 4,
+      "date": "2026-10-31",
+      "date_end": "",
+      "time": "11:00",
+      "title": "Twinkle, twinkle, baby’s star",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Concert per a nadons i petits de 0 fins a 5 anys (English & Català)",
+      "url": "https://www.palaumusica.cat/ca/twinkle-twinkle-baby-s-star_1646039",
+      "image": "https://www.palaumusica.cat/images/1215452/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 5,
       "date": "2026-10-31",
       "date_end": "",
       "time": "18:30",
@@ -156,10 +135,10 @@
       "date": "2026-11-01",
       "date_end": "2026-11-01",
       "time": "",
-      "id": 7
+      "id": 6
     },
     {
-      "id": 8,
+      "id": 7,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Un punt de claror",
@@ -178,7 +157,7 @@
       "source": "CCCB"
     },
     {
-      "id": 9,
+      "id": 8,
       "date": "2026-11-01",
       "time": "18:30",
       "title": "Emily Dickinson, una carta al món",
@@ -197,7 +176,7 @@
       "source": "CCCB"
     },
     {
-      "id": 10,
+      "id": 9,
       "date": "2026-11-02",
       "time": "10:00",
       "title": "Seminari amb Bonnie Honig",
@@ -216,7 +195,7 @@
       "source": "CCCB"
     },
     {
-      "id": 11,
+      "id": 10,
       "date": "2026-11-02",
       "time": "18:30",
       "title": "Bonnie Honig",
@@ -235,7 +214,7 @@
       "source": "CCCB"
     },
     {
-      "id": 12,
+      "id": 11,
       "date": "2026-11-03",
       "time": "18:30",
       "title": "Beirut: les ciutats i el mite de la resiliència",
@@ -272,10 +251,10 @@
       "date": "2026-11-04",
       "date_end": "2026-11-04",
       "time": "09:00",
-      "id": 13
+      "id": 12
     },
     {
-      "id": 14,
+      "id": 13,
       "date": "2026-11-04",
       "time": "18:30",
       "title": "El món com a manicomi",
@@ -294,7 +273,7 @@
       "source": "CCCB"
     },
     {
-      "id": 15,
+      "id": 14,
       "date": "2026-11-04",
       "date_end": "",
       "time": "20:00",
@@ -315,7 +294,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 16,
+      "id": 15,
       "date": "2026-11-05",
       "date_end": "",
       "time": "",
@@ -334,6 +313,25 @@
       "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/taller-de-cocteleria-ketel-one",
       "image": "https://media.timeout.com/images/106441420/750/422/image.jpg",
       "source": "Time Out Market Barcelona"
+    },
+    {
+      "id": 16,
+      "date": "2026-11-05",
+      "time": "18:00",
+      "title": "Ciutat jugable",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "5 de novembre 2026",
+      "url": "https://www.cccb.org/ca/w/activitats/ciutat-jugable",
+      "image": "https://www.cccb.org/documents/4284035/6555884/CIUTAT+JUGABLE.jpg/b3b68483-4453-b1de-802c-49d5c69e4971?version=1.0&t=1793364470844",
+      "source": "CCCB"
     },
     {
       "id": 17,
@@ -1313,7 +1311,28 @@
       "source": "CCCB"
     },
     {
-      "id": 66,
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-11-27",
+      "date_end": "2026-11-27",
+      "time": "09:00",
+      "id": 66
+    },
+    {
+      "id": 67,
       "date": "2026-11-27",
       "time": "18:30",
       "title": "Instal·lació «Send Me Colors: Mechanical Gestures to Preserve Flowers»",
@@ -1332,7 +1351,7 @@
       "source": "CCCB"
     },
     {
-      "id": 67,
+      "id": 68,
       "date": "2026-11-27",
       "time": "19:00",
       "title": "La mà",
@@ -1351,7 +1370,7 @@
       "source": "CCCB"
     },
     {
-      "id": 68,
+      "id": 69,
       "date": "2026-11-28",
       "time": "",
       "title": "Radial 4: underthepulse, Jana Jacuka, Carles Castaño i Sau-Ching Wong",
@@ -1370,7 +1389,7 @@
       "source": "CCCB"
     },
     {
-      "id": 69,
+      "id": 70,
       "date": "2026-11-28",
       "time": "19:00",
       "title": "L'ull",
@@ -1389,7 +1408,7 @@
       "source": "CCCB"
     },
     {
-      "id": 70,
+      "id": 71,
       "date": "2026-11-29",
       "time": "17:30",
       "title": "Masterclass «Més enllà de l’obsolescència: des d’una reconstrucció del color»",
@@ -1408,7 +1427,7 @@
       "source": "CCCB"
     },
     {
-      "id": 71,
+      "id": 72,
       "date": "2026-11-29",
       "time": "19:00",
       "title": "La llum",
@@ -1427,7 +1446,7 @@
       "source": "CCCB"
     },
     {
-      "id": 72,
+      "id": 73,
       "date": "2026-12-02",
       "time": "18:30",
       "title": "Dubai, el somni del segle XXI",
@@ -1446,7 +1465,7 @@
       "source": "CCCB"
     },
     {
-      "id": 73,
+      "id": 74,
       "date": "2026-12-03",
       "time": "12:00",
       "title": "Sobreviure a la calor. La ciutat i la crisi climàtica",
@@ -1465,7 +1484,7 @@
       "source": "CCCB"
     },
     {
-      "id": 74,
+      "id": 75,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -1484,7 +1503,7 @@
       "source": "CCCB"
     },
     {
-      "id": 75,
+      "id": 76,
       "date": "2026-12-03",
       "time": "18:30",
       "title": "Colum McCann",
@@ -1503,7 +1522,7 @@
       "source": "CCCB"
     },
     {
-      "id": 76,
+      "id": 77,
       "date": "2026-12-04",
       "time": "12:00",
       "title": "El poder de compartir les nostres històries",
@@ -1522,7 +1541,7 @@
       "source": "CCCB"
     },
     {
-      "id": 77,
+      "id": 78,
       "date": "2026-12-04",
       "time": "20:00",
       "title": "Descasada de Magalí Sare",
@@ -1541,7 +1560,7 @@
       "source": "CCCB"
     },
     {
-      "id": 78,
+      "id": 79,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -1560,7 +1579,7 @@
       "source": "CCCB"
     },
     {
-      "id": 79,
+      "id": 80,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1579,7 +1598,7 @@
       "source": "CCCB"
     },
     {
-      "id": 80,
+      "id": 81,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -1598,7 +1617,7 @@
       "source": "CCCB"
     },
     {
-      "id": 81,
+      "id": 82,
       "date": "2026-12-15",
       "time": "19:00",
       "title": "Digues que m'estimes, Montserrat Roig",
@@ -1617,7 +1636,7 @@
       "source": "CCCB"
     },
     {
-      "id": 82,
+      "id": 83,
       "date": "2026-12-16",
       "time": "18:30",
       "title": "«Imaginar la fi», d'Eudald Espluga",
@@ -1636,7 +1655,7 @@
       "source": "CCCB"
     },
     {
-      "id": 83,
+      "id": 84,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1655,7 +1674,7 @@
       "source": "CCCB"
     },
     {
-      "id": 84,
+      "id": 85,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1674,7 +1693,7 @@
       "source": "CCCB"
     },
     {
-      "id": 85,
+      "id": 86,
       "date": "2027-01-22",
       "time": "11:30",
       "title": "Anem al circ!",
@@ -1693,7 +1712,7 @@
       "source": "CCCB"
     },
     {
-      "id": 86,
+      "id": 87,
       "date": "2027-03-31",
       "date_end": "",
       "time": "",
@@ -1715,7 +1734,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 87,
+      "id": 88,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
@@ -1734,7 +1753,7 @@
       "source": "CCCB"
     },
     {
-      "id": 88,
+      "id": 89,
       "date": "2027-07-01",
       "date_end": "",
       "time": "",
