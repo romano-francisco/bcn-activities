@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:34:17.647950",
+  "generated_at": "2026-11-03T07:48:28.545389",
   "sources": [
     "cccb",
     "damm",
@@ -32,65 +32,6 @@
     },
     {
       "id": 2,
-      "date": "2026-11-02",
-      "time": "10:00",
-      "title": "Seminari amb Bonnie Honig",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "2 de novembre 2026 Debats",
-      "url": "https://www.cccb.org/ca/w/activitats/seminari-amb-bonnie-honig",
-      "image": "https://www.cccb.org/documents/5316589/7695478/Seminari+Bonnie+Honig.jpg/d5d1bc0c-1e40-6f0a-91f0-e85e390de04a?version=1.0&t=1791277027625",
-      "source": "CCCB"
-    },
-    {
-      "id": 3,
-      "date": "2026-11-02",
-      "time": "18:30",
-      "title": "Bonnie Honig",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "2 de novembre 2026 Debats",
-      "url": "https://www.cccb.org/ca/w/activitats/conferencia-de-bonnie-honig",
-      "image": "https://www.cccb.org/documents/4284035/6555884/Bonnie+Honig_+1920x1080.jpg/c97115f7-d82c-c2cb-e8ee-c872f5f9406f?version=1.0&t=1791295383606",
-      "source": "CCCB"
-    },
-    {
-      "id": 4,
-      "date": "2026-11-02",
-      "date_end": "",
-      "time": "19:30",
-      "title": "The Beatles, Queen, ABBA by Délica",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "",
-      "url": "https://www.palaumusica.cat/ca/the-beatles-queen-abba-by-delica_1146861",
-      "image": "https://www.palaumusica.cat/images/1451318/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 5,
       "date": "2026-11-03",
       "time": "18:30",
       "title": "Beirut: les ciutats i el mite de la resiliència",
@@ -107,6 +48,48 @@
       "url": "https://www.cccb.org/ca/w/activitats/beirut-el-mite-de-la-resiliencia",
       "image": "https://www.cccb.org/documents/4284035/6523845/Beirut_Camille+Ammoun_1920x1080.jpg/16ba4b79-25d0-292a-6161-dd5166c74980?version=1.0&t=1791214743990",
       "source": "CCCB"
+    },
+    {
+      "id": 3,
+      "date": "2026-11-03",
+      "date_end": "",
+      "time": "19:30",
+      "title": "Quartet Gerhard",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Integral de Quartets de Xostakóvitx (I)",
+      "url": "https://www.palaumusica.cat/ca/quartet-gerhard_1623940",
+      "image": "https://www.palaumusica.cat/images/1623939/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 4,
+      "date": "2026-11-03",
+      "date_end": "",
+      "time": "20:30",
+      "title": "Branford Marsalis Quartet & Dianne Reeves",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Celebrate John Coltrane",
+      "url": "https://www.palaumusica.cat/ca/branford-marsalis-quartet-dianne-reeves_1574263",
+      "image": "https://www.palaumusica.cat/images/1574253/image_column.png",
+      "source": "Palau de la Música"
     },
     {
       "title": "Mercat dels Encants",
@@ -127,10 +110,10 @@
       "date": "2026-11-04",
       "date_end": "2026-11-04",
       "time": "09:00",
-      "id": 6
+      "id": 5
     },
     {
-      "id": 7,
+      "id": 6,
       "date": "2026-11-04",
       "time": "18:30",
       "title": "El món com a manicomi",
@@ -149,7 +132,7 @@
       "source": "CCCB"
     },
     {
-      "id": 8,
+      "id": 7,
       "date": "2026-11-04",
       "date_end": "",
       "time": "20:00",
@@ -170,7 +153,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 9,
+      "id": 8,
       "date": "2026-11-05",
       "date_end": "",
       "time": "",
@@ -191,7 +174,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 10,
+      "id": 9,
       "date": "2026-11-05",
       "time": "18:00",
       "title": "Ciutat jugable",
@@ -210,7 +193,7 @@
       "source": "CCCB"
     },
     {
-      "id": 11,
+      "id": 10,
       "date": "2026-11-06",
       "date_end": "",
       "time": "",
@@ -249,10 +232,10 @@
       "date": "2026-11-06",
       "date_end": "2026-11-06",
       "time": "09:00",
-      "id": 12
+      "id": 11
     },
     {
-      "id": 13,
+      "id": 12,
       "date": "2026-11-06",
       "time": "18:30",
       "title": "Una cara feta de píxels",
@@ -271,7 +254,7 @@
       "source": "CCCB"
     },
     {
-      "id": 14,
+      "id": 13,
       "date": "2026-11-06",
       "time": "19:30",
       "title": "Radial 3: Andrea El Ameri, Panzetti/Ticconi i Camilo Mejía",
@@ -308,7 +291,7 @@
       "date": "2026-11-07",
       "date_end": "2026-11-07",
       "time": "09:00",
-      "id": 15
+      "id": 14
     },
     {
       "title": "Mercat dels Encants",
@@ -329,10 +312,10 @@
       "date": "2026-11-07",
       "date_end": "2026-11-07",
       "time": "09:00",
-      "id": 16
+      "id": 15
     },
     {
-      "id": 17,
+      "id": 16,
       "date": "2026-11-07",
       "time": "11:00",
       "title": "Cos, algoritme, imatge",
@@ -351,7 +334,7 @@
       "source": "CCCB"
     },
     {
-      "id": 18,
+      "id": 17,
       "date": "2026-11-07",
       "time": "12:00",
       "title": "Visita comentada a l’Hivernacle, a càrrec d’Enric Orús",
@@ -370,7 +353,7 @@
       "source": "CCCB"
     },
     {
-      "id": 19,
+      "id": 18,
       "date": "2026-11-07",
       "time": "18:30",
       "title": "Desig, somni, èxit, despesa",
@@ -407,10 +390,10 @@
       "date": "2026-11-08",
       "date_end": "2026-11-08",
       "time": "",
-      "id": 20
+      "id": 19
     },
     {
-      "id": 21,
+      "id": 20,
       "date": "2026-11-08",
       "time": "18:30",
       "title": "És aquest el meu cos?",
@@ -429,7 +412,7 @@
       "source": "CCCB"
     },
     {
-      "id": 22,
+      "id": 21,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Michel Foucault",
@@ -448,7 +431,7 @@
       "source": "CCCB"
     },
     {
-      "id": 23,
+      "id": 22,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Foucault, avui",
@@ -467,7 +450,7 @@
       "source": "CCCB"
     },
     {
-      "id": 24,
+      "id": 23,
       "date": "2026-11-09",
       "date_end": "",
       "time": "20:00",
@@ -488,7 +471,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 25,
+      "id": 24,
       "date": "2026-11-10",
       "time": "12:00",
       "title": "Literatura i solidaritat",
@@ -507,7 +490,7 @@
       "source": "CCCB"
     },
     {
-      "id": 26,
+      "id": 25,
       "date": "2026-11-10",
       "time": "18:30",
       "title": "El món que vindrà",
@@ -544,10 +527,10 @@
       "date": "2026-11-11",
       "date_end": "2026-11-11",
       "time": "09:00",
-      "id": 27
+      "id": 26
     },
     {
-      "id": 28,
+      "id": 27,
       "date": "2026-11-12",
       "time": "",
       "title": "L'Alternativa 2026",
@@ -566,7 +549,7 @@
       "source": "CCCB"
     },
     {
-      "id": 29,
+      "id": 28,
       "date": "2026-11-12",
       "time": "18:00",
       "title": "In Which Annie Gives It Those Ones",
@@ -603,7 +586,7 @@
       "date": "2026-11-13",
       "date_end": "2026-11-13",
       "time": "09:00",
-      "id": 30
+      "id": 29
     },
     {
       "title": "Mercat de Glòries",
@@ -624,7 +607,7 @@
       "date": "2026-11-14",
       "date_end": "2026-11-14",
       "time": "09:00",
-      "id": 31
+      "id": 30
     },
     {
       "title": "Mercat dels Encants",
@@ -645,10 +628,10 @@
       "date": "2026-11-14",
       "date_end": "2026-11-14",
       "time": "09:00",
-      "id": 32
+      "id": 31
     },
     {
-      "id": 33,
+      "id": 32,
       "date": "2026-11-14",
       "time": "10:00",
       "title": "Caminar, escriure",
@@ -667,7 +650,7 @@
       "source": "CCCB"
     },
     {
-      "id": 34,
+      "id": 33,
       "date": "2026-11-14",
       "time": "18:30",
       "title": "Mohammed el-Kurd i Mariam Barghouti",
@@ -686,7 +669,7 @@
       "source": "CCCB"
     },
     {
-      "id": 35,
+      "id": 34,
       "date": "2026-11-14",
       "time": "20:15",
       "title": "Cine-concert: Palestina, una narrativa revisada",
@@ -723,10 +706,10 @@
       "date": "2026-11-15",
       "date_end": "2026-11-15",
       "time": "",
-      "id": 36
+      "id": 35
     },
     {
-      "id": 37,
+      "id": 36,
       "date": "2026-11-16",
       "time": "18:30",
       "title": "El Rif, diàspora i reconstrucció",
@@ -745,7 +728,7 @@
       "source": "CCCB"
     },
     {
-      "id": 38,
+      "id": 37,
       "date": "2026-11-17",
       "time": "18:30",
       "title": "Pot la cultura reescriure el Rif?",
@@ -764,7 +747,7 @@
       "source": "CCCB"
     },
     {
-      "id": 39,
+      "id": 38,
       "date": "2026-11-17",
       "date_end": "",
       "time": "20:00",
@@ -803,10 +786,10 @@
       "date": "2026-11-18",
       "date_end": "2026-11-18",
       "time": "09:00",
-      "id": 40
+      "id": 39
     },
     {
-      "id": 41,
+      "id": 40,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -825,7 +808,7 @@
       "source": "CCCB"
     },
     {
-      "id": 42,
+      "id": 41,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "Beirut, la ciutat i el col·lapse",
@@ -844,7 +827,7 @@
       "source": "CCCB"
     },
     {
-      "id": 43,
+      "id": 42,
       "date": "2026-11-18",
       "date_end": "",
       "time": "19:00",
@@ -865,7 +848,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 44,
+      "id": 43,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -884,7 +867,7 @@
       "source": "CCCB"
     },
     {
-      "id": 45,
+      "id": 44,
       "date": "2026-11-19",
       "time": "18:30",
       "title": "Scholastique Mukasonga",
@@ -921,10 +904,10 @@
       "date": "2026-11-20",
       "date_end": "2026-11-20",
       "time": "09:00",
-      "id": 46
+      "id": 45
     },
     {
-      "id": 47,
+      "id": 46,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -961,7 +944,7 @@
       "date": "2026-11-21",
       "date_end": "2026-11-21",
       "time": "09:00",
-      "id": 48
+      "id": 47
     },
     {
       "title": "Mercat dels Encants",
@@ -982,7 +965,28 @@
       "date": "2026-11-21",
       "date_end": "2026-11-21",
       "time": "09:00",
-      "id": 49
+      "id": 48
+    },
+    {
+      "id": 49,
+      "date": "2026-11-21",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Daniel Hope",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "L’ànima del violí, de Dvořák a Franck",
+      "url": "https://www.palaumusica.cat/ca/daniel-hope_1696133",
+      "image": "https://www.palaumusica.cat/images/1696063/image_column.jpg",
+      "source": "Palau de la Música"
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
