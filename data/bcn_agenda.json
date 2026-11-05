@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:26:01.389311",
+  "generated_at": "2026-11-05T07:52:15.155549",
   "sources": [
     "cccb",
     "damm",
@@ -9,7 +9,7 @@
     "grec",
     "santpau"
   ],
-  "total": 84,
+  "total": 86,
   "events": [
     {
       "id": 1,
@@ -31,28 +31,7 @@
       "source": "CCCB"
     },
     {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-11-04",
-      "date_end": "2026-11-04",
-      "time": "09:00",
-      "id": 2
-    },
-    {
-      "id": 3,
+      "id": 2,
       "date": "2026-11-04",
       "time": "18:30",
       "title": "El món com a manicomi",
@@ -71,28 +50,7 @@
       "source": "CCCB"
     },
     {
-      "id": 4,
-      "date": "2026-11-04",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Ensemble Pygmalion & Pichon",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Missa en Do menor de Mozart",
-      "url": "https://www.palaumusica.cat/ca/ensemble-pygmalion-pichon_1586384",
-      "image": "https://www.palaumusica.cat/images/1586988/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 5,
+      "id": 3,
       "date": "2026-11-05",
       "date_end": "",
       "time": "",
@@ -113,7 +71,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 6,
+      "id": 4,
       "date": "2026-11-05",
       "time": "18:00",
       "title": "Ciutat jugable",
@@ -126,10 +84,52 @@
       "tags": [
         "culture"
       ],
-      "desc": "5 de novembre 2026",
+      "desc": "5 de novembre 2026 Debats",
       "url": "https://www.cccb.org/ca/w/activitats/ciutat-jugable",
       "image": "https://www.cccb.org/documents/4284035/6555884/CIUTAT+JUGABLE.jpg/b3b68483-4453-b1de-802c-49d5c69e4971?version=1.0&t=1793364470844",
       "source": "CCCB"
+    },
+    {
+      "id": 5,
+      "date": "2026-11-05",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Benjamin Alard & friends",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Falla i la reinvenció del clavecí",
+      "url": "https://www.palaumusica.cat/ca/benjamin-alard-friends_1624005",
+      "image": "https://www.palaumusica.cat/images/1624004/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 6,
+      "date": "2026-11-06",
+      "date_end": "",
+      "time": "",
+      "title": "Language Exchange Barcelona",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "food",
+      "free": false,
+      "price": "",
+      "emoji": "🍜",
+      "bg": "#EBF5E8",
+      "tags": [
+        "food"
+      ],
+      "desc": "Want to practise English, French or any other language, but can't face studying grammar? At Time Out Market Barcelona, we've got a much better idea: learn through conversation, with a drink in hand and surrounded by people from all over the world. Throughout November, we're teaming up with Barcelona Language Exchange to turn Fridays into a meeting point for anyone looking to practise languages, make new friends and discover different cultures.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/language-exchange-barcelona",
+      "image": "https://media.timeout.com/images/106464235/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "id": 7,
@@ -307,7 +307,7 @@
       ],
       "desc": "7 de novembre 2026 Accessible",
       "url": "https://www.cccb.org/ca/w/activitats/manifestos-filmics-feministes-xii-2",
-      "image": "https://www.cccb.org/documents/5316589/7719720/HairPiece+Ayoka+Chenzira+%281%29.png/0cb15095-d73a-e5be-dfd0-5505456bca9d?version=1.0&t=1791966711273",
+      "image": "https://www.cccb.org/documents/4284035/6555893/Desig%2C+somni%2C+%C3%A8xit%2C+despesa.+MFF+XII+%281%29.png/cadcf866-f696-67bc-80db-7e38cbfd64c6?version=1.0&t=1793779566494",
       "source": "CCCB"
     },
     {
@@ -347,7 +347,7 @@
       ],
       "desc": "8 de novembre 2026 Accessible",
       "url": "https://www.cccb.org/ca/w/activitats/manifestos-filmics-feministes-xii-1",
-      "image": "https://www.cccb.org/documents/5316589/7719742/Corbes+Gracioses+Kiti+L.png/ff28a214-4fae-5905-4fae-c36f482a0fd2?version=1.0&t=1791967138892",
+      "image": "https://www.cccb.org/documents/4284035/6555893/Es+aquest+el+meu+cos.+MFF+XII+%281%29.png/afd0a52b-87b3-6e00-f8ee-acb2b3717cbd?version=1.0&t=1793780624323",
       "source": "CCCB"
     },
     {
@@ -686,27 +686,6 @@
       "source": "CCCB"
     },
     {
-      "id": 35,
-      "date": "2026-11-17",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Roberts Balanas, un viatge entre el violí i l’electrònica",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Radiohead, Björk, Steve Reich & Sílvia Pérez Cruz",
-      "url": "https://www.palaumusica.cat/ca/roberts-balanas-un-viatge-entre-el-violi-i-l-electronica_1696048",
-      "image": "https://www.palaumusica.cat/images/1696010/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
       "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
@@ -725,10 +704,10 @@
       "date": "2026-11-18",
       "date_end": "2026-11-18",
       "time": "09:00",
-      "id": 36
+      "id": 35
     },
     {
-      "id": 37,
+      "id": 36,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -747,7 +726,7 @@
       "source": "CCCB"
     },
     {
-      "id": 38,
+      "id": 37,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "Beirut, la ciutat i el col·lapse",
@@ -766,7 +745,7 @@
       "source": "CCCB"
     },
     {
-      "id": 39,
+      "id": 38,
       "date": "2026-11-18",
       "date_end": "",
       "time": "19:00",
@@ -787,7 +766,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 40,
+      "id": 39,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -806,7 +785,7 @@
       "source": "CCCB"
     },
     {
-      "id": 41,
+      "id": 40,
       "date": "2026-11-19",
       "time": "18:30",
       "title": "Scholastique Mukasonga",
@@ -843,10 +822,10 @@
       "date": "2026-11-20",
       "date_end": "2026-11-20",
       "time": "09:00",
-      "id": 42
+      "id": 41
     },
     {
-      "id": 43,
+      "id": 42,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -863,6 +842,27 @@
       "url": "https://www.cccb.org/ca/w/activitats/gravada-escrita-pronunciada",
       "image": "https://www.cccb.org/documents/4284035/7219547/Gently-Down-the-Stream_-Su-Friedrich_webCCCB.jpg/a9eb8831-4e8e-d4b5-5d9a-3626d6674eb7?version=1.0&t=1783339356792",
       "source": "CCCB"
+    },
+    {
+      "id": 43,
+      "date": "2026-11-21",
+      "date_end": "",
+      "time": "",
+      "title": "Board Games x KLEFF",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "food",
+      "free": false,
+      "price": "",
+      "emoji": "🍜",
+      "bg": "#EBF5E8",
+      "tags": [
+        "food"
+      ],
+      "desc": "If playing cards (or any other board game) is your weakness – not because you keep losing, but because you could spend hours playing and forget about everything else – come to Time Out Market Barcelona and let the hours fly by. This November, we're teaming up with KLEFF to host two evenings of games, meeting new people and having a great time. Come along with your friends or on your own, because you're sure to find someone to share a table with.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/jocs-de-taula-x-kleff",
+      "image": "https://media.timeout.com/images/106464232/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat de Glòries",
@@ -1328,7 +1328,28 @@
       "source": "CCCB"
     },
     {
-      "id": 67,
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-12-02",
+      "date_end": "2026-12-02",
+      "time": "09:00",
+      "id": 67
+    },
+    {
+      "id": 68,
       "date": "2026-12-02",
       "time": "18:30",
       "title": "Dubai, el somni del segle XXI",
@@ -1347,7 +1368,7 @@
       "source": "CCCB"
     },
     {
-      "id": 68,
+      "id": 69,
       "date": "2026-12-03",
       "time": "12:00",
       "title": "Sobreviure a la calor. La ciutat i la crisi climàtica",
@@ -1366,7 +1387,7 @@
       "source": "CCCB"
     },
     {
-      "id": 69,
+      "id": 70,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -1385,7 +1406,7 @@
       "source": "CCCB"
     },
     {
-      "id": 70,
+      "id": 71,
       "date": "2026-12-03",
       "time": "18:30",
       "title": "Colum McCann",
@@ -1404,7 +1425,7 @@
       "source": "CCCB"
     },
     {
-      "id": 71,
+      "id": 72,
       "date": "2026-12-04",
       "time": "12:00",
       "title": "El poder de compartir les nostres històries",
@@ -1423,7 +1444,7 @@
       "source": "CCCB"
     },
     {
-      "id": 72,
+      "id": 73,
       "date": "2026-12-04",
       "time": "20:00",
       "title": "Descasada de Magalí Sare",
@@ -1442,7 +1463,7 @@
       "source": "CCCB"
     },
     {
-      "id": 73,
+      "id": 74,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -1461,7 +1482,7 @@
       "source": "CCCB"
     },
     {
-      "id": 74,
+      "id": 75,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1480,7 +1501,7 @@
       "source": "CCCB"
     },
     {
-      "id": 75,
+      "id": 76,
       "date": "2026-12-13",
       "time": "6 de novembre - 13 de desembre 2026",
       "title": "World Press Photo 2026",
@@ -1499,7 +1520,7 @@
       "source": "CCCB"
     },
     {
-      "id": 76,
+      "id": 77,
       "date": "2026-12-15",
       "time": "19:00",
       "title": "Digues que m'estimes, Montserrat Roig",
@@ -1518,7 +1539,7 @@
       "source": "CCCB"
     },
     {
-      "id": 77,
+      "id": 78,
       "date": "2026-12-16",
       "time": "18:30",
       "title": "«Imaginar la fi», d'Eudald Espluga",
@@ -1537,7 +1558,7 @@
       "source": "CCCB"
     },
     {
-      "id": 78,
+      "id": 79,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1556,7 +1577,7 @@
       "source": "CCCB"
     },
     {
-      "id": 79,
+      "id": 80,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1575,7 +1596,7 @@
       "source": "CCCB"
     },
     {
-      "id": 80,
+      "id": 81,
       "date": "2026-12-28",
       "date_end": "",
       "time": "20:30",
@@ -1596,7 +1617,28 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 81,
+      "id": 82,
+      "date": "2027-01-15",
+      "date_end": "",
+      "time": "",
+      "title": "Time Out Market Foodie Christmas Gift Card",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "food",
+      "free": false,
+      "price": "",
+      "emoji": "🍜",
+      "bg": "#EBF5E8",
+      "tags": [
+        "food"
+      ],
+      "desc": "This Christmas, we want you to give much more than just a meal: a culinary experience to enjoy, share and remember. That's why, at Time Out Market Barcelona, we've prepared our €30, €50 and €80 gift cards, perfect for surprising anyone who loves good food.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/time-out-market-foodie-christmas-gift-card",
+      "image": "https://media.timeout.com/images/106353483/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
+    },
+    {
+      "id": 83,
       "date": "2027-01-22",
       "time": "11:30",
       "title": "Anem al circ!",
@@ -1615,7 +1657,7 @@
       "source": "CCCB"
     },
     {
-      "id": 82,
+      "id": 84,
       "date": "2027-03-31",
       "date_end": "",
       "time": "",
@@ -1637,7 +1679,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 83,
+      "id": 85,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
@@ -1656,7 +1698,7 @@
       "source": "CCCB"
     },
     {
-      "id": 84,
+      "id": 86,
       "date": "2027-07-01",
       "date_end": "",
       "time": "",
