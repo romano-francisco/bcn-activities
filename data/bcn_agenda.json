@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T07:39:54.161396",
+  "generated_at": "2026-11-12T08:06:40.819404",
   "sources": [
     "cccb",
     "damm",
@@ -9,7 +9,7 @@
     "grec",
     "santpau"
   ],
-  "total": 75,
+  "total": 76,
   "events": [
     {
       "id": 1,
@@ -69,49 +69,7 @@
       "source": "CCCB"
     },
     {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-11-11",
-      "date_end": "2026-11-11",
-      "time": "09:00",
-      "id": 4
-    },
-    {
-      "id": 5,
-      "date": "2026-11-11",
-      "date_end": "",
-      "time": "19:00",
-      "title": "Kebyart & La Camerata",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Mozart i Txaikovski",
-      "url": "https://www.palaumusica.cat/ca/kebyart-la-camerata_1623668",
-      "image": "https://www.palaumusica.cat/images/1623667/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 6,
+      "id": 4,
       "date": "2026-11-12",
       "time": "",
       "title": "L'Alternativa 2026",
@@ -130,7 +88,7 @@
       "source": "CCCB"
     },
     {
-      "id": 7,
+      "id": 5,
       "date": "2026-11-12",
       "time": "18:00",
       "title": "In Which Annie Gives It Those Ones",
@@ -147,6 +105,48 @@
       "url": "https://www.cccb.org/ca/w/activitats/in-which-annie-gives-it-those-ones",
       "image": "https://www.cccb.org/documents/4284035/6555893/In+Which+Annie+gives+it+those+ones+film+still.jpg/573b2392-237b-a5f2-400b-4a14ee68e5b0?version=1.0&t=1792483260397",
       "source": "CCCB"
+    },
+    {
+      "id": 6,
+      "date": "2026-11-12",
+      "date_end": "",
+      "time": "19:30",
+      "title": "Frames Percussion",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Primary colours d’Agustí Charles",
+      "url": "https://www.palaumusica.cat/ca/frames-percussion_1623895",
+      "image": "https://www.palaumusica.cat/images/1623894/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 7,
+      "date": "2026-11-12",
+      "date_end": "",
+      "time": "21:00",
+      "title": "Bowie Experience",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Blackstars",
+      "url": "https://www.palaumusica.cat/ca/bowie-experience_1667392",
+      "image": "https://www.palaumusica.cat/images/1669693/image_column.jpg",
+      "source": "Palau de la Música"
     },
     {
       "title": "Mercat dels Encants",
@@ -1267,7 +1267,28 @@
       "id": 63
     },
     {
-      "id": 64,
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-12-09",
+      "date_end": "2026-12-09",
+      "time": "09:00",
+      "id": 64
+    },
+    {
+      "id": 65,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -1286,7 +1307,7 @@
       "source": "CCCB"
     },
     {
-      "id": 65,
+      "id": 66,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1305,7 +1326,7 @@
       "source": "CCCB"
     },
     {
-      "id": 66,
+      "id": 67,
       "date": "2026-12-15",
       "time": "19:00",
       "title": "Digues que m'estimes, Montserrat Roig",
@@ -1324,7 +1345,7 @@
       "source": "CCCB"
     },
     {
-      "id": 67,
+      "id": 68,
       "date": "2026-12-16",
       "time": "18:30",
       "title": "«Imaginar la fi», d'Eudald Espluga",
@@ -1343,7 +1364,7 @@
       "source": "CCCB"
     },
     {
-      "id": 68,
+      "id": 69,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1362,7 +1383,7 @@
       "source": "CCCB"
     },
     {
-      "id": 69,
+      "id": 70,
       "date": "2026-12-18",
       "date_end": "",
       "time": "",
@@ -1383,7 +1404,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 70,
+      "id": 71,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1402,7 +1423,7 @@
       "source": "CCCB"
     },
     {
-      "id": 71,
+      "id": 72,
       "date": "2027-01-15",
       "date_end": "",
       "time": "",
@@ -1423,7 +1444,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 72,
+      "id": 73,
       "date": "2027-01-22",
       "time": "11:30",
       "title": "Anem al circ!",
@@ -1442,7 +1463,7 @@
       "source": "CCCB"
     },
     {
-      "id": 73,
+      "id": 74,
       "date": "2027-03-31",
       "date_end": "",
       "time": "",
@@ -1464,7 +1485,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 74,
+      "id": 75,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
@@ -1483,7 +1504,7 @@
       "source": "CCCB"
     },
     {
-      "id": 75,
+      "id": 76,
       "date": "2027-07-01",
       "date_end": "",
       "time": "",
