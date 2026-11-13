@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T08:06:40.819404",
+  "generated_at": "2026-11-13T07:46:04.991071",
   "sources": [
     "cccb",
     "damm",
@@ -9,7 +9,7 @@
     "grec",
     "santpau"
   ],
-  "total": 76,
+  "total": 78,
   "events": [
     {
       "id": 1,
@@ -88,67 +88,6 @@
       "source": "CCCB"
     },
     {
-      "id": 5,
-      "date": "2026-11-12",
-      "time": "18:00",
-      "title": "In Which Annie Gives It Those Ones",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "12 de novembre 2026 Audiovisuals",
-      "url": "https://www.cccb.org/ca/w/activitats/in-which-annie-gives-it-those-ones",
-      "image": "https://www.cccb.org/documents/4284035/6555893/In+Which+Annie+gives+it+those+ones+film+still.jpg/573b2392-237b-a5f2-400b-4a14ee68e5b0?version=1.0&t=1792483260397",
-      "source": "CCCB"
-    },
-    {
-      "id": 6,
-      "date": "2026-11-12",
-      "date_end": "",
-      "time": "19:30",
-      "title": "Frames Percussion",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Primary colours d’Agustí Charles",
-      "url": "https://www.palaumusica.cat/ca/frames-percussion_1623895",
-      "image": "https://www.palaumusica.cat/images/1623894/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 7,
-      "date": "2026-11-12",
-      "date_end": "",
-      "time": "21:00",
-      "title": "Bowie Experience",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Blackstars",
-      "url": "https://www.palaumusica.cat/ca/bowie-experience_1667392",
-      "image": "https://www.palaumusica.cat/images/1669693/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
       "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
@@ -167,7 +106,28 @@
       "date": "2026-11-13",
       "date_end": "2026-11-13",
       "time": "09:00",
-      "id": 8
+      "id": 5
+    },
+    {
+      "id": 6,
+      "date": "2026-11-13",
+      "date_end": "",
+      "time": "21:00",
+      "title": "Samara Joy",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/samara-joy_1629475",
+      "image": "https://www.palaumusica.cat/images/1629474/image_column.jpg",
+      "source": "Palau de la Música"
     },
     {
       "title": "Mercat de Glòries",
@@ -188,7 +148,7 @@
       "date": "2026-11-14",
       "date_end": "2026-11-14",
       "time": "09:00",
-      "id": 9
+      "id": 7
     },
     {
       "title": "Mercat dels Encants",
@@ -209,10 +169,10 @@
       "date": "2026-11-14",
       "date_end": "2026-11-14",
       "time": "09:00",
-      "id": 10
+      "id": 8
     },
     {
-      "id": 11,
+      "id": 9,
       "date": "2026-11-14",
       "time": "10:00",
       "title": "Caminar, escriure",
@@ -231,7 +191,7 @@
       "source": "CCCB"
     },
     {
-      "id": 12,
+      "id": 10,
       "date": "2026-11-14",
       "time": "18:30",
       "title": "Mohammed el-Kurd i Mariam Barghouti",
@@ -250,7 +210,7 @@
       "source": "CCCB"
     },
     {
-      "id": 13,
+      "id": 11,
       "date": "2026-11-14",
       "time": "20:15",
       "title": "Cine-concert: Palestina, una narrativa revisada",
@@ -287,10 +247,10 @@
       "date": "2026-11-15",
       "date_end": "2026-11-15",
       "time": "",
-      "id": 14
+      "id": 12
     },
     {
-      "id": 15,
+      "id": 13,
       "date": "2026-11-16",
       "time": "18:30",
       "title": "El Rif, diàspora i reconstrucció",
@@ -309,7 +269,7 @@
       "source": "CCCB"
     },
     {
-      "id": 16,
+      "id": 14,
       "date": "2026-11-17",
       "time": "18:30",
       "title": "Pot la cultura reescriure el Rif?",
@@ -346,10 +306,10 @@
       "date": "2026-11-18",
       "date_end": "2026-11-18",
       "time": "09:00",
-      "id": 17
+      "id": 15
     },
     {
-      "id": 18,
+      "id": 16,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "Beirut, la ciutat i el col·lapse",
@@ -368,7 +328,7 @@
       "source": "CCCB"
     },
     {
-      "id": 19,
+      "id": 17,
       "date": "2026-11-18",
       "time": "18:30",
       "title": "«MANIAC», de Benjamin Labatut",
@@ -387,7 +347,7 @@
       "source": "CCCB"
     },
     {
-      "id": 20,
+      "id": 18,
       "date": "2026-11-18",
       "date_end": "",
       "time": "19:00",
@@ -408,7 +368,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 21,
+      "id": 19,
       "date": "2026-11-19",
       "time": "12:00",
       "title": "Escriure contra l'oblit",
@@ -427,7 +387,7 @@
       "source": "CCCB"
     },
     {
-      "id": 22,
+      "id": 20,
       "date": "2026-11-19",
       "time": "18:30",
       "title": "Scholastique Mukasonga",
@@ -464,10 +424,10 @@
       "date": "2026-11-20",
       "date_end": "2026-11-20",
       "time": "09:00",
-      "id": 23
+      "id": 21
     },
     {
-      "id": 24,
+      "id": 22,
       "date": "2026-11-20",
       "time": "18:30",
       "title": "Gravada, escrita, pronunciada",
@@ -486,7 +446,7 @@
       "source": "CCCB"
     },
     {
-      "id": 25,
+      "id": 23,
       "date": "2026-11-21",
       "date_end": "",
       "time": "",
@@ -525,7 +485,7 @@
       "date": "2026-11-21",
       "date_end": "2026-11-21",
       "time": "09:00",
-      "id": 26
+      "id": 24
     },
     {
       "title": "Mercat dels Encants",
@@ -546,10 +506,10 @@
       "date": "2026-11-21",
       "date_end": "2026-11-21",
       "time": "09:00",
-      "id": 27
+      "id": 25
     },
     {
-      "id": 28,
+      "id": 26,
       "date": "2026-11-21",
       "date_end": "",
       "time": "18:30",
@@ -588,10 +548,10 @@
       "date": "2026-11-22",
       "date_end": "2026-11-22",
       "time": "",
-      "id": 29
+      "id": 27
     },
     {
-      "id": 30,
+      "id": 28,
       "date": "2026-11-22",
       "date_end": "",
       "time": "17:30",
@@ -612,7 +572,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 31,
+      "id": 29,
       "date": "2026-11-23",
       "time": "11:00",
       "title": "Les ciutats i la calor extrema: el cas del golf Pèrsic i els límits de l’adaptació",
@@ -631,7 +591,7 @@
       "source": "CCCB"
     },
     {
-      "id": 32,
+      "id": 30,
       "date": "2026-11-23",
       "date_end": "",
       "time": "20:00",
@@ -652,7 +612,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 33,
+      "id": 31,
       "date": "2026-11-24",
       "time": "18:30",
       "title": "Permagel o les múltiples cares d’una transformació",
@@ -671,7 +631,7 @@
       "source": "CCCB"
     },
     {
-      "id": 34,
+      "id": 32,
       "date": "2026-11-24",
       "time": "19:00",
       "title": "Visita comentada a l’exposició «World Press Photo 2026»",
@@ -690,7 +650,7 @@
       "source": "CCCB"
     },
     {
-      "id": 35,
+      "id": 33,
       "date": "2026-11-25",
       "date_end": "",
       "time": "",
@@ -729,10 +689,10 @@
       "date": "2026-11-25",
       "date_end": "2026-11-25",
       "time": "09:00",
-      "id": 36
+      "id": 34
     },
     {
-      "id": 37,
+      "id": 35,
       "date": "2026-11-25",
       "time": "19:00",
       "title": "Inauguració de «L’era atòmica»",
@@ -751,7 +711,28 @@
       "source": "CCCB"
     },
     {
-      "id": 38,
+      "id": 36,
+      "date": "2026-11-26",
+      "date_end": "",
+      "time": "",
+      "title": "Blind Wine Tasting at Time Out Market",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "food",
+      "free": false,
+      "price": "",
+      "emoji": "🍜",
+      "bg": "#EBF5E8",
+      "tags": [
+        "food"
+      ],
+      "desc": "Do you all want to put your wine connoisseur skills to the test? Join us at Time Out Market Barcelona for a blind tasting by Petit Celler and Familia Torres for only €6.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/blind-wine-tasting-at-time-out-market",
+      "image": "https://media.timeout.com/images/106329737/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
+    },
+    {
+      "id": 37,
       "date": "2026-11-26",
       "time": "17:30",
       "title": "Visita comentada a l’exposició «Dana Lixenberg. American Images», KBr Fundación Mapfre",
@@ -770,7 +751,7 @@
       "source": "CCCB"
     },
     {
-      "id": 39,
+      "id": 38,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -807,10 +788,10 @@
       "date": "2026-11-27",
       "date_end": "2026-11-27",
       "time": "09:00",
-      "id": 40
+      "id": 39
     },
     {
-      "id": 41,
+      "id": 40,
       "date": "2026-11-27",
       "time": "18:30",
       "title": "Instal·lació «Send Me Colors: Mechanical Gestures to Preserve Flowers»",
@@ -829,7 +810,7 @@
       "source": "CCCB"
     },
     {
-      "id": 42,
+      "id": 41,
       "date": "2026-11-27",
       "time": "19:00",
       "title": "La mà",
@@ -848,7 +829,7 @@
       "source": "CCCB"
     },
     {
-      "id": 43,
+      "id": 42,
       "date": "2026-11-27",
       "date_end": "",
       "time": "20:00",
@@ -869,7 +850,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 44,
+      "id": 43,
       "date": "2026-11-28",
       "time": "",
       "title": "Radial 4: underthepulse, Jana Jacuka, Carles Castaño i Sau-Ching Wong",
@@ -906,7 +887,7 @@
       "date": "2026-11-28",
       "date_end": "2026-11-28",
       "time": "09:00",
-      "id": 45
+      "id": 44
     },
     {
       "title": "Mercat dels Encants",
@@ -927,10 +908,10 @@
       "date": "2026-11-28",
       "date_end": "2026-11-28",
       "time": "09:00",
-      "id": 46
+      "id": 45
     },
     {
-      "id": 47,
+      "id": 46,
       "date": "2026-11-28",
       "time": "19:00",
       "title": "L'ull",
@@ -967,10 +948,10 @@
       "date": "2026-11-29",
       "date_end": "2026-11-29",
       "time": "",
-      "id": 48
+      "id": 47
     },
     {
-      "id": 49,
+      "id": 48,
       "date": "2026-11-29",
       "time": "17:30",
       "title": "Masterclass «Més enllà de l’obsolescència: des d’una reconstrucció del color»",
@@ -985,11 +966,11 @@
       ],
       "desc": "29 de novembre 2026 Audiovisuals",
       "url": "https://www.cccb.org/ca/w/activitats/masterclass-mes-enlla-de-lobsolescencia-des-duna-reconstruccio-del-color",
-      "image": "https://www.cccb.org/documents/4284035/6555884/M%C3%A9s+enll%C3%A0+de+l%E2%80%99obsolesc%C3%A8ncia+des+d%E2%80%99una+reconstrucci%C3%B3+del+color.jpg/21951b59-a53c-7ead-95f6-f0f820444a3e?version=1.0&t=1792059907716",
+      "image": "https://www.cccb.org/documents/4284035/6555884/Masterclass+%C2%ABM%C3%A1s+all%C3%A1+de+la+obsolescencia_+desde+una+reconstrucci%C3%B3n+del+color%C2%BB.jpg/a54983ac-74f0-9661-8123-9e7ce578f332?version=1.0&t=1794480794920",
       "source": "CCCB"
     },
     {
-      "id": 50,
+      "id": 49,
       "date": "2026-11-29",
       "time": "19:00",
       "title": "La llum",
@@ -1005,6 +986,25 @@
       "desc": "29 de novembre 2026 Audiovisuals",
       "url": "https://www.cccb.org/ca/w/activitats/la-llum",
       "image": "https://www.cccb.org/documents/4284035/6555884/Bruillard+%28Alexandre+Larose%2C+2013%29.jpg/110cd3e3-e53e-58b3-d026-b7c5f2cb8277?version=1.0&t=1792057674977",
+      "source": "CCCB"
+    },
+    {
+      "id": 50,
+      "date": "2026-11-30",
+      "time": "18:30",
+      "title": "Txernòbil: una crònica del futur",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "30 de novembre 2026 Debats",
+      "url": "https://www.cccb.org/ca/w/activitats/txernobil-una-cronica-del-futur",
+      "image": "https://www.cccb.org/documents/4284035/6523845/web_brown-kasperski.jpg/bc920697-e02b-b19f-13f3-2887d8befa68?version=1.0&t=1794474769950",
       "source": "CCCB"
     },
     {
@@ -1029,6 +1029,27 @@
       "source": "Palau de la Música"
     },
     {
+      "id": 52,
+      "date": "2026-12-01",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Accademia Nazionale di Santa Cecilia & Harding",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Txaikovski i Brahms",
+      "url": "https://www.palaumusica.cat/ca/accademia-nazionale-di-santa-cecilia-harding_1586390",
+      "image": "https://www.palaumusica.cat/images/1586389/image_column.jpeg",
+      "source": "Palau de la Música"
+    },
+    {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
       "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
@@ -1047,10 +1068,10 @@
       "date": "2026-12-02",
       "date_end": "2026-12-02",
       "time": "09:00",
-      "id": 52
+      "id": 53
     },
     {
-      "id": 53,
+      "id": 54,
       "date": "2026-12-02",
       "time": "18:30",
       "title": "Dubai, el somni del segle XXI",
@@ -1069,7 +1090,7 @@
       "source": "CCCB"
     },
     {
-      "id": 54,
+      "id": 55,
       "date": "2026-12-03",
       "time": "11:00",
       "title": "Tot allò que balla",
@@ -1088,7 +1109,7 @@
       "source": "CCCB"
     },
     {
-      "id": 55,
+      "id": 56,
       "date": "2026-12-03",
       "time": "12:00",
       "title": "Sobreviure a la calor. La ciutat i la crisi climàtica",
@@ -1107,7 +1128,7 @@
       "source": "CCCB"
     },
     {
-      "id": 56,
+      "id": 57,
       "date": "2026-12-03",
       "time": "18:30",
       "title": "Colum McCann",
@@ -1144,10 +1165,10 @@
       "date": "2026-12-04",
       "date_end": "2026-12-04",
       "time": "09:00",
-      "id": 57
+      "id": 58
     },
     {
-      "id": 58,
+      "id": 59,
       "date": "2026-12-04",
       "time": "12:00",
       "title": "El poder de compartir les nostres històries",
@@ -1166,7 +1187,7 @@
       "source": "CCCB"
     },
     {
-      "id": 59,
+      "id": 60,
       "date": "2026-12-04",
       "time": "20:00",
       "title": "Descasada de Magalí Sare",
@@ -1203,7 +1224,7 @@
       "date": "2026-12-05",
       "date_end": "2026-12-05",
       "time": "09:00",
-      "id": 60
+      "id": 61
     },
     {
       "title": "Mercat dels Encants",
@@ -1224,10 +1245,10 @@
       "date": "2026-12-05",
       "date_end": "2026-12-05",
       "time": "09:00",
-      "id": 61
+      "id": 62
     },
     {
-      "id": 62,
+      "id": 63,
       "date": "2026-12-05",
       "time": "18:00",
       "title": "Poetry Slam Barcelona",
@@ -1264,7 +1285,7 @@
       "date": "2026-12-06",
       "date_end": "2026-12-06",
       "time": "",
-      "id": 63
+      "id": 64
     },
     {
       "title": "Mercat dels Encants",
@@ -1285,10 +1306,10 @@
       "date": "2026-12-09",
       "date_end": "2026-12-09",
       "time": "09:00",
-      "id": 64
+      "id": 65
     },
     {
-      "id": 65,
+      "id": 66,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -1307,7 +1328,7 @@
       "source": "CCCB"
     },
     {
-      "id": 66,
+      "id": 67,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1326,7 +1347,7 @@
       "source": "CCCB"
     },
     {
-      "id": 67,
+      "id": 68,
       "date": "2026-12-15",
       "time": "19:00",
       "title": "Digues que m'estimes, Montserrat Roig",
@@ -1345,7 +1366,7 @@
       "source": "CCCB"
     },
     {
-      "id": 68,
+      "id": 69,
       "date": "2026-12-16",
       "time": "18:30",
       "title": "«Imaginar la fi», d'Eudald Espluga",
@@ -1364,7 +1385,7 @@
       "source": "CCCB"
     },
     {
-      "id": 69,
+      "id": 70,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1383,7 +1404,7 @@
       "source": "CCCB"
     },
     {
-      "id": 70,
+      "id": 71,
       "date": "2026-12-18",
       "date_end": "",
       "time": "",
@@ -1404,7 +1425,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 71,
+      "id": 72,
       "date": "2026-12-25",
       "time": "10:00",
       "title": "Visita el Mirador del CCCB 2026",
@@ -1423,7 +1444,7 @@
       "source": "CCCB"
     },
     {
-      "id": 72,
+      "id": 73,
       "date": "2027-01-15",
       "date_end": "",
       "time": "",
@@ -1444,7 +1465,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 73,
+      "id": 74,
       "date": "2027-01-22",
       "time": "11:30",
       "title": "Anem al circ!",
@@ -1463,7 +1484,7 @@
       "source": "CCCB"
     },
     {
-      "id": 74,
+      "id": 75,
       "date": "2027-03-31",
       "date_end": "",
       "time": "",
@@ -1485,7 +1506,26 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 75,
+      "id": 76,
+      "date": "2027-04-02",
+      "time": "16:00",
+      "title": "«L'era atòmica» per a persones amb ceguesa o baixa visió",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "2 de febrer - 29 d’abril 2027",
+      "url": "https://www.cccb.org/ca/w/activitats/lera-atomica-per-a-persones-amb-ceguesa-o-baixa-visio",
+      "image": "https://www.cccb.org/documents/5316589/8041657/Visita+Ceguesa_Bellesa_+1920x1080+%281%29.jpg/865cc1f2-7ae0-5ec1-497c-54b4616f9699?version=1.0&t=1794478288527",
+      "source": "CCCB"
+    },
+    {
+      "id": 77,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
@@ -1504,7 +1544,7 @@
       "source": "CCCB"
     },
     {
-      "id": 76,
+      "id": 78,
       "date": "2027-07-01",
       "date_end": "",
       "time": "",
