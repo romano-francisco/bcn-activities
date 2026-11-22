@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T08:09:51.879088",
+  "generated_at": "2026-11-22T07:55:58.008503",
   "sources": [
     "cccb",
     "damm",
@@ -88,132 +88,6 @@
       "source": "CCCB"
     },
     {
-      "id": 5,
-      "date": "2026-11-21",
-      "date_end": "",
-      "time": "",
-      "title": "Board Games x KLEFF",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "food",
-      "free": false,
-      "price": "",
-      "emoji": "🍜",
-      "bg": "#EBF5E8",
-      "tags": [
-        "food"
-      ],
-      "desc": "If playing cards (or any other board game) is your weakness – not because you keep losing, but because you could spend hours playing and forget about everything else – come to Time Out Market Barcelona and let the hours fly by. This November, we're teaming up with KLEFF to host two evenings of games, meeting new people and having a great time. Come along with your friends or on your own, because you're sure to find someone to share a table with.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/jocs-de-taula-x-kleff",
-      "image": "https://media.timeout.com/images/106464232/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
-      "title": "Mercat de Glòries",
-      "venue": "Mercat de Glòries",
-      "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dissabtes 9h–15h",
-      "description": "Mercat tradicional al carrer a la Plaça de les Glòries. Productes de proximitat, roba vintage, artesania i menjar de mercat.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🛒",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-11-21",
-      "date_end": "2026-11-21",
-      "time": "09:00",
-      "id": 6
-    },
-    {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-11-21",
-      "date_end": "2026-11-21",
-      "time": "09:00",
-      "id": 7
-    },
-    {
-      "id": 8,
-      "date": "2026-11-21",
-      "date_end": "",
-      "time": "18:30",
-      "title": "La dansa del sabre",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Orquestra Simfònica del Vallès, Iñaki Bermúdez & Pasquina",
-      "url": "https://www.palaumusica.cat/ca/la-dansa-del-sabre_1623777",
-      "image": "https://www.palaumusica.cat/images/1633999/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 9,
-      "date": "2026-11-21",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Daniel Hope",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "L’ànima del violí, de Dvořák a Franck",
-      "url": "https://www.palaumusica.cat/ca/daniel-hope_1696133",
-      "image": "https://www.palaumusica.cat/images/1696063/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 10,
-      "date": "2026-11-21",
-      "date_end": "",
-      "time": "22:30",
-      "title": "I’m a Soul Woman",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Música negra amb veu de dona",
-      "url": "https://www.palaumusica.cat/ca/i-m-a-soul-woman_1651215",
-      "image": "https://www.palaumusica.cat/images/1651160/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
       "title": "Mercat de l'Avinguda Gaudí",
       "venue": "Avinguda Gaudí",
       "venue_address": "Avinguda de Gaudí, 08025 Barcelona",
@@ -232,10 +106,73 @@
       "date": "2026-11-22",
       "date_end": "2026-11-22",
       "time": "",
-      "id": 11
+      "id": 5
     },
     {
-      "id": 12,
+      "id": 6,
+      "date": "2026-11-22",
+      "date_end": "",
+      "time": "12:00",
+      "title": "Flamenkat",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Sonoritats d’aquí, d’allí i d’ara (a partir de 6 anys)",
+      "url": "https://www.palaumusica.cat/ca/flamenkat_1646156",
+      "image": "https://www.palaumusica.cat/images/1520255/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 7,
+      "date": "2026-11-22",
+      "date_end": "",
+      "time": "17:30",
+      "title": "Patricia Kopatchinskaja & Fazil Say",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "—Szymanowski, Say, Kopatchinskaja i Beethoven",
+      "url": "https://www.palaumusica.cat/ca/patricia-kopatchinskaja-fazil-say_1624008",
+      "image": "https://www.palaumusica.cat/images/1624007/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 8,
+      "date": "2026-11-22",
+      "date_end": "",
+      "time": "21:30",
+      "title": "Gran Gala Flamenc",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626",
+      "image": "https://www.palaumusica.cat/images/163703/image_column.webp",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 9,
       "date": "2026-11-23",
       "time": "11:00",
       "title": "Les ciutats i la calor extrema: el cas del golf Pèrsic i els límits de l’adaptació",
@@ -254,7 +191,7 @@
       "source": "CCCB"
     },
     {
-      "id": 13,
+      "id": 10,
       "date": "2026-11-23",
       "date_end": "",
       "time": "20:00",
@@ -275,7 +212,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 14,
+      "id": 11,
       "date": "2026-11-24",
       "time": "18:00",
       "title": "Permagel o les múltiples cares d’una transformació",
@@ -294,7 +231,7 @@
       "source": "CCCB"
     },
     {
-      "id": 15,
+      "id": 12,
       "date": "2026-11-24",
       "time": "19:00",
       "title": "Visita comentada a l’exposició «World Press Photo 2026»",
@@ -313,7 +250,7 @@
       "source": "CCCB"
     },
     {
-      "id": 16,
+      "id": 13,
       "date": "2026-11-25",
       "date_end": "",
       "time": "",
@@ -352,10 +289,10 @@
       "date": "2026-11-25",
       "date_end": "2026-11-25",
       "time": "09:00",
-      "id": 17
+      "id": 14
     },
     {
-      "id": 18,
+      "id": 15,
       "date": "2026-11-25",
       "time": "19:00",
       "title": "Inauguració de «L’era atòmica»",
@@ -374,7 +311,7 @@
       "source": "CCCB"
     },
     {
-      "id": 19,
+      "id": 16,
       "date": "2026-11-26",
       "date_end": "",
       "time": "",
@@ -395,7 +332,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 20,
+      "id": 17,
       "date": "2026-11-26",
       "time": "17:30",
       "title": "Visita comentada a l’exposició «Dana Lixenberg. American Images», KBr Fundación Mapfre",
@@ -414,7 +351,7 @@
       "source": "CCCB"
     },
     {
-      "id": 21,
+      "id": 18,
       "date": "2026-11-26",
       "time": "26 de novembre 2026 - 17 de maig 2027",
       "title": "L’era atòmica",
@@ -431,6 +368,27 @@
       "url": "https://www.cccb.org/ca/w/exposicions/lera-atomica",
       "image": "https://www.cccb.org/documents/4284035/5331807/Web_1920x1080_azul.jpg/f28b8824-4405-2ac4-4a12-d93fa209bc45?version=1.0&t=1793704432283",
       "source": "CCCB"
+    },
+    {
+      "id": 19,
+      "date": "2026-11-27",
+      "date_end": "",
+      "time": "",
+      "title": "Board Games x KLEFF",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "food",
+      "free": false,
+      "price": "",
+      "emoji": "🍜",
+      "bg": "#EBF5E8",
+      "tags": [
+        "food"
+      ],
+      "desc": "If playing cards (or any other board game) is your weakness – not because you keep losing, but because you could spend hours playing and forget about everything else – come to Time Out Market Barcelona and let the hours fly by. This November, we're teaming up with KLEFF to host two evenings of games, meeting new people and having a great time. Come along with your friends or on your own, because you're sure to find someone to share a table with.",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/jocs-de-taula-x-kleff",
+      "image": "https://media.timeout.com/images/106464232/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat dels Encants",
@@ -451,10 +409,10 @@
       "date": "2026-11-27",
       "date_end": "2026-11-27",
       "time": "09:00",
-      "id": 22
+      "id": 20
     },
     {
-      "id": 23,
+      "id": 21,
       "date": "2026-11-27",
       "time": "18:30",
       "title": "Instal·lació «Send Me Colors: Mechanical Gestures to Preserve Flowers»",
@@ -473,7 +431,7 @@
       "source": "CCCB"
     },
     {
-      "id": 24,
+      "id": 22,
       "date": "2026-11-27",
       "time": "19:00",
       "title": "La mà",
@@ -492,7 +450,7 @@
       "source": "CCCB"
     },
     {
-      "id": 25,
+      "id": 23,
       "date": "2026-11-28",
       "time": "",
       "title": "Radial 4: underthepulse, Jana Jacuka, Carles Castaño i Sau-Ching Wong",
@@ -529,7 +487,7 @@
       "date": "2026-11-28",
       "date_end": "2026-11-28",
       "time": "09:00",
-      "id": 26
+      "id": 24
     },
     {
       "title": "Mercat dels Encants",
@@ -550,10 +508,10 @@
       "date": "2026-11-28",
       "date_end": "2026-11-28",
       "time": "09:00",
-      "id": 27
+      "id": 25
     },
     {
-      "id": 28,
+      "id": 26,
       "date": "2026-11-28",
       "time": "19:00",
       "title": "L'ull",
@@ -590,10 +548,10 @@
       "date": "2026-11-29",
       "date_end": "2026-11-29",
       "time": "",
-      "id": 29
+      "id": 27
     },
     {
-      "id": 30,
+      "id": 28,
       "date": "2026-11-29",
       "time": "17:30",
       "title": "Masterclass «Més enllà de l’obsolescència: des d’una reconstrucció del color»",
@@ -612,7 +570,7 @@
       "source": "CCCB"
     },
     {
-      "id": 31,
+      "id": 29,
       "date": "2026-11-29",
       "time": "19:00",
       "title": "La llum",
@@ -631,7 +589,7 @@
       "source": "CCCB"
     },
     {
-      "id": 32,
+      "id": 30,
       "date": "2026-11-30",
       "time": "18:30",
       "title": "Txernòbil: una crònica del futur",
@@ -650,7 +608,7 @@
       "source": "CCCB"
     },
     {
-      "id": 33,
+      "id": 31,
       "date": "2026-11-30",
       "date_end": "",
       "time": "20:00",
@@ -671,7 +629,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 34,
+      "id": 32,
       "date": "2026-12-01",
       "time": "17:30",
       "title": "Visita a l'exposició «L'era atòmica» per a docents",
@@ -690,7 +648,7 @@
       "source": "CCCB"
     },
     {
-      "id": 35,
+      "id": 33,
       "date": "2026-12-01",
       "date_end": "",
       "time": "20:00",
@@ -729,10 +687,10 @@
       "date": "2026-12-02",
       "date_end": "2026-12-02",
       "time": "09:00",
-      "id": 36
+      "id": 34
     },
     {
-      "id": 37,
+      "id": 35,
       "date": "2026-12-02",
       "time": "18:30",
       "title": "Dubai, el somni del segle XXI",
@@ -751,7 +709,7 @@
       "source": "CCCB"
     },
     {
-      "id": 38,
+      "id": 36,
       "date": "2026-12-03",
       "time": "11:00",
       "title": "Tot allò que balla",
@@ -770,7 +728,7 @@
       "source": "CCCB"
     },
     {
-      "id": 39,
+      "id": 37,
       "date": "2026-12-03",
       "time": "12:00",
       "title": "Sobreviure a la calor. La ciutat i la crisi climàtica",
@@ -789,7 +747,7 @@
       "source": "CCCB"
     },
     {
-      "id": 40,
+      "id": 38,
       "date": "2026-12-03",
       "time": "18:30",
       "title": "Colum McCann",
@@ -826,10 +784,10 @@
       "date": "2026-12-04",
       "date_end": "2026-12-04",
       "time": "09:00",
-      "id": 41
+      "id": 39
     },
     {
-      "id": 42,
+      "id": 40,
       "date": "2026-12-04",
       "time": "12:00",
       "title": "El poder de compartir les nostres històries",
@@ -848,7 +806,7 @@
       "source": "CCCB"
     },
     {
-      "id": 43,
+      "id": 41,
       "date": "2026-12-04",
       "time": "20:00",
       "title": "Descasada de Magalí Sare",
@@ -885,7 +843,7 @@
       "date": "2026-12-05",
       "date_end": "2026-12-05",
       "time": "09:00",
-      "id": 44
+      "id": 42
     },
     {
       "title": "Mercat dels Encants",
@@ -906,10 +864,10 @@
       "date": "2026-12-05",
       "date_end": "2026-12-05",
       "time": "09:00",
-      "id": 45
+      "id": 43
     },
     {
-      "id": 46,
+      "id": 44,
       "date": "2026-12-05",
       "time": "18:00",
       "title": "Poetry Slam Barcelona",
@@ -946,7 +904,7 @@
       "date": "2026-12-06",
       "date_end": "2026-12-06",
       "time": "",
-      "id": 47
+      "id": 45
     },
     {
       "title": "Mercat dels Encants",
@@ -967,10 +925,10 @@
       "date": "2026-12-09",
       "date_end": "2026-12-09",
       "time": "09:00",
-      "id": 48
+      "id": 46
     },
     {
-      "id": 49,
+      "id": 47,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -989,7 +947,7 @@
       "source": "CCCB"
     },
     {
-      "id": 50,
+      "id": 48,
       "date": "2026-12-09",
       "date_end": "",
       "time": "20:00",
@@ -1028,7 +986,7 @@
       "date": "2026-12-11",
       "date_end": "2026-12-11",
       "time": "09:00",
-      "id": 51
+      "id": 49
     },
     {
       "title": "Mercat de Glòries",
@@ -1049,7 +1007,7 @@
       "date": "2026-12-12",
       "date_end": "2026-12-12",
       "time": "09:00",
-      "id": 52
+      "id": 50
     },
     {
       "title": "Mercat dels Encants",
@@ -1070,7 +1028,7 @@
       "date": "2026-12-12",
       "date_end": "2026-12-12",
       "time": "09:00",
-      "id": 53
+      "id": 51
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -1091,10 +1049,10 @@
       "date": "2026-12-13",
       "date_end": "2026-12-13",
       "time": "",
-      "id": 54
+      "id": 52
     },
     {
-      "id": 55,
+      "id": 53,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -1113,7 +1071,7 @@
       "source": "CCCB"
     },
     {
-      "id": 56,
+      "id": 54,
       "date": "2026-12-15",
       "time": "19:00",
       "title": "Digues que m'estimes, Montserrat Roig",
@@ -1132,7 +1090,7 @@
       "source": "CCCB"
     },
     {
-      "id": 57,
+      "id": 55,
       "date": "2026-12-15",
       "date_end": "",
       "time": "20:00",
@@ -1171,10 +1129,10 @@
       "date": "2026-12-16",
       "date_end": "2026-12-16",
       "time": "09:00",
-      "id": 58
+      "id": 56
     },
     {
-      "id": 59,
+      "id": 57,
       "date": "2026-12-16",
       "time": "18:30",
       "title": "«Imaginar la fi», d'Eudald Espluga",
@@ -1193,7 +1151,7 @@
       "source": "CCCB"
     },
     {
-      "id": 60,
+      "id": 58,
       "date": "2026-12-16",
       "date_end": "",
       "time": "20:00",
@@ -1214,7 +1172,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 61,
+      "id": 59,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1233,7 +1191,7 @@
       "source": "CCCB"
     },
     {
-      "id": 62,
+      "id": 60,
       "date": "2026-12-17",
       "date_end": "",
       "time": "20:00",
@@ -1254,7 +1212,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 63,
+      "id": 61,
       "date": "2026-12-18",
       "date_end": "",
       "time": "",
@@ -1292,6 +1250,48 @@
       "source": "Mercats BCN",
       "date": "2026-12-18",
       "date_end": "2026-12-18",
+      "time": "09:00",
+      "id": 62
+    },
+    {
+      "title": "Mercat de Glòries",
+      "venue": "Mercat de Glòries",
+      "venue_address": "Pl. de les Glòries Catalanes, 08018 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dissabtes 9h–15h",
+      "description": "Mercat tradicional al carrer a la Plaça de les Glòries. Productes de proximitat, roba vintage, artesania i menjar de mercat.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🛒",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-12-19",
+      "date_end": "2026-12-19",
+      "time": "09:00",
+      "id": 63
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-12-19",
+      "date_end": "2026-12-19",
       "time": "09:00",
       "id": 64
     },
