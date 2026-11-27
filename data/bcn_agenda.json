@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:20:55.177798",
+  "generated_at": "2026-11-27T09:36:42.573353",
   "sources": [
     "cccb",
     "damm",
@@ -9,29 +9,10 @@
     "grec",
     "santpau"
   ],
-  "total": 89,
+  "total": 104,
   "events": [
     {
       "id": 1,
-      "date": "2026-11-01",
-      "time": "18:30",
-      "title": "Emily Dickinson, una carta al món",
-      "venue": "CCCB",
-      "type": "family",
-      "free": false,
-      "price": "",
-      "emoji": "👨‍👩‍👧",
-      "bg": "#FFF5EB",
-      "tags": [
-        "family"
-      ],
-      "desc": "1 d’octubre - 26 de novembre 2026 Cursos i tallers",
-      "url": "https://www.cccb.org/ca/w/activitats/emily-dickinson-una-carta-al-mon",
-      "image": "https://www.cccb.org/documents/4284035/6555884/2026_Emily_Dickinson_IHB.jpg/b584b0a6-a2a2-9cbe-3369-677e950e6054?version=1.0&t=1782984768751",
-      "source": "CCCB"
-    },
-    {
-      "id": 2,
       "date": "2026-11-09",
       "time": "18:30",
       "title": "Michel Foucault",
@@ -50,7 +31,7 @@
       "source": "CCCB"
     },
     {
-      "id": 3,
+      "id": 2,
       "date": "2026-11-26",
       "date_end": "",
       "time": "",
@@ -71,47 +52,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 4,
-      "date": "2026-11-26",
-      "time": "17:30",
-      "title": "Visita comentada a l’exposició «Dana Lixenberg. American Images», KBr Fundación Mapfre",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "19 i 26 de novembre 2026 Amics CCCB",
-      "url": "https://www.cccb.org/ca/w/activitats/visita-comentada-a-lexposicio-dana-lixenberg-american-images-kbr-fundacion-mapfre",
-      "image": "https://www.cccb.org/documents/4284035/4287122/Dana+Lixenberg%2C+Tupac+Shakur%2C+1993.+%C2%A9+Dana+Lixenberg.jpg/790d7304-bece-62b5-9679-224db8de544d?version=1.0&t=1793179573366",
-      "source": "CCCB"
-    },
-    {
-      "id": 5,
-      "date": "2026-11-26",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Cloenda d’El Primer Palau 2026",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "—Karen Kuronuma",
-      "url": "https://www.palaumusica.cat/ca/cloenda-d-el-primer-palau-2026_1623615",
-      "image": "https://www.palaumusica.cat/images/1518402/image_column.jpeg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 6,
+      "id": 3,
       "date": "2026-11-27",
       "date_end": "",
       "time": "",
@@ -150,10 +91,10 @@
       "date": "2026-11-27",
       "date_end": "2026-11-27",
       "time": "09:00",
-      "id": 7
+      "id": 4
     },
     {
-      "id": 8,
+      "id": 5,
       "date": "2026-11-27",
       "time": "18:30",
       "title": "Instal·lació «Send Me Colors: Mechanical Gestures to Preserve Flowers»",
@@ -172,7 +113,7 @@
       "source": "CCCB"
     },
     {
-      "id": 9,
+      "id": 6,
       "date": "2026-11-27",
       "time": "19:00",
       "title": "La mà",
@@ -191,7 +132,49 @@
       "source": "CCCB"
     },
     {
-      "id": 10,
+      "id": 7,
+      "date": "2026-11-27",
+      "date_end": "",
+      "time": "20:00",
+      "title": "Alexander Chaushian & Dmitry Ishkhanov",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Intensitat, virtuosisme i contrast amb Debussy i Prokófiev",
+      "url": "https://www.palaumusica.cat/ca/alexander-chaushian-dmitry-ishkhanov_1696140",
+      "image": "https://www.palaumusica.cat/images/1696103/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 8,
+      "date": "2026-11-27",
+      "date_end": "",
+      "time": "21:00",
+      "title": "Israel Fernández",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "De oro y marfil",
+      "url": "https://www.palaumusica.cat/ca/israel-fernandez_1667823",
+      "image": "https://www.palaumusica.cat/images/1667798/image_column.png",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 9,
       "date": "2026-11-28",
       "time": "",
       "title": "Radial 4: underthepulse, Jana Jacuka, Carles Castaño i Sau-Ching Wong",
@@ -210,7 +193,7 @@
       "source": "CCCB"
     },
     {
-      "id": 11,
+      "id": 10,
       "date": "2026-11-28",
       "date_end": "",
       "time": "",
@@ -250,7 +233,7 @@
       "date": "2026-11-28",
       "date_end": "2026-11-28",
       "time": "09:00",
-      "id": 12
+      "id": 11
     },
     {
       "title": "Mercat dels Encants",
@@ -271,10 +254,10 @@
       "date": "2026-11-28",
       "date_end": "2026-11-28",
       "time": "09:00",
-      "id": 13
+      "id": 12
     },
     {
-      "id": 14,
+      "id": 13,
       "date": "2026-11-28",
       "time": "19:00",
       "title": "L'ull",
@@ -311,10 +294,10 @@
       "date": "2026-11-29",
       "date_end": "2026-11-29",
       "time": "",
-      "id": 15
+      "id": 14
     },
     {
-      "id": 16,
+      "id": 15,
       "date": "2026-11-29",
       "time": "17:30",
       "title": "Masterclass «Més enllà de l’obsolescència: des d’una reconstrucció del color»",
@@ -333,7 +316,7 @@
       "source": "CCCB"
     },
     {
-      "id": 17,
+      "id": 16,
       "date": "2026-11-29",
       "time": "19:00",
       "title": "La llum",
@@ -352,7 +335,7 @@
       "source": "CCCB"
     },
     {
-      "id": 18,
+      "id": 17,
       "date": "2026-11-30",
       "time": "18:30",
       "title": "Txernòbil: una crònica del futur",
@@ -371,7 +354,7 @@
       "source": "CCCB"
     },
     {
-      "id": 19,
+      "id": 18,
       "date": "2026-11-30",
       "date_end": "",
       "time": "20:00",
@@ -392,9 +375,9 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 20,
+      "id": 19,
       "date": "2026-12-01",
-      "time": "17:30",
+      "time": "18:00",
       "title": "Visita a l'exposició «L'era atòmica» per a docents",
       "venue": "CCCB",
       "type": "culture",
@@ -411,7 +394,7 @@
       "source": "CCCB"
     },
     {
-      "id": 21,
+      "id": 20,
       "date": "2026-12-01",
       "date_end": "",
       "time": "20:00",
@@ -450,10 +433,10 @@
       "date": "2026-12-02",
       "date_end": "2026-12-02",
       "time": "09:00",
-      "id": 22
+      "id": 21
     },
     {
-      "id": 23,
+      "id": 22,
       "date": "2026-12-02",
       "time": "17:00",
       "title": "Visita comentada a l’exposició «Picasso i l’arquitectura», Museu Picasso",
@@ -472,7 +455,7 @@
       "source": "CCCB"
     },
     {
-      "id": 24,
+      "id": 23,
       "date": "2026-12-02",
       "time": "18:30",
       "title": "Dubai, el somni del segle XXI",
@@ -491,7 +474,7 @@
       "source": "CCCB"
     },
     {
-      "id": 25,
+      "id": 24,
       "date": "2026-12-03",
       "time": "12:00",
       "title": "Sobreviure a la calor. La ciutat i la crisi climàtica",
@@ -510,7 +493,7 @@
       "source": "CCCB"
     },
     {
-      "id": 26,
+      "id": 25,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -529,7 +512,7 @@
       "source": "CCCB"
     },
     {
-      "id": 27,
+      "id": 26,
       "date": "2026-12-03",
       "time": "18:30",
       "title": "Colum McCann",
@@ -548,7 +531,7 @@
       "source": "CCCB"
     },
     {
-      "id": 28,
+      "id": 27,
       "date": "2026-12-04",
       "date_end": "",
       "time": "",
@@ -587,10 +570,10 @@
       "date": "2026-12-04",
       "date_end": "2026-12-04",
       "time": "09:00",
-      "id": 29
+      "id": 28
     },
     {
-      "id": 30,
+      "id": 29,
       "date": "2026-12-04",
       "time": "12:00",
       "title": "El poder de compartir les nostres històries",
@@ -609,7 +592,7 @@
       "source": "CCCB"
     },
     {
-      "id": 31,
+      "id": 30,
       "date": "2026-12-04",
       "time": "20:00",
       "title": "Descasada de Magalí Sare",
@@ -626,6 +609,27 @@
       "url": "https://www.cccb.org/ca/w/activitats/descasada",
       "image": "https://www.cccb.org/documents/5316589/7630301/Magal%C3%AD+Sare+Festival+Cl%C3%A0ssics.jpg/5f115f37-07cd-4b6a-c1c8-4524cadfc2fd?version=1.0&t=1790072577369",
       "source": "CCCB"
+    },
+    {
+      "id": 31,
+      "date": "2026-12-05",
+      "date_end": "",
+      "time": "",
+      "title": "Salsa Time",
+      "venue": "Time Out Market Barcelona",
+      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎵",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Do you like dancing salsa? Come and do it at Time Out Market! On Saturdays starting at 6 PM, we’re hosting a big dance hall with the music turned up so you can dance and let yourself go. Entry is €10, payable at the market itself, and capacity is limited to 400 people. Arrive early!",
+      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/salsa-time-at-time-out-market",
+      "image": "https://media.timeout.com/images/106421202/750/422/image.jpg",
+      "source": "Time Out Market Barcelona"
     },
     {
       "title": "Mercat de Glòries",
@@ -1433,6 +1437,25 @@
     },
     {
       "id": 72,
+      "date": "2027-01-31",
+      "time": "18:30",
+      "title": "Mapes cap enlloc. Spiral Jetty i altres paisatges fabulats",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "31 de gener 2027 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/mapes-cap-enlloc-spiral-jetty-i-altres-paisatges-fabulats",
+      "image": "https://www.cccb.org/documents/5316589/8041618/31.01+Spiral+jetty.png/0e6f7b6a-4800-ad3f-3f63-fd89b0445ae9?version=1.0&t=1795597521341",
+      "source": "CCCB"
+    },
+    {
+      "id": 73,
       "date": "2027-02-02",
       "time": "18:30",
       "title": "El llenguatge del poder i l’amenaça nuclear",
@@ -1451,7 +1474,45 @@
       "source": "CCCB"
     },
     {
-      "id": 73,
+      "id": 74,
+      "date": "2027-02-04",
+      "time": "19:00",
+      "title": "Amunt i avall: el cinema d'Ernie Gehr",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "4 de febrer 2027 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/amunt-i-avall-el-cinema-dernie-gehr",
+      "image": "https://www.cccb.org/documents/5316589/8041723/04.02+Side+Walk+Shuttle.png/70fe3736-88c1-b454-3ec7-b954eee98736?version=1.0&t=1794478847275",
+      "source": "CCCB"
+    },
+    {
+      "id": 75,
+      "date": "2027-02-07",
+      "time": "18:30",
+      "title": "Matèries afectives. Tres pel·lícules de Gunvor Nelson",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "7 de febrer 2027 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/materies-afectives-tres-pellicules-de-gunvor-nelson",
+      "image": "https://www.cccb.org/documents/5316589/8042067/07.02+Old+Digs+%28Gunvor+Nelson%2C+1993%29+.jpg/87af23b0-0c47-42a2-2bf0-f0bcb67a96e7?version=1.0&t=1794481383302",
+      "source": "CCCB"
+    },
+    {
+      "id": 76,
       "date": "2027-02-09",
       "time": "18:30",
       "title": "Les armes nuclears: una inseguretat infinita",
@@ -1470,7 +1531,7 @@
       "source": "CCCB"
     },
     {
-      "id": 74,
+      "id": 77,
       "date": "2027-02-13",
       "time": "11:00",
       "title": "Refugi",
@@ -1489,7 +1550,45 @@
       "source": "CCCB"
     },
     {
-      "id": 75,
+      "id": 78,
+      "date": "2027-02-13",
+      "time": "18:30",
+      "title": "J. V. Foix, faroner de l’Eterna Permanència",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "13 de gener - 17 de febrer 2027 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/j-v-foix",
+      "image": "https://www.cccb.org/documents/4284035/8058857/Foix_v2.jpg/2ba7ad33-c134-97c2-4ff4-50640b042207?version=1.0&t=1795693994780",
+      "source": "CCCB"
+    },
+    {
+      "id": 79,
+      "date": "2027-02-14",
+      "time": "18:30",
+      "title": "L'Odissea",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "14 de gener - 8 de febrer 2027 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/l-odissea",
+      "image": "https://www.cccb.org/documents/4284035/8058857/Odissea.jpg/b345c8b9-dff6-edeb-e9e9-dd3ae3eff84c?version=1.0&t=1795539487199",
+      "source": "CCCB"
+    },
+    {
+      "id": 80,
       "date": "2027-02-16",
       "time": "18:30",
       "title": "Promeses nuclears: de la fusió als petits reactors modulars",
@@ -1508,7 +1607,7 @@
       "source": "CCCB"
     },
     {
-      "id": 76,
+      "id": 81,
       "date": "2027-02-17",
       "time": "18:30",
       "title": "«Pel cantó de Swann», de Marcel Proust",
@@ -1527,7 +1626,26 @@
       "source": "CCCB"
     },
     {
-      "id": 77,
+      "id": 82,
+      "date": "2027-02-18",
+      "time": "19:00",
+      "title": "Les múltiples formes del desconegut. El cinema de James Otis",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "18 de febrer 2027 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/les-multiples-formes-del-desconegut-el-cinema-de-james-otis",
+      "image": "https://www.cccb.org/documents/5316589/8042100/18.02+Family+Dinners.png/c8c9e473-96aa-9c2e-f7d6-a0adecde58de?version=1.0&t=1795707948290",
+      "source": "CCCB"
+    },
+    {
+      "id": 83,
       "date": "2027-02-20",
       "time": "11:00",
       "title": "D’on ve l’electricitat?",
@@ -1546,7 +1664,7 @@
       "source": "CCCB"
     },
     {
-      "id": 78,
+      "id": 84,
       "date": "2027-02-20",
       "time": "19:00",
       "title": "Culte atòmic",
@@ -1565,7 +1683,26 @@
       "source": "CCCB"
     },
     {
-      "id": 79,
+      "id": 85,
+      "date": "2027-02-21",
+      "time": "18:30",
+      "title": "Ascens i caiguda de la ciutat maragda. Mahagonny, de Harry Smith",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "21 de febrer 2027 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/ascens-i-caiguda-de-la-ciutat-maragda-mahagonny-de-harry-smith",
+      "image": "https://www.cccb.org/documents/5316589/8042131/21.02+Mahagonny+2+%281%29.png/751ca483-7591-4466-3a2c-3a5656a62181?version=1.0&t=1795700044871",
+      "source": "CCCB"
+    },
+    {
+      "id": 86,
       "date": "2027-02-23",
       "time": "18:30",
       "title": "El que queda enrere: residus i promeses energètiques",
@@ -1584,7 +1721,64 @@
       "source": "CCCB"
     },
     {
-      "id": 80,
+      "id": 87,
+      "date": "2027-02-25",
+      "time": "19:00",
+      "title": "Formes de l’amor. El cinema de Maria Lang i Ute Aurand",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "25 de febrer 2027 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/formes-de-lamor-el-cinema-de-maria-lang-i-ute-aurand",
+      "image": "https://www.cccb.org/documents/5316589/8042161/25.02+Der+Schmetterling+im+Winter.jpg/49e7d127-86e8-daca-d345-3fd6dede57df?version=1.0&t=1794482668318",
+      "source": "CCCB"
+    },
+    {
+      "id": 88,
+      "date": "2027-02-28",
+      "time": "18:30",
+      "title": "Günther Anders: ètica i catàstrofe",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "28 de gener - 25 de febrer 2027 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/gunther-anders-etica-i-catastrofe",
+      "image": "https://www.cccb.org/documents/4284035/8058857/Anders.jpg/7f788d30-7184-4345-a9f2-8eb7c0a8ad09?version=1.0&t=1795539423942",
+      "source": "CCCB"
+    },
+    {
+      "id": 89,
+      "date": "2027-02-28",
+      "time": "18:30",
+      "title": "El ritme de les meves pel·lícules és el ritme de la meva sang: el cinema-diari de Teo Hernández",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "28 de febrer 2027 Audiovisuals",
+      "url": "https://www.cccb.org/ca/w/activitats/el-ritme-de-les-meves-pellicules-es-el-ritme-de-la-meva-sang-el-cinema-diari-de-teo-hernandez",
+      "image": "https://www.cccb.org/documents/5316589/8042202/28.02+Le+voyage+au+mexique.jpg/4cab7e71-e1c0-f082-32c8-5e8df5f5b177?version=1.0&t=1794483220120",
+      "source": "CCCB"
+    },
+    {
+      "id": 90,
       "date": "2027-03-05",
       "time": "18:30",
       "title": "Ressonàncies atòmiques",
@@ -1603,7 +1797,7 @@
       "source": "CCCB"
     },
     {
-      "id": 81,
+      "id": 91,
       "date": "2027-03-06",
       "time": "11:00",
       "title": "Diagramar l’intractable",
@@ -1622,7 +1816,7 @@
       "source": "CCCB"
     },
     {
-      "id": 82,
+      "id": 92,
       "date": "2027-03-17",
       "time": "18:30",
       "title": "«Desconeguts en un tren», de Patricia Highsmith",
@@ -1641,7 +1835,7 @@
       "source": "CCCB"
     },
     {
-      "id": 83,
+      "id": 93,
       "date": "2027-03-18",
       "time": "18:30",
       "title": "Una justícia per protegir els drets de les generacions futures",
@@ -1660,7 +1854,64 @@
       "source": "CCCB"
     },
     {
-      "id": 84,
+      "id": 94,
+      "date": "2027-03-21",
+      "time": "18:30",
+      "title": "El contracte sexual, de Carole Pateman",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "21 de gener - 18 de març 2027 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/el-contracte-sexual-de-carole-pateman",
+      "image": "https://www.cccb.org/documents/4284035/8058857/El-contractre-sexual_v2.jpg/d50dd2b5-2198-c1ce-e492-12f2c815bbc9?version=1.0&t=1795693805095",
+      "source": "CCCB"
+    },
+    {
+      "id": 95,
+      "date": "2027-03-22",
+      "time": "18:30",
+      "title": "Beure",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "22 de febrer - 8 de març 2027 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/beure",
+      "image": "https://www.cccb.org/documents/4284035/8058857/Beure_v3.jpg/791270dc-74a3-b11b-ac34-5730f2348ea6?version=1.0&t=1795704201411",
+      "source": "CCCB"
+    },
+    {
+      "id": 96,
+      "date": "2027-03-24",
+      "time": "18:30",
+      "title": "Per un humanisme radical",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "24 de febrer - 17 de març 2027 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/per-un-humanisme-radical",
+      "image": "https://www.cccb.org/documents/4284035/8058857/Illich.jpg/4515f5b1-d8fa-bb65-0b5e-301f3a4b1a52?version=1.0&t=1795539624838",
+      "source": "CCCB"
+    },
+    {
+      "id": 97,
       "date": "2027-03-31",
       "date_end": "",
       "time": "",
@@ -1682,7 +1933,7 @@
       "source": "Time Out Market Barcelona"
     },
     {
-      "id": 85,
+      "id": 98,
       "date": "2027-04-02",
       "time": "16:00",
       "title": "«L'era atòmica» per a persones amb ceguesa o baixa visió",
@@ -1701,7 +1952,26 @@
       "source": "CCCB"
     },
     {
-      "id": 86,
+      "id": 99,
+      "date": "2027-05-02",
+      "time": "18:30",
+      "title": "La novel·la de no-ficció",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "2 de març - 25 de maig 2027 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/la-novella-de-no-ficcio",
+      "image": "https://www.cccb.org/documents/4284035/8058857/Novel%C2%B7la.jpg/73a27e05-a871-a274-f2b0-abdd82fe86f4?version=1.0&t=1795693918407",
+      "source": "CCCB"
+    },
+    {
+      "id": 100,
       "date": "2027-05-15",
       "time": "11:00",
       "title": "Impressions tèrmiques",
@@ -1720,7 +1990,7 @@
       "source": "CCCB"
     },
     {
-      "id": 87,
+      "id": 101,
       "date": "2027-05-19",
       "time": "11:00",
       "title": "Tertúlia atòmica",
@@ -1739,7 +2009,26 @@
       "source": "CCCB"
     },
     {
-      "id": 88,
+      "id": 102,
+      "date": "2027-06-11",
+      "time": "18:30",
+      "title": "Shakespeare, l’alliberament d'allò humà",
+      "venue": "CCCB",
+      "type": "family",
+      "free": false,
+      "price": "",
+      "emoji": "👨‍👩‍👧",
+      "bg": "#FFF5EB",
+      "tags": [
+        "family"
+      ],
+      "desc": "11 de gener - 21 de juny 2027 Cursos i tallers",
+      "url": "https://www.cccb.org/ca/w/activitats/shakespeare-lalliberament-dallo-huma",
+      "image": "https://www.cccb.org/documents/4284035/8058857/Shakespeare.jpg/b666c319-79e6-d285-c928-6d6b7b30e50e?version=1.0&t=1795539295506",
+      "source": "CCCB"
+    },
+    {
+      "id": 103,
       "date": "2027-06-28",
       "time": "18:00",
       "title": "Cineclub Xcèntric",
@@ -1758,7 +2047,7 @@
       "source": "CCCB"
     },
     {
-      "id": 89,
+      "id": 104,
       "date": "2027-07-01",
       "date_end": "",
       "time": "",
