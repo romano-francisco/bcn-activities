@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:36:42.573353",
+  "generated_at": "2026-11-28T08:50:19.581138",
   "sources": [
     "cccb",
     "damm",
@@ -54,49 +54,7 @@
     {
       "id": 3,
       "date": "2026-11-27",
-      "date_end": "",
-      "time": "",
-      "title": "Board Games x KLEFF",
-      "venue": "Time Out Market Barcelona",
-      "venue_address": "Moll d'Espanya del Port Vell, s/n, 08039 Barcelona",
-      "type": "food",
-      "free": false,
-      "price": "",
-      "emoji": "🍜",
-      "bg": "#EBF5E8",
-      "tags": [
-        "food"
-      ],
-      "desc": "If playing cards (or any other board game) is your weakness – not because you keep losing, but because you could spend hours playing and forget about everything else – come to Time Out Market Barcelona and let the hours fly by. This November, we're teaming up with KLEFF to host two evenings of games, meeting new people and having a great time. Come along with your friends or on your own, because you're sure to find someone to share a table with.",
-      "url": "https://www.timeout.com/time-out-market-barcelona/things-to-do/jocs-de-taula-x-kleff",
-      "image": "https://media.timeout.com/images/106464232/750/422/image.jpg",
-      "source": "Time Out Market Barcelona"
-    },
-    {
-      "title": "Mercat dels Encants",
-      "venue": "Encants Vells",
-      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
-      "type": "food",
-      "free": true,
-      "price": "Gratuït",
-      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
-      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
-      "tags": [
-        "food",
-        "free"
-      ],
-      "emoji": "🏺",
-      "bg": "#EBF5E8",
-      "source": "Mercats BCN",
-      "date": "2026-11-27",
-      "date_end": "2026-11-27",
-      "time": "09:00",
-      "id": 4
-    },
-    {
-      "id": 5,
-      "date": "2026-11-27",
-      "time": "18:30",
+      "time": "10:00",
       "title": "Instal·lació «Send Me Colors: Mechanical Gestures to Preserve Flowers»",
       "venue": "CCCB",
       "type": "culture",
@@ -113,68 +71,7 @@
       "source": "CCCB"
     },
     {
-      "id": 6,
-      "date": "2026-11-27",
-      "time": "19:00",
-      "title": "La mà",
-      "venue": "CCCB",
-      "type": "culture",
-      "free": false,
-      "price": "",
-      "emoji": "🏛",
-      "bg": "#F0EBFF",
-      "tags": [
-        "culture"
-      ],
-      "desc": "27 de novembre 2026 Audiovisuals",
-      "url": "https://www.cccb.org/ca/w/activitats/la-ma",
-      "image": "https://www.cccb.org/documents/4284035/6555884/Lightplay+%28Dirk+de+Bruyn%2C+1984%29.jpg/02738213-0c17-5f4a-3f09-31512a45e459?version=1.0&t=1792057577756",
-      "source": "CCCB"
-    },
-    {
-      "id": 7,
-      "date": "2026-11-27",
-      "date_end": "",
-      "time": "20:00",
-      "title": "Alexander Chaushian & Dmitry Ishkhanov",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "Intensitat, virtuosisme i contrast amb Debussy i Prokófiev",
-      "url": "https://www.palaumusica.cat/ca/alexander-chaushian-dmitry-ishkhanov_1696140",
-      "image": "https://www.palaumusica.cat/images/1696103/image_column.jpg",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 8,
-      "date": "2026-11-27",
-      "date_end": "",
-      "time": "21:00",
-      "title": "Israel Fernández",
-      "venue": "Palau de la Música Catalana",
-      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
-      "type": "music",
-      "free": false,
-      "price": "",
-      "emoji": "🎶",
-      "bg": "#FFF0EB",
-      "tags": [
-        "music"
-      ],
-      "desc": "De oro y marfil",
-      "url": "https://www.palaumusica.cat/ca/israel-fernandez_1667823",
-      "image": "https://www.palaumusica.cat/images/1667798/image_column.png",
-      "source": "Palau de la Música"
-    },
-    {
-      "id": 9,
+      "id": 4,
       "date": "2026-11-28",
       "time": "",
       "title": "Radial 4: underthepulse, Jana Jacuka, Carles Castaño i Sau-Ching Wong",
@@ -193,7 +90,7 @@
       "source": "CCCB"
     },
     {
-      "id": 10,
+      "id": 5,
       "date": "2026-11-28",
       "date_end": "",
       "time": "",
@@ -233,7 +130,7 @@
       "date": "2026-11-28",
       "date_end": "2026-11-28",
       "time": "09:00",
-      "id": 11
+      "id": 6
     },
     {
       "title": "Mercat dels Encants",
@@ -254,10 +151,31 @@
       "date": "2026-11-28",
       "date_end": "2026-11-28",
       "time": "09:00",
-      "id": 12
+      "id": 7
     },
     {
-      "id": 13,
+      "id": 8,
+      "date": "2026-11-28",
+      "date_end": "",
+      "time": "17:00",
+      "title": "Candlelight: Tribut a Michael Jackson",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/candlelight-tribut-a-michael-jackson_1660763",
+      "image": "https://www.palaumusica.cat/images/1657731/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 9,
       "date": "2026-11-28",
       "time": "19:00",
       "title": "L'ull",
@@ -274,6 +192,48 @@
       "url": "https://www.cccb.org/ca/w/activitats/lull",
       "image": "https://www.cccb.org/documents/4284035/6555884/Razor+Blade+%28Paul+Sharits%2C1965-68%29.jpg/d11523b1-b80e-b602-5fa3-99d500d5814c?version=1.0&t=1792057628989",
       "source": "CCCB"
+    },
+    {
+      "id": 10,
+      "date": "2026-11-28",
+      "date_end": "",
+      "time": "20:30",
+      "title": "Ramon Mirabet All-Star Jazz Project",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "Songs I Heard",
+      "url": "https://www.palaumusica.cat/ca/ramon-mirabet-all-star-jazz-project_1551162",
+      "image": "https://www.palaumusica.cat/images/1551161/image_column.jpg",
+      "source": "Palau de la Música"
+    },
+    {
+      "id": 11,
+      "date": "2026-11-28",
+      "date_end": "",
+      "time": "21:00",
+      "title": "Candlelight: Tribut a Coldplay vs Imagine Dragons",
+      "venue": "Palau de la Música Catalana",
+      "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
+      "type": "music",
+      "free": false,
+      "price": "",
+      "emoji": "🎶",
+      "bg": "#FFF0EB",
+      "tags": [
+        "music"
+      ],
+      "desc": "",
+      "url": "https://www.palaumusica.cat/ca/candlelight-tribut-a-coldplay-vs-imagine-dragons_1395446",
+      "image": "https://www.palaumusica.cat/images/1395418/image_column.jpg",
+      "source": "Palau de la Música"
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -294,10 +254,10 @@
       "date": "2026-11-29",
       "date_end": "2026-11-29",
       "time": "",
-      "id": 14
+      "id": 12
     },
     {
-      "id": 15,
+      "id": 13,
       "date": "2026-11-29",
       "time": "17:30",
       "title": "Masterclass «Més enllà de l’obsolescència: des d’una reconstrucció del color»",
@@ -316,7 +276,7 @@
       "source": "CCCB"
     },
     {
-      "id": 16,
+      "id": 14,
       "date": "2026-11-29",
       "time": "19:00",
       "title": "La llum",
@@ -335,7 +295,7 @@
       "source": "CCCB"
     },
     {
-      "id": 17,
+      "id": 15,
       "date": "2026-11-30",
       "time": "18:30",
       "title": "Txernòbil: una crònica del futur",
@@ -354,7 +314,7 @@
       "source": "CCCB"
     },
     {
-      "id": 18,
+      "id": 16,
       "date": "2026-11-30",
       "date_end": "",
       "time": "20:00",
@@ -375,7 +335,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 19,
+      "id": 17,
       "date": "2026-12-01",
       "time": "18:00",
       "title": "Visita a l'exposició «L'era atòmica» per a docents",
@@ -394,7 +354,7 @@
       "source": "CCCB"
     },
     {
-      "id": 20,
+      "id": 18,
       "date": "2026-12-01",
       "date_end": "",
       "time": "20:00",
@@ -433,10 +393,10 @@
       "date": "2026-12-02",
       "date_end": "2026-12-02",
       "time": "09:00",
-      "id": 21
+      "id": 19
     },
     {
-      "id": 22,
+      "id": 20,
       "date": "2026-12-02",
       "time": "17:00",
       "title": "Visita comentada a l’exposició «Picasso i l’arquitectura», Museu Picasso",
@@ -455,7 +415,7 @@
       "source": "CCCB"
     },
     {
-      "id": 23,
+      "id": 21,
       "date": "2026-12-02",
       "time": "18:30",
       "title": "Dubai, el somni del segle XXI",
@@ -474,7 +434,7 @@
       "source": "CCCB"
     },
     {
-      "id": 24,
+      "id": 22,
       "date": "2026-12-03",
       "time": "12:00",
       "title": "Sobreviure a la calor. La ciutat i la crisi climàtica",
@@ -493,7 +453,7 @@
       "source": "CCCB"
     },
     {
-      "id": 25,
+      "id": 23,
       "date": "2026-12-03",
       "time": "17:00",
       "title": "Tot allò que balla",
@@ -512,7 +472,7 @@
       "source": "CCCB"
     },
     {
-      "id": 26,
+      "id": 24,
       "date": "2026-12-03",
       "time": "18:30",
       "title": "Colum McCann",
@@ -531,7 +491,7 @@
       "source": "CCCB"
     },
     {
-      "id": 27,
+      "id": 25,
       "date": "2026-12-04",
       "date_end": "",
       "time": "",
@@ -570,10 +530,10 @@
       "date": "2026-12-04",
       "date_end": "2026-12-04",
       "time": "09:00",
-      "id": 28
+      "id": 26
     },
     {
-      "id": 29,
+      "id": 27,
       "date": "2026-12-04",
       "time": "12:00",
       "title": "El poder de compartir les nostres històries",
@@ -592,7 +552,7 @@
       "source": "CCCB"
     },
     {
-      "id": 30,
+      "id": 28,
       "date": "2026-12-04",
       "time": "20:00",
       "title": "Descasada de Magalí Sare",
@@ -611,7 +571,7 @@
       "source": "CCCB"
     },
     {
-      "id": 31,
+      "id": 29,
       "date": "2026-12-05",
       "date_end": "",
       "time": "",
@@ -650,7 +610,7 @@
       "date": "2026-12-05",
       "date_end": "2026-12-05",
       "time": "09:00",
-      "id": 32
+      "id": 30
     },
     {
       "title": "Mercat dels Encants",
@@ -671,10 +631,10 @@
       "date": "2026-12-05",
       "date_end": "2026-12-05",
       "time": "09:00",
-      "id": 33
+      "id": 31
     },
     {
-      "id": 34,
+      "id": 32,
       "date": "2026-12-05",
       "time": "18:00",
       "title": "Poetry Slam Barcelona",
@@ -693,7 +653,7 @@
       "source": "CCCB"
     },
     {
-      "id": 35,
+      "id": 33,
       "date": "2026-12-05",
       "date_end": "",
       "time": "18:30",
@@ -732,10 +692,10 @@
       "date": "2026-12-06",
       "date_end": "2026-12-06",
       "time": "",
-      "id": 36
+      "id": 34
     },
     {
-      "id": 37,
+      "id": 35,
       "date": "2026-12-08",
       "date_end": "",
       "time": "17:30",
@@ -774,10 +734,10 @@
       "date": "2026-12-09",
       "date_end": "2026-12-09",
       "time": "09:00",
-      "id": 38
+      "id": 36
     },
     {
-      "id": 39,
+      "id": 37,
       "date": "2026-12-09",
       "time": "17:00",
       "title": "Visita guiada a «Un teatre Lliure», Palau Robert",
@@ -796,7 +756,7 @@
       "source": "CCCB"
     },
     {
-      "id": 40,
+      "id": 38,
       "date": "2026-12-09",
       "time": "18:30",
       "title": "Salut",
@@ -815,7 +775,7 @@
       "source": "CCCB"
     },
     {
-      "id": 41,
+      "id": 39,
       "date": "2026-12-09",
       "date_end": "",
       "time": "20:00",
@@ -836,6 +796,25 @@
       "source": "Palau de la Música"
     },
     {
+      "id": 40,
+      "date": "2026-12-10",
+      "time": "",
+      "title": "Reteena 2026 al CCCB",
+      "venue": "CCCB",
+      "type": "culture",
+      "free": false,
+      "price": "",
+      "emoji": "🏛",
+      "bg": "#F0EBFF",
+      "tags": [
+        "culture"
+      ],
+      "desc": "10 - 11 de desembre 2026",
+      "url": "https://www.cccb.org/ca/w/activitats/reteena-2026-al-cccb",
+      "image": "https://www.cccb.org/documents/4284035/6555893/reteena_2026.jpg/fcd6f985-c3c9-5804-f791-d4065e60c6c5?version=1.0&t=1795780505271",
+      "source": "CCCB"
+    },
+    {
       "title": "Mercat dels Encants",
       "venue": "Encants Vells",
       "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
@@ -854,7 +833,7 @@
       "date": "2026-12-11",
       "date_end": "2026-12-11",
       "time": "09:00",
-      "id": 42
+      "id": 41
     },
     {
       "title": "Mercat de Glòries",
@@ -875,7 +854,7 @@
       "date": "2026-12-12",
       "date_end": "2026-12-12",
       "time": "09:00",
-      "id": 43
+      "id": 42
     },
     {
       "title": "Mercat dels Encants",
@@ -896,7 +875,7 @@
       "date": "2026-12-12",
       "date_end": "2026-12-12",
       "time": "09:00",
-      "id": 44
+      "id": 43
     },
     {
       "title": "Mercat de l'Avinguda Gaudí",
@@ -917,10 +896,10 @@
       "date": "2026-12-13",
       "date_end": "2026-12-13",
       "time": "",
-      "id": 45
+      "id": 44
     },
     {
-      "id": 46,
+      "id": 45,
       "date": "2026-12-13",
       "time": "18:30",
       "title": "La Divina comèdia, III: «Paradís»",
@@ -939,7 +918,7 @@
       "source": "CCCB"
     },
     {
-      "id": 47,
+      "id": 46,
       "date": "2026-12-14",
       "time": "12:00",
       "title": "La bellesa i les pantalles",
@@ -958,7 +937,7 @@
       "source": "CCCB"
     },
     {
-      "id": 48,
+      "id": 47,
       "date": "2026-12-14",
       "time": "18:00",
       "title": "Presentació i visita a l'exposició «L'era atòmica»",
@@ -977,7 +956,7 @@
       "source": "CCCB"
     },
     {
-      "id": 49,
+      "id": 48,
       "date": "2026-12-15",
       "time": "18:30",
       "title": "Visita guiada a l'exposició «L'era atòmica» a càrrec de la Maria Ptqk",
@@ -996,7 +975,7 @@
       "source": "CCCB"
     },
     {
-      "id": 50,
+      "id": 49,
       "date": "2026-12-15",
       "time": "19:00",
       "title": "Digues que m'estimes, Montserrat Roig",
@@ -1015,7 +994,7 @@
       "source": "CCCB"
     },
     {
-      "id": 51,
+      "id": 50,
       "date": "2026-12-15",
       "date_end": "",
       "time": "20:00",
@@ -1054,10 +1033,10 @@
       "date": "2026-12-16",
       "date_end": "2026-12-16",
       "time": "09:00",
-      "id": 52
+      "id": 51
     },
     {
-      "id": 53,
+      "id": 52,
       "date": "2026-12-16",
       "time": "18:30",
       "title": "«Imaginar la fi», d'Eudald Espluga",
@@ -1076,7 +1055,7 @@
       "source": "CCCB"
     },
     {
-      "id": 54,
+      "id": 53,
       "date": "2026-12-16",
       "date_end": "",
       "time": "20:00",
@@ -1097,7 +1076,7 @@
       "source": "Palau de la Música"
     },
     {
-      "id": 55,
+      "id": 54,
       "date": "2026-12-17",
       "time": "18:30",
       "title": "Leviatan, de Thomas Hobbes",
@@ -1116,11 +1095,11 @@
       "source": "CCCB"
     },
     {
-      "id": 56,
+      "id": 55,
       "date": "2026-12-17",
       "date_end": "",
       "time": "20:00",
-      "title": "ADDA Simfònica Alacant & Josep Vicent",
+      "title": "Concert de Nadal: Romeu i Julieta",
       "venue": "Palau de la Música Catalana",
       "venue_address": "C/ Palau de la Música, 4-6, 08003 Barcelona",
       "type": "music",
@@ -1131,13 +1110,13 @@
       "tags": [
         "music"
       ],
-      "desc": "—Concert de Nadal: Romeu i Julieta",
-      "url": "https://www.palaumusica.cat/ca/adda-simfonica-alacant-josep-vicent_1585405",
+      "desc": "—ADDA Simfònica Alacant & Josep Vicent",
+      "url": "https://www.palaumusica.cat/ca/concert-de-nadal-romeu-i-julieta_1585405",
       "image": "https://www.palaumusica.cat/images/1585444/image_column.jpg",
       "source": "Palau de la Música"
     },
     {
-      "id": 57,
+      "id": 56,
       "date": "2026-12-18",
       "date_end": "",
       "time": "",
@@ -1176,7 +1155,7 @@
       "date": "2026-12-18",
       "date_end": "2026-12-18",
       "time": "09:00",
-      "id": 58
+      "id": 57
     },
     {
       "title": "Mercat de Glòries",
@@ -1197,7 +1176,7 @@
       "date": "2026-12-19",
       "date_end": "2026-12-19",
       "time": "09:00",
-      "id": 59
+      "id": 58
     },
     {
       "title": "Mercat dels Encants",
@@ -1218,10 +1197,10 @@
       "date": "2026-12-19",
       "date_end": "2026-12-19",
       "time": "09:00",
-      "id": 60
+      "id": 59
     },
     {
-      "id": 61,
+      "id": 60,
       "date": "2026-12-19",
       "time": "11:00",
       "title": "Anti-Gutter",
@@ -1258,7 +1237,7 @@
       "date": "2026-12-20",
       "date_end": "2026-12-20",
       "time": "",
-      "id": 62
+      "id": 61
     },
     {
       "title": "Mercat dels Encants",
@@ -1278,6 +1257,27 @@
       "source": "Mercats BCN",
       "date": "2026-12-23",
       "date_end": "2026-12-23",
+      "time": "09:00",
+      "id": 62
+    },
+    {
+      "title": "Mercat dels Encants",
+      "venue": "Encants Vells",
+      "venue_address": "Carrer dels Castillejos, 158, 08013 Barcelona",
+      "type": "food",
+      "free": true,
+      "price": "Gratuït",
+      "recurrence": "Dil·luns, Dimecres, Divendres i Dissabte 9h–20h",
+      "description": "El mercat de segona mà més gran de Barcelona, sota una coberta espectacular al costat de Glòries. Roba, mobles, col·leccionisme i rareses.",
+      "tags": [
+        "food",
+        "free"
+      ],
+      "emoji": "🏺",
+      "bg": "#EBF5E8",
+      "source": "Mercats BCN",
+      "date": "2026-12-25",
+      "date_end": "2026-12-25",
       "time": "09:00",
       "id": 63
     },
@@ -1584,7 +1584,7 @@
       ],
       "desc": "14 de gener - 8 de febrer 2027 Cursos i tallers",
       "url": "https://www.cccb.org/ca/w/activitats/l-odissea",
-      "image": "https://www.cccb.org/documents/4284035/8058857/Odissea.jpg/b345c8b9-dff6-edeb-e9e9-dd3ae3eff84c?version=1.0&t=1795539487199",
+      "image": "https://www.cccb.org/documents/4284035/6555884/Odissea.jpg/66901ecf-d6ef-121c-4318-4ada080127b6?version=1.0&t=1795781052276",
       "source": "CCCB"
     },
     {
